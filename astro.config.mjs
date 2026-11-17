@@ -490,13 +490,13 @@ export default defineConfig({
 								'07-institution-investigation-rights': {
 									title: '侦查权利核验清单', badge: '7项核心',
 									items: [
-										{ label: '截查与拘捕程序', en: 'Stop & Arrest', href: '#1-截查与拘捕' },
-										{ label: '带往警署与寄存物', en: 'Custody & Property', href: '#2-带往警署与物品寄存' },
-										{ label: '公平讯问规例', en: '1992 R&Ds', href: '#3-公平讯问规例1992-rds' },
-										{ label: '羁押期权利', en: 'Custody Rights', href: '#4-羁押期间权利' },
-										{ label: '供词与证据争议', en: 'Confessions & Evidence', href: '#5-供词与证据争议' },
-										{ label: '辩方应对', en: 'Defence Response', href: '#6-辩方应对' },
-										{ label: '高危雷区', en: 'High-Risk Traps', href: '#7-高危雷区' },
+										{ label: '截查与拘捕程序', en: 'Stop & Arrest', href: '#0a3-无令状拘捕真实怀疑加客观根据' },
+										{ label: '警署权利包', en: 'Custody Rights Pack', href: '#0d-警署权利包do-与三层记录pol-153通讯权福利与样本' },
+										{ label: '讯问与记录义务', en: 'Interview & Recording', href: '#0e-讯问与记录义务r1r6-触发同步记录五金与录像副本' },
+										{ label: '沉默与知情决定', en: 'Silence & Informed Choice', href: '#0f-沉默权与知情决定弃权前的最后防线' },
+										{ label: '律师警署 Playbook', en: 'Station Playbook', href: '#0g-律师警署-playbook到场被拒五动作与离署后义务' },
+										{ label: '供词副本与冻结', en: 'Record Copies', href: '#0e5-副本索取与冻结规则让警方拿不到新供之前只能停下' },
+										{ label: '高危雷区', en: 'High-Risk Traps', href: '#0j-环节--不做或侵害--依据-后果链总表索引' },
 									]
 								},
 								'08-institution-charges-trial-route': {
