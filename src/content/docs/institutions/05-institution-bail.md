@@ -60,7 +60,7 @@ SG课表安排:
 
 **不覆盖（边界声明，由相邻主卡承担）**：① 保释口头讼辩的呈现层与演练逐题（→ PCLL8051 课程卡及四案答案，本卡 0F 只保留本届脚本与规则口径）；② 侦查阶段权利与辩护整体（→ 07 Investigation Rights 卡）；③ 量刑制度主体（→ 15 Sentencing 卡 与 LGS8；本卡只取报告期羁押红线）；④ 交付／移交程序主体与 SG03 移交任务（→ 08 Charges and Trial Route 卡；本卡只取「移交中保释延续」接口，见 0C.3）；⑤ O.N.E. Bind Over 制度（→ 06 Plea Advice 卡）；⑥ NSL 完整体系与上诉保释专项讲义：库内无本届专题源件，已登记于审计留痕待核实区。
 
-### 术语
+### 术语（核心概念与实务运作定义）
 
 | 术语 | 定义与章节 |
 |---|---|
@@ -83,7 +83,7 @@ SG课表安排:
 | 上诉待决保释（Bail Pending Appeal） | 定罪后上诉期间的保释：保释推定不再适用，属例外，必须有法定依据，并过 s.83Z / *Lau Man Kin* 的实质胜算门槛（0C.5）〔LGS2N L863 "The grant of bail pending appeal is exceptional"；LGS2N L873 "the overriding consideration is whether there are substantial merits to the appeal"〕 |
 | 国安保释门槛（NSL A.42(2) Threshold） | 国安案件先问法官是否有充足理由相信被告人不会继续实施危害国家安全行为；不过关即绝对拒保，过关才回到 CPO Part 1A 一般制度（0E.2）〔ADV-V2 L649 "NSL 42(2) imports a stringent threshold requirement for bail applications."〕 |
 
-### 环节定位
+### 环节定位（按程序时序）
 
 | 环节 | 实际操作 |
 |---|---|
