@@ -370,7 +370,7 @@ flowchart TD
 
 ### 0D.3 要约无效（nullity）与陪审团
 
-较轻罪要约不被接受 → 认罪无效；提堂通常在陪审团席外，除非辩方战术性引入，否则陪审团不会知悉（*Wong Chun Man*：辩方主动允许控方在开庭陈词引述认误杀事实，故不得上诉指陪审团把要约谈当不利自白）〔CR8 L1020 "D’s guilty plea is a nullity"〕。
+当被告与控方就较轻罪名达成“要约”（offer，通常指认罪换取较轻控罪），但控方最终不接受该要约时，被告的认罪即告无效，案件须照常进入审讯。程序上，要约提堂的环节通常在陪审团席之外进行——除非辩方出于战术原因主动把要约内容引入陪审团视野，否则陪审团不会知悉控辩曾讨论过认罪可能。*Wong Chun Man* 案说明例外：辩方当庭主动允许控方在开庭陈词中引述认误杀的要约事实，等于把该内容暴露给陪审团，此后便不得再上诉指陪审团把要约谈当作了对被告不利的自白〔CR8 L1020 "D’s guilty plea is a nullity"〕。
 
 ### 0D.4 计算纪律：基数与次序（暗礁 5）
 
@@ -398,7 +398,7 @@ flowchart TD
 
 ### 0E.2 Sivan 程序（保密）
 
-协助细节不欲公开者，可经 Sivan 程序以书面或内庭呈交法官（*R v. Chan Kwok-hung*）；判刑仍在公开庭进行，庭上只须说“书面资料显示有特殊情况支持从宽处理”（*Tse Ka-wah*）〔CR8 L1068 "special circumstances which on the papers justify a lenient view"〕。
+当被告的协助内容涉及保密需要（例如会危及其或家人安全、或牵涉未侦破的调查），其协助细节可以不通过公开庭陈述，而是依 **Sivan 程序**以书面或在内庭（in camera）向法官呈交（*R v. Chan Kwok-hung*）。即使采用 Sivan 程序，判刑聆讯本身仍在公开庭进行——庭上只须表明“书面资料显示有特殊情况支持从宽处理”（*Tse Ka-wah*），具体协助内容不公开宣读，以保障被告及相关人士的安全（详见 0E.1 的安全考量）〔CR8 L1068 "special circumstances which on the papers justify a lenient view"〕。
 
 ### 0E.3 “通常”折扣阶层（含认罪 1/3）
 
@@ -475,11 +475,11 @@ flowchart TD
 - **one transaction（同一交易）通常并立**：同一事犯的数项罪行若属同一交易，经验法则是判并立（concurrent）——各刑同时起算、实际服刑取最长者。但这只是经验法则，关键仍在各罪是否各自增加罪责：*Ngai Yiu Ching* 案中，同一事主、数小时内犯下三宗非礼，法庭判并立，但非法禁锢罪因另增整体罪责而判**连续**；所谓“non-inflexible rule of law”“practical rule of thumb”〔CR8 L154 "a practical rule of thumb to guide judges"〕。
 - **真正检验（*Brian Alfred Hall*, Stock VP）**：决定并立还是连续的真正标准是——各罪在时间上与目的上是否各自独立、是否各自增加对方罪责。若答案是肯定的，法官应判连续刑罚〔CR8 L156 "separate in time and objective"〕。
 - **分立无关罪**：若各罪事实分立且互不相关，法官应判处连续刑罚；即使各罪特征近似或涉及同一事主，只要属不同日子所犯的独立罪行（如两宗不同日的贩毒罪，*AG v. Shamsudin*），仍应连续〔CR8 L158 "separate and unrelated, then consecutive sentences are appropriate"〕。
-- **类型惯例**：袭警拒捕类（resisting arrest）通常连续以收阻吓（*Leung Ping-wa*）〔CR8 L160 "to deter offenders from resisting police officers"〕。
-- **同一交易但性质迥异**：连续可（爆窃／非法禁锢中强奸：暴力性质程度不同；*Chan Chi-lai*）〔CR8 L162 "markedly different in nature"〕。
-- **反面**：*Tsoi Man-chun*——身上毒品源自待贩毒品时，TDD 与 PDD 不应连续〔CR8 L164 "should not impose consecutive sentences upon the Defendant"〕。
+- **类型惯例**：袭警、拒捕一类罪行（resisting arrest）通常判连续刑罚，以加强阻吓作用、告诉公众袭击执法人员会累加刑期（*Leung Ping-wa*）〔CR8 L160 "to deter offenders from resisting police officers"〕。
+- **同一交易但性质迥异**：即使属同一交易，若各罪性质差异悬殊仍可判连续——例如爆窃案中夹杂的强奸，暴力性质与程度完全不同，连续判刑反映整体罪责（*Chan Chi-lai*）〔CR8 L162 "markedly different in nature"〕。
+- **反面**：*Tsoi Man-chun* 案——被告身上的毒品本身就是待贩毒品的一部分，贩毒（TDD）与管毒（PDD）在此情形下不应判连续，因为同一批毒品不应重复计算罪责〔CR8 L164 "should not impose consecutive sentences upon the Defendant"〕。
 - **即时监禁与缓刑不得混合**：无论连续或并立（*AG v. Tse On*；应判监则各刑并立判处）〔CR8 L166 "immediate and suspended sentences of imprisonment should not be combined"；CR8 L690 "It is not appropriate to combine imprisonment and a suspended sentence"〕。
-- **保释期间再犯不再导致必然连续**：现行正确路径是作为严重加重因素**上调起点**（*Leung Ting-fung*）〔CR8 L168 "committing an offence while on bail is a seriously aggravating factor"；CR8 L1102 "this is a serious aggravating factor which will result in an increased sentence"〕。
+- **保释期间再犯不再导致必然连续**：现行正确做法是把保释期间再犯作为严重加重因素**上调量刑起点**（*Leung Ting-fung*），而不是机械地把新罪与原罪判连续——因为起点上调已足以反映加重罪责〔CR8 L168 "committing an offence while on bail is a seriously aggravating factor"；CR8 L1102 "this is a serious aggravating factor which will result in an increased sentence"〕。
 - **缓刑启动**：operational period 内再犯并启动缓刑（s.109C）者，启动刑通常连续于新罪之刑，除非 exceptional circumstances（港现行：法官有不启动的裁量；英 *Carr* 旧例为强制启动下并立）〔CR8 L170 "the activated term is ordered to run consecutively unless exceptional circumstances exist"〕。 〔CR8 L144–L184 "Consecutive vs. concurrent (see chapter 10, Cross & Cheung)"〕 〔CR8 L154–L168 "Where offences are committed in the course of ‘one transaction’,"〕 〔CR8 L138 "‘Outstanding cases’ – these are cases before other courts which"〕
 
 ### 0G.2 Totality：二段式铁则
@@ -651,11 +651,11 @@ flowchart TD
 
 ### 0I.3 还押折抵（s.67A CPO）
 
-候审讯／候判的**司法羁押**期间于定释放日期时计入；实务由惩教署长计算而非法官〔CR8 L530 "the court does have a discretion to reduce sentence"〕。法定外期间的酌情：*Iqbal Zahid*——(i) 与最终未定罪指控相关的司法羁押、(ii) 与定罪无关的行政羁押（Immigration／ICAC 条例）不在 s.67A 内，但法官保留酌情；该案就 148 日司法羁押行使酌情折抵，行政羁押不抵〔CR8 L530 "the court does have a discretion to reduce sentence"〕。**实务提示（往届学生稿，往届仅参考）**：别向法官就 s.67A 已覆盖的还押期间要求减刑——那是署长的计算〔OLD-EXS L32 "DO NOT ask sentencing Judge to reduce D’s sentence based on the time he spent in remand"·往届仅参考〕。
+候审讯或候判期间的**司法羁押**（judicial custody）在法庭定出释放日期时应计入刑期；实务上由惩教署长计算折抵，而非法官在判刑时逐日计算〔CR8 L530 "the court does have a discretion to reduce sentence"〕。法定折抵之外的酌情折抵则看 *Iqbal Zahid* 案确立的两类情形：(i) 与最终未定罪指控相关的司法羁押、(ii) 与定罪无关的行政羁押（Immigration／ICAC 条例）不在 s.67A 内，但法官保留酌情；该案就 148 日司法羁押行使酌情折抵，行政羁押不抵〔CR8 L530 "the court does have a discretion to reduce sentence"〕。**实务提示（往届学生稿，往届仅参考）**：别向法官就 s.67A 已覆盖的还押期间要求减刑——那是署长的计算〔OLD-EXS L32 "DO NOT ask sentencing Judge to reduce D’s sentence based on the time he spent in remand"·往届仅参考〕。
 
 ### 0I.4 减刑与记录面
 
-见 0B.6（r.69 remission、NSL r.69(1A）、spent conviction 三例外）。幻灯提示 spent 的司法追问：海外定罪是否本地查得到？；被送 DTC/TC/RC 的定罪可否 spent？——课堂口径未出，入 open 块〔CR8S L447–L453 "What does ‘spent’ actually mean?"〕。
+减刑（r.69 remission）、国安罪犯减刑限制（NSL r.69(1A)）与失效定罪（spent conviction）的三项例外均见 0B.6。幻灯另提示两个待明确的司法追问：海外定罪在本地记录中是否查得到？被送 DTC／TC／RC 的定罪可否构成 spent？——课堂口径尚未给出，暂存 open 块待核〔CR8S L447–L453 "What does ‘spent’ actually mean?"〕。
 
 **总表索引**：监禁本体“不做／做错”的后果链，见 0N 行 2（误导客户）、行 11（求情与客户期望管理）。
 
@@ -688,7 +688,7 @@ flowchart TD
 
 ### 0K.1 框架：CCCO 的适用面与总原则
 
-- **权源**：刑事案件的讼费**没有普通法上的固有管辖**，必须出自成文法——即《刑事案件讼费条例》（CCCO，Costs in Criminal Cases Ordinance，Cap. 492**，1997-01-17 施行；章号库内曾两说并列——SG7C 已考：作 Cap. 494 者仅往届官方答案与 Set 1 学生笔记，按分层取 Cap. 492）〔OLD-LG99 L20–L33 "Costs in Criminal Cases Ordinance, Cap. 492"·往届仅参考〕。
+- **权源**：刑事案件的讼费**没有普通法上的固有管辖**，必须出自成文法——即《刑事案件讼费条例》（CCCO，Costs in Criminal Cases Ordinance，Cap. 492，1997-01-17 起施行）〔OLD-LG99 L20–L33 "Costs in Criminal Cases Ordinance, Cap. 492"·往届仅参考〕。
 - **时际**：只适用于 1997-01-17 后所犯罪行的程序（s.25；看控罪书罪行日非审讯日：*Heung Chin Tong*）〔OLD-LG99 L22–L27 "Came into operation on 17 January 1997"·往届仅参考〕。
 - **CFA**：CCCO 不及 CFA；CFA 讼费由 s.43 HKCFAO 管，但 CCCO 一般原则仍适用（*Egan*）〔OLD-LG99 L31–L33 "CCCO does not apply to the Court of Final Appeal"·往届仅参考〕。
 - **流产审讯**：陪审团解散的 aborted trial 不属“is not tried for the offence”（s.4）——该阶段无讼费管辖（*Chen Keen*，CA 撤销、CFA 维持）〔OLD-LG99 L39–L42 "An aborted trial (jury discharge) does not fall within"·往届仅参考〕。
