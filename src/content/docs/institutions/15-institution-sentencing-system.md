@@ -79,7 +79,7 @@ SG课表安排:
 | s.56A DDO | 《危险药物条例》（DDO）s.56A 规定：成人犯可判 15 年或以上监禁的指明毒品罪行，而招募未成年人参与其中的，法庭可判处加重刑罚；未成年人招募未成年人同样不免责（*Ho Pak Hong* 案中 17 岁被告招募 15 岁者被加刑 1 年）。 | 〔CR8 L1124 "does not preclude an enhanced sentence for a minor who recruits another minor"〕 |
 | 连续／并立执行（consecutive / concurrent） | 多罪判刑时，连续执行（consecutive）指一罪刑满才开始服下一罪，实际刑期为各刑相加；并立执行（concurrent）指各刑同时起算、实际服刑取最长者；部分并立（partially concurrent）则是折中——法官可把其中一段刑期并立、一段连续，使总刑期介乎两者之间（算例见 0G.2）。 | 〔CR8 L146 "One sentence does not start to run until the other has been completed."〕 |
 | 总额原则（totality principle） | totality（整体性）原则要求法官在逐项确定各罪刑罚后，再检验合计刑期是否反映被告全部罪责——既不能因同一罪行重复受罚，也不能让总刑期重到 “crushing”（压垮性）；它是多罪量刑最后一道总检，先定各罪正确刑罚、再因总额作整体调整（算例见 0G.2）。 | 〔CR8 L180 "The importance of the totality principle cannot be overstated"〕 |
-| 一并考虑（T.I.C.） | 当被告除本案被控罪名外，还犯有其他同类的未结案件（如多宗小额盗窃），被告可在认罪时主动签署清单承认这些未起诉罪行，请求法官在判刑时“一并考虑”（T.I.C.）。交易逻辑是换取“彻底洗底”（clean slate）：法官会把本案刑期略微调高（但远低于多案单独起诉的累加刑期），控方则承诺不再就清单上的旧案另行起诉——区院法定依据为 s.81 DCO，裁判法院与原讼庭依惯例运作。 | 〔CR8 L188 "into account in deciding on the appropriate sentence"〕 |
+| 一并考虑（T.I.C.） | 当被告除本案被控罪名外，还犯有其他同类的未结案件（如多宗小额盗窃），被告可在认罪时主动签署清单承认这些未起诉罪行，请求法官在判刑时“一并考虑”（T.I.C.）。交易逻辑是换取“彻底结清旧案”（clean slate）：法官会把本案刑期略微调高（但远低于多案单独起诉的累加刑期），控方则承诺不再就清单上的旧案另行起诉——区院法定依据为 s.81 DCO，裁判法院与原讼庭依惯例运作。 | 〔CR8 L188 "into account in deciding on the appropriate sentence"〕 |
 | 感化令（Probation Order, PO） | 感化令是代替监禁的更生刑：仅适用于非法定刑的罪名，法庭须先索取感化官报告、被告须同意，刑期 1–3 年并附条件（如工作、居住、宵禁）；违反条件可被撤销并按原罪重新处置。它与缓刑的关键区别是——PO 全程没有监禁刑期，缓刑则是先判监再暂缓执行。 | 〔CR8 L352 "provided that the sentence for the offence is not fixed by law"〕 |
 | 社会服务令（Community Service Order, CSO） | 社会服务令是年满 14 岁被告在经适合性报告并获同意后，判处的无偿社区工作——上限 240 小时或 12 个月（以较先届满者为准）；它与 PO 同属代替监禁的更生刑，但用“做工抵刑”取代“监督期”，违反时可被罚款并撤销改按原罪处置。 | 〔CR8 L392 "The maximum number of hours of unpaid work"〕 |
 | 戒毒所令（DATC Order） | 戒毒所令适用于任何可判监禁的罪行（欠缴罚款罪除外），是代替其他刑罚的羁押式戒治，刑期 2–12 个月且实际期限由惩教署长决定；最大特点是候报告期间法定必须羁押、不可保释，违反监督属刑事罪。它与 PO/CSO 的区别在于：DATC 是羁押式戒毒而非社区监督。 | 〔CR8 L446 "The Defendant shall be remanded in custody pending preparation of report"〕 |
@@ -756,7 +756,7 @@ flowchart TD
 - **不可上诉的情形**：法定固定刑（如成年谋杀终身监禁）不可上诉；表述为“shall be liable to…”的酌情刑罚方可上诉〔OLD-EXA L103〕。
 - **许可与程序**：依据 CPO s.83G 及 s.83I，刑期上诉**必须取得上诉法庭许可（Leave to appeal）**，使用 Form XI 申请；28 日法定死线适用 CPO s.83Q(2) 判刑迟于定罪逾 7 日顺延规则。详见 16 Institution § 0C.1–0C.2。
 - **刑期五型理由与倒推攻防**：① Not justified in law（超越法定权限）；② Wrong in principle（选错刑种/误用 totality）；③ Manifestly excessive（*Yao William* 压碎性失衡）；④ Wrong factual premise（以无证据事实加刑，如 SG07 误当连环盗窃犯）；⑤ Significant alteration in circumstances（判后新指引 *Seabrook* / 判后立功 *Yau Kwok Yin*）。详见 16 Institution § 0F。
-- **反噬风险与止损**：警惕加刑风险与 CPO s.83W 损失时间令（白白服刑不折抵）；无胜算者依据 CAR r.39 递交 Form VII 放弃上诉锁定风险。详见 16 Institution § 0D。
+- **上诉风险与退出时机**：警惕加刑风险与 CPO s.83W 损失时间令（不计入刑期）；无胜算者依据 CAR r.39 递交 Form VII 放弃上诉锁定风险。详见 16 Institution § 0D。
 
 ### 0L.2 裁判法院救济与律政司复核接口
 
@@ -826,7 +826,7 @@ flowchart TD
 | 10 | 事实台账：不核 CRO、不核 operational period 在身刑罚、不报未决案／已在服刑 | 事实前提失真 | 【要素错失】判后发现 breach 才处理——S/S 启动、PO/CSO 重判接连；【记录缺失】未决案混作前科、totality 漏用（Lin Chi Man） | 〔CR8 L1343 "clients frequently forget or underestimate"；CR8 L184 "already serving a sentence of imprisonment for an unrelated offence"；CR8 L380–L382 "He may then be cautioned or fined $500"〕 |
 | 11 | 求情口径：认罪后提抗辩/争议 Brief Facts；审讯后讲悔意/透露上诉 | 场合错位的发言 | 【记录缺失】可采性归零或反向伤害；保证求情是两份题：为何犯、为何不再犯 | 〔CR8 L1353 "DO NOT: (1) raise a defence; (2) dispute the Brief Facts."；CR8 L1363–L1367 "do not mention plans to appeal"〕 |
 | 12 | 讼费：无罪后不即时表示申请；被索费不回应“特殊情况”与负担能力；超 21 日才想起上诉讼费令 | 金钱后果固化 | 【自动后果】迟申请“loath to entertain”；【制裁暴露】abuse 线被默认；负担能力未记录则数额无从压 | 往届课堂例子；命令上诉见0L.5。〔OLD-LG99 L223–L245 "Immediately after a not guilty verdict is delivered"·往届仅参考〕 |
-| 13 | 上诉启动：不读判刑理由、不核 28 日钟起算点（s.83Q） | 时限与理由基础流失 | 【自动后果】28 日钟持续走；【要素错失】理由不 arguable 即被费用反噬 | 〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考；CR8 L1381 "You should review these carefully to see whether"〕 |
+| 13 | 上诉启动：不读判刑理由、不核 28 日钟起算点（s.83Q） | 时限与理由基础流失 | 【自动后果】28 日钟持续走；【要素错失】理由不 arguable 即被讼费风险 | 〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考；CR8 L1381 "You should review these carefully to see whether"〕 |
 | 14 | 上诉评估：不达标仍递上诉（total lack of merit），或不达标不弃 | 风险命令 | 【制裁暴露】s.83W loss of time（上诉期羁押不计刑）＋可加刑；续 renew 可再加；应尽早 Form VII | 〔OLD-EXA L124–L126 "A total lack of merit"·往届仅参考〕 |
 
 **使用口径**：本表每行回对应深节展开；写 SG07 答案时按行 4/7/9/10/12/13 挑论点（“法官言行→程序错→后果”三段式），写 SG08 备忘录按行 13/14 作可行性与风险面。
@@ -984,7 +984,7 @@ SG08 围绕判后救济展开，涉及 Jeff Sham（MC→CFI 定罪与刑期上�
 | **A 非监禁处置（PO/CSO/设施）** | 法庭愿判 → 报告正面 → 可执行面（居住/工作/健康/交通） → 法定门与同意 → 罪名与法院权限 | 断环 1：只有“愿意”没有执行面——报告不利；断环 2：重罪面——报告须对应“真例外”论证或不索（避免浪费论）。对策：指示先行（暗礁 7）；plan B 备妥 | 0H.4、0N 行 1/8 |
 | **B 保住折扣** | 目标档位（1/3/25%） → 答辩时点 → 要约入纪录 → 全程立场如一 | 断环：试探后跑不一致抗辩（Lam Kai Man）。对策：入纪录前先定抗辩相容性 | 0D.2、0N 行 5 |
 | **C 抗住加刑与总刑** | 判后总刑不过界 → 并串主张 → totality → s.27 程序点 | 断环：求情不处理并串（0G）＋OSCO 不回应（0F.5）。对策：求情稿内置三行：one transaction 面／crushing 面／加幅比例面 | 0G、0F、0N 行 7/9 |
-| **D 判后救济** | 减刑或撤费 → arguable 理由 → 时限 → 记录 | 断环：判词无破绽却求“再评一次”——无 merit 风险。s.83W／讼费反噬。对策：不达标用 Form VII 早弃，量力而行 | 0L、0N 行 13/14 |
+| **D 判后救济** | 减刑或撤费 → arguable 理由 → 时限 → 记录 | 断环：判词无破绽却求“再评一次”——无 merit 风险。s.83W／讼费风险。对策：不达标用 Form VII 尽早放弃，量力而行 | 0L、0N 行 13/14 |
 
 ## 审计留痕：材料矩阵、待核事项与历史修订记录
 
