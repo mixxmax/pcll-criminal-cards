@@ -41,7 +41,7 @@ SG课表安排:
 
 > **白话导引**：量刑不是求情时堆可怜故事，而是一条量刑分析步骤。法官先看罪名的法定最高刑与审理法院的权限，确定刑罚的天花板；再用上诉庭指引、tariff 或可比个案判例定出量刑**起点**。个案的加重与减轻因素在起点上加减；认罪则按被告实际答辩时点打折——首次可得机会获 1/3，其后逐档降至 25%、20%乃至更低，协助执法折扣（通常 40%／50%，至多 2/3）已包含认罪那一份。多项罪名时，法官先给每罪各自定刑，再决定并立还是连续执行，最后以 totality 原则总检，防止逐项合理却整体「相加即压碎」。刑罚类型（罚款、感化令、社会服务令、戒毒所、缓刑、监禁）各有法定门、报告门、同意门与组合禁令；刑罚之外还可能跟上充公、没收、赔偿、取消资格与讼费。每一步做错会怎样，逐行收口 0N 总表。
 
-### a. 程序辐射范围（本卡覆盖什么，不覆盖什么）
+### 适用范围（本卡覆盖什么，不覆盖什么）
 
 **覆盖（按程序时序）**——自定罪到判后上诉接口的完整量刑链：
 1. **定罪后阶段与求情程序**：判刑时点与押后理由、候判报告与保释、控辩职责、求情（Plea in Mitigation）纪律、判刑理由〔CR8 L62–L80 "Sentencing takes place after the Defendant’s conviction"；CR8 L126 "The aim is to seek the most lenient sentence"；CR8 L1379 "A formal written Reasons for Sentence may also be prepared."〕；
@@ -59,61 +59,61 @@ SG课表安排:
 
 **不覆盖（边界声明，相关承担卡）**：① 认罪协商与 O.N.E. Bind Over 前半段（→06 Institution - Plea Advice and ONE Bind Over 与 06 卡 9A 节（原 09 增补并入）；本卡只收折扣计算接口）；② Newton 事实聆讯程序本体（→13 Institution - Criminal Evidence Disputes 与 LGS5；本卡只引接口）；③ 求情的讼辩表达与演练（→8051 求情讼辩体系，2026-10-27 授课）；④ 上诉程序全景与定罪上诉主体（LGS9／LGS10 主题，本届未开——本卡 0L 只收与量刑直接互动的接口级规则，往届 LG10／学生稿承重）；⑤ NSL 国安量刑差异（仅在 CPO Schedule 3 第 11 项与 r.69(1A) 层面登记，不展开）〔CR8 L800 "11. An offence endangering national security."〕。
 
-### b. 关键术语逐一一句精确定义（中文定义—英文原词）
+### 术语（核心概念与实务运作定义）
 
-| 术语（英文原词） | 一句中文精确定义 | 出处 |
+| 术语（英文原词） | 定义与实务运作（场景·规则·动机） | 出处 |
 |---|---|---|
-| 最高刑制（maximum sentencing regime） | 香港量刑基本框架：罪名法定最高刑（“shall be liable…”），最高刑保留给最坏类案件 | 〔CR8 L100 "a maximum sentence is prescribed by the legislation"〕 |
-| 固定刑（fixed sentence） | 法定唯一刑、无裁量亦不可上诉的量刑，如成年谋杀终身监禁（s.2 OAPO）；但酌情终身监禁须定最短服刑期（s.67B CPO） | 〔CR8 L102 "shall be imprisoned for life."〕 |
-| 强制刑（mandatory sentencing regime） | 在法定列举的刑罚类型／年限内必须判处的制度，如 s.33 POO 按年龄段限定选项 | 〔CR8 L106 "the only options are imprisonment for not more than 3 years"〕 |
-| 启动点（starting point） | 未计任何减轻或加重因素前先定的基础刑期；调整在其上加减 | 〔CR8 L140 "the sentence that is fixed before taking into account"〕 |
-| 量刑指引（guideline） | 上诉庭三名法官订立、供下级法院遵循的指引，非“紧身衣”，偏离须给说服力理由 | 〔CR8 L540 "they are not “straight-jackets”"〕 |
+| 最高刑制（maximum sentencing regime） | 绝大多数罪名由法例以“shall be liable…”写明最高刑罚，法官可在零刑至该上限之间自由裁量——最高刑只保留给该类案件中最坏的情形（*Yau Wai Hang*），客户真正想知道的仍是 likely sentence；同时可判上限还受审理法院权限封顶（MC 一般 2 年、DC 一般 7 年，部分罪名可经条文扩展）。 | 〔CR8 L100 "a maximum sentence is prescribed by the legislation"〕 |
+| 固定刑（fixed sentence） | 法例直接写死唯一刑罚、法官毫无裁量空间的量刑方式——典型是成年谋杀（s.2 OAPO “shall be imprisoned for life”），只能判终身监禁且该刑本身不可上诉；但“终身”分强制与酌情两种，酌情终身（如误杀）法官仍须依 s.67B CPO 定出最短服刑期。 | 〔CR8 L102 "shall be imprisoned for life."〕 |
+| 强制刑（mandatory sentencing regime） | 与一般罪名不同，强制刑（mandatory sentencing）剥夺了法官选择轻刑的裁量权，法条直接规定只能判哪几种刑罚。典型如《公安条例》（POO）s.33：在公众地方管有攻击性武器，法条按年龄段列明唯一选项——17 至 25 岁者只有“≤3 年监禁、教导所、更生中心”三选一，25 岁以上只有 ≤3 年监禁，法官无权改判罚款、感化令、社服令或缓刑。 | 〔CR8 L106 "the only options are imprisonment for not more than 3 years"〕 |
+| 启动点（starting point） | 法官在计算任何加减之前先定下的基础刑期——先固定起点，再在其上加上加重因素、减去减轻因素与认罪折扣，最后才做 totality 总检；它是整个量刑计算的基数，所有折扣都打在起点而非最终刑期上。 | 〔CR8 L140 "the sentence that is fixed before taking into account"〕 |
+| 量刑指引（guideline） | 上诉庭由三名法官联合订立、供下级法院遵循的量刑指引（guideline），只针对严重、流行或判刑存在分歧的罪名；它不是“紧身衣”——法官可以偏离，但必须给出有说服力的理由，否则会被上诉庭批评。 | 〔CR8 L540 "they are not “straight-jackets”"〕 |
 | 量刑基准／指标刑（tariff） | 按附表数量对应固定年数的指引（如贩运危险药物（`TDD`）量级表），订立后比 guideline 更难说服偏离；但在贩毒案中，毒品克数分档表仅用于确定基础量刑起点，法官仍须按被告角色与求情因素上下调整，并非固定死刑期的价目表，因此上诉庭指出将其称为 `tariff` 属用词不当（`misnomer`），准确称谓应为量刑指引（`sentencing guidelines`） | 〔CR8 L542 "it will be much harder to persuade the court to depart from the tariff"〕 |
-| 同类事实案例（similar fact cases） | 事实相近的个案，**不是**真量刑权威，求情引用会招致批评 | 〔CR8 L536 "The latter are not authoritative and have little value"〕 |
-| 减轻／加重因素（mitigating / aggravating factors） | 减责或增责、从而在起点下调或上调的事实；减轻影响刑种选择或刑期长度 | 〔CR8 L934 "decrease the Defendant’s culpability"〕 |
-| 认罪折扣（guilty plea discount） | 先定起点再按答辩时点给予的扣减；满扣 1/3 只给“首次可得机会”认罪 | 〔CR8 L978 "will only be given if the Defendant pleads guilty at the ‘first available opportunity.’"〕 |
-| 较轻罪认罪要约（plea offer to a lesser offence） | 辩方提议认较轻／替代罪；控方不接受则该答辩无效（nullity），要约可否换折扣按 Lam Kai Man 四项指引 | 〔CR8 L1020 "D’s guilty plea is a nullity"〕 |
-| 协助执法（assistance to authorities） | 提供“有实际用途”的资料或作证换取扣减；40%／50%／2⁄3 为通常口径非保证 | 〔CR8 L1058 "these are just “usual” discounts"〕 |
-| 加刑（enhancement of sentence） | 在特殊情况下为阻吓而对指明罪行判处比本来更重的刑罚，如 s.27 OSCO、s.56A DDO | 〔CR8 L1138 "This is only done in exceptional circumstances"〕 |
-| s.27 OSCO 加刑 | 控方在 DC/CFI 就指明罪行提供伤害／得益／流行情报并经通知程序，法庭排除合理怀疑信纳后可加重（不超法定最高刑） | 〔CR8 L1174 "pass a sentence … that is more severe"；CR8 L1178 "shall not exceed the maximum penalty"〕 |
-| s.56A DDO | 成人犯指明毒品罪行（可判15年或以上）且招募未成年参与，可加刑；未成年招募未成年亦不免 | 〔CR8 L1124 "does not preclude an enhanced sentence for a minor who recruits another minor"〕 |
-| 连续／并立执行（consecutive / concurrent） | 一罪刑满才开始下一刑（s.68 CPO）／各刑同时起算；部分连续并立亦可 | 〔CR8 L146 "One sentence does not start to run until the other has been completed."〕 |
-| 总额原则（totality principle） | 先定各罪应得刑，再检验总和反映全部罪责且不致“crushing” | 〔CR8 L180 "The importance of the totality principle cannot be overstated"〕 |
-| 一并考虑（T.I.C.） | 法庭把被告承认的他罪纳入考量而不另行定罪；DC 法定依据 s.81 DCO，MC/CFI 为惯例 | 〔CR8 L188 "into account in deciding on the appropriate sentence"〕 |
-| 感化令（Probation Order, PO） | 非法定刑罪名下代替监禁的更生刑，1–3 年、附条件、须先取报告、须被告同意 | 〔CR8 L352 "provided that the sentence for the offence is not fixed by law"〕 |
-| 社会服务令（Community Service Order, CSO） | 年满14岁、经适合报告并获同意后判的无偿社区工作，上限 240 小时／12 个月 | 〔CR8 L392 "The maximum number of hours of unpaid work"〕 |
-| 戒毒所令（DATC Order） | 任何可判监禁罪行均可、代替其他刑罚，2–12 个月、期间由惩教署长决定，取报告期间必须羁押 | 〔CR8 L446 "The Defendant shall be remanded in custody pending preparation of report"〕 |
-| 缓刑（suspended sentence of imprisonment, S/S） | 先定不超过 2 年监禁再决定是否暂缓执行，operational period 1–3 年；Schedule 3 例外罪不可 | 〔CR8 L460 "between 1 and 3 years. This is known as the ‘operational period’"〕 |
-| 充公令（forfeiture order） | 对涉罪财物的充公（ss.102–104 CPO），部分条例另设充公（如 s.33(7) POO） | 〔CR8 L314 "provided it is no longer required as an exhibit"〕 |
-| 没收令（confiscation order） | 针对犯罪得益的没收命令（s.8 OSCO／s.3 DTRPO），只限 DC/CFI、须控方申请，举证为相对可能 | 〔CR8 L330 "is on the balance of probabilities"〕 |
-| 赔偿令（compensation order） | 定罪后命被告向受害人赔偿人身伤害或财物损失；与被告自愿赔偿的求情因素不同 | 〔CR8 L288 "Do not confuse this with the Defendant’s offer"〕 |
-| 归还令（restitution order） | 把财物发还予有权管有者（s.84 CPO，DC/CFI） | 〔CR8 L306 "to return property to the person entitled to it"〕 |
-| 刑事破产令（Criminal Bankruptcy Order, CBO） | DC/CFI 罪行造成非人身伤害损失逾 HK$150,000 时附加作出的破产令，不可与赔偿令并存、s.84B 不可单独上诉 | 〔CR8 L346 "a CBO and a Compensation Order cannot be combined"〕 |
-| 讼费（costs, CCCO） | 刑事程序讼费无法定外固有管辖，权源全部来自 Costs in Criminal Cases Ordinance；不随胜败自动归属 | 〔OLD-LG99 L271 "Golden Rule : Not automatic upon conviction"·往届仅参考〕 |
-| 失效定罪（spent conviction） | 初犯、刑罚不超3个月或罚款不超$10,000 且3年内无新定罪时定罪转为“spent”，记录仍在并可在量刑时考虑 | 〔CR8 L704 "Spent convictions can be taken into account on sentencing"〕 |
-| 还押折抵（time on remand, s.67A CPO） | 候判羁押期间在计算释放日期时算入；实务由惩教署长计算，法官对法定外期间保留酌情 | 〔CR8 L530 "the court does have a discretion to reduce sentence"〕 |
-| 减刑（remission, r.69 Prison Rules） | 实际服刑超30日者因良好行为可减最多 1/3，终身监禁不适用；国安罪须署长信纳不违国安利益 | 〔CR8 L1371 "eligible for up to a 1/3 remission of his sentence"〕 |
-| Sivan 程序（Sivan Procedure） | 协助执法细节不经公开庭审、以书面或内庭传达给法官的量刑保密程序 | 〔CR8 L1068 "Information of the Defendant’s assistance may be conveyed"〕 |
-| 未决案件（outstanding cases） | 被告在其他法院待决的案件；可押后同场处理以保一致性并适用 totality | 〔CR8 L138 "currently pending against a Defendant"〕 |
-| 求情（Plea in Mitigation） | 辩方在判刑前就刑罚作出的陈词，目标是全部情况下可合理科处的最轻处置；认罪后与审讯后求情截然不同 | 〔CR8 L1349 "There is a huge difference between mitigating after a plea of guilty"〕 |
+| 同类事实案例（similar fact cases） | 单一案件的判刑结果（similar fact cases）不是量刑权威——它只供参考个案情节，不能像 guideline 那样约束法官；在求情中大量引用这类案例反而会招来法官批评（*HKSAR v. Lau Sau King*）。 | 〔CR8 L536 "The latter are not authoritative and have little value"〕 |
+| 减轻／加重因素（mitigating / aggravating factors） | 在起点确定后，法官逐项审查个案事实：减轻因素（如认罪、良好品格、自首、赔偿）会降低被告罪责从而下调刑期或改选较轻刑种，加重因素（如预谋、针对脆弱事主、保释期间再犯）则上调刑期；同一事实不得在起点与加重中重复计算。 | 〔CR8 L934 "decrease the Defendant’s culpability"〕 |
+| 认罪折扣（guilty plea discount） | 被告认罪后，法官先定起点，再按被告实际答辩的时点给予扣减——首次可得机会认罪可获 1/3，其后逐档降至 25%、20% 乃至不足 20%（Ngo VanNam 五档，详见 0D.1）；折扣只适用于监禁刑期，感化令、社服令、戒毒所等非监禁刑罚没有 1/3 的数学口径。 | 〔CR8 L978 "will only be given if the Defendant pleads guilty at the ‘first available opportunity.’"〕 |
+| 较轻罪认罪要约（plea offer to a lesser offence） | 辩方可在审讯前向控方提出以认较轻罪名（或替代罪）换取认罪的要约；控方若不接受，该认罪在法律上无效（nullity），案件照常进入审讯。要约能否换取折扣、折扣多少，由 Lam Kai Man 四项指引按被告是否及时正式提出、是否守信等事实判断（详见 0D.2）。 | 〔CR8 L1020 "D’s guilty plea is a nullity"〕 |
+| 协助执法（assistance to authorities） | 被告在定罪判刑前向执法当局提供“有实际用途”的资料或愿意出庭作证，可获额外扣减——通常口径是只供资料不作证约 40%、供资料并作证约 50%、supergrass 至多 2/3（均已含认罪折扣）；折扣幅度取决于协助的真实性、时机与价值，法官对执法机关的评估一般不轻易推翻（详见 0E）。 | 〔CR8 L1058 "these are just “usual” discounts"〕 |
+| 加刑（enhancement of sentence） | 在极少数特殊情况下，法例授权法庭在指明罪行上判处比本来应判更重的刑罚以加强阻吓——典型是《有组织罪案及三合会条例》（OSCO）s.27 与《危险药物条例》（DDO）s.56A；加刑须经法定通知程序、证据达排除合理怀疑，且不得超过该罪法定最高刑（详见 0F）。 | 〔CR8 L1138 "This is only done in exceptional circumstances"〕 |
+| s.27 OSCO 加刑 | 控方在区域法院或原讼法庭（DC/CFI，裁判法院无权）就“指明罪行”（specified offence）定罪后，可依《有组织罪案及三合会条例》（OSCO）s.27 提供关于伤害、犯罪得益、流行情报等资料申请加刑；程序上控方须在判刑前按 s.27(5) 发出通知、给被告反对机会，被告亦可依 s.27(10) 作出回应，法庭须排除合理怀疑信纳加刑条件成立且不超法定最高刑。 | 〔CR8 L1174 "pass a sentence … that is more severe"；CR8 L1178 "shall not exceed the maximum penalty"〕 |
+| s.56A DDO | 《危险药物条例》（DDO）s.56A 规定：成人犯可判 15 年或以上监禁的指明毒品罪行，而招募未成年人参与其中的，法庭可判处加重刑罚；未成年人招募未成年人同样不免责（*Ho Pak Hong* 案中 17 岁被告招募 15 岁者被加刑 1 年）。 | 〔CR8 L1124 "does not preclude an enhanced sentence for a minor who recruits another minor"〕 |
+| 连续／并立执行（consecutive / concurrent） | 多罪判刑时，连续执行（consecutive）指一罪刑满才开始服下一罪，实际刑期为各刑相加；并立执行（concurrent）指各刑同时起算、实际服刑取最长者；部分并立（partially concurrent）则是折中——法官可把其中一段刑期并立、一段连续，使总刑期介乎两者之间（算例见 0G.2）。 | 〔CR8 L146 "One sentence does not start to run until the other has been completed."〕 |
+| 总额原则（totality principle） | totality（整体性）原则要求法官在逐项确定各罪刑罚后，再检验合计刑期是否反映被告全部罪责——既不能因同一罪行重复受罚，也不能让总刑期重到 “crushing”（压垮性）；它是多罪量刑最后一道总检，先定各罪正确刑罚、再因总额作整体调整（算例见 0G.2）。 | 〔CR8 L180 "The importance of the totality principle cannot be overstated"〕 |
+| 一并考虑（T.I.C.） | 当被告除本案被控罪名外，还犯有其他同类的未结案件（如多宗小额盗窃），被告可在认罪时主动签署清单承认这些未起诉罪行，请求法官在判刑时“一并考虑”（T.I.C.）。交易逻辑是换取“彻底洗底”（clean slate）：法官会把本案刑期略微调高（但远低于多案单独起诉的累加刑期），控方则承诺不再就清单上的旧案另行起诉——区院法定依据为 s.81 DCO，裁判法院与原讼庭依惯例运作。 | 〔CR8 L188 "into account in deciding on the appropriate sentence"〕 |
+| 感化令（Probation Order, PO） | 感化令是代替监禁的更生刑：仅适用于非法定刑的罪名，法庭须先索取感化官报告、被告须同意，刑期 1–3 年并附条件（如工作、居住、宵禁）；违反条件可被撤销并按原罪重新处置。它与缓刑的关键区别是——PO 全程没有监禁刑期，缓刑则是先判监再暂缓执行。 | 〔CR8 L352 "provided that the sentence for the offence is not fixed by law"〕 |
+| 社会服务令（Community Service Order, CSO） | 社会服务令是年满 14 岁被告在经适合性报告并获同意后，判处的无偿社区工作——上限 240 小时或 12 个月（以较先届满者为准）；它与 PO 同属代替监禁的更生刑，但用“做工抵刑”取代“监督期”，违反时可被罚款并撤销改按原罪处置。 | 〔CR8 L392 "The maximum number of hours of unpaid work"〕 |
+| 戒毒所令（DATC Order） | 戒毒所令适用于任何可判监禁的罪行（欠缴罚款罪除外），是代替其他刑罚的羁押式戒治，刑期 2–12 个月且实际期限由惩教署长决定；最大特点是候报告期间法定必须羁押、不可保释，违反监督属刑事罪。它与 PO/CSO 的区别在于：DATC 是羁押式戒毒而非社区监督。 | 〔CR8 L446 "The Defendant shall be remanded in custody pending preparation of report"〕 |
+| 缓刑（suspended sentence of imprisonment, S/S） | 缓刑不是独立刑种，而是“先判处不超过 2 年监禁、再决定暂缓执行”的机制——被告在 1–3 年的 operational period 内保持良好行为即可免服刑，但期内再犯会被激活原刑；Schedule 3 例外罪（如伤人、抢劫、非礼等）一律不可缓刑。它与感化令的区别：缓刑有监禁刑名义、违令直接坐牢；PO 无监禁刑、违令是重新就原罪判刑或罚款。 | 〔CR8 L460 "between 1 and 3 years. This is known as the ‘operational period’"〕 |
+| 充公令（forfeiture order） | 充公令（Forfeiture Order，ss.102–104 CPO）针对的是具体的涉案实物或作案工具——如凶器、走私车辆、涉案现金，裁判法院亦可判处；它与没收令的区别在于对象：forfeiture 收的是“东西”，confiscation 追的是“黑钱利润”。 | 〔CR8 L314 "provided it is no longer required as an exhibit"〕 |
+| 没收令（confiscation order） | 没收令（Confiscation Order）针对的是贩毒或有组织犯罪赚取的非法利润与黑钱收益，按金额计算追缴——s.8《有组织罪案及三合会条例》（OSCO）与 s.3《贩毒（追讨得益）条例》（DTRPO）均须由控方（或律政司司长）向区域法院或原讼法庭申请，裁判法院无权批出，举证责任为相对可能（balance of probabilities）。 | 〔CR8 L330 "is on the balance of probabilities"〕 |
+| 赔偿令（compensation order） | 赔偿令是定罪后命令被告向受害人赔偿人身伤害或财物损失的命令——区域法院及原讼庭依 s.73 CPO、裁判法院依 s.98《简易程序条例》（MO）（上限 $100,000）；它与被告自愿在求情中提出的赔偿不同：赔偿令是法庭强制命令、属可民事执行的判定债务，自愿赔偿只是求情因素。 | 〔CR8 L288 "Do not confuse this with the Defendant’s offer"〕 |
+| 归还令（restitution order） | 归还令（Restitution Order，s.84 CPO）是把被告非法占有的财物发还予真正有权管有者的命令，仅限区域法院与原讼庭；它解决的是“物归原主”的财产权问题，与赔偿令（补偿损失）和没收令（追缴利润）分属不同层面。 | 〔CR8 L306 "to return property to the person entitled to it"〕 |
+| 刑事破产令（Criminal Bankruptcy Order, CBO） | 刑事破产令在区域法院或原讼庭判处的罪行给他人造成逾 HK$150,000 的非人身伤害损失时，法庭可附加作出——本质是把民事破产机制引入刑事程序；它不可与赔偿令并存（赔偿属待评定而非算定额），且 s.84B 规定不能单独对 CBO 上诉。 | 〔CR8 L346 "a CBO and a Compensation Order cannot be combined"〕 |
+| 讼费（costs, CCCO） | 刑事案件的讼费没有普通法上的固有管辖，全部规则出自《刑事案件讼费条例》（CCCO，Cap. 492）——核心原则是“讼费随事件结果”（无罪者通常得费、定罪者通常不付），但并非自动产生，法庭须找到“特殊情况”才可判给控方讼费（详见 0K）。 | 〔OLD-LG99 L271 "Golden Rule : Not automatic upon conviction"·往届仅参考〕 |
+| 失效定罪（spent conviction） | 失效定罪指初犯、刑罚不超 3 个月或罚款不超 $10,000、且 3 年内无新定罪三项同时满足时，定罪记录被标记为“spent”——记录并未消除、仍在卷宗内，量刑时法院仍可考虑，被告再犯时该记录亦可采纳为证据。 | 〔CR8 L704 "Spent convictions can be taken into account on sentencing"〕 |
+| 还押折抵（time on remand, s.67A CPO） | 还押折抵指被告候审讯或候判期间的司法羁押在法庭定出释放日期时计入刑期——实务由惩教署长计算而非法官逐日折算；法定折抵之外，法官对与未定罪指控相关的羁押等特殊期间保留酌情（*Iqbal Zahid*）。 | 〔CR8 L530 "the court does have a discretion to reduce sentence"〕 |
+| 减刑（remission, r.69 Prison Rules） | 减刑指被告实际服刑逾 30 日且表现勤勉良好时，惩教署长可准予至多 1/3 的刑期减免——但终身监禁不适用，国安罪犯还须署长信纳减刑不违国安利益（r.69(1A)）；它是“服刑中提前出狱”的行政减免，与还押折抵（判刑前已羁押计入）是两个不同阶段的优惠。 | 〔CR8 L1371 "eligible for up to a 1/3 remission of his sentence"〕 |
+| Sivan 程序（Sivan Procedure） | Sivan 程序是协助执法信息的保密通道：被告的协助细节若涉及人身安全或未侦破调查，可经书面或内庭方式直接呈交法官、不经公开庭审（*R v. Chan Kwok-hung*）；判刑仍在公开进行，庭上只须说明“书面资料显示有特殊情况支持从宽处理”。 | 〔CR8 L1068 "Information of the Defendant’s assistance may be conveyed"〕 |
+| 未决案件（outstanding cases） | 未决案件指被告在其他法院尚待审理的案件——同一被告多案并行时，法庭可押后同场处理以确保量刑一致并适用 totality 原则，避免各案分别判刑造成整体刑期失衡。 | 〔CR8 L138 "currently pending against a Defendant"〕 |
+| 求情（Plea in Mitigation） | 求情是辩方在判刑前就刑罚选择与长度所作的陈词，目标是在全部情况下争取可合理科处的最轻处置——认罪后与审讯定罪后能讲的内容截然不同（见 0B.5）。 | 〔CR8 L1349 "There is a huge difference between mitigating after a plea of guilty"〕 |
 
-### c. 各环节解决什么问题（按程序时序）
+### 环节定位（按程序时序）
 
 | 环节（时序） | 它解决的具体问题 | 依据 |
 |---|---|---|
-| 定罪 → 判刑启动 | 判于何时、由谁判、需要否押后取报告、押后期间保释可否——把“已定罪”转成可判刑状态 | 〔CR8 L68 "if pre-sentencing reports are being called for, there will be an adjournment"；CR8 L72 "the question of bail needs to be considered"〕 |
-| 体制分层 | 先问罪名法定最高刑、审理法院权限、有无固定／强制刑——决定可判空间的天花板与下限 | 〔CR8 L100 "depends both on the maximum sentence prescribed"〕 |
-| 启动点 | 用哪份指引／可比案、起点定在哪——给后续一切加减一个数 | 〔CR8 L140 "A sentencing Judge in imposing a sentence of imprisonment should first fix"〕 |
-| 加减因素 | 哪些事实归起点、哪些归个案加重／减轻——防同一事实两边用 | 〔CR8 L1138 "This is only done in exceptional circumstances"；CR8 L1092 "aggravating factors increase the sentence from the starting point"〕 |
-| 认罪折扣 | 答辩实际时点对应哪一档；较轻罪要约是否已正式入纪录——决定可主张的百分比 | 〔CR8 L980 "a 25% reduction if he pleads guilty before trial dates are fixed"〕 |
-| 协助执法 | 有无资料、会否作证、何时提供、保密需求——决定第二笔扣减及程序 | 〔CR8 L1044 "the court will not take into account a promise to do so"〕 |
-| 法定加刑 | 控方有没有按 s.27(5) 通知、资料可否采纳、幅度是否超范围——回应或利用加刑程序 | 〔CR8 L1162 "been given an opportunity to be heard on the matter"〕 |
-| 刑罚选择 | 非监禁／设施／监禁哪类可用：先决报告、同意、年龄、健康、组合禁止——提出可执行的请求 | 〔CR8 L390 "the Court must first call for a suitability report"；CR8 L862 "must be remanded in custody"〕 |
-| 总额检验 | 多罪怎么执行、合计是否 crushing——把逐项答案组装成整体刑罚 | 〔CR8 L182 "Then the overall length of imprisonment may be reduced"〕 |
-| 附加命令 | 充公／没收／赔偿／取消资格是否也被请求或自动跟上——刑罚之外的资产与资格面 | 〔CR8 L334 "if no such application is made, then the court has no power to order confiscation"〕 |
-| 执行与记录 | 还押折抵、remission、spent 怎么落——判后实际服刑与记录面 | 〔CR8 L1371 "eligible for up to a 1/3 remission of his sentence"；CR8 L700 "The conviction is not erased but remains on their record"〕 |
-| 讼费 | 控方会否索费（s.12 CCCO 特殊情状）、辩方保住已支出费用（无罪／部分无罪）——金钱后果面 | 〔OLD-LG99 L271 "Not automatic upon conviction"·往届仅参考〕 |
-| 上诉互动 | 判词有没有可上诉的错误、28日／21日时限、败诉风险——判后救济评估 | 〔OLD-EXA L110 "within 28 days of sentencing"·往届仅参考〕 |
+| 定罪 → 判刑启动 | 法官须先确定判刑的时点与主持人——认罪定罪或审讯定罪均可，由主持审讯的同一法官判刑；若需索取感化报告、更生中心报告等判刑前报告，法庭会押后至少两周，且须重新评估押后期间的保释（部分报告法定必须羁押）。 | 〔CR8 L68 "if pre-sentencing reports are being called for, there will be an adjournment"；CR8 L72 "the question of bail needs to be considered"〕 |
+| 体制分层 | 法官先核查罪名的法定最高刑、审理法院的量刑权限，以及该罪有无固定刑或强制刑——这一步决定被告实际可能面对的刑罚天花板与下限，是后续一切计算的边界。 | 〔CR8 L100 "depends both on the maximum sentence prescribed"〕 |
+| 启动点 | 法官选定适用的上诉庭指引、tariff 或可比个案判例，按罪名与案情定出基础刑期——起点是后续所有加减与折扣的基数，起点定错则全盘皆错。 | 〔CR8 L140 "A sentencing Judge in imposing a sentence of imprisonment should first fix"〕 |
+| 加减因素 | 法官逐项分类案情事实——哪些属于定起点时已涵盖的情节、哪些属于个案加重、哪些属于减轻——以防止同一事实在起点与加重中重复计算。 | 〔CR8 L1138 "This is only done in exceptional circumstances"；CR8 L1092 "aggravating factors increase the sentence from the starting point"〕 |
+| 认罪折扣 | 法官按被告实际答辩的时点对照 Ngo VanNam 五档确定折扣比例；辩方须确认认罪是否正式提出、较轻罪要约是否已入法庭纪录，以主张应得的折扣。 | 〔CR8 L980 "a 25% reduction if he pleads guilty before trial dates are fixed"〕 |
+| 协助执法 | 法官审查被告是否实际提供了对执法有用的资料或愿意作证、提供的时机与保密需求——仅承诺不算数，资料加作证的折扣高于只供资料，保密需求走 Sivan 程序。 | 〔CR8 L1044 "the court will not take into account a promise to do so"〕 |
+| 法定加刑 | 控方若要加刑，须证明已按 s.27(5) 通知、所供资料可采纳、有组织犯罪达排除合理怀疑、加幅未超权限；辩方则逐项核对程序与幅度是否合规。 | 〔CR8 L1162 "been given an opportunity to be heard on the matter"〕 |
+| 刑罚选择 | 法官依次核查各非监禁刑罚的先决条件——PO 须感化报告与被告同意、CSO 须适合报告与同意、DATC/TC/RC 有各自年龄与健康门槛及羁押规则、缓刑须排除 Schedule 3 例外罪——再决定可提出何种可执行的刑罚请求。 | 〔CR8 L390 "the Court must first call for a suitability report"；CR8 L862 "must be remanded in custody"〕 |
+| 总额检验 | 多罪案件中，法官先给每罪各自定刑，再决定并立或连续执行，最后以 totality 原则检验合计刑期是否反映全部罪责且不致 crushing。 | 〔CR8 L182 "Then the overall length of imprisonment may be reduced"〕 |
+| 附加命令 | 法官核查充公、没收、赔偿、归还、取消资格与刑事破产令是否被依法申请或自动跟随——没收令须控方申请（法院无主动权），赔偿令与被告自愿赔偿是两回事。 | 〔CR8 L334 "if no such application is made, then the court has no power to order confiscation"〕 |
+| 执行与记录 | 判刑后还押折抵、服刑减刑与失效定罪决定被告实际服刑长短与记录后果——还押折抵由惩教署长计算，减刑须表现良好，spent 记录仍可被量刑考虑。 | 〔CR8 L1371 "eligible for up to a 1/3 remission of his sentence"；CR8 L700 "The conviction is not erased but remains on their record"〕 |
+| 讼费 | 讼费不随胜败自动产生——控方定罪后索费须有特殊情况，辩方无罪或部分无罪时可依 CCCO 申请讼费，但须防控方以自招嫌疑等正面理由拒付。 | 〔OLD-LG99 L271 "Not automatic upon conviction"·往届仅参考〕 |
+| 上诉互动 | 判刑后双方各有时限——被告刑期上诉 28 日、律政司复核 21 日；辩方须从判刑理由中找可上诉错误，同时评估败诉可能招致的 loss of time 风险。 | 〔OLD-EXA L110 "within 28 days of sentencing"·往届仅参考〕 |
 
 
 <!-- BEGIN:cite-legend -->
@@ -189,18 +189,18 @@ flowchart TD
 
 | 你现在要做什么 | 直达章节 |
 |---|---|
-| 30 秒弄清范围/术语/每环任务 | [速读定位层](#速读定位层（30%20秒全景：范围%20·%20术语%20·%20环节任务）) |
+| 30 秒弄清范围/术语/每环任务 | [速读定位层](#速读定位层30-秒全景范围--术语--环节任务) |
 | LG8（10-12/13）上课跟堂 | 0B–0K 深节（母题图对照大纲目录） |
-| 给客户估刑 | [0C 启动点法](#0C.%20启动点法与量刑指引（2026-10-10%20深化）)＋0M.1 暗礁 1/3/4 |
+| 给客户估刑 | [0C 启动点法](#0c-启动点法与量刑指引)＋0M.1 暗礁 1/3/4 |
 | 写求情陈词／提量刑请求 | 0D＋0E＋0H |
-| 答辩时机与较轻罪要约 | [0D 认罪折扣](#0D.%20认罪折扣：分档、时机与基数（2026-10-10%20深化）) |
-| 控方提了加刑申请 | [0F 法定加刑](#0F.%20法定加刑：s.27%20OSCO%20与%20s.56A%20DDO（2026-10-10%20深化）) |
-| 客户多罪／有未决案 | [0G 并串与总额](#0G.%20多罪并串、T.I.C.%20与总额原则（2026-10-10%20深化）) |
-| 想求非监禁／缓刑 | [0H 非监禁与设施类](#0H.%20非监禁与设施类选择（2026-10-10%20深化）)（先核 Schedule 3） |
-| 判后要评上诉／诉费 | [0L 上诉互动](#0L.%20上诉量刑互动：从判刑理由倒推（2026-10-10%20深化）)＋[0K 讼费](#0K.%20讼费（CCCO，往届承重，2026-10-10%20深化）) |
-| 考前扫高频失误 | [0M.1 暗礁](#0M.%20实务暗礁与核对清单（2026-10-10%20深化；2026-11-16%20对齐四级蓝图）)＋[0N 总表](#0N.%20环节×不做后果链×依据%20总表（索引）（2026-10-10%20深化；2026-11-16%20重编）) |
-| 准备 SG07（11-11） | [0O.1 SG07 应用](#0O.%20SG%20应用（2026-10-10%20深化；2026-11-16%20重编，材料矩阵移审计留痕）)＋0F／0G／0K／0L |
-| 准备 SG08（11-18） | [0O.2 SG08 应用](#0O.%20SG%20应用（2026-10-10%20深化；2026-11-16%20重编，材料矩阵移审计留痕）)＋0L（上诉框架主体待 LGS9/10） |
+| 答辩时机与较轻罪要约 | [0D 认罪折扣](#0d-认罪折扣分档时机与基数) |
+| 控方提了加刑申请 | [0F 法定加刑](#0f-法定加刑s27-osco-与-s56a-ddo) |
+| 客户多罪／有未决案 | [0G 并串与总额](#0g-多罪并串tic-与总额原则) |
+| 想求非监禁／缓刑 | [0H 非监禁与设施类](#0h-非监禁与设施类选择)（先核 Schedule 3） |
+| 判后要评上诉／诉费 | [0L 上诉互动](#0l-上诉量刑互动从判刑理由倒推)＋[0K 讼费](#0k-讼费ccco) |
+| 考前扫高频失误 | [0M.1 暗礁](#0m-实务暗礁与核对清单)＋[0N 总表](#0n-环节不做后果链依据-总表索引) |
+| 准备 SG07（11-11） | [0O.1 SG07 应用](#0o1-sg072026-11-11题面已入库量刑讼费上诉的上游应用)＋0F／0G／0K／0L |
+| 准备 SG08（11-18） | [0O.2 SG08 应用](#0o2-sg082026-11-18题书已到)＋0L（上诉框架主体待 LGS9/10） |
 
 ## 0B. 量刑程序与原则：从定罪到宣读判刑理由
 
@@ -272,7 +272,7 @@ flowchart TD
 - **减刑（remission）**：被告实际服刑逾 30 日（经 s.67A 折抵还押后的刑期）且表现勤勉、行为良好时，惩教署长可准予至多 1/3 的减刑，但减后剩余刑期不得少于 31 日；释放日期由惩教署长计算而非法官。r.69 减刑规则不适用于终身监禁；国安罪犯须经惩教署长信纳减刑不违国安利益方可获减刑（r.69(1A)，具追溯力，署长拒绝减刑的须每年复核）〔CR8 L1371 "the proviso to r.69(1)"；CR8 L1373 "Rule 69 does not apply to a life sentences."；CR8 L1375 "must not be granted remission unless the Commissioner is satisfied"〕。
 - **失效定罪（spent conviction）**：ROO 规定三项条件同时满足方可失效——属初犯、刑罚不超过 3 个月或罚款不超过 $10,000、且 3 年内无新定罪。“spent”并不等于清白记录或 good character：定罪记录仍在卷宗内，只是被标记为“spent”；量刑时法院仍可考虑（s.3(3) ROO）；若再犯，该记录可采纳为证据（s.3(4)）；法官亦可视公正需要酌情准许控方就该记录盘问（s.3(2)）〔CR8 L700 "The conviction is not erased but remains on their record"；CR8 L704–L708 "Spent convictions can be taken into account on sentencing"〕。
 
-**总表索引**：判刑启动与求情环节“不做／做错”的后果链，见 [0N 总表](#0N.%20环节×不做后果链×依据%20总表（索引）（2026-10-10%20深化；2026-11-16%20重编）) 行 1（候报告保释）、行 10（不核记录与前科）、行 11（求情踩界）；上诉接口见行 13–14。
+**总表索引**：判刑启动与求情环节“不做／做错”的后果链，见 [0N 总表](#0n-环节不做后果链依据-总表索引) 行 1（候报告保释）、行 10（不核记录与前科）、行 11（求情踩界）；上诉接口见行 13–14。
 
 ## 0C. 启动点法与量刑指引
 
@@ -798,7 +798,7 @@ flowchart TD
 
 > **承接**：前面各节是"规则是什么"，本节回答"实务上最容易在哪里出错"——暗礁十二条配全流程核对清单，逐闸自检。
 
-> 对应合同「实务暗礁与核对清单」。0M.1 十二条高频失误把 0B–0L 各深节的红线反向列出（考场与实务都看）；0M.2 把定罪到判后的每个闸门变成「自检问题＋未过时的动作」，逐闸走完才算备妥。各闸做错的具体后果与依据统一收口 [0N 总表](#0N.%20环节×不做后果链×依据%20总表（索引）（2026-10-10%20深化；2026-11-16%20重编）)。
+> 对应合同「实务暗礁与核对清单」。0M.1 十二条高频失误把 0B–0L 各深节的红线反向列出（考场与实务都看）；0M.2 把定罪到判后的每个闸门变成「自检问题＋未过时的动作」，逐闸走完才算备妥。各闸做错的具体后果与依据统一收口 [0N 总表](#0n-环节不做后果链依据-总表索引)。
 
 ### 0M.1 实务暗礁十二条（考场与实务高频失误）
 
@@ -817,7 +817,7 @@ flowchart TD
 
 ### 0M.2 全流程核对清单（定罪→判后，逐闸自检）
 
-每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [0N 总表](#0N.%20环节×不做后果链×依据%20总表（索引）（2026-10-10%20深化；2026-11-16%20重编）)。
+每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [0N 总表](#0n-环节不做后果链依据-总表索引)。
 
 | # | 闸门（时序） | 自检问题（辩方视角） | 未过时的动作 | 深节回点 |
 |---|---|---|---|---|
@@ -873,7 +873,7 @@ flowchart TD
 
 | SG07 争点（Brief A Q4／Brief B Q3） | 本卡落点 | 关键定位 |
 |---|---|---|
-| 每罪 2.5 年起点上加 2 年＋流行情报加刑 | [0F 法定加刑](#0F.%20法定加刑：s.27%20OSCO%20与%20s.56A%20DDO（2026-10-10%20深化）) | TO s.11(1) 在 OSCO Sch.1 摘录；s.27 普遍性与有组织犯罪是不同入口；无统一50%上限 |
+| 每罪 2.5 年起点上加 2 年＋流行情报加刑 | [0F 法定加刑](#0f-法定加刑s27-osco-与-s56a-ddo) | TO s.11(1) 在 OSCO Sch.1 摘录；s.27 普遍性与有组织犯罪是不同入口；无统一50%上限 |
 | “serial burglar（Somalia 前科）”与 s.65C 清白记录冲突 | [0B.3 记录面]＋[0L.1 理由④] | wrong factual premise；承认事实约束与撤回 |
 | “came to Hong Kong to commit these burglaries” | [0B.4]＋[0L.1] | 无证据支持的推定；Form 8 身份可加重原则与比例（Mahabul Alam Khan／Junaid Ahmed） |
 | 三罪 4.5×3＝13.5 年 | [0G 并串与 totality] | 二段式；总刑 crushing 面 |
