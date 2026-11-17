@@ -453,6 +453,18 @@ export default defineConfig({
 										{ label: '建议顺序', en: 'Recommended Order', href: '#5-建议顺序' },
 									]
 								},
+								'16-institution-criminal-appeals': {
+									title: '刑事上诉与判后复核核验清单', badge: '7项核心',
+									items: [
+										{ label: 'MC 14日三轨选择', en: 'MC Three Tracks', href: '#0b-裁判法院mc判后救济三轨道s104-复核s113-原讼庭上诉与-s105-案件呈述14日死线与互斥选择' },
+										{ label: 'CA 28日许可与 Renew', en: 'CA Leave & Renew', href: '#0c-区院dc与原讼庭cfi向上诉庭ca上诉程序28日死线许可要求单一法官初审与合议庭重提renew' },
+										{ label: 's.83W 损失时间与 Form VII', en: 'Loss of Time & Form VII', href: '#0d-滥用上诉的上诉风险与退出加刑s83w-损失时间令loss-of-time与-form-vii-放弃上诉' },
+										{ label: 's.83(1) 定罪上诉与 Proviso', en: 'Conviction Appeal & Proviso', href: '#0e-对定罪上诉appeal-against-convictions831-三大法定理由proviso-但书条款与-s83v-新证据准入ladd-v-marshall' },
+										{ label: 's.83V 新证据 Ladd v Marshall', en: 'Fresh Evidence', href: '#0e6-二审采纳新证据之极高门槛cpo-s83v-与-ladd-v-marshall-三步门槛' },
+										{ label: '律政司 s.81A 与 s.84 DCO', en: 'SJ Review & Case Stated', href: '#0g-控方律政司司长-sj的判后救济途径s81a-刑期复核明显过轻无罪案件呈述上诉s84-dco--s81e-cpo与法律问题转介' },
+										{ label: 'CFA s.32 双闸口与 Lau Man Kin', en: 'CFA Gates & Bail', href: '#0h-终审法院cfa终审上诉双闸口hkcfao-s32上诉待决保释接口lau-man-kin与上诉讼费' },
+									]
+								},
 								'05-institution-bail': {
 									title: '保释制度核验清单', badge: '7项核心',
 									items: [
