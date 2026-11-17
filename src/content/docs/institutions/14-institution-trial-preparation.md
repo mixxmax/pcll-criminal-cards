@@ -57,7 +57,7 @@ updated: 2026-11-17
 
 > **白话导引**：本卡是一条「把卷宗变成审讯文件」的流水线——先从法院拿齐该拿的案卷（CFI／DC 有自动送达，MC 要自己写信去要，unused material 永远要主动开口），把纸读成时间轴、人物表和控辩分析表；与客户开完会、拿到书面授权，再委任大律师与专家；用客户自己的话写下 proof，写出让大律师不重建卷宗就能办事的 Brief；然后把不争的证人以 s.65B 书面陈述送进证据、把无争议的事实用 s.65C 承认钉死；最后 CMQ→CMH→PTR→Certificate of Readiness 一路把准备钉成法院命令。流水线上每一站都有死线：错过不是「下次补」——证人传不得、陈述自动入证、承认撤不掉、审期失信，逐项后果见 0J 总表。
 
-### a. 程序辐射范围（本卡覆盖什么，不覆盖什么）
+### 适用范围
 
 **覆盖（按程序时序）**——从案卷到手到开审前夜的完整"卷宗 → 证明 → 指示 → 定型 → 收口"链：
 
@@ -73,7 +73,7 @@ updated: 2026-11-17
 
 **不覆盖（边界声明，相关主卡承担）**：① 披露义务本体与未用材料争议的攻防主体（→ 13 证据争议卡；本卡只在 0B.3／0G.4 作接口）；② 供认可采性争议、voir dire／alternative procedure 与 Grounds of Objection 起草本体（→ 13 证据争议卡 与 SG06／SG07 入口；本卡 0G 只留 PTR 上的申报位）；③ 答辩与认罪后处置（Newton、Brief Facts 谈判、O.N.E.）（→ 06 答辩意见卡；本卡只在与 Admitted Facts／Summary of Facts 接口处点到）；④ 控罪内容与审讯路线（→ 08 控罪卡）；⑤ 保释（→ 05 保释卡）；⑥ 永久中止诉讼（permanent stay）的申请主体与 PD 9.7 流程（→ 13 证据争议卡 与 SG04 PD9.5／PD9.7 逐段核验；本卡 0G.5 只作接口）；⑦ 上诉机制（→ 13 证据争议卡 与 SG08 入口；s.65C 在上诉面的效果只列后果链不动上诉规则）。
 
-### b. 关键术语逐一一句精确定义（中文定义＝英文原词＋引注）
+### 术语（核心概念与实务运作定义）
 
 | 术语（英文原词） | 一句中文精确定义 | 依据 |
 |---|---|---|
@@ -98,7 +98,7 @@ updated: 2026-11-17
 | 备妥审讯证明（Certificate of Readiness for Trial） | CFI 程序时表各准备步完成后 7 日内向法院交存、确认案件可于排期或法院所定更早时间开审的证明；交存后有重大变化须即时报刑事排期法官〔PD93 L366 "within 7 days after the completion of all preparatory steps"；PD93 L370 "immediately be brought to the attention of the Criminal Listing Judge"〕 | PD 9.3 §5.6 |
 | 永久中止诉讼（permanent stay） | 法院固有管辖下终止程序的特殊救济：公平审讯不可能（如不当延误、控方不公、偏见性审前宣传），或虽可公平审讯但滥权严重至冒犯法庭公正感或公众对司法的信心；辩方负举证（相对可能衡量）、极少获准〔CR5P L139 "Court’s inherent jurisdiction to prevent abuse of its process"；CR5P L147 "Fair trial is impossible and to continue would be abuse of process"〕 | Lee Ming Tee；PGD 接口卡承担 |
 
-### c. 各环节解决什么问题（按程序时序）
+### 环节定位（按程序时序）
 
 | 环节（时序） | 它解决的具体问题 | 依据 |
 |---|---|---|
@@ -154,11 +154,11 @@ updated: 2026-11-17
 > | V6 | SG06法源与来源身份核验 | 库外法源 | 2026-27 |
 <!-- END:cite-legend -->
 
-## 🗺️ 本卡地图（章节位置与阅读顺序，2026-10-10）
+## 🗺️ 本卡地图（章节位置与阅读顺序）
 
 > 本卡按"程序时序"排章：案卷 → 分析 → 会议 → 委任 → 证明 → Brief → 法定披露 → 定型 → 收口，主线自上而下顺读即流程；五原则节（§1–§6）是学理回扣层，随时可旁插。
 >
-> 本节两件套：**图 1 · 母题结构图**（下一张，审讯准备与文书的分支 roadmap＝全流程主干、十条分支与后果虚线；全景状态机＝**图 2** 见 0B.1）→ **任务直达表**（按要做的事跳章节）。
+> 本节两件套：**图 1 · 母题结构图**（下一张，审讯准备与文书的分支 roadmap 即全流程主干、十条分支与后果虚线；全景状态机见**图 2** 见 0B.1）→ **任务直达表**（按要做的事跳章节）。
 
 **图 1 · 审讯准备与文书分支 roadmap（全流程主干与后果虚线）**：
 
@@ -196,16 +196,16 @@ flowchart LR
 
 | 你现在要做什么 | 直达章节 |
 |---|---|
-| 30 秒弄清范围/术语/每环任务 | [速读定位层](#速读定位层（30%20秒全景：范围%20·%20术语%20·%20环节任务）) |
-| 刚接手卷宗要定读卷计划 | [0B.3 三司法区案卷](#0B.3%20三司法区的案卷取得与披露实务)＋[0B.4 读卷清单](#0B.4%20读卷方法：从清单到三表) |
-| 要写 Brief to Counsel（**P1：SGS5 2026-10-28/29 交纸本**） | [0C.4 Brief 结构](#0C.4%20Brief%20to%20Counsel：结构、争点与证据对齐（SG04%20深节）)＋[0K.1 SG04 锚点](#0K.1%20SG04：Brief%20起草与本场作业锚点（2026-10-10%20深化）) |
-| 要取客户／证人证明 | [0D.1 proof 清单](#0D.1%20Client's%20Proof%20of%20Evidence：逐项清单)＋[0D.2 潜在证人](#0D.2%20潜在证人：proof、传召判断与不披露) |
-| 收到 s.65B 陈述／s.65C 草稿 | [0E s.65B](#0E.%20证据定型%20I：s.65B%20书面证供陈述——合规要点与司法区实务（2026-10-10%20深化）)／[0F s.65C](#0F.%20证据定型%20II：s.65C%20承认事实——文书功夫与攻防（2026-10-10%20深化）) |
-| 有迟交的不在场证据／专家证据 | [0D.3 法定披露两项](#0D.3%20辩方仅有的两项法定披露：alibi%20通知与%20s.65DA%20专家证据) |
-| 快开审要核程序文件 | [0G PTR/CMH](#0G.%20PTR／CMH%20与审讯收口文件：把准备钉成命令（2026-10-10%20深化）) |
-| 想知道"某步不做会怎样" | [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）)（正文各环节回点总表行） |
-| 考前扫高频失误 | [0I.1 暗礁十二条](#0I.1%20实务暗礁十二条（考场与实务都看的高频失误）) |
-| 做 SG05 三表／memo／承认事实作业 | [0K.2 SG05 锚点](#0K.2%20SG05：三表·主管%20memo·s.65C%20反建议（2026-10-10%20深化）) |
+| 30 秒弄清范围/术语/每环任务 | [速读定位层](#速读定位层30-秒全景范围--术语--环节任务) |
+| 刚接手卷宗要定读卷计划 | [0B.3 三司法区案卷](#0b3-三司法区的案卷取得与披露实务)＋[0B.4 读卷清单](#0b4-读卷方法从清单到三表) |
+| 要写 Brief to Counsel（**P1：SGS5 2026-10-28/29 交纸本**） | [0C.4 Brief 结构](#0c4-brief-to-counsel结构争点与证据对齐sg04-深节)＋[0K.1 SG04 锚点](#0k1-sg04brief-起草与本场作业锚点) |
+| 要取客户／证人证明 | [0D.1 proof 清单](#0d1-clients-proof-of-evidence逐项清单)＋[0D.2 潜在证人](#0d2-潜在证人proof传召判断与不披露) |
+| 收到 s.65B 陈述／s.65C 草稿 | [0E s.65B](#0e-证据定型-is65b-书面证供陈述合规要点与司法区实务)／[0F s.65C](#0f-证据定型-iis65c-承认事实文书功夫与攻防) |
+| 有迟交的不在场证据／专家证据 | [0D.3 法定披露两项](#0d3-辩方仅有的两项法定披露alibi-通知与-s65da-专家证据) |
+| 快开审要核程序文件 | [0G PTR/CMH](#0g-ptrcmh-与审讯收口文件把准备钉成命令) |
+| 想知道"某步不做会怎样" | [0J 总表](#0j-环节不做后果链总表索引)（正文各环节回点总表行） |
+| 考前扫高频失误 | [0I.1 暗礁十二条](#0i1-实务暗礁十二条考场与实务都看的高频失误) |
+| 做 SG05 三表／memo／承认事实作业 | [0K.2 SG05 锚点](#0k2-sg05三表主管-memos65c-反建议) |
 | 学理复盘（五原则） | §1 第一性 → §2 顺向 → §3 规则边界 → §4 控制论 → §5 横向 → §6 逆向 |
 
 ## 0A. 把卷宗转成大律师能执行的指示与审讯文件
@@ -286,13 +286,13 @@ Permanent stay是不同救济：公平审讯不可能，或即使可公平审讯
 
 〔CR5P L137–L169 "Court’s inherent jurisdiction to prevent abuse of its process:"〕
 
-（图注）本节原附的七节点循环小图已并入 [0B.1 全景状态机](#0B.1%20全景状态机：从案卷到开审，以及两条逾期反馈环)（图 2）；分流叙述与引注保留。
+（图注）本节原附的七节点循环小图已并入 [0B.1 全景状态机](#0b1-全景状态机从案卷到开审以及两条逾期反馈环)（图 2）；分流叙述与引注保留。
 
 ### 0A.9 本届SG交付物的最后核对
 
 SG04要交的brief应按本届题面、附件链及评分指引核对角色、日期和拟委工作；往届范本只提供可能结构，不能当成本届已经取得的文件或事实。此卡解释怎么做；具体可用完整稿和Word应从SG04 Classroom进入，避免凝结层再复制一份竞争版本。〔CR7 L226 "You will have an opportunity to draft a Brief to"〕
 
-## 0B. 审讯准备总框架：案卷 → 分析 → 会议 → 委任 → 文书 → 定型 → 收口（2026-10-10 深化）
+## 0B. 审讯准备总框架：案卷 → 分析 → 会议 → 委任 → 文书 → 定型 → 收口
 
 > 本节为 2026-10-10 §18 深化重构新增的主体之一。主线：**案卷取得（按司法区）→ 读卷与分析 → 客户会议与初步意见 → 委任大律师／专家 → Brief 与 Proof → 辩方两项法定披露 → s.65B／s.65C 证据定型 → CMQ／CMH／PTR → Certificate of Readiness → 开审**。旁挂两条风险线：**辩方仅有的法定披露逾期** 与 **定型文书做烂**。主体依据为本届 LGS7 讲义（CR7）与幻灯（CR7PP）、LGS5 Part 3 补充（CR5P）、PD 9.3／9.4 原文（PD93／PD94）与 LGS6 披露两条款（CR6）。
 
@@ -336,7 +336,7 @@ flowchart TD
  B1 -. 回到分析 .-> READ
  DISC -. 逾期 .-> WARN1[["不得传召／不得援引（法庭仍可许可）＋押后＋讼费"]]
  WARN1 -. 申请leave并给解释 .-> TRIAL
- B65B -. 14/21日不反对 .-> WARN2[["自动入证＝失去XXN 该证人机会"]]
+ B65B -. 14/21日不反对 .-> WARN2[["自动入证：失去XXN 该证人机会"]]
  C65C -. 签错难撤 .-> WARN3[["conclusive：上诉与重审仍生效；撤回须许可＋充分理由"]]
 ```
 
@@ -356,7 +356,7 @@ flowchart TD
 | CFI s.65B 通知与反对通知 | 控方：编页册交存后 **21 日**内发拟援引 s.65B 的通知；辩方反对：收通知后 **21 日**内〔PD93 L326 "informing that the prosecution intends to tender the written statement of a witness pursuant to section 65B"；PD93 L328 "his notice of objection"〕 | PD 9.3 §5.3.7；s.65B(2) | ⚠️ 与 CPO s.65B(2) 的 **14 日**反对期并列不裁决（讲义口径 14 日；见 0E.1 与 open O-T4）〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"〕 |
 | CFI 未披露 unused 材料清单 | CMH 后 **14 日**内由控方提供〔PD93 L342 "provide to the defence a list of any unused materials which have not yet been disclosed within 14 days after the Case Management Hearing"〕 | PD 9.3 §5.3.11 | 辩方另应一贯主动索取〔CR7 L82 "Despite the Prosecution’s duty of disclosure, instructing solicitors for the defence should be proactive in making disclosure requests to prevent the loss or destruction of"〕 |
 | CFI 交 PTR 册 | PTR 前**不少于 14 日**；PTR 通常订于审前 **6–8 周**〔PD93 L352 "Not less than 14 days before the Pre-trial Review"；PD93 L350 "usually about 6 to 8 weeks before trial"〕 | PD 9.3 §5.5.2 | 册内含 s.65C 承认事实册／s.65B 陈述列表＋PTR 问卷＋拟议方向〔PD93 L354 "(1) a copy of the admitted facts under section 65C of the Criminal Procedure Ordinance and/or a list of admission of witness statements under section"〕；被告出席可豁免、出庭大律师必到〔PD93 L360 "5.5.3 The Pre-trial Review will take place in chambers before the Trial Judge. The defendant shall be present at the Pre-trial Review unless his legal"〕 |
-| CFI 备妥审讯证明（CoR） | 准备步骤完成后 **7 日**内〔PD93 L366 "5.6.1 The court will direct the parties to file with the court a Certificate of Readiness for Trial[13] within 7 days after the completion of"〕 | PD 9.3 §5.6 | 交存＝确认案件可于排期或更早时间开审；其后重大变化立即报排期法官〔PD93 L368–L370 "5.6.2 Filing of the Certificate means that, unless there is any unforeseen and material change in circumstances, there is no more outstanding procedural matter and"〕 |
+| CFI 备妥审讯证明（CoR） | 准备步骤完成后 **7 日**内〔PD93 L366 "5.6.1 The court will direct the parties to file with the court a Certificate of Readiness for Trial[13] within 7 days after the completion of"〕 | PD 9.3 §5.6 | 交存即确认案件可于排期或更早时间开审；其后重大变化立即报排期法官〔PD93 L368–L370 "5.6.2 Filing of the Certificate means that, unless there is any unforeseen and material change in circumstances, there is no more outstanding procedural matter and"〕 |
 | DC 移交时送达证人陈述＋文件证物 | 移交日或之前送达〔PD94 L18 "they shall on or before the date of transfer serve on each accused copies of the witness statements"〕 | PD 9.4 ¶1–9 | 册须有连页码与索引；后续材料以"additional evidence"附表格送达〔PD94 L28 "6. Any further material upon which the prosecution seek to rely shall be served as additional evidence. It shall be accompanied by a form making"〕；未用材料以表格说明〔PD94 L36 "10. On the service of the original bundles the prosecution shall also serve a form stating whether or not unused materials exist and giving the"〕 |
 | DC s.65C 通知与回覆／s.65B 送达 | 已订 PTR 者：互发 notice to admit facts，回覆须合 s.65C，副本服务 Registrar, DC；s.65B 陈述 PTR 前送达、**无反对协议才**送 Registrar〔PD94 L60–L70 "The party to whom a notice under para.14 is addressed may serve a notice in reply"；PD94 L72 "should not be served on the Registrar, District Court unless it is agreed by the parties that there is no objection"〕 | PD 9.4 ¶14–16 | PTR 上亦可由任一方口头承认〔PD94 L70 "15. The party to whom a notice under para.14 is addressed may serve a notice in reply stating any fact admitted. Such admission should be"〕 |
 | DC 性罪行案件特别通知 | 律政司司长不迟于 PTR 前 10 日（或无 PTR 时开审前 21 日）通知屏风／特别通道／陪伴者意向；被告 7 日内答反对〔PD94 L46 "not later than 10 days before the pre-trial review (if a pre-trial review has been ordered) or 21 days before the commencement of the trial"〕 | PD 9.4 ¶13 | 与本卡的证人出庭安排接口（详 0G.2） |
@@ -388,7 +388,7 @@ flowchart TD
 
 ==**【SG05录音补充｜2026-10-28 12:41】** SG05把读卷缺口转成实地调查：立即保存CCTV／实物，再于相同星期及时段复访观察环境、员工及潜在证人；重要原件检查背面、铅笔字及订书钉痕。不是只列“发函索取证据”。 〔SG5REC L188 "Going the same day at the same time"〕〔SG5REC L228 "Ideally, originals, if you can"〕==
 
-## 0C. 客户会议、委任链与 Brief 深节（2026-10-10 深化）
+## 0C. 客户会议、委任链与 Brief 深节
 
 > 对应合同深节"给大律师的指示（结构/争点/证据对齐）"。本节把 0A.3–0A.5 的骨架填成本届明细：会议议程、授权链、专家链、Brief 九节与评分坐标。
 
@@ -412,17 +412,17 @@ flowchart TD
 | 事项 | 规则 | 依据 |
 |---|---|---|
 | 书面授权 | 决定委任后，**必须**先取客户书面授权方可委任大律师〔CR7 L184 "If the decision has been made to instruct then a solicitor MUST also seek the written authority of the client before instructing counsel."〕 | CR7 L184 |
-| 费用责任 | 大律师费属事务律师代垫的 disbursement、事务律师对付费负责；金额较大须经客户明示或默示授权，否则争议时客户可拒付〔CR7 L186 "All disbursements incurred by a solicitor should be expressly or impliedly authorized by the client"〕 | CR7 L186 |
+| 费用责任 | 大律师费属事务律师代垫的 disbursement、事务律师对付费负责；金额较大须经客户明示或默示授权，否则争议时客户有权拒绝付款〔CR7 L186 "All disbursements incurred by a solicitor should be expressly or impliedly authorized by the client"〕 | CR7 L186 |
 | 禁止 touting | 与大律师或其书记的**初次联系**须由事务律师本人进行、不得由其文员进行（BC 5.16, 7.4, 9.1）；费用协商亦须本人进行（BC 9.10）〔CR7 L188 "the first contact with counsel or his clerk must be made by the solicitor personally and not his clerk"〕 | CR7 L188 |
 | 委任前提 | 除例外情形，大律师只能按事务律师指示行事（BC 5.16-18, Annex 4）〔CR7 L190 "With some exceptions, a barrister can only act on the instructions of solicitor"〕 | CR7 L190 |
-| 出庭 backsheet | 委任出庭必交签署 backsheet（BC para 7.5 资讯）；brief 未标 fee／未注明 no fee／"Legal Aid"者出庭＝专业失当〔CR7 L198 "It is professional misconduct for a barrister to appear in court without a fee marked on the brief"〕 | CR7 L198 |
+| 出庭 backsheet | 委任出庭必交签署 backsheet（BC para 7.5 资讯）；brief 未标 fee／未注明 no fee／"Legal Aid"者出庭即专业失当〔CR7 L198 "It is professional misconduct for a barrister to appear in court without a fee marked on the brief"〕 | CR7 L198 |
 | Rule 5D(e) 内容清单 | 尽快、相关聆讯前且委任后 **7 日内**送交 backsheet 或书面指示，载：事务律师姓名＋本人签署、律师行名称、案件名称与法院编号、大律师姓名、商定费用〔CR7 L200 "the solicitor’s firm must deliver a backsheet or other written instructions to counsel containing: the name and personal signature of the instructing solicitor"〕 | CR7 L200 |
 | 费用结构 | 可按工作逐项收费或议定 lump sum（BC 9.1）；**不得**：固定月薪代表某人／机构；固定期间内固定费建议；同一 brief 单一费用跨多案出庭（BC 9.6）〔CR7 L228 "she may agree to a lump sum for the entire work"；CR7 L228 "or accept a single brief marked with a single fee to appear on behalf of a client in more than one case or matter"〕 | CR7 L228 |
 | 资深大律师（SC） | 视案件复杂程度考虑，且须客户授权〔CR7 L232 "Consideration may be given to whether this is necessary, depending on the complexity of the case and the client’s authorisation."〕 | CR7 L232 |
 
 **2026-10-21更新**：SGS4要求复习的Rule5D及Bar Code原文已由外部取得；核验摘要、准确原站URL及版本边界见LAW21，不再仅依CR7摘述〔SG4S L102 "you should look at The Solicitors’ Practice Rules, Rule 5D (see Part VI) and the Bar Code para 7.5-7.11"〕。
 
-**改委Counsel的本届应用**：身份等重大变更后七日内书面通知客户并取得书面签署同意；S4指定Dennis Au不证明手续已做。〔LAW21 L42 "Counsel change: (b)发生重大变更（条文以Counse"〕。本题advice brief附backsheet直接依题面；Bar7.5的出庭范围与例外另核。〔LAW21 L44 "Backsheet timing: (e)须尽快、相关聆讯前且委任后不"〕
+**改委Counsel的本届应用**：身份等重大变更后七日内书面通知客户并取得书面签署同意；S4指定Dennis Au不证明手续已做。〔LAW21 L42 "Counsel change: (b)发生重大变更（条文以Counse"〕。本题advice brief附backsheet直接依题面；Bar7.5的出庭范围与例外另行核实。〔LAW21 L44 "Backsheet timing: (e)须尽快、相关聆讯前且委任后不"〕
 
 ### 0C.3 委任专家：同意、费用与"尽早"
 
@@ -469,7 +469,7 @@ flowchart TD
 6. **Agree brief fee 可议定**：本届设定可自行协商费用〔SG4S L120 "You can negotiate your own fee."〕。
 7. **暗礁**：把样本里的事实搬来（0K.1 的 SG4OA Q2 批评面）；把"证据强"写成律师结论却无争点；enclosures 写"已附"其实未附；漏客方账户／法援状态；backsheet 不写费。
 
-## 0D. 证明文书：Proof of Evidence、潜在证人与辩方仅有的两项法定披露（2026-10-10 深化）
+## 0D. 证明文书：Proof of Evidence、潜在证人与辩方仅有的两项法定披露
 
 > 对应合同深节"届证人准备与 proof"与"disclosure unused material 披露"。本节把"谁会说什么"从想法变为**可盘问的书面版本**，并钉住辩方仅有的两项对外披露。
 
@@ -528,7 +528,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | 豁免与暂缓 | 他方可豁免改口头陈述（s.65DA(2)）；有合理理由相信披露可恐吓证人或干扰司法者，须通知他方暂缓并说明原因（s.65DA(3)&(4)）〔CR6 L274 "Either party can waive their right to be furnished"；CR6 L276 "might lead to the intimidation, or attempted intimidation, of any person"〕 | CR6 L274–L276 |
 | 不遵守 | 未经法庭许可不得在审讯援引；并可能引致押后与 wasted costs 命令〔CR6 L278 "It may also mean an adjournment and wasted costs orders."〕；开庭首日开始才聘专家＋未 ASAPP 供报告→leave 被拒（Lai Chee Ying，另涉相关性问题）〔CR6 L280 "providing the report to the Prosecution and on this basis, leave was denied."〕 | CR6 L278–L280 |
 
-**后果点题**：两项逾期都归 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）) 行 8–9。
+**后果点题**：两项逾期都归 [0J 总表](#0j-环节不做后果链总表索引) 行 8–9。
 
 **Alibi计算与leave补核（2026-10-21）**：〔LAW21 L30 "Alibi timing: s.65D(8)通常要求在开审前不少于十日"〕〔LAW21 L32 "Alibi leave: s.65D(1)–(2)通常以leave补救"〕〔LAW21 L34 "Alibi service: (2)须提供证人姓名地址或可寻人资料，必"〕。本届Bob已过审期，不影响其必须立即申请leave的判断；十日计算限定供以后实际计日使用。
 
@@ -538,7 +538,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 〔V6 L34 "R4. Section 54(1)(b) concerns prosecution comment on silence, not witness sequence."〕 香港DCCC860/2011附录2013-06-14裁定¶52–58允许另一次序，强调可能的权重后果；这是须标识层级及事实的区院裁定，不冒称终审普遍规则。有实际理由拟改变通常安排时，提前向法院提出。对应SG06 Ex2.6。
 
-## 0E. 证据定型 I：s.65B 书面证供陈述——合规要点与司法区实务（2026-10-10 深化）
+## 0E. 证据定型 I：s.65B 书面证供陈述——合规要点与司法区实务
 
 > 对应合同深节"s.65B 证供陈述合规要点与司法区实务"。核心：s.65B 用**同意**换**证人**——把不争的证人口头传唤换成书面陈述；换错对象、漏了式样、睡过反对闸，代价直接落在盘问权与证据面上。
 
@@ -548,7 +548,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 |---|---|---|---|
 | 1 | 适用对象与机制 | 控方拟援引某证人书面陈述、通常**无需**该证人出庭；一般只用于控方无争议的证据〔CR7 L292 "This is usually only used for a prosecution witness who will give uncontentious evidence."〕；幻灯：任何陈述都可、但实务几乎只有控方使用〔CR7PP L98 "the procedure is usually only used by the Prosecution"〕 | s.65B CPO；CR7 L292 |
 | 2 | 法定式样 | 陈述须合 s.65B(2)、(3) 的形式要求才**可接纳**〔CR7 L296 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible"〕——不合式样→不可接纳（拟"省证人"失败，该证人须传召出庭，否则该证据不存在） | s.65B(2)(3)；CR7 L296 |
-| 3 | 送达后反对闸 | 对方不欲入证者须自送达起 **14 日内**反对（但书：双方可协议免除送达及时限要求）；**逾期不反对＝入证**〔CR7 L298 "note parties can agree to dispense with service requirement and time limits – see the proviso to s. 65B(2)"〕 | s.65B(2) proviso |
+| 3 | 送达后反对闸 | 对方不欲入证者须自送达起 **14 日内**反对（但书：双方可协议免除送达及时限要求）；**逾期不反对即入证**〔CR7 L298 "note parties can agree to dispense with service requirement and time limits – see the proviso to s. 65B(2)"〕 | s.65B(2) proviso |
 | 4 | 传闻规则不例外 | 证据规则仍然适用；陈述中的传闻部分须删节——s.65B **不是**允许传闻经后门入证的例外〔CR6 L312 "it does not allow the admission of hearsay statements by the back door!"；CR7 L300 "the rules of evidence still apply so hearsay is not permitted. Practically this means that hearsay sections of a written statement will have to be"〕 | CR6 L312 |
 | 5 | 入证 = 失 XXN 机会（原则上） | 陈述入证后，他方失去盘问该陈述人的机会——除非 s.65B(4)(a)/(b)：经许可，交陈述一方可就某部分（通常一小点）传召该证人详述；或经任一方申请或法院主动，证人可被传召作供〔CR7 L302 "the party tendering the statement may be permitted to call the witness to elaborate on a particular part of his evidence"〕 | s.65B(4) |
 | 6 | 庭上交代方式 | 已入证陈述的内容须在聆讯读出或交代其内容（除非法院另作指示）〔CR7 L304 "the contents of the admitted statement must be read out at the hearing or an account given of it under s. 65B(5)"〕 | s.65B(5) |
@@ -583,13 +583,13 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 | 档 | 状态 | 后果逻辑 | 依据 |
 |---|---|---|---|
-| 1 | 陈述不合 s.65B(2)(3) 式样 | **不可接纳**——该书面陈述不能入证；证人须传召出庭（传唤不到/不传＝该证据不存在）〔CR7 L296 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible;"〕 | s.65B(2)(3) |
-| 2 | 14（CFI 21）日内不反对 | 陈述**自动入证**＝失去对作者的盘问机会；s.65B(4) 只留给"小部分详述"或申请许可救济——不保证获准〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L302 "the consequence of a written statement admitted under s. 65B means the other party loses the right to XXN the statement-maker unless s. 65B(4)(a) or"；CR7 L396 "Do not rely on the fact that the court may permit the witness to testify, notwithstanding that the s. 65B statement has been admitted into"〕 | s.65B(2)/(4) |
+| 1 | 陈述不合 s.65B(2)(3) 式样 | **不可接纳**——该书面陈述不能入证；证人须传召出庭（传唤不到/不传则该证据不存在）〔CR7 L296 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible;"〕 | s.65B(2)(3) |
+| 2 | 14（CFI 21）日内不反对 | 陈述**自动入证**即失去对作者的盘问机会；s.65B(4) 只留给"小部分详述"或申请许可救济——不保证获准〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L302 "the consequence of a written statement admitted under s. 65B means the other party loses the right to XXN the statement-maker unless s. 65B(4)(a) or"；CR7 L396 "Do not rely on the fact that the court may permit the witness to testify, notwithstanding that the s. 65B statement has been admitted into"〕 | s.65B(2)/(4) |
 | 3 | 同意了需要盘问的证人陈述 | ==通常免证人到庭，仍可依s.65B(4)寻求传召；亦可举相反证据，但不能保证法院事后准许传召==〔CR7 L306–L308 "once the statement is admitted, the other side can still call evidence to contradict the statement. In practice however do not agree to admit a"〕 | CR7 L306–L308 |
 
-**反档（不同意却又不挑战）**：可引致不利讼费——实务上"不同意"也要有正当抗辩理由〔CR7 L398 "Consider the costs consequences if you do not agree to admit the statement but do not challenge the witness’ evidence."〕。**总表索引**：本梯度归 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）) 行 11–13。
+**反档（不同意却又不挑战）**：可引致不利讼费——实务上"不同意"也要有正当抗辩理由〔CR7 L398 "Consider the costs consequences if you do not agree to admit the statement but do not challenge the witness’ evidence."〕。**总表索引**：本梯度归 [0J 总表](#0j-环节不做后果链总表索引) 行 11–13。
 
-## 0F. 证据定型 II：s.65C 承认事实——文书功夫与攻防（2026-10-10 深化）
+## 0F. 证据定型 II：s.65C 承认事实——文书功夫与攻防
 
 > 对应合同深节"s.65C 承认事实文书功夫与攻防"。核心：**承认事实 = 永久性地钉死争点**——写窄了漏掉该钉的（如 clear record），写宽了把争点送掉；签出去的不是草稿而是"conclusive evidence"。
 
@@ -613,7 +613,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 **起草十条**：① 无任何有污／不相关内容〔CR7 L348 "Ensure there is nothing prejudicial/irrelevant in the Admitted Facts;"〕；② 当庭删：以粗记号笔涂黑到看不出为准，不是圆珠笔划两道〔CR7 L350 "ensure they are removed or blacked out with a thick marker so that the prejudicial/irrelevant fact cannot be seen"〕；③ 承认即要"全"：向证人若作口头证供会说的内容看齐〔CR7 L360 "you must ensure that they are comprehensive and say what the witness would say, if oral evidence were given of that fact"〕；④ 加入客户 clear record（如适用）〔CR7 L352 "Defence Counsel should ensure the Defendant’s clear record is included. It is a good ground of appeal if Defence Counsel fails to put his client’s"〕；⑤ 取得客户**书面**同意，良好做法令客户签一份给你〔CR7 L362 "you should have the Defendant sign a copy of them"〕；⑥ 确保客户明白承认对审讯的含义〔CR7 L364 "Defence Counsel must also ensure the Defendant understands the implications of admitting facts for the trial"〕；⑦ 由双方 counsel 签日期〔CR7 L366 "The Admitted Facts must be dated and signed by Counsel for each party"〕；⑧ 可引用已同意册页／证物页码并附上〔CR7 L368 "Admitted Facts can include references to pages in the bundle/exhibits that have been agreed"〕；⑨ 承认内容会进入 Summary of Facts（已承认即不再争）〔CR7PP L84 "Facts that are admitted will be included in the Summary of Facts as these are no longer contentious once admitted"〕；⑩ 范例是 case-specific 不是模板——HKSAR v Mo Tak Nam 附载件〔CR7 L404 "Admitted Facts are very fact specific to the circumstances of the case, the offence charged and each side’s case theory."〕。
 
-**clear record 三规则**：① 若客户无案底，clear record **应入**承认事实；辩方大律师未能在控方案情终结前把 clear record 呈堂＝可上诉的好理据——clear record 对**可信性**与**犯意倾向**双向有利〔CR7 L352 "A clear record goes both to credibility of character and propensity to commit a crime."〕；② 若客户有前科而控方误称其无——**不可签**"clear record"，那是误导法庭且违反 Bar Code（10.47、10.60、10.61）〔CR7 L354 "you cannot sign Admitted Facts stating the Defendant has a clear record. To do so amounts to misleading the court"〕；③ 反面：辩方大律师**无义务**主动纠正控方谬误或建议客户披露前科（BC 10.61），但不得亲自附和客户无罪的宣称，也不要借问控方证人有否定罪来取否定答案〔CR7 L358 "nor correct any information given by the prosecution if such disclosure or correction would be to his client’s detriment"〕。
+**clear record 三规则**：① 若客户无案底，clear record **应入**承认事实；辩方大律师未能在控方案情终结前把 clear record 呈堂即构成可上诉的好理据——clear record 对**可信性**与**犯意倾向**双向有利〔CR7 L352 "A clear record goes both to credibility of character and propensity to commit a crime."〕；② 若客户有前科而控方误称其无——**不可签**"clear record"，那是误导法庭且违反 Bar Code（10.47、10.60、10.61）〔CR7 L354 "you cannot sign Admitted Facts stating the Defendant has a clear record. To do so amounts to misleading the court"〕；③ 反面：辩方大律师**无义务**主动纠正控方谬误或建议客户披露前科（BC 10.61），但不得亲自附和客户无罪的宣称，也不要借问控方证人有否定罪来取否定答案〔CR7 L358 "nor correct any information given by the prosecution if such disclosure or correction would be to his client’s detriment"〕。
 
 **为什么承认**：省时省费＋收窄争点；法院会坚持要有承认事实〔CR7 L376–L382 "The court will not let you get away with no s65C admissions!"〕；反之——被告拒绝承认某点、审讯时却对该点不争，可能因不必要延长审讯被裁定**不利讼费**〔CR7 L384 "may suffer adverse costs’ consequences by having costs imposed against him for unnecessarily prolonging the trial"〕。
 
@@ -634,17 +634,17 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 | 档 | 状态 | 后果逻辑 | 依据 |
 |---|---|---|---|
-| 1 | 漏入应入之项（典型：clear record） | 控方案结前未呈 clear record ＝可上诉好理据；双向有利证据被白白放弃〔CR7 L352 "Defence Counsel should ensure the Defendant’s clear record is included. It is a good ground of appeal if Defence Counsel fails to put his client’s"〕 | CR7 L352 |
+| 1 | 漏入应入之项（典型：clear record） | 控方案结前未呈 clear record 即构成可上诉好理据；双向有利证据被白白放弃〔CR7 L352 "Defence Counsel should ensure the Defendant’s clear record is included. It is a good ground of appeal if Defence Counsel fails to put his client’s"〕 | CR7 L352 |
 | 2 | 签宽了：把争点写成承认 | 承认即 conclusive——审讯不可举相反证据；承认跟着上诉与重审，换 counsel 换战术也摆脱不了〔CR7 L316 "once a fact is admitted, no evidence can be called which contradicts that fact: it is “conclusive evidence” according to s. 65C(1): see R v"；CR7 L342 "A s.65C admission is permanent and stays with the parties on appeal and on a re-trial – see s. 65C(3) and HKSAR v. Wu Wing"〕；撤回须许可＋充分理由且鲜有成功〔CR7 L344 "The only possibility to “undo” an admitted fact would be to withdraw it. However, it is very difficult to withdraw an admitted fact under s."〕 | s.65C(1)/(3)/(4) |
 | 3 | 签了明知不实项（典型：签 "clear record" 而客户有前科） | 误导法庭 + 违反 Bar Code 10.47/10.60/10.61 —— 职业失当面，非战术代价〔CR7 L354 "If the Defendant instructs you that he has a criminal record but the Prosecution tell you he does not have a record, you cannot sign"〕；上游方法：用 10.61 划线"不主动披露"与"亲自附和"之别〔CR7 L358 "Defence Counsel has no duty to advise his client to disclose a previous conviction. If the Court has been led by the prosecution to believe"〕 | Bar Code；CR7 L354–L358 |
 
-**反档（该承认不承认）**：该点审讯不争却仍拒承认 → 可因不必要延长审讯承受不利讼费；且法院会坚持要有 Admitted Facts〔CR7 L382–L384 "The court will not let you get away with no s65C admissions!"〕。**总表索引**：本梯度归 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）) 行 14–16。
+**反档（该承认不承认）**：该点审讯不争却仍拒承认 → 可因不必要延长审讯承受不利讼费；且法院会坚持要有 Admitted Facts〔CR7 L382–L384 "The court will not let you get away with no s65C admissions!"〕。**总表索引**：本梯度归 [0J 总表](#0j-环节不做后果链总表索引) 行 14–16。
 
 **点题**：承认事实"写烂"的暴露——承认事实=换永久——这三种做错形态在 SG05 Exercise 3 的 Jeff 草案逐项处理中有活课本（如由控方草稿写进"恶意、非法、非自卫"等于把争点送掉；见 0K.2）〔SG5E3 L92 "【删除，不予承认】"；SG5E3 L43 "以及否定自卫抗辩的措辞"〕。
 
 > **Exam / Advocacy Formulation:** "Admitting a fact under s.65C closes that door permanently — on appeal and on retrial; admit only what is true, comprehensive and signed by the client, and never sign a 'clear record' you know to be false."（自拟考场口径；规则出处见 0F.1／0F.2）
 
-## 0G. PTR／CMH 与审讯收口文件：把准备钉成命令（2026-10-10 深化）
+## 0G. PTR／CMH 与审讯收口文件：把准备钉成命令
 
 > 对应合同深节"审前文书清单"。管理聆讯不是过场——它把**已完成的准备**（定型、披露、专家、证人、时间估计）钉成法院命令；缺口的代价其后在 PTR／CoR 环节逐一暴露。Kelvin YC Leung 的反面教材说明：案件失控不是某一方的独角戏——法院、控辩的管理义务常在〔CR5P L41 "(t)he court must use its judicial time responsibly and proportionately."；CR5P L52–L53 "the Deputy Magistrate had failed in her duty in properly managing the trial"〕。
 
@@ -656,8 +656,8 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | CMH（Fixture 表） | 由刑事排期法官或主审法官主持、不早于 CMQ 交存后 14 日；内庭举行；**被告必须出席**；填问卷的控辩大律师均须出席；CMH 前不少于 7 日交一套同意拟议方向（或对标准时表的修订建议），无同意则各自交拟议方向清单〔PD93 L294 "not earlier than 14 days after the filing of the Case Management Questionnaire (Fixture List)."；PD93 L296 "or failing which, their respective lists of proposed directions/revisions"；PD93 L298 "Both prosecuting counsel and defence counsel who have prepared the Case Management Questionnaire (Fixture List) shall attend the Hearing."〕 | PD 9.3 §5.3.1–5.3.3 |
 | CMH 管理事项 | 法院作适当方向与程序时表（默示采用 Standard Procedural Timetable）〔PD93 L302 "5.3.5 The court will give such directions as may be necessary for the proper and effective disposal of the case, including imposing a procedural timetable"〕；五项专事：(A) s.65C 通知（21 日）与回覆（21 日）〔PD93 L308–L318 "(1) Within 21 days after lodging the Paginated Committal Bundle or such time as the court may direct, the prosecution shall file with the court"〕；(B) s.65B 通知与反对（各 21 日）〔PD93 L326–L328 "(1) Within 21 days after lodging the Paginated Committal Bundle or such time as the court may direct, the prosecution shall file with the court"〕；(C) 专家证据：尽量在交付前提交、或按时表〔PD93 L330–L334 "the matter should immediately be brought to the attention of the Criminal Listing Judge"〕；(D) 先决法律问题立即请示如何及何时处理〔PD93 L338 "5.3.10 If any preliminary question of law arises, the parties should forthwith seek the court’s directions as to how and when that question is to"〕；(E) 未披露的 unused material：CMH 后 14 日列表〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"〕 | PD 9.3 §5.3.5(A)–(E) |
 | 后续方向 | 必要时法院可书面作进一步管理方向、不设口头聆讯；再开 CMH 应属罕见（复杂案件除外）〔PD93 L346 "should be rare except in complex cases"〕 | PD 9.3 §5.4.1 |
-| PTR | 如有需要订，**通常审前 6–8 周**；不少于 14 日前交同意编页 PTR 册（s.65C 承认事实／s.65B 陈述列表＋PTR 问卷＋拟议方向）；内庭、主审法官主持；被告出席可豁免；出庭大律师必到；可作更进一步方向以保按期有效审讯〔PD93 L350 "5.5.1 If necessary, the court may fix a Pre-trial Review, which is usually about 6 to 8 weeks before trial."；PD93 L354 "(1) a copy of the admitted facts under section 65C of the Criminal Procedure Ordinance and/or a list of admission of witness statements under section"；PD93 L360 "Trial counsel shall attend the Pre-trial Review."；PD93 L362 "5.5.4 The Trial Judge may give further directions in order to secure the proper and efficient trial of the case as scheduled."〕 | PD 9.3 §5.5 |
-| Certificate of Readiness | 时表各准备步完成后 7 日内交存＝确认案件可于排期日**或法院所定更早时间**开审；其后有新重大发展或重大变化使案件不再备妥，须立即报刑事排期法官〔PD93 L366–L370 "unless there is any unforeseen and material change in circumstances"〕 | PD 9.3 §5.6 |
+| PTR | 如有需要订，**通常审前 6–8 周**；不少于 14 日前交同意编页 PTR 册（s.65C 承认事实／s.65B 陈述列表＋PTR 问卷＋拟议方向）；内庭、主审法官主持；被告出席可豁免；出庭大律师必到；可订定更进一步方向以保按期有效审讯〔PD93 L350 "5.5.1 If necessary, the court may fix a Pre-trial Review, which is usually about 6 to 8 weeks before trial."；PD93 L354 "(1) a copy of the admitted facts under section 65C of the Criminal Procedure Ordinance and/or a list of admission of witness statements under section"；PD93 L360 "Trial counsel shall attend the Pre-trial Review."；PD93 L362 "5.5.4 The Trial Judge may give further directions in order to secure the proper and efficient trial of the case as scheduled."〕 | PD 9.3 §5.5 |
+| Certificate of Readiness | 时表各准备步完成后 7 日内交存即确认案件可于排期日**或法院所定更早时间**开审；其后有新重大发展或重大变化使案件不再备妥，须立即报刑事排期法官〔PD93 L366–L370 "unless there is any unforeseen and material change in circumstances"〕 | PD 9.3 §5.6 |
 | 速审表差异 | CMH 不早于编页册交存后 **6 周**；CMH 前 **7 日**交 CMQ（速审表）；被告与出庭大律师均须到；出庭大律师就各案审讯次序争一致（不成由法官定）；原则上审前不再开 CMH——确需者可 **2 clear days 书面通知**紧急约见〔PD93 L392–L398 "by giving two clear days’ written notice to the Judge and the other party"〕 | PD 9.3 §6.2 |
 
 ### 0G.2 区域法院：PD 9.4 的 PTR 十项议程与特别规则
@@ -667,7 +667,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | PTR 议程 (a)–(j) | 拟答答辩；控方额外证据的性质（非内容）；未在回覆通知内的承认事实细节；控方拟传证人与辩方希望对方传来的证人；对控方证据可采性的反对及需时；有否专家证供；审期估计；分项呈请（分拆被告或控罪／撤销控罪／要求控罪详情／其他审前先决事项）；审讯可能的法律点与权威；¶16 送达的陈述中哪些不反对〔PD94 L74–L99 "At the pre-trial review, counsel or solicitors will inform the trial judge of the following"〕 | PD 9.4 ¶17 |
 | 性罪行特别通知 | 律政司司长不迟于 PTR 前 10 日（无 PTR 则开审前 21 日）书面通知屏风／特别通道／陪伴者意向；被告 7 日内答反对与否；无 PTR 时此等信息不迟于开审前 7 日交法官〔PD94 L44–L58 "13. For sexual offence cases[1], unless the trial judge allows otherwise:"；PD94 L107 "21. In criminal proceedings where no pre-trial review has been ordered, the Secretary for Justice shall furnish the trial judge with the information mentioned in"〕 | PD 9.4 ¶13、¶21 |
 | 被告出席权 | 有代表的被告有权出席 PTR，**可放弃**；羈留中而拟出席的被告，须尽早通知 Registrar, DC 调度〔PD94 L105 "A represented accused has a right to attend the pre-trial review, but may waive that right if he wishes."〕 | PD 9.4 ¶20 |
-| 方向权 | PTR 法官可作进一步程序方向〔PD94 L103 "19. The judge conducting the pre-trial review may give directions for the further conduct of the proceedings. If the District Court approves the request for"〕 | PD 9.4 ¶19 |
+| 方向权 | PTR 法官可订定进一步程序方向〔PD94 L103 "19. The judge conducting the pre-trial review may give directions for the further conduct of the proceedings. If the District Court approves the request for"〕 | PD 9.4 ¶19 |
 | 语言选择 | 审讯语言在移交／排期程序选定；变更须开审前不少于 28 日书面申请〔PD94 L111–L113 "22. An accused should elect the language used in the trial during the transfer proceedings at the Magistrate Court or the listing proceedings at the"〕 | PD 9.4 ¶22–23 |
 
 ### 0G.3 裁判法院：PTR 问卷（Eastern）逐项
@@ -691,15 +691,15 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | 面向 | 规则 | 依据 |
 |---|---|---|
 | 定义 | 警方／控方在侦查或备案中收集、**不拟**在审讯倚赖的材料（通常因为对控方不利）〔CR6 L138 "material that has been collected by the police / Prosecution in the course of the investigation / preparing the case"〕——它与不可采证据都可能**引出**相关可采材料的调查线〔CR6 L136 "may lead the Defendant on a train of enquiry to relevant, admissible material"〕 | CR6 L134–L138 |
-| 相关界线 | 无义务披露不相关者——"相关"＝足以削弱控方或助益辩方（Lau Wing Wing）；评估其重要性须问：与本案任何争点有何关联、辩方可以何种方式使用、材料的性质、辩方是否已知〔CR6 L146 "no duty on the Prosecution to disclose unused material which is not relevant"〕 | CR6 L146 |
+| 相关界线 | 无义务披露不相关者——"相关"指足以削弱控方或助益辩方（Lau Wing Wing）；评估其重要性须问：与本案任何争点有何关联、辩方可以何种方式使用、材料的性质、辩方是否已知〔CR6 L146 "no duty on the Prosecution to disclose unused material which is not relevant"〕 | CR6 L146 |
 | 控方主动义务 | 严重案件（尤涉同谋证据）控方须**主动**：主控应向侦查警员就潜在 unused material 作书面指示并要求书面回覆、指示与回覆均留存（Wun Shu Fai；法院建议改善披露制度）〔CR6 L138 "the Prosecution have a duty to be proactive in disclosing material especially in a serious case involving accomplice evidence"〕 | CR6 L138 |
 | 辩方动作 | 即使披露义务在控方，辩方应主动以书面索取、指明已知的具体文件，防止灭失〔CR7 L82 "Despite the Prosecution’s duty of disclosure, instructing solicitors for the defence should be proactive in making disclosure requests to prevent the loss or destruction of"〕；讲义单列"view ALL unused material"为准备动作〔CR6 L184 "ensure you view ALL unused material;"〕；索取函用途写明备审〔CR7 L80 "Magistrates’ Court trials: there is no set for procedure or requirements governing the documents that the defence is entitled to when the trial is in"〕 | CR7 L80–L82；CR6 L184 |
 | 各司法区格式 | CFI：CMH 后 14 日列表（PD 9.3 §5.3.11）〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"〕；DC：移交时随册附未用材料表格（何物／何处／何人联络看取）〔PD94 L36 "giving the name and contact numbers and address of the person to be contacted in respect of viewing any unused materials"〕；MC：PTR 问卷第 16.2 项〔📄PTRMC p.4〕 | PD93；PD94；📄PTRMC |
 | 未披露的后果 | 详见 13 证据争议卡；往届学生稿整理（往届仅参考）：定罪前——押后与讼费、永久 stay（门槛高）；定罪后——以 material irregularity／unsafe and unsatisfactory 撤罪（Chong Ho Yin、Wong Tin Lung）、无罪或重审、以 s.83V CPO／s.118(1)(b) MO 引入 new evidence、对执法人员的纪律后果〔OLD-SET3LG L3437–L3457 "Conviction set aside – material irregularity / conviction unsafe and unsatisfactory"·往届仅参考〕 | 接口卡的规则主体；往届仅参考 |
 
-### 0G.5 permanent stay 接口（本卡只作定位）==🔴但是这个卡作为了题目中的一个，所以审查是否只作为定位还是可以的==
+### 0G.5 permanent stay 接口（本卡只作定位）
 
-永久中止诉讼是法院防止滥用程序的固有管辖：① 公平审讯不可能（不当延误、控方不公、偏见性审前宣传）；② 虽可公平审讯但滥权严重至冒犯法庭公正感或公众对司法的信心；两分支例证 Ng Chun To Raymond 与 Kissel (Stay: Media)〔CR5P L137–L153 "Granted in 2 circumstances"〕；辩方举证以相对可能为准、救济极少获准〔CR5P L143–L145 "Rarely exercised. Burden on D: on balance of probabilities."〕；程序按 PD 9.7〔CR5P L157–L165 "Procedure to make an application:"〕——通知时限（开审前不少于 21 日；辩方陈词纲要 14 日；控方 7 日）目前仅见往届 LG05 Part 3（2025-26）讲义、且库内无 PD 9.7 文件原文，沿 Deadlines 卡 F 节 ⚠️ 登记保持并列（SG04 07 Shared Authorities 对该 PD 的逐段核验为课程内文件）。**本卡不展开申请主体与攻防**——见 13 证据争议卡 与 SG04 PD9.5／PD9.7 逐段核验；其与本卡的接点在"披露与延误的较轻补救先用尽"：一般延误或披露疏漏不直接等同永久终止〔CR5P L137–L169 "PERMANENT STAY OF PROCEEDINGS"〕。==hogate case **_R v Holgate_ [1996] 3 HKC 315**== 
+永久中止诉讼是法院防止滥用程序的固有管辖：① 公平审讯不可能（不当延误、控方不公、偏见性审前宣传）；② 虽可公平审讯但滥权严重至冒犯法庭公正感或公众对司法的信心；两分支例证 Ng Chun To Raymond 与 Kissel (Stay: Media)〔CR5P L137–L153 "Granted in 2 circumstances"〕；辩方举证以相对可能为准、救济极少获准〔CR5P L143–L145 "Rarely exercised. Burden on D: on balance of probabilities."〕；程序按 PD 9.7〔CR5P L157–L165 "Procedure to make an application:"〕——通知时限（开审前不少于 21 日；辩方陈词纲要 14 日；控方 7 日）目前仅见往届 LG05 Part 3（2025-26）讲义、且库内无 PD 9.7 文件原文，沿 Deadlines 卡 F 节 ⚠️ 登记保持并列（SG04 07 Shared Authorities 对该 PD 的逐段核验为课程内文件）。**本卡不展开申请主体与攻防**——见 13 证据争议卡 与 SG04 PD9.5／PD9.7 逐段核验；其与本卡的接点在"披露与延误的较轻补救先用尽"：一般延误或披露疏漏不直接等同永久终止〔CR5P L137–L169 "PERMANENT STAY OF PROCEEDINGS"〕。另参 _R v Holgate_ [1996] 3 HKC 315。 
 
 ### 0G.6 控方开案与陪审团补救
 
@@ -711,28 +711,28 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 〔CR5 L528 "formal oral Opening Address is given before the Jury"〕；[Chow Wing Man 原判](https://babelcite.com/case/51814)。本届 Donald 案只说被调查和枕头是武器，未向陪审团说第一任妻之死；故先纠正与指示。B1 · R10 开案与解散陪审团。
 
-## 0I. 实务暗礁与核对清单（2026-10-10 深化；2026-11-16 对齐四级蓝图）
+## 0I. 实务暗礁与核对清单
 
-> 对应合同「实务暗礁与核对清单」。0I.1 十二条高频失误把 0B–0G 各深节的红线反向列出（考场与实务都看）；0I.2 把接卷到开庭的每个闸门变成「自检问题＋未过时的动作」，逐闸走完才算备妥。各闸做错的具体后果与梯度统一收口 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）)。
+> 对应合同「实务暗礁与核对清单」。0I.1 十二条高频失误把 0B–0G 各深节的红线反向列出（考场与实务都看）；0I.2 把接卷到开庭的每个闸门变成「自检问题＋未过时的动作」，逐闸走完才算备妥。各闸做错的具体后果与梯度统一收口 [0J 总表](#0j-环节不做后果链总表索引)。
 
 ### 0I.1 实务暗礁十二条（考场与实务都看的高频失误）
 
 * [ ] **暗礁 1：把"案卷收齐"当"材料收齐"**。unused material 是**另一份清单**——CFI 在 CMH 后 14 日内由控方提供、DC 随册未用材料表格、MC 问卷第 16.2 项；不主动要就等于自愿用半副牌打牌〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"；PD94 L36 "10. On the service of the original bundles the prosecution shall also serve a form stating whether or not unused materials exist and giving the"〕。
 * [ ] **暗礁 2：把 transcript 当录像**。誊本只是辅助，录像问话看录像本体；同样，文件证物看原件、非文件证物亲眼看〔CR7 L96–L102 "transcripts of videotaped interviews would be included in the bundle but the practitioner should always view the actual videotape (the transcript is just an aid);"〕。
-* [ ] **暗礁 3：把"准备一份 Brief"当"客户已授权费用"**。委任大律师须**书面**授权；代垫 disbursement。\brief 写好了，书面授权没有——争议时客户可拒不付费〔CR7 L184–L186 "One of the pieces of advice that a solicitor will have to give is whether counsel should be instructed. The authority of the client is"〕。
+* [ ] **暗礁 3：把"准备一份 Brief"当"客户已授权费用"**。委任大律师须**书面**授权；代垫 disbursement。\brief 写好了，书面授权没有——争议时客户有权拒绝付款〔CR7 L184–L186 "One of the pieces of advice that a solicitor will have to give is whether counsel should be instructed. The authority of the client is"〕。
 * [ ] **暗礁 4：proof 写成律师语言、或交控方**。proof 用客户自己的话、不 coach；只为辩方团队、永不交控方〔CR7 L236–L258 "The client’s proof should reflect what the client would say if he was to give evidence in court. It should be written in the client’s"；CR7PP L46–L52 "What would the client say of you called him at trial?"〕。
 * [ ] **暗礁 5：把"不同意 s.65B 入证"当"陈述不会入证"**。反对须在 14 日（CFI 21 日）内提出；睡过即自动入证——"不同意"不是一个实体障碍〔CR7 L298–L400 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；PD93 L328 "(2) If objection is made to a statement being tendered in evidence, the defendant’s legal representative shall, within 21 days after the notice is served"〕。
 * [ ] **暗礁 6：把要盘问的证人 s.65B 化**。同意前问自己 8 个问题；要盘问就别省——leave 是申请项不是权利〔CR7 L392–L396 "Ask yourself whether the witness is a witness you need to cross examine. If so, it would be unusual to agree to admit their written"〕。
 * [ ] **暗礁 7：s.65C 未取客户**书面**同意就签**。接受、加删都先要指示；客户须明白承认对审讯的含义；良好做法请客户签一份给你〔CR7 L324–L364 "After receiving the draft from the Prosecution, the Defence may seek to add facts and should require the deletion of any facts that the Defendant"〕。
 * [ ] **暗礁 8：帮客户"涂脂"签 clear record**。客户有前科就不能签；不主动披露（BC 10.61）与正面虚假承认是两回事〔CR7 L354–L358 "If the Defendant instructs you that he has a criminal record but the Prosecution tell you he does not have a record, you cannot sign"〕。
-* [ ] **暗礁 9：承认保管链＝答应化验结论**。拟争议 GCC 中物品性质／重量者不得承认保管链——先用"承认照片的真确"式精确战线代替"承认全链"〔CR7 L332–L338 "photographs and plans that are uncontentious;"〕。
+* [ ] **暗礁 9：承认保管链即答应化验结论**。拟争议 GCC 中物品性质／重量者不得承认保管链——先用"承认照片的真确"式精确战线代替"承认全链"〔CR7 L332–L338 "photographs and plans that are uncontentious;"〕。
 * [ ] **暗礁 10：把迟交 alibi 当绝对不能传**。逾期并非绝对不能传召——申请许可＋解释＋给控方调查机会；但迟即削弱分量，要前置 10 日〔CR6 L244–L246 "Failing to comply with the statutory provisions may mean the alibi cannot be called at trial. However, the Judge may still permit the alibi to"〕。
 * [ ] **暗礁 11：CoR 一交就封卷**。其后任何重大变化立即报刑事排期法官；否则声明即失信〔PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕。
 * [ ] **暗礁 12：等法院来排你的审讯文件**。MC 无自动送达、各院都有主动索取／填报／回复的死线——准备方不写就没人替你写〔CR7 L80–L82 "Magistrates’ Court trials: there is no set for procedure or requirements governing the documents that the defence is entitled to when the trial is in"〕。
 
 ### 0I.2 全流程核对清单（接卷→开庭，逐闸自检）
 
-每个闸门给出一道自检问题与未过时的动作；闸门做错的具体后果与梯度统一收口 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）)。
+每个闸门给出一道自检问题与未过时的动作；闸门做错的具体后果与梯度统一收口 [0J 总表](#0j-环节不做后果链总表索引)。
 
 | # | 闸门（时序） | 自检问题（辩方视角） | 未过时的动作 | 深节回点 |
 |---|---|---|---|---|
@@ -751,39 +751,39 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 清单用法：接卷当日把 1–3 走完；委任与文书日走 4–6；两项法定披露与定型文书按 7–10 逐项落死线；管理聆讯前走 11–12。任何一格「未过」即回对应深节补救，不把问题带到开庭日。
 
-## 0J. 环节×不做后果链总表（索引）（2026-10-10 深化；2026-11-16 重编）
+## 0J. 环节×不做后果链总表（索引）
 
-> 对应合同「环节×不做后果链×依据总表＋点题」。每行归并入卡内相应环节（正文各处以「0J 总表」点题回链）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令或实务代价；【举证／补救门槛】＝想止血者要证明什么或走哪个程序。**三个点题：65B 不合样式的后果（行 11）、承认事实写烂的暴露（行 14–16）、Brief 缺争点的实务代价（行 7），以材料为据。**库内无明文者如实标"库内无明文"进 open O-T6，不臆造。
+> 对应合同「环节×不做后果链×依据总表＋点题」。每行归并入卡内相应环节（正文各处以「0J 总表」点题回链）。【自动后果】指无需对方动作即发生；【制裁暴露】指对方或法院可启动的不利命令或实务代价；【举证／补救门槛】指想止血者要证明什么或走哪个程序。**三个点题：65B 不合样式的后果（行 11）、承认事实写烂的暴露（行 14–16）、Brief 缺争点的实务代价（行 7），以材料为据。**库内无明文者如实标"库内无明文"进 open O-T6，不臆造。
 
 
 | # | 程序环节 | 不做／逾期的状态 | 后果链 | 依据 |
 |---|---|---|---|---|
 | 1 | MC 不主动索取案卷／不索取 unused material | 等控方自动送达 | 【实务代价】无上位程序义务护身：证据（如 CCTV）先灭；train of enquiry 断——准备依赖"已收册"传销【补救】立即书面致 OC Case／法庭检控主任，指明文件、写明备审用途〔CR7 L80–L82 "Magistrates’ Court trials: there is no set for procedure or requirements governing the documents that the defence is entitled to when the trial is in"〕 | 〔CR7 L82 "be proactive in making disclosure requests to prevent the loss or destruction of evidence"；CR6 L72 "There is, however, no onus on the Defence to make their own enquiries. i.e. take the initiative to request certain materials (however, note: it is"〕 |
 | 2 | 只看 transcript、不看录像本体；只看副本不看原件 | 录像问话凭誊本核 | 【实务代价】誊本只是辅助：漏掉语气、停顿、画面外的处理；警員不当对待的线索错过【补救】看录像本体、看证物原件与非文件证物〔CR7 L96 "transcripts of videotaped interviews would be included in the bundle but the practitioner should always view the actual videotape (the transcript is just an aid);"；CR7 L100–L102 "review the originals of all documentary exhibits;"〕 | 〔CR7 L96 "the transcript is just an aid"；CR7 L100 "review the originals of all documentary exhibits;"〕 |
-| 3 | 未取书面授权即委任大律师 | 授权只在口头 | 【制裁暴露】费用责任：代垫 disbursement 未经授权，争议时客户可拒付；专业操守面见 BC 失当条款【补救】立即补书面授权；初联与议费由律师本人亲为〔CR7 L186 "One of the biggest expenses in criminal litigation can be the cost of counsel. Counsel’s costs are dealt with as disbursements by instructing solicitors, as"〕 | 〔CR7 L184 "MUST also seek the written authority of the client before instructing counsel"；CR7 L186 "One of the biggest expenses in criminal litigation can be the cost of counsel. Counsel’s costs are dealt with as disbursements by instructing solicitors, as"〕 |
-| 4 | 委任后 7 日未送 backsheet／brief 未标 fee | 委任手续拖欠 | 【制裁暴露】违反 Rule 5D(e)；未标 fee／未注 no fee／"Legal Aid"而出庭＝大律师专业失当，初联者何能推卸【补救】7 日内按五项内容送交 backsheet 或书面指示〔CR7 L200 "Rule 5D(e) of the Solicitors’ Practice Rules provides that in criminal matters, not more than 7 days after counsel has been instructed, the solicitor’s firm"〕 | 〔CR7 L198 "It is professional misconduct for a barrister to appear in court without a fee marked on the brief"；CR7 L200 "Rule 5D(e) of the Solicitors’ Practice Rules provides that in criminal matters, not more than 7 days after counsel has been instructed, the solicitor’s firm"〕 |
-| 5 | 不取 proof 即传召证人／擅自把 proof／证人陈述交控方 | 未知证人会说什么的传召 | 【实务代价】证人作供与客户冲突、从重损害案件；proof 外泄＝辩方底牌出尽【补救】先取 proof 再传召判断；辩方 proof 永不交控方（唯二法定例外除外）〔CR7 L262 "Just as the proof of evidence was taken from the client, potential witnesses can be interviewed for a proof of evidence. It would be unwise"；CR7 L258 "This proof of evidence is for the defence team only. It would never be disclosed to the Prosecution."〕 | 〔CR7 L262 "It would be unwise and dangerous for a solicitor to rely at trial upon the evidence of a witness produced by the client"；CR7 L278 "Whether a witness gives evidence on behalf of the client requires a careful examination of the evidence and an exercise of professional judgment as whether"〕 |
+| 3 | 未取书面授权即委任大律师 | 授权只在口头 | 【制裁暴露】费用责任：代垫 disbursement 未经授权，争议时客户有权拒绝付款；专业操守面见 BC 失当条款【补救】立即补书面授权；初联与议费由律师本人亲为〔CR7 L186 "One of the biggest expenses in criminal litigation can be the cost of counsel. Counsel’s costs are dealt with as disbursements by instructing solicitors, as"〕 | 〔CR7 L184 "MUST also seek the written authority of the client before instructing counsel"；CR7 L186 "One of the biggest expenses in criminal litigation can be the cost of counsel. Counsel’s costs are dealt with as disbursements by instructing solicitors, as"〕 |
+| 4 | 委任后 7 日未送 backsheet／brief 未标 fee | 委任手续拖欠 | 【制裁暴露】违反 Rule 5D(e)；未标 fee／未注 no fee／"Legal Aid"而出庭即大律师专业失当，初联者何能推卸【补救】7 日内按五项内容送交 backsheet 或书面指示〔CR7 L200 "Rule 5D(e) of the Solicitors’ Practice Rules provides that in criminal matters, not more than 7 days after counsel has been instructed, the solicitor’s firm"〕 | 〔CR7 L198 "It is professional misconduct for a barrister to appear in court without a fee marked on the brief"；CR7 L200 "Rule 5D(e) of the Solicitors’ Practice Rules provides that in criminal matters, not more than 7 days after counsel has been instructed, the solicitor’s firm"〕 |
+| 5 | 不取 proof 即传召证人／擅自把 proof／证人陈述交控方 | 未知证人会说什么的传召 | 【实务代价】证人作供与客户冲突、从重损害案件；proof 外泄即辩方底牌出尽【补救】先取 proof 再传召判断；辩方 proof 永不交控方（唯二法定例外除外）〔CR7 L262 "Just as the proof of evidence was taken from the client, potential witnesses can be interviewed for a proof of evidence. It would be unwise"；CR7 L258 "This proof of evidence is for the defence team only. It would never be disclosed to the Prosecution."〕 | 〔CR7 L262 "It would be unwise and dangerous for a solicitor to rely at trial upon the evidence of a witness produced by the client"；CR7 L278 "Whether a witness gives evidence on behalf of the client requires a careful examination of the evidence and an exercise of professional judgment as whether"〕 |
 | 6 | 不核客户与控方证人前科 | 凭客户自述 | 【实务代价】clear record 面或 XXN 弹药被反转——客户常记错卷【补救】卷未附即索取（以客户授权为限）〔CR7 L106 "check the client’s criminal record and those of any prosecution witnesses. Do not rely on the client’s recollection of his record. This is often wrong."〕 | 〔CR7 L106 "Do not rely on the client’s recollection of his record. This is often wrong."〕 |
 | 7 | **Brief 缺争点／缺期限／藏短处（点题）** | 只写材料堆或"please advise" | 【实务代价】新任 counsel 必须重建全卷才能操作≠指示；未指明的决定被推回／延误至审讯前夜；Guidelines 评分 CONTENT 项具体质问、调查线与律师意见三栏失分【举证*】客户在 30/06 提讯前要答复——缺日期的指示无法管理 counsel 的档期【补救】九节齐备：tramlines、enclosures、控方案交叉引用、强弱并陈、争点具体、行动期限、签日、backsheet〔CR7 L206 "What follows next would be dictated by the task you are requiring counsel to complete e.g. appear for bail, appear for PTR, appear for trial,"；SG4S L108 "After the SGS, students will individually draft the Brief to Counsel in the case of HKSAR v Willy Ma. This is an assessed Coursework exercise"〕 | 〔CR7 L220 "especially if information is required by a certain date"；SG4GL L14 "Poses specific questions for Counsel to answer"；SG4S L136 "Look at the examples provided here and on your advocacy course (bail briefs). Other than the back sheet for attendance at court, (see Bar Code;"〕 |
 | 8 | alibi 通知迟交 | 审讯前 10 日内才提 | 【自动后果】不经许可不得传召该 alibi 证据【举证／救济门槛】法官仍可裁量准许——说明何以迟、控方能否调查、有无代替（SG04 Bob 案 Carl 情形即原型）；迟通知也减该证据分量【制裁暴露】MC：控方可求押后＋讼费后果〔CR6 L244 "Failing to comply with the statutory provisions may mean the alibi cannot be called at trial. However, the Judge may still permit the alibi to"；CR6 L242 "Note – there is no formal requirement of an alibi notice in the Magistrates’ Court but the Prosecution may request an adjournment if they have"〕 | 〔CR6 L244 "the Judge may still permit the alibi to be called in the exercise of his discretion"；CR6 L246 "A Defendant must give an alibi notice not less than 10 days before start of trial. The alibi notice must give particulars of the alibi:"〕 |
 | 9 | s.65DA 专家迟披露 | 交付／移交后迟迟不供书面意见 | 【自动后果】未经court许可不得在审讯援引【制裁暴露】押后＋wasted costs；开庭日才聘＋未 ASAPP 供报告→leave 被驳回（Lai Chee Ying）【举证／救济门槛】须显示何以迟与相关性强；另可用 s.65DA(3)(4) 的暂缓通知路径（恐吓／干扰司法）〔CR6 L278–L280 "Failure to comply with s.65DA means that the expert evidence cannot be adduced at the trial without leave of the court: s.65DA(5). It may also"〕 | 〔CR6 L278 "Failure to comply with s.65DA means that the expert evidence cannot be adduced"；CR6 L280 "providing the report to the Prosecution and on this basis, leave was denied"〕 |
 | 10 | 委任专家未取客户同意／法援许可；没看其过往被批评记录 | 程序未走完就下单 | 【实务代价】客户拒不认账的空间；专家立场不可挽回；"professional expert"对法院的义务未核实；冷门领域被控方抢先锁定【补救】先取同意／许可与报价，先查过往、尽早委任〔CR7 L146–L156 "advise and seek consent of the client to instruct an expert;"〕 | 〔CR7 L150 "instruct the expert at the earliest opportunity"；CR7 L156 "a lot of experts are “professional experts” and are fully aware of their duties but the practitioner instructing an expert must ensure that the expert"〕 |
-| 11 | **s.65B 陈述式样未核（点题）** | 未核 s.65B(2)(3) 即参互动 | 【自动后果】不合式样者**不可接纳**——拟省的证人没省成：须传召出庭，否则该证据不存在；传召不到＝在裁判 fact-finding 面前证据缺位【举证／补救门槛】接纳前按规定逐点核验；庭审上重新组织口头传唤与时间表〔CR7 L296 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible;"〕 | 〔CR7 L296 "must comply with the formalities in s. 65B(2) and (3) CPO to be admissible"〕 |
-| 12 | s.65B 送达后不反对（14／21 日睡过） | 反对期放空 | 【自动后果】陈述**自动入证**＝原则上失去对该作者的盘问机会【举证／救济门槛】s.65B(4)：经许可可就一小部分详述传召、或申请许可传召——不保证获准【提示】CFI 程序按 PD 9.3 为 21 日，与 s.65B(2) 之 14 日并列不裁决（open O-T4）〔CR7 L298–L302 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；PD93 L328 "(2) If objection is made to a statement being tendered in evidence, the defendant’s legal representative shall, within 21 days after the notice is served"〕 | 〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L396 "the court may not grant leave!"〕 |
+| 11 | **s.65B 陈述式样未核（点题）** | 未核 s.65B(2)(3) 即参互动 | 【自动后果】不合式样者**不可接纳**——拟省的证人没省成：须传召出庭，否则该证据不存在；传召不到则在裁判 fact-finding 面前证据缺位【举证／补救门槛】接纳前按规定逐点核验；庭审上重新组织口头传唤与时间表〔CR7 L296 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible;"〕 | 〔CR7 L296 "must comply with the formalities in s. 65B(2) and (3) CPO to be admissible"〕 |
+| 12 | s.65B 送达后不反对（14／21 日睡过） | 反对期放空 | 【自动后果】陈述**自动入证**即原则上失去对该作者的盘问机会【举证／救济门槛】s.65B(4)：经许可可就一小部分详述传召、或申请许可传召——不保证获准【提示】CFI 程序按 PD 9.3 为 21 日，与 s.65B(2) 之 14 日并列不裁决（open O-T4）〔CR7 L298–L302 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；PD93 L328 "(2) If objection is made to a statement being tendered in evidence, the defendant’s legal representative shall, within 21 days after the notice is served"〕 | 〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L396 "the court may not grant leave!"〕 |
 | 13 | 同意了其实想盘问的证人的 s.65B | 省错证人 | 【实务代价】盘问权失：入证后该证人可能根本不到庭；欲发展陈述外的新点无人可问；同意后再想靠"举相反证据"攻信度效率较低【救济门槛】无——实务上别同意【预防】同意前 8 自问（0E.3）〔CR7 L392–L396 "Ask yourself whether the witness is a witness you need to cross examine. If so, it would be unusual to agree to admit their written"〕 | 〔CR7 L308 "you must know your defence before you agree"；CR7 L306 "once the statement is admitted, the other side can still call evidence to contradict the statement. In practice however do not agree to admit a"〕 |
-| 14 | **s.65C 漏入应入之项（典型：clear record）（点题）** | 承认事实不全 | 【实务代价】clear record 对可信性与倾向双向有利；控方案结前未呈堂＝可上诉的好理据——己方白丢一张牌【补救】起草十条逐项查（0F.2）；客户书面同意、明白含义〔CR7 L352 "Defence Counsel should ensure the Defendant’s clear record is included. It is a good ground of appeal if Defence Counsel fails to put his client’s"〕 | 〔CR7 L352 "It is a good ground of appeal if Defence Counsel fails to put his client’s clear record before the court"〕 |
-| 15 | **s.65C 签宽了：把争点写成承认（点题）** | 起草不精确／未取指示 | 【自动后果】conclusive：审讯不得举相反证据【举证／救济门槛】**永久**：上诉与重审亦然；撤回须 leave＋充分理由（如控方未披露、证人新现），鲜有成功；上诉称原 counsel 失当＝严重指控、罕见成功【预防】接受全／删／改前须取客户指示（0F.1 #7）〔CR7 L316 "once a fact is admitted, no evidence can be called which contradicts that fact: it is “conclusive evidence” according to s. 65C(1): see R v"；CR7 L342–L344 "A s.65C admission is permanent and stays with the parties on appeal and on a re-trial – see s. 65C(3) and HKSAR v. Wu Wing"〕 | 〔CR7 L324 "Instructions from the client will be necessary."；CR7 L344 "The only possibility to “undo” an admitted fact would be to withdraw it. However, it is very difficult to withdraw an admitted fact under s."〕 |
-| 16 | 签了明知不实项（典型：签 "clear record" 而客户有前科） | 文书与指示不符 | 【制裁暴露】误导法庭＝违反 Bar Code 10.47/10.60/10.61——职业失当，涉事律师个人风险；不可借"控方先错"开脱正面虚假承认【界线】BC 10.61：不主动披露前科是允许的，但不得亲自附和"无罪"宣称〔CR7 L354–L358 "If the Defendant instructs you that he has a criminal record but the Prosecution tell you he does not have a record, you cannot sign"〕 | 〔CR7 L354 "To do so amounts to misleading the court (because it contradicts your instructions) and is unethical."〕 |
-| 17 | CMQ／CMH／PTR 册的程序死线漏办 | CFI 42 日 CMQ 漏交；CMH 缺席；PTR 册迟交 | 【实务代价】CMH 无输入＝哑聆讯；CMH 被告必须出席（不出席＝对法院的直接失信；具体后果库内无明文 → open O-T6）；PTR 册迟交＝上庭无准备的"备妥声明"【补救】主动权方向（书面，无聆讯）／紧急约见排期法官〔PD93 L280 "5.2.1 For the purpose of the Case Management Hearing, the defendant’s legal representative should obtain from the defendant instructions with a view to identifying the"；PD93 L298 "5.3.3 The Case Management Hearing shall take place in chambers. The defendant shall be present at the Case Management Hearing. Both prosecuting counsel and defence"；PD93 L346–L398 "5.4.1 Where necessary, the court may, on its own motion or on application by any party in writing, give further case management directions in writing"〕 | 〔PD93 L298 "The defendant shall be present at the Case Management Hearing."；PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"；PD93 L352 "5.5.2 Not less than 14 days before the Pre-trial Review, the parties should file with the court an agreed paginated PTR Bundle, enclosing :"〕 |
-| 18 | CoR 交存后重大变化不报 | 备妥声明成空文 | 【实务代价】声明＝确认可于排期或**更早**时间开审（法院可能提前调度）；变化不报＝排期失信与开庭当日的"突袭"【补救】立即书面报刑事排期法官求方向〔PD93 L366–L370 "5.6.1 The court will direct the parties to file with the court a Certificate of Readiness for Trial[13] within 7 days after the completion of"〕 | 〔PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕 |
+| 14 | **s.65C 漏入应入之项（典型：clear record）（点题）** | 承认事实不全 | 【实务代价】clear record 对可信性与倾向双向有利；控方案结前未呈堂即构成可上诉的好理据——己方白丢一张牌【补救】起草十条逐项查（0F.2）；客户书面同意、明白含义〔CR7 L352 "Defence Counsel should ensure the Defendant’s clear record is included. It is a good ground of appeal if Defence Counsel fails to put his client’s"〕 | 〔CR7 L352 "It is a good ground of appeal if Defence Counsel fails to put his client’s clear record before the court"〕 |
+| 15 | **s.65C 签宽了：把争点写成承认（点题）** | 起草不精确／未取指示 | 【自动后果】conclusive：审讯不得举相反证据【举证／救济门槛】**永久**：上诉与重审亦然；撤回须 leave＋充分理由（如控方未披露、证人新现），鲜有成功；上诉称原 counsel 失当即严重指控、罕见成功【预防】接受全／删／改前须取客户指示（0F.1 #7）〔CR7 L316 "once a fact is admitted, no evidence can be called which contradicts that fact: it is “conclusive evidence” according to s. 65C(1): see R v"；CR7 L342–L344 "A s.65C admission is permanent and stays with the parties on appeal and on a re-trial – see s. 65C(3) and HKSAR v. Wu Wing"〕 | 〔CR7 L324 "Instructions from the client will be necessary."；CR7 L344 "The only possibility to “undo” an admitted fact would be to withdraw it. However, it is very difficult to withdraw an admitted fact under s."〕 |
+| 16 | 签了明知不实项（典型：签 "clear record" 而客户有前科） | 文书与指示不符 | 【制裁暴露】误导法庭即违反 Bar Code 10.47/10.60/10.61——职业失当，涉事律师个人风险；不可借"控方先错"开脱正面虚假承认【界线】BC 10.61：不主动披露前科是允许的，但不得亲自附和"无罪"宣称〔CR7 L354–L358 "If the Defendant instructs you that he has a criminal record but the Prosecution tell you he does not have a record, you cannot sign"〕 | 〔CR7 L354 "To do so amounts to misleading the court (because it contradicts your instructions) and is unethical."〕 |
+| 17 | CMQ／CMH／PTR 册的程序死线漏办 | CFI 42 日 CMQ 漏交；CMH 缺席；PTR 册迟交 | 【实务代价】CMH 无输入即哑聆讯；CMH 被告必须出席（不出席即对法院的直接失信；具体后果库内无明文 → open O-T6）；PTR 册迟交即上庭无准备的"备妥声明"【补救】主动权方向（书面，无聆讯）／紧急约见排期法官〔PD93 L280 "5.2.1 For the purpose of the Case Management Hearing, the defendant’s legal representative should obtain from the defendant instructions with a view to identifying the"；PD93 L298 "5.3.3 The Case Management Hearing shall take place in chambers. The defendant shall be present at the Case Management Hearing. Both prosecuting counsel and defence"；PD93 L346–L398 "5.4.1 Where necessary, the court may, on its own motion or on application by any party in writing, give further case management directions in writing"〕 | 〔PD93 L298 "The defendant shall be present at the Case Management Hearing."；PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"；PD93 L352 "5.5.2 Not less than 14 days before the Pre-trial Review, the parties should file with the court an agreed paginated PTR Bundle, enclosing :"〕 |
+| 18 | CoR 交存后重大变化不报 | 备妥声明成空文 | 【实务代价】声明即确认可于排期或**更早**时间开审（法院可能提前调度）；变化不报即排期失信与开庭当日的"突袭"【补救】立即书面报刑事排期法官求方向〔PD93 L366–L370 "5.6.1 The court will direct the parties to file with the court a Certificate of Readiness for Trial[13] within 7 days after the completion of"〕 | 〔PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕 |
 
 **使用口径**：本表每行均可在本卡相应小节展开——行 1–2、5–6 回 0B.3–0B.4；行 3–4、7 回 0C；行 5 回 0D；行 8–9 回 0D.3；行 11–13 回 0E；行 14–16 回 0F；行 17–18 回 0G。
 
-## 0K. SG 应用：SG04 Brief 与 SG05 s.65B／C 作业锚点（2026-10-10 深化；2026-11-16 重编，材料矩阵移审计留痕）
+## 0K. SG 应用：SG04 Brief 与 SG05 s.65B／C 作业锚点
 
 > 对应合同"SG 应用（SG04/SG05 作业锚点）"。本卡承载方法，SG 承载本届题面与可交稿——以下为**锚点与映射**，不在本卡再复制 SG 答案（§1 金字塔：**单点单承重**）。
 
-### 0K.1 SG04：Brief 起草与本场作业锚点（2026-10-10 深化）
+### 0K.1 SG04：Brief 起草与本场作业锚点
 
 | 项目 | 内容 | 入口／依据 |
 |---|---|---|
@@ -791,15 +791,15 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | 委托设定 | 案号 ESCC 1641/20XX；新任 counsel Mr. Dennis Au（Prolific Chambers）；由 Able Sol（Rayson Hung Solicitors）指示；Brief 日 15/06/20XX；须早于下次提讯 30/06/20XX 得答复；O.N.E. 信与 DOJ 05/06 拒绝函入 enclosures；客户愿在 counsel 建议下 PG 普通袭击〔SG4S L116–L132 "You should set out the Brief properly: you should include the nature of the instructions between the tramlines e.g. what is Counsel being asked to"〕 | SG4S L116–L132 |
 | 评分与交件 | 计分 6／18 分；Guidelines 为评估基准；**【P1】SGS5 课上（2026-10-28／29 按班次）交纸本**；逾期或减分；剽窃归零并转介〔SG4S L108 "A hard copy of your Brief to Counsel should be handed to your tutor in SGS 5 on October 28th / 29th."；SG5S L60 "PLAGIARISM WILL RESULT IN A MARK OF ZERO"；SG4CD L128 "计分练习（6/18 分）"〕 | SG4S L108；SG5S L60 |
 | 成果锚点 | 现行23段Brief MD及逐节核对、下载原判复核；Word已同步当前MD，6页含背页（学习稿，待核资料按现有状态保留）——04 Model Brief〔SG4MB L23 "The Brief to Counsel should still be your own individual work"〕；讨论用完整英文答话——03 Brief Discussion | SG4OA Q1–Q4 |
-| 关键课堂口径 | Brief 的目的＝让 counsel 读懂案情、找到决定、给可用建议而不必重建全卷；指明委托范围与日期；区分指称／指示／客观文件／律师分析；不在 Brief 中藏短；Vidler 样本三页原 PDF 有 disclosure／stay／PTR／trial 的真委托、不能笼批评"无指示"；不把样本案情（抗议指称、stay 申请）搬进 Willy 案〔SG4OA L60 "The brief should allow counsel to understand the case, identify the decisions required"；SG4OA L84 "确认p.2–3确有disclosure、stay、PTR及trial的具体委托"〕（SG4OA 第 1–2 段） | SG4OA |
+| 关键课堂口径 | Brief 的目的在于让 counsel 读懂案情、找到决定、给可用建议而不必重建全卷；指明委托范围与日期；区分指称／指示／客观文件／律师分析；不在 Brief 中藏短；Vidler 样本三页原 PDF 有 disclosure／stay／PTR／trial 的真委托、不能笼批评"无指示"；不把样本案情（抗议指称、stay 申请）搬进 Willy 案〔SG4OA L60 "The brief should allow counsel to understand the case, identify the decisions required"；SG4OA L84 "确认p.2–3确有disclosure、stay、PTR及trial的具体委托"〕（SG4OA 第 1–2 段） | SG4OA |
 | 程序六问锚点 | Bob 案 Q1–Q3（易受伤害证人保护措施、辩方反对、迟交 alibi——**本卡 0D.3 行 8 即其原型**）＋附加 Q1–Q3（认人队、永久 stay、前科／无罪记录与陪审团误听）——02 Procedure 六问完整稿〔SG4CD L140 "R10 准备缺口登记"；SG4S L50–L92 "CRIMINAL PROCEDURE BRIEF: HSKAR v. BOB BOOKER"〕 | 0D.3 行 8；0G.5 |
 | 与本卡映射 | Brief 结构九节→0C.4；Guidelines 三栏→0C.4 评分坐标；授权与 backsheet→0C.2；客户书面授权→0J 行 3；"改写年代的不同 counsel 熟悉度"→0C.5 #1；六问中的 alibi→0D.3 行 8 | — |
 
-### 0K.2 SG05：三表·主管 memo·s.65C 反建议（2026-10-10 深化）
+### 0K.2 SG05：三表·主管 memo·s.65C 反建议
 
 | 练习 | 本届要求（含资料截止点） | 锚点与本卡映射 |
 |---|---|---|
-| Exercise One（a)–(c) | Jeff Sham 三表（chronological outline／prosecution analysis chart／defence analysis chart）；资料以 5 June 20XX（p.45 attendance note）为封顶，另允 pp.17–21（医疗报告、客户指示、Brian Yip proof）；带 Word 电子版上课；不准备三表＝课堂参与分扣减〔SG5S L64 "DO NOT USE ANY INFORMATION OR DOCUMENTS DATED AFTER THE ATTENDANCE NOTE"；SG5S L84 "YOU MUST BRING SOFT COPIES (WORD DOCUMENTS) OF THE COMPLETED CASE ANALYSIS CHARTS TO THE SGS SO THAT YOUR TUTOR CAN HAVE SIGHT OF THEM."〕 | 02 Jeff 三表；表法→0B.4 三表法 |
+| Exercise One（a)–(c) | Jeff Sham 三表（chronological outline／prosecution analysis chart／defence analysis chart）；资料以 5 June 20XX（p.45 attendance note）为封顶，另允 pp.17–21（医疗报告、客户指示、Brian Yip proof）；带 Word 电子版上课；不准备三表即课堂参与分扣减〔SG5S L64 "DO NOT USE ANY INFORMATION OR DOCUMENTS DATED AFTER THE ATTENDANCE NOTE"；SG5S L84 "YOU MUST BRING SOFT COPIES (WORD DOCUMENTS) OF THE COMPLETED CASE ANALYSIS CHARTS TO THE SGS SO THAT YOUR TUTOR CAN HAVE SIGHT OF THEM."〕 | 02 Jeff 三表；表法→0B.4 三表法 |
 | Exercise Two | 以 Able Sol 身份就主管 memo 九问课前拟回覆要点：s.65B／65C 同意的效力；警员陈述有无争议；传召警员对辩方的影响；是否问 counsel；医疗报告以 s.65B 入证的要求与不回应后果；反对的对冲（医生传召与盘问）；医生是否浪费时间；被告是否须作供；当前的实务步骤与给客户的意见〔SG5S L116–L136 "I have reviewed the Jeff Sham File. In bullet point form, you should respond to the questions in this memo. At our scheduled meeting tomorrow,"〕 | 03 主管 memo 九问完整回答；s.65B 效力与传召取舍→0E.1–0E.3；医生报告→0C.3／0D.3；客户建议→0C.1 |
 | Exercise Three | 课内改 1 September 控方 draft Admitted Facts——完整反建议（删除起因冲突、扶凳版本、GBH 意图、非法恶意与否定自卫；改以临床所见；图则相片待识别并限定真确范围）＋课堂解释〔SG5S L68 "based on the Draft Admitted Facts … dated 1 September 20XX"〕 | 04 s.65C 完整反建议；随课范例 PRECEDENT ADMITTED FACTS s.65C〔SG5AF L34 "The following facts are admitted pursuant to section 65C of the Criminal Procedure Ordinance, Cap.221"〕（⚠️ md 压平自动编号，格式以 docx 为准——SG5CD L64 已登记）；起草十条→0F.2 |
 | Exercise Four | 课堂匿名期中教学评价，本人真填〔SG5S L104 "EXERCISE FOUR: At some point during the SGS, your tutor will ask you to fill in a mid-semester teaching evaluation form. This form should be"〕 | — |
@@ -815,7 +815,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 |---|---|
 | 第一问：为什么"三份文书"分内外两层？ | Brief、proof、witness statement 都是辩方**内部**专业文书——让另一位律师（counsel）与未来的自己不重建卷宗就能执行，所以必须如实写弱点与未决〔CR7 L194 "Content: The Brief should include all the relevant documents tabbed and ordered in a logical manner. The type of work to be done should be"〕；对外只有两件法定披露（alibi、s.65DA）与两类定型文书（s.65B 同意、s.65C 共同文件）。制度如此分工的理由：辩方的**无罪推定与沉默权**底盘决定辩方无一般披露义务（A11 HKBOR；见 13 卡），但**证据效率**需要社会成本最低的"省证人、缩争点"机制——于是省时间以"同意＋书面版"为对价〔CR7 L376–L382 "narrow the issues in dispute; and"〕。 |
 | 第二问：为什么承认事实如此"贵"？ | 事实若只作为"待证命题"存在，双方在审讯仍须各自举证；承认为获得**审期节约**而把它换成 conclusive——代价是该命题的争议面被永久关闭（上诉与重审亦然）〔CR7 L316 "it is “conclusive evidence” according to s. 65C(1)"；CR7 L342 "A s.65C admission is permanent and stays with the parties on appeal and on a re-trial – see s. 65C(3) and HKSAR v. Wu Wing"〕。所以承认前的追问（客户指示、书面同意、明白含义）不是程序洁癖，而是为"永久关闭"买保险〔CR7 L324 "After receiving the draft from the Prosecution, the Defence may seek to add facts and should require the deletion of any facts that the Defendant"；CR7 L362–L364 "Defence Counsel must obtain the client’s written agreement to the admission of such facts. As a matter of good practice, you should have the Defendant"〕。 |
-| 第三问：为什么"盘问权"如此"贱"？ | s.65B 中"入证即代替口证"的意义恰恰相反：盘问机会本身是可**放弃**的权利——放弃的对价是 14 日静默（不反对＝同意）〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L302 "the consequence of a written statement admitted under s. 65B means the other party loses the right to XXN the statement-maker unless s. 65B(4)(a) or"〕。结果是**同意不是权利行使而是权利放弃**；指控"省下证人"话术的本来面目是"豁免盘问"〔CR7 L392 "Ask yourself whether the witness is a witness you need to cross examine. If so, it would be unusual to agree to admit their written"〕。 |
+| 第三问：为什么"盘问权"如此"贱"？ | s.65B 中"入证即代替口证"的意义恰恰相反：盘问机会本身是可**放弃**的权利——放弃的对价是 14 日静默（不反对即同意）〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L302 "the consequence of a written statement admitted under s. 65B means the other party loses the right to XXN the statement-maker unless s. 65B(4)(a) or"〕。结果是**同意不是权利行使而是权利放弃**；指控"省下证人"话术的本来面目是"豁免盘问"〔CR7 L392 "Ask yourself whether the witness is a witness you need to cross examine. If so, it would be unusual to agree to admit their written"〕。 |
 | 第四问：为什么 Brief、backsheet 这类文书被纪律化？ | 因为刑事程序的物质前提不止是**看得见的人**（大律师、专家、证人），还有**看不见的责任**（书面授权、费用责任、专业失当条款）：Rule 5D(e) 的 7 日 backsheet 把"谁指示谁、做什么、什么价"钉为书面事实，杜绝口头委任的责任漂移〔CR7 L184 "One of the pieces of advice that a solicitor will have to give is whether counsel should be instructed. The authority of the client is"；CR7 L200 "Rule 5D(e) of the Solicitors’ Practice Rules provides that in criminal matters, not more than 7 days after counsel has been instructed, the solicitor’s firm"〕；委任专家的同级纪律把"意见"的价格与义务提早固定〔CR7 L150–L156 "once consent is obtained and a suitable expert identified, instruct the expert at the earliest opportunity. Many good experts are busy and it is important"〕。 |
 
 **该框架的代价线**：对**打算拖的人**——省证人、缩争点反而省不了（不同意须有正当抗辩理由，徒劳反抗招致讼费）〔CR7 L384 "In addition, a Defendant who refuses to admit a point that he then takes no issue in XXMN with at trial, may suffer adverse costs’"〕；对**想做好而马虎的人**——式样、期限、同意、backsheet 每一步都要付（不合式样不可接纳、不反对自动入证、撤回难、未标 fee 失当）；对**守规则的人**——所有加速路径（同意入证、承认事实、CMH 一致方向）都为他铺路。
@@ -883,7 +883,7 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | DC PTR 议程 | PD9.4 ¶17 十项：答辩、额外证据性质、承认事实、证人名单、可采性反对、专家、审期、先决呈请、法律点、不反对的陈述。 | 〔PD94 L74 "At the pre-trial review, counsel or solicitors will inform the trial judge of the following"〕 |
 | DC 承认与陈述的送达 | s.65C 回覆须服务 Registrar, DC；s.65B 陈述 PTR 前送达、无反对协议才送 Registrar。 | 〔PD94 L70 "15. The party to whom a notice under para.14 is addressed may serve a notice in reply stating any fact admitted. Such admission should be"；PD94 L72 "16. A written statement proposed to be tendered in evidence in terms of s.65B of the Criminal Procedure Ordinance (Cap.221), should be served by the"〕 |
 | MC PTR 问卷 | 开庭前 2 个工作日交法院，尽量经全体同意完成；逐项核验准备状态（含 s.65B 同意证人、s.65C 草稿、unused material 开放）。 | 〔📄PTRMC p.1 "handed to the court two working days before the Pre-Trial Review"〕 |
-| unused material 索取 | 辩方应主动索取、查看全部；相关界线＝削弱控方或助益辩方（Lau Wing Wing）；严重案件控方有主动义务（Wun Shu Fai）。 | 〔CR6 L184 "ensure you view ALL unused material;"；CR6 L146 "There is no duty on the Prosecution to disclose unused material which is not relevant in that it does not undermine the Prosecution case or"；CR6 L138 "Unused material is material that has been collected by the police / Prosecution in the course of the investigation / preparing the case but upon"〕 |
+| unused material 索取 | 辩方应主动索取、查看全部；相关界线指削弱控方或助益辩方（Lau Wing Wing）；严重案件控方有主动义务（Wun Shu Fai）。 | 〔CR6 L184 "ensure you view ALL unused material;"；CR6 L146 "There is no duty on the Prosecution to disclose unused material which is not relevant in that it does not undermine the Prosecution case or"；CR6 L138 "Unused material is material that has been collected by the police / Prosecution in the course of the investigation / preparing the case but upon"〕 |
 | Brief 无硬性格式 | Brief 无内容硬规则，风格随所委工作变化；实用提示与 Guidelines 为本校评估基准。 | 〔SG4S L136 "There are no strict rules with regard to the contents of a brief"；SG4S L108 "After the SGS, students will individually draft the Brief to Counsel in the case of HKSAR v Willy Ma. This is an assessed Coursework exercise"〕 |
 | 专家委任的四件事 | 同意／法援许可、查过往批评、尽早锁定、报价与告知对法院的公正义务。 | 〔CR7 L148–L156 "review previous cases in which the proposed expert has been instructed to see if their opinion has been doubted or criticized in the past;"〕 |
 
@@ -899,16 +899,16 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | 盘问状态 | 接受书面陈述是否保留需问问题 | 区分承認证据进入和承認事实真实性 |
 | 程序状态 | 服务和反对期限是否与命令相符 | 建立日历并核送达记录 |
 
-**主闭环（2026-10-10 回改展开）**：状态 → 触发事实 → 决策点 → 行动 → 反馈（代价）→ 补救（许可／撤回／报告）。该闭环与 0B.1 状态机是同一台引擎的两个视图；每行的后果归并 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）)。
+**主闭环（2026-10-10 回改展开）**：状态 → 触发事实 → 决策点 → 行动 → 反馈（代价）→ 补救（许可／撤回／报告）。该闭环与 0B.1 状态机是同一台引擎的两个视图；每行的后果归并 [0J 总表](#0j-环节不做后果链总表索引)。
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（代价） | 补救（许可／撤回／报告） |
 |---|---|---|---|---|---|
-| **P＝案卷状态**（册齐／待索／unused 的开闭） | 程序转入下一阶段；新案阶段起点（移交、交付、通知） | 现有什么、还缺什么由谁补？ | 按司法区索取：MC 主动函；DC／CFI 接册但查编页与索引；unused 另要〔CR7 L80 "Magistrates’ Court trials: there is no set for procedure or requirements governing the documents that the defence is entitled to when the trial is in"；PD94 L18–L36 "1. In all cases where the prosecution applies to transfer a case to the District Court from the magistracy, they shall on or before the"〕 | 灭失先发生；train of enquiry 断〔CR7 L82 "Despite the Prosecution’s duty of disclosure, instructing solicitors for the defence should be proactive in making disclosure requests to prevent the loss or destruction of"；CR6 L136 "The Prosecution’s duty of disclosure extends to these. Both unused material and inadmissible evidence may lead the Defendant on a train of enquiry to relevant,"〕 | 借口供卷不完整求押后 writ large；PD9.3 §5.3.11 CMI 后 14 日列表〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"〕 |
-| **A＝分析与指示状态**（读卷至哪步、哪点仍待指示） | 有新信息（录像、原件、前科、医疗） | 是否足够给初步意见？何事仍待指示？ | 读卷十三件＋八项议程；customers 未知便列待取指示问题〔CR7 L86–L112 "Upon receipt the papers should be read and analysed carefully by instructing solicitors. Case preparation is vital at this stage. The practitioner should:"〕 | 意见写成"太早"或"太晚"：误导和解刑期窗口〔CR7 L68 "A practitioner should try to resist the attempt to advise until all the case papers have been received and studied, although preliminary advice can be"〕 | 附保留写明材料时点；会后书面确认指示〔CR7 L180 "Following such a conference with the client, the solicitor should write to the client and confirm the instructions given."〕 |
-| **C＝委任状态**（书面授权×同意×backsheet×fee） | 拟委任 counsel／专家 | 授权与同意在手了吗？法援许可？7 日 backsheet 已交？ | 先授权后委任；初联与议费由律师本人；专家先查过往、报价、对法院义务〔CR7 L184 "One of the pieces of advice that a solicitor will have to give is whether counsel should be instructed. The authority of the client is"；CR7 L146–L156 "advise and seek consent of the client to instruct an expert;"〕 | 费用追偿风险＋失当（Rule 5D(e) 违反、未标 fee）〔CR7 L198–L200 "When counsel is instructed to appear in court, instructing solicitor must deliver to counsel a signed backsheet containing the information outlined in BC para 7.5"〕 | 不补救"期前"——立即补书面授权／补交 backsheet 并留痕 |
-| **D＝披露状态**（唯二法定披露时与式） | 有 alibi／专家拟用？交付／移交已过？ | 现在是否已触发 10 日／ASAPP？能否暂缓（恐吓理由须通知）？ | 列明细节发通知／供书面意见＋（被书面要求时）供基础记录〔CR6 L246 "A Defendant must give an alibi notice not less than 10 days before start of trial. The alibi notice must give particulars of the alibi:"；CR6 L268–L272 "Section 65DA CPO applies to expert evidence to be called in the District Court and Court of First Instance by both the Prosecution and Defence:"〕 | 逾期：证据不可传／不可用（许可裁量）；押后＋wasted costs（expert）〔CR6 L244 "Failing to comply with the statutory provisions may mean the alibi cannot be called at trial. However, the Judge may still permit the alibi to"；CR6 L278 "Failure to comply with s.65DA means that the expert evidence cannot be adduced at the trial without leave of the court: s.65DA(5). It may also"〕 | 许可申请＋解释＋给对方调查机会；暂缓须按 s.65DA(3)(4) 通知及记理由〔CR6 L276 "These rules as to expert evidence apply unless a party has reasonable grounds for believing that the disclosure of any evidence in compliance with subsection"〕 |
-| **S＝定型状态**（s.65B 陈述／s.65C 承认） | 控方 s.65B 通知／s.65C 草稿到 | 反对？同意？删？加？—— 我方案情理论与盘问需求决定〔CR7 L388 "You must know your case theory before you can decide whether to admit a witness’ written statement."〕 | s.65B：核式样、红act、14 日反对闸、写书面同意；s.65C：起草十条、客户书面同意、双方签〔CR7 L296–L402 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible;"〕 | 已入定：陈述自动入证失 XXN；承认 conclusive＋永久〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L316–L342 "once a fact is admitted, no evidence can be called which contradicts that fact: it is “conclusive evidence” according to s. 65C(1): see R v"〕 | s.65B(4) 许可（不保证获准）／s.65C(4) 撤回（须许可＋充分理由）〔CR7 L344 "The only possibility to “undo” an admitted fact would be to withdraw it. However, it is very difficult to withdraw an admitted fact under s."〕 |
-| **M＝管理聆讯状态**（CMQ／CMH／PTR／CoR） | 编页册交存即时间表启动（PD9.3） | 我现在处于 14/21/42 何种死线？MH 的输入齐吗？ | CMQ 42 日→CMH≥7 日方向→PTR 册≥14 日→CoR 备妥 7 日〔PD93 L282–L370 "5.2.2 Within 42 days after the lodging of the Paginated Committal Bundle, the parties shall file with the court and serve on the other side"〕 | 哑聆讯／PTR 册迟＝失信与开庭前“无准备声明”〔PD93 L298 "5.3.3 The Case Management Hearing shall take place in chambers. The defendant shall be present at the Case Management Hearing. Both prosecuting counsel and defence"；PD93 L352 "5.5.2 Not less than 14 days before the Pre-trial Review, the parties should file with the court an agreed paginated PTR Bundle, enclosing :"〕 | 书面后续方向（无聆讯）／紧急约见（速审表 2 clear days）；CoR 后变化即报排期法官〔PD93 L346 "5.4.1 Where necessary, the court may, on its own motion or on application by any party in writing, give further case management directions in writing"；PD93 L398 "6.2.4 Unless otherwise ordered by the court, no further Case Management Hearing will be fixed before trial. However, when the need arises, the parties shall,"；PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕 |
+| **P：案卷状态**（册齐／待索／unused 的开闭） | 程序转入下一阶段；新案阶段起点（移交、交付、通知） | 现有什么、还缺什么由谁补？ | 按司法区索取：MC 主动函；DC／CFI 接册但查编页与索引；unused 另要〔CR7 L80 "Magistrates’ Court trials: there is no set for procedure or requirements governing the documents that the defence is entitled to when the trial is in"；PD94 L18–L36 "1. In all cases where the prosecution applies to transfer a case to the District Court from the magistracy, they shall on or before the"〕 | 灭失先发生；train of enquiry 断〔CR7 L82 "Despite the Prosecution’s duty of disclosure, instructing solicitors for the defence should be proactive in making disclosure requests to prevent the loss or destruction of"；CR6 L136 "The Prosecution’s duty of disclosure extends to these. Both unused material and inadmissible evidence may lead the Defendant on a train of enquiry to relevant,"〕 | 借口供卷不完整求押后 writ large；PD9.3 §5.3.11 CMI 后 14 日列表〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"〕 |
+| **A：分析与指示状态**（读卷至哪步、哪点仍待指示） | 有新信息（录像、原件、前科、医疗） | 是否足够给初步意见？何事仍待指示？ | 读卷十三件＋八项议程；customers 未知便列待取指示问题〔CR7 L86–L112 "Upon receipt the papers should be read and analysed carefully by instructing solicitors. Case preparation is vital at this stage. The practitioner should:"〕 | 意见写成"太早"或"太晚"：误导和解刑期窗口〔CR7 L68 "A practitioner should try to resist the attempt to advise until all the case papers have been received and studied, although preliminary advice can be"〕 | 附保留写明材料时点；会后书面确认指示〔CR7 L180 "Following such a conference with the client, the solicitor should write to the client and confirm the instructions given."〕 |
+| **C：委任状态**（书面授权×同意×backsheet×fee） | 拟委任 counsel／专家 | 授权与同意在手了吗？法援许可？7 日 backsheet 已交？ | 先授权后委任；初联与议费由律师本人；专家先查过往、报价、对法院义务〔CR7 L184 "One of the pieces of advice that a solicitor will have to give is whether counsel should be instructed. The authority of the client is"；CR7 L146–L156 "advise and seek consent of the client to instruct an expert;"〕 | 费用追偿风险＋失当（Rule 5D(e) 违反、未标 fee）〔CR7 L198–L200 "When counsel is instructed to appear in court, instructing solicitor must deliver to counsel a signed backsheet containing the information outlined in BC para 7.5"〕 | 不补救"期前"——立即补书面授权／补交 backsheet 并留痕 |
+| **D：披露状态**（唯二法定披露时与式） | 有 alibi／专家拟用？交付／移交已过？ | 现在是否已触发 10 日／ASAPP？能否暂缓（恐吓理由须通知）？ | 列明细节发通知／供书面意见＋（被书面要求时）供基础记录〔CR6 L246 "A Defendant must give an alibi notice not less than 10 days before start of trial. The alibi notice must give particulars of the alibi:"；CR6 L268–L272 "Section 65DA CPO applies to expert evidence to be called in the District Court and Court of First Instance by both the Prosecution and Defence:"〕 | 逾期：证据不可传／不可用（许可裁量）；押后＋wasted costs（expert）〔CR6 L244 "Failing to comply with the statutory provisions may mean the alibi cannot be called at trial. However, the Judge may still permit the alibi to"；CR6 L278 "Failure to comply with s.65DA means that the expert evidence cannot be adduced at the trial without leave of the court: s.65DA(5). It may also"〕 | 许可申请＋解释＋给对方调查机会；暂缓须按 s.65DA(3)(4) 通知及记理由〔CR6 L276 "These rules as to expert evidence apply unless a party has reasonable grounds for believing that the disclosure of any evidence in compliance with subsection"〕 |
+| **S：定型状态**（s.65B 陈述／s.65C 承认） | 控方 s.65B 通知／s.65C 草稿到 | 反对？同意？删？加？—— 我方案情理论与盘问需求决定〔CR7 L388 "You must know your case theory before you can decide whether to admit a witness’ written statement."〕 | s.65B：核式样、红act、14 日反对闸、写书面同意；s.65C：起草十条、客户书面同意、双方签〔CR7 L296–L402 "the written statement must comply with the formalities in s. 65B(2) and (3) CPO to be admissible;"〕 | 已入定：陈述自动入证失 XXN；承认 conclusive＋永久〔CR7 L298 "if the other side does not want the statement admitted, they must object within 14 days of service (note parties can agree to dispense with"；CR7 L316–L342 "once a fact is admitted, no evidence can be called which contradicts that fact: it is “conclusive evidence” according to s. 65C(1): see R v"〕 | s.65B(4) 许可（不保证获准）／s.65C(4) 撤回（须许可＋充分理由）〔CR7 L344 "The only possibility to “undo” an admitted fact would be to withdraw it. However, it is very difficult to withdraw an admitted fact under s."〕 |
+| **M：管理聆讯状态**（CMQ／CMH／PTR／CoR） | 编页册交存即时间表启动（PD9.3） | 我现在处于 14/21/42 何种死线？MH 的输入齐吗？ | CMQ 42 日→CMH≥7 日方向→PTR 册≥14 日→CoR 备妥 7 日〔PD93 L282–L370 "5.2.2 Within 42 days after the lodging of the Paginated Committal Bundle, the parties shall file with the court and serve on the other side"〕 | 哑聆讯／PTR 册迟即失信与开庭前“无准备声明”〔PD93 L298 "5.3.3 The Case Management Hearing shall take place in chambers. The defendant shall be present at the Case Management Hearing. Both prosecuting counsel and defence"；PD93 L352 "5.5.2 Not less than 14 days before the Pre-trial Review, the parties should file with the court an agreed paginated PTR Bundle, enclosing :"〕 | 书面后续方向（无聆讯）／紧急约见（速审表 2 clear days）；CoR 后变化即报排期法官〔PD93 L346 "5.4.1 Where necessary, the court may, on its own motion or on application by any party in writing, give further case management directions in writing"；PD93 L398 "6.2.4 Unless otherwise ordered by the court, no further Case Management Hearing will be fixed before trial. However, when the need arises, the parties shall,"；PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕 |
 
 **四类反模式（该闭环专门捕）**：(1) 把 draft 当 signed、待索当已取（断在 P／S）； (2) 把口头授权当书面、把费用当已付（断在 C）；(3) 把"我不反对"当"不入证"（断在 S 下的 14 日闸门）；(4) 把"备妥一次申明"当"永远备妥"（断在 M，CoR 后的新发展是活的）〔PD93 L368–L370 "5.6.2 Filing of the Certificate means that, unless there is any unforeseen and material change in circumstances, there is no more outstanding procedural matter and"〕。
 
@@ -927,8 +927,8 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 |---|---|---|
 | **ONE 谈判 ↔ Brief** | ONE 信是对外游说、不得露辩；Brief 是内部指示、必须如实写弱——两文件读者与目的相反，内容**不能共用**一套事实稿 | SG04 课堂答话 Q4：两文件差异来自收件人与目的，不许在任一文件里造事实（SG4OA 第 4 段）；One 信揭示风险：万一谈判失败、审讯 counsel 换人〔CR5 L126 "You should not reveal your Defence in the O.N.E. Bind Over letter (unless absolutely necessary and you have clear instructions from your client to do"〕 |
 | **s.65C ↔ Summary of Facts** | 承认内容会写入 Summary of Facts（认罪求情用事或审讯 Opening 底稿）——已承认即不再争，等于把自己的开案"削掉一块" | 〔CR7 L404 "Any facts admitted can be referred to in the Summary of Facts"；CR5 L526 "the Prosecutor prepares a written Summary of Facts which stands as the Opening Address"〕；幻灯：tendered at start of trial（有时早在 PTR）〔CR7PP L83–L84 "Both Prosecutor and Defence Counsel sign the facts and they are tendered at the start of the trial (sometimes earlier at a PTR)"〕 |
-| **s.65C ↔ good character 的上诉面** | clear record 漏放＝控方案结前的"可上诉好理据"；clear record 虚签＝Bar Code 失当——同一字段，两种反向代价 | 〔CR7 L352 "A clear record goes both to credibility of character and propensity to commit a crime."；CR7 L354 "If the Defendant instructs you that he has a criminal record but the Prosecution tell you he does not have a record, you cannot sign"〕；往届 SET2 PP2022 考例：承认 clear record ＋认另一罪 → 指引需按 R v Hunter 修口〔OLD-SET2 L223 "it was an admitted fact under s.65C that D has a clear record"·往届仅参考〕 |
-| **s.65B ↔ 保管链攻击面** | 打算争保管链安全，就绝不同意保管证人的陈述——同意了＝盘问权让渡＋对面不动兵即完成实证 | 〔CR7 L392 "Ask yourself whether the witness is a witness you need to cross examine. If so, it would be unusual to agree to admit their written"〕（自拟例见 0A.7） |
+| **s.65C ↔ good character 的上诉面** | clear record 漏放即控方案结前的"可上诉好理据"；clear record 虚签即 Bar Code 失当——同一字段，两种反向代价 | 〔CR7 L352 "A clear record goes both to credibility of character and propensity to commit a crime."；CR7 L354 "If the Defendant instructs you that he has a criminal record but the Prosecution tell you he does not have a record, you cannot sign"〕；往届 SET2 PP2022 考例：承认 clear record ＋认另一罪 → 指引需按 R v Hunter 修口〔OLD-SET2 L223 "it was an admitted fact under s.65C that D has a clear record"·往届仅参考〕 |
+| **s.65B ↔ 保管链攻击面** | 打算争保管链安全，就绝不同意保管证人的陈述——同意了即盘问权让渡＋对面不动兵即完成实证 | 〔CR7 L392 "Ask yourself whether the witness is a witness you need to cross examine. If so, it would be unusual to agree to admit their written"〕（自拟例见 0A.7） |
 | **alibi ↔ lies direction** | 提出 alibi 即触发陪审团 lies 方向义务（Chan Chun Tak）——alibi 被怀疑是谎称时，要相信之信用不只攻击该不在场证据 | 〔CR6 L246–L250 "the trial Judge must give a full direction on lies"〕（SJD 52） |
 | **expert ↔ hearsay** | 专家意见不受传闻规则约束——传闻删节的 s.65B 措施不适用于专家报告本体；专家问题在**资格与意见**，不在传闻 | 〔CR7PP L24 "note the hearsay rule does not apply"；CR7 L122 "Expert evidence is essentially opinion evidence and is allowed as an exception to the general rule that a witness should not give opinion evidence. An"〕；挑战专家可从专业资格或 findings 两路〔CR7PP L27–L28 "If sensible, challenge a prosecution expert on expertise"〕 |
 | **unused ↔ stay（接口）** | 未披露的攻防主体在 13 卡；本卡只备"哪里得到它"——永久 stay 两分支与 PD 9.7 是跨卡联动（披露位不足 ≠ 直接 stay） | 〔CR5P L137–L155 "PERMANENT STAY OF PROCEEDINGS"；OLD-SET3LG L3441–L3457 "Adjournment and costs consequences"·往届仅参考〕 |
@@ -946,14 +946,14 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | 固定无争议事实 | 客户指示后使用s65C | 撤回需许可，不是反悔即可删除 |
 | 保留真正争议 | 具体说明反对理由和所需证据 | 无理由拒绝简化可能有费用后果 |
 
-**四个目标的倒推链（2026-10-10 回改）**：每条从"成功那天需要出示什么"向回数环，断点直接落到 [0J 总表](#0J.%20环节×不做后果链总表（索引）（2026-10-10%20深化；2026-11-16%20重编）) 的行号。
+**四个目标的倒推链（2026-10-10 回改）**：每条从"成功那天需要出示什么"向回数环，断点直接落到 [0J 总表](#0j-环节不做后果链总表索引) 的行号。
 
 | 目标 | 从终点向回数 | 关键证据／文件 | 最易断的环与对策 | 交叉 |
 |---|---|---|---|---|
 | **A 让接任审讯律师立刻能执行** | 审讯日 counsel 用 Brief→争点→证据位置→行动期限→当前程序状态→已交的 backsheet→真实客户授权 | Brief 九节齐（0C.4）；enclosures 编号＋交叉引用；签署／日期／fee／backsheet 合式；书面授权在手 | 断环 1：Brief 当"材料堆"——把九节逐个写完再交（0J 行 7）；断环 2：隐瞒已知弱点——counsel 在庭前夜才发现不利点；对策：弱处如实＋争点点破〔CR7 L214 "Defence case Provide a summary of the defence evidence; its strengths and weaknesses;"〕 | 0C；0J 行 7；0K.1 |
 | **B 把争点缩到"该争的才争"** | 审讯 Opening 只绕仍争的点展开；s.65C 已签；s.65B 已入 | 起草十条＋客户书面同意（0F.2）；8 自问后只让不需盘问的陈述入证（0E.3） | 断环 1：签宽——conclusive + 永久（0J 行 15）；断环 2：clear record 漏放（0J 行 14）；断环 3：要盘问的证人被 65B 走（0J 行 13）；对策：先取案情理论再签名〔CR7 L308 "Defence Counsel needs to carefully read the Prosecution witness’ statement and ensure there is nothing he wants to XXN the witness on before he agrees"〕 | 0E–0F；0K.2 |
-| **C 不让辩方仅有的两项披露引爆** | 审讯日 alibi 证人可传、专家证据可用 | ≥10 日 alibi 通知并列细；s.65DA ASAP 供书面意见＋基础记录 | 断环：先动手补报告——Lai Chee Ying 式的"开庭首日才聘"＝leave 被驳；对策：委任专家即记死线、把"何时供"写进 Brief 的 action 段〔CR6 L280 "For a recent case dealing with an application to adduce expert evidence after the commencement of the trial: see HKSAR v. Lai Chee Ying &"；CR6 L246 "A Defendant must give an alibi notice not less than 10 days before start of trial. The alibi notice must give particulars of the alibi:"〕 | 0C.3－0D.3；0J 行 8/9 |
-| **D 准时、可开审地完成法庭期望的文件** | CoR 已交（＝可于排期或更早时间开审）且其后变化已续报 | CMQ／CMH 同意方向／PTR 册／CoR 各按死线；unused 清单已到 | 断环 1：CMH 无输入（0J 行 17）；断环 2：CoR 后变化不报（0J 行 18）；对策：程序死线成册后即时历成表，变化书面呈排期法官〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"；PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕 | 0G；0J 行 17/18 |
+| **C 不让辩方仅有的两项披露引爆** | 审讯日 alibi 证人可传、专家证据可用 | ≥10 日 alibi 通知并列细；s.65DA ASAP 供书面意见＋基础记录 | 断环：先动手补报告——Lai Chee Ying 式的"开庭首日才聘"即 leave 被驳；对策：委任专家即记死线、把"何时供"写进 Brief 的 action 段〔CR6 L280 "For a recent case dealing with an application to adduce expert evidence after the commencement of the trial: see HKSAR v. Lai Chee Ying &"；CR6 L246 "A Defendant must give an alibi notice not less than 10 days before start of trial. The alibi notice must give particulars of the alibi:"〕 | 0C.3－0D.3；0J 行 8/9 |
+| **D 准时、可开审地完成法庭期望的文件** | CoR 已交（即确认可于排期或更早时间开审）且其后变化已续报 | CMQ／CMH 同意方向／PTR 册／CoR 各按死线；unused 清单已到 | 断环 1：CMH 无输入（0J 行 17）；断环 2：CoR 后变化不报（0J 行 18）；对策：程序死线成册后即时历成表，变化书面呈排期法官〔PD93 L342 "5.3.11 The court will direct the prosecution to provide to the defence a list of any unused materials which have not yet been disclosed within"；PD93 L370 "5.6.3 Where, after filing the certificate, there is any new significant development or material change in circumstances which renders the case not ready for trial,"〕 | 0G；0J 行 17/18 |
 
 **使用提示**：四链既是攻（我怎样不被查、不被变、不被拖），也是防（对方要求承认、入证、排期时，我把正当抗辩理由与时间表拿在手里）；各链交叉定位的小节均已挂"总表索引"点题，互相咬合不再重复抄写。
 
@@ -968,7 +968,11 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 
 **证据与写法自检**：把每一句拆成“事实来自哪里／法律条件来自哪里／结论强度多大”。客户说法、模拟训练、自拟建议与法定规则各自标明；不要把本卡策略分析当成讲义原话。
 
-#### 审计留痕：材料矩阵、待核事项与历史修订记录
+## SG08 上诉信与合伙人备忘录
+
+客户信先说明建议、原决定及已获指示，再解释实际意义与风险。把请客户签本人的上诉通知、另授委聘大律师及保释条件资料拆开。Memo 先交付是否上诉、保释和最早期限；理由按「一处判词或程序→规则→对裁决的实际影响→强弱和请求」展开。三类上诉程序独立写，避免正文变成给客户讲解判例。课程明定 SGS 起草独立完成。客户信核查 · 备忘录核查。 ^sg08-drafting
+
+## 审计留痕：材料矩阵、待核事项与历史修订记录
 
 > 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则；SG05 录音增量（==高亮==）按用户高亮保留在正文与历史区相应位置。
 
@@ -1168,8 +1172,3 @@ SG04当前Brief已同步至原MD链接的同名Word，正文及背页共6页，�
 **既有缺陷跨卡修复登记**：①既有引注错误 5 处（4 簇）修复——SG4CD L107→L128、SG4OA L39→L84、SG5CD L78→L91 三处行号漂移重指；SG5E3 L36「不承认该限定描述」／L38「直接承认争议要件并否定全部抗辩」两处死摘录（全库仅本卡出现、SG5E3 实文无此语）改挂实际载体 SG5E3 L92「【删除，不予承认】」与 L43「以及否定自卫抗辩的措辞」（语义同向、逐字取自实文）。守恒差异单元以此登记为准。②既有断链修复：`07 Shared Authorities - PD9.5 and PD9.7.md`（×3，实文件为 05）改指实体；历史区 2026-10-21 条目内 `06 Shared Facts and Instruction Record - Brief to Counsel.md` 目标文件全库未建（SG04 夹无此件、「本届指示版本矩阵」内容无处承载）——按「历史记录保留、不臆造目标」原则保留原链并于此登记，与 SG02 层 07 Shared Research 缺失同列既有挂账。
 
 **门禁结果（2026-11-16 跑完回填）**：①守恒：原卡 574 单元 − 新稿 574 单元，缺失 0、新增 0（既有 5 处错误引注修复的单元差异按上条登记）；②`cite_check.py`（本卡单文件）：**error 0**；warn 31，全部 C10 启发式（落在导语、边界声明、任务直达表、0I.2 清单行、材料矩阵行与历史记录行——非实质规则行漏引，按 §13.3 登记不追归零）；③`check_one.py`（本卡单文件）：修复 07→05 Shared Authorities 三处后 **0 non-ok**（既有 06 Shared Facts 断链按上条登记保留）。④未运行会写库的 vault 级门禁；vault 级全库面按 §18.9 由具备全库写授权时执行。
-
-## SG08 上诉信与合伙人备忘录
-
-客户信先说明建议、原决定及已获指示，再解释实际意义与风险。把请客户签本人的上诉通知、另授委聘大律师及保释条件资料拆开。Memo 先交付是否上诉、保释和最早期限；理由按「一处判词或程序→规则→对裁决的实际影响→强弱和请求」展开。三类上诉程序独立写，避免正文变成给客户讲解判例。课程明定 SGS 起草独立完成。客户信核查 · 备忘录核查。 ^sg08-drafting
-

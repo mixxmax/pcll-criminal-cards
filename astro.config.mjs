@@ -559,12 +559,12 @@ export default defineConfig({
 								'14-institution-trial-preparation': {
 									title: '备审准备核验清单', badge: '6项核心',
 									items: [
-										{ label: '卷宗与指示', en: 'Brief & Instructions', href: '#1-卷宗与指示' },
-										{ label: 's.65B 陈述书', en: 's.65B Statements', href: '#2-s65b-陈述书' },
-										{ label: 's.65C 承认事实', en: 's.65C Admissions', href: '#3-s65c-承认事实' },
-										{ label: '证人与专家准备', en: 'Witness & Expert Prep', href: '#4-证人与专家准备' },
-										{ label: '审讯文件与排期', en: 'Trial Bundles & Listing', href: '#5-审讯文件与排期' },
-										{ label: '高危雷区', en: 'High-Risk Traps', href: '#6-高危雷区' },
+										{ label: '审讯准备总框架', en: 'Prep Framework', href: '#0b-审讯准备总框架案卷--分析--会议--委任--文书--定型--收口' },
+										{ label: 'Brief 与委任链', en: 'Brief & Briefing', href: '#0c-客户会议委任链与-brief-深节' },
+										{ label: '证明文书与法定披露', en: 'Proof & Disclosures', href: '#0d-证明文书proof-of-evidence潜在证人与辩方仅有的两项法定披露' },
+										{ label: 's.65B 书面证供陈述', en: 's.65B Statements', href: '#0e-证据定型-is65b-书面证供陈述合规要点与司法区实务' },
+										{ label: 's.65C 承认事实', en: 's.65C Admissions', href: '#0f-证据定型-iis65c-承认事实文书功夫与攻防' },
+										{ label: '后果链总表 0J', en: 'Consequence Table', href: '#0j-环节不做后果链总表索引' },
 									]
 								},
 								'15-institution-sentencing-system': {
