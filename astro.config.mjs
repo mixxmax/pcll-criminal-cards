@@ -502,13 +502,13 @@ export default defineConfig({
 								'08-institution-charges-trial-route': {
 									title: '控罪与审讯路线核验清单', badge: '7项核心',
 									items: [
-										{ label: '控罪起草与合并', en: 'Drafting & Joinder', href: '#1-控罪起草与合并' },
-										{ label: '罪行分类', en: 'Offence Classification', href: '#2-罪行分类' },
-										{ label: '公诉分流', en: 'Prosecution Routes', href: '#3-公诉分流' },
-										{ label: '移交与交付', en: 'Transfer & Committal', href: '#4-移交与交付' },
-										{ label: '审讯管辖', en: 'Trial Jurisdiction', href: '#5-审讯管辖' },
-										{ label: '答辩与程序选择', en: 'Plea & Procedure', href: '#6-答辩与程序选择' },
-										{ label: '高危雷区', en: 'High-Risk Traps', href: '#7-高危雷区' },
+										{ label: '罪行三轨分类', en: 'Offence Classification', href: '#0c-三轨分类与审路决策' },
+										{ label: '控罪文书起草', en: 'Drafting Charges', href: '#0d-起草控罪单元实务栏目重叠并合与分拆' },
+										{ label: 'MC 首堂与答辩地点', en: 'First Appearance', href: '#0e-mc-首堂与答辩地点mcdc-transfer' },
+										{ label: 'MC→CFI 交付程序', en: 'Committal', href: '#0f-mccfi-交付全套return-day两路解除与交付后' },
+										{ label: '审路时间闸', en: 'Time Gates', href: '#0g-审路时间闸梯度' },
+										{ label: '实务暗礁与清单', en: 'Traps & Checklist', href: '#0i-实务暗礁与核对清单' },
+										{ label: 'SG 应用映射', en: 'SG Mapping', href: '#0k-sg-应用sg03-逐问映射与挂接' },
 									]
 								},
 								'10-framework-courts-jurisdiction': {
