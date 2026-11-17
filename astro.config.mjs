@@ -469,12 +469,12 @@ export default defineConfig({
 									title: '保释制度核验清单', badge: '7项核心',
 									items: [
 										{ label: 's.9D 保释推定', en: 'Presumption of Bail', href: '#0b1-s9d-获保推定法庭权限与推定的边界' },
-										{ label: 's.9G 拒保理由与因素', en: 's.9G Grounds & Factors', href: '#0b2-s9g-拒保理由与评估因素攻防' },
-										{ label: '保释条件库', en: 'Condition Catalogue', href: '#0b3-保释条件库红线' },
-										{ label: '上诉待决保释', en: 'Bail Pending Appeal', href: '#0c5-上诉待决保释轨道与门槛' },
-										{ label: '拒保后救济', en: 'Post-Refusal Remedies', href: '#0e1-拒保后救济族' },
-										{ label: '违令与潜逃', en: 'Breach & Absconding', href: '#0d3-违令潜逃与没收的执行力' },
-										{ label: '总结与雷区', en: 'Summary & Traps', href: '#0j-总结与高危雷区' },
+										{ label: 's.9G 拒保理由与因素', en: 's.9G Grounds & Factors', href: '#0b2-s9g-拒保理由评估因素与攻防视角' },
+										{ label: '保释条件库', en: 'Condition Catalogue', href: '#0b3-s9d3-条件库逐类红线与可行性三禁' },
+										{ label: '上诉待决保释', en: 'Bail Pending Appeal', href: '#0c5-阶段五上诉待决保释双轨与-cfa-轨' },
+										{ label: '拒保后救济', en: 'Post-Refusal Remedies', href: '#0e1-高等法院原讼法庭保释复核s9j--s9h--s9i--s9n-cpo' },
+										{ label: '违令与潜逃', en: 'Breach & Absconding', href: '#0d3-违反保释条件-vs-弃保潜逃两级后果' },
+										{ label: '总结与雷区', en: 'Summary & Traps', href: '#0j-程序失误与违规后果总表' },
 									]
 								},
 								'06-institution-plea-bind-over': {

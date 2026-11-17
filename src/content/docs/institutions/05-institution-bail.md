@@ -64,24 +64,24 @@ SG课表安排:
 
 | 术语 | 定义与章节 |
 |---|---|
-| 保释（Bail） | 被羁押者凭「按要求归押」的具约束力承诺获释，可附条件或无条件；每次出庭法庭都必须重新考虑保释问题（0C）〔LGS2N L639 "Key Point: Bail means the release of a person from custody on his/her undertaking to return when required to do so"〕 |
-| 运作保释（Operational Bail） | 案件尚未落案、警方仍在侦查时，嫌疑人获释但须于另一指定日期回警署报到：s.52(3) PFO；侦查不能「立即完成」时也可以担保书（连同或不连担保人）放人（0C.1）〔LGS2N L645 "This is bail for a person to come back to the police station at another date/time"；LGS2N L645 "bail on recognisance (with or without sureties) can also be granted for the arrestee to report back"〕 |
-| 警署保释（Police Bail） | 已经落案起诉后，由警方决定准予或拒绝、延续到首次提堂的保释：s.52(1) PFO；通常条件是现金保释或被告人自己的担保（与下一条法庭口径并列见 0C.1 与审计留痕 D-REC-POL）〔LGS2N L647 "the police may grant or refuse bail until the Defendant’s first court appearance"；LGS2N L647 "The usual conditions of police bail are cash bail or the Defendant’s own recognisance"〕 |
-| 法庭保释（Court Bail） | 由裁判官或法官在法庭上准予或拒绝的保释；法庭没有固有保释权，必须有法定依据，且警署获保不等于法庭也会获保（0B、0C.2）〔LGS2N L657 "The Magistrate may also extend bail on the same or different conditions as those imposed by police. The fact that the police have granted bail"；LGS2N L667 "a court has no inherent power to grant bail. A statutory basis for the grant of bail must exist."〕 |
-| 保释推定（Presumption of Entitlement to Bail） | 一般罪行定罪前由 s.9D 的 "shall" 确立的获保推定，其根基是无罪推定（A. 5(3) HKBOR、A. 28 BL）；受 s.9G 限制，定罪后消灭（0B.1）〔LGS2N L713 "is based on the presumption of entitlement to bail, however, the right to bail is not absolute and is qualified by s.9G"；LGS2N L675 "THIS PRESUMPTION OF ENTITLEMENT TO BAIL DOES NOT EXIST POST-CONVICTION"〕 |
-| 实质理由（Substantial Grounds） | s.9G(1) 的拒保门槛：法庭须有实质理由相信三大风险之一将发生，且不论是否拟附加条件都要考虑（0B.2）〔LGS2N L781 "(1) The court need not admit an accused person to bail if it appears to the court that there are substantial grounds for believing"〕 |
-| 顺延保释（B.E.S.T., Bail Extended on the Same Terms） | 已有保释、控方不反对且不需要改变条件时，向法庭请求按相同条件延期的速办形态，法庭文件常记作 "B.E.S.T."；控方反对的申请中不得提 B.E.S.T.（0C.2、0F）〔LGS2N L823 "you can simply ask for “Bail to be Extended on the Same Terms.” This is often marked down as “B.E.S.T”"；ADV-V2 L956 "Ask for BEST – Bail to be extended on the same terms if the application is opposed"〕 |
-| 带堂（Brought Up / B/U） | 未获保释的被告人每 8 天被带回法庭重新审查保释的机制：s.79 MO，被告人可以放弃这一权利（0C.2）〔LGS2N L821 "must be “brought up” (abbreviated on court forms to “B/U”) every 8 days although he can waive this right"〕 |
-| s.9G(11) 两次过滤 | 每次出庭法庭都须重新考虑保释，但同一事实或法律争点已被听过两次后，法庭无须第三次重听；辩方要再启动实质申请，必须证明 material change in circumstances（0C.2）〔LGS2N L817 "an argument of fact / law has already been heard by the court twice, it need not rehear the same argument"；LGS2S L656 "allows D to make one more request for bail after bail has been refused for the first time. After that D can only make a"〕 |
-| 复核（Bail Review：s.9J / s.9H CPO） | 被告人（s.9J）或律政司司长（s.9H）以传票加誓章向 CFI 法官申请重审保释决定；两条轨道的决定都终局、无上诉（0E.1）〔LGS2N L855 "the Defendant can apply for a review before a Court of First Instance Judge: s.9J CPO"；LGS2N L859 "There is no right of appeal against the decision of a Court of First Instance Judge under s. 9H(9)."〕 |
-| 担保人（Surety） | 以财产或担保书向法庭保证被告人到庭、违约时其担保可被没收的第三人，须到庭宣誓并接受法庭讯问；律师不得为自己的客户担任担保人（0D.1）〔LGS2N L745 "Key point: A surety essentially guarantees that the Defendant will appear in court on the next occasion"；LGS2S L578 "ensure you never agree to be a surety for your client!"〕 |
-| 担保书（Recognisance） | 保证金钱义务的具结书；现行法下法庭保释只有担保人可出具，被告人不可自签（修例前可以）；警署阶段的表述差异见 0C.1 与审计留痕 D-REC-POL（0B.3）〔LGS2N L723 "recognizance (surety only. Note previously a Defendant could offer a recognisance, however, the law was changed many years ago.)"〕 |
-| 暂列后方（Stand Down） vs 押后（Adjournment） | stand down 是请法庭把案件排在当日名单较后位置（数分钟或至午间休庭后），以便取得进一步指示；adjournment 是把下次聆讯另定他日——客户开庭未到时的应急工具是前者（0D.4）〔ADV-V2 L982 "to request for it to be placed lower down on the court list the same day so that further instructions may be obtained"；ADV-V2 L984 "To have a case adjourned is to have the next hearing fixed for another day"〕 |
-| 还押形式（RIPC vs RIJC） | 拒保后被告人还押于警署羁押（Remand in Police Custody）或监狱羁押（Remand in Jail Custody）；本届幻灯明言被告人通常偏好 RIJC，因条件较好（0C.2）〔LGS2S L606 "Usually D prefers R.I.J.C (better conditions)"〕 |
-| 弃保潜逃（Fail to Surrender to Custody） | 无合理辩解（without reasonable cause）不在指定时日归押的独立刑事罪行：s.9L CPO——与「纯粹违反条件」（非刑事罪，0D.3）必须分开（0D.3）〔LGS2S L598 "Failing to appear in court without reasonable cause when on bail: is a criminal offence: s. 9L CPO"〕 |
-| 没收（Forfeiture：s.9M CPO） | 弃保后法庭可全部或部分没收现金保释或担保人的担保书，即使被告人未被定罪亦可没收；担保人经 s.54(1) CPO 通知到庭可 show cause 说明为何不应没收（0D.3）〔LGS2S L599 "court can order forfeiture of cash bail in whole or in part or forfeiture of surety's recognisance"；ADV-V2 L311 "To show cause why the money pledged should not be forfeited"〕 |
-| 上诉待决保释（Bail Pending Appeal） | 定罪后上诉期间的保释：保释推定不再适用，属例外，必须有法定依据，并过 s.83Z / *Lau Man Kin* 的实质胜算门槛（0C.5）〔LGS2N L863 "The grant of bail pending appeal is exceptional"；LGS2N L873 "the overriding consideration is whether there are substantial merits to the appeal"〕 |
-| 国安保释门槛（NSL A.42(2) Threshold） | 国安案件先问法官是否有充足理由相信被告人不会继续实施危害国家安全行为；不过关即绝对拒保，过关才回到 CPO Part 1A 一般制度（0E.2）〔ADV-V2 L649 "NSL 42(2) imports a stringent threshold requirement for bail applications."〕 |
+| 保释（Bail） | 被羁押者向法庭或警方承诺在指定时间归押，凭此具约束力的承诺获释，可附条件或无条件。保释的制度目的是在审讯完成前恢复人身自由，同时以归押承诺与附加条件维护司法公正；每次出庭法庭都必须重新考虑保释问题。它与「撤销控罪」的区别在于保释只是暂时获释，控罪与羁押风险并未消灭（0C）。〔LGS2N L639 "Key Point: Bail means the release of a person from custody on his/her undertaking to return when required to do so"〕 |
+| 运作保释（Operational Bail） | 当案件尚未落案、警方仍在侦查时，嫌疑人获释但须于另一指定日期回警署报到，依据《警队条例》（Police Force Ordinance, Cap. 215）s.52(3)；侦查不能立即完成时，警方亦可用担保书（连同或不连担保人）放人。其制度目的是让侦查在不羁押的情况下继续进行。它与警署保释的区别在于运作保释发生在落案之前（0C.1）。〔LGS2N L645 "This is bail for a person to come back to the police station at another date/time"；LGS2N L645 "bail on recognisance (with or without sureties) can also be granted for the arrestee to report back"〕 |
+| 警署保释（Police Bail） | 被告人已经落案起诉后，由警方决定准予或拒绝、延续至首次提堂的保释，依据《警队条例》s.52(1)；通常条件是现金保释或被告人自己的担保。其制度目的是在首次提堂前由侦查机关作出初步保释判断。它与法庭保释的区别在于警署保释由警方决定而非法院；口径差异见 0C.1 与审计留痕 D-REC-POL。〔LGS2N L647 "the police may grant or refuse bail until the Defendant’s first court appearance"；LGS2N L647 "The usual conditions of police bail are cash bail or the Defendant’s own recognisance"〕 |
+| 法庭保释（Court Bail） | 由裁判官或法官在法庭上准予或拒绝的保释；法庭没有固有保释权，必须有法定依据。警署已批保释不等于法庭也会批，两级决定相互独立。其制度目的是由司法机关在对抗程序中作保释裁量（0B、0C.2）。〔LGS2N L657 "The Magistrate may also extend bail on the same or different conditions as those imposed by police. The fact that the police have granted bail"；LGS2N L667 "a court has no inherent power to grant bail. A statutory basis for the grant of bail must exist."〕 |
+| 保释推定（Presumption of Entitlement to Bail） | 一般罪行在定罪前由《刑事程序条例》（Criminal Procedure Ordinance, Cap. 221）s.9D 的 "shall" 确立获保推定，其根基是无罪推定；但保释权并非绝对，受 s.9G 限制，且定罪后推定消灭。其制度目的是把「自由为原则、羁押为例外」落成法定默认规则。它与 s.9G 例外的区别在于推定是起点、s.9G 是法庭可据以拒保的法定门槛（0B.1）。〔LGS2N L713 "is based on the presumption of entitlement to bail, however, the right to bail is not absolute and is qualified by s.9G"；LGS2N L675 "THIS PRESUMPTION OF ENTITLEMENT TO BAIL DOES NOT EXIST POST-CONVICTION"〕 |
+| 实质理由（Substantial Grounds） | s.9G(1) CPO 规定的拒保门槛：法庭须有实质理由相信三大风险（不归押、再犯、干扰司法）之一将发生，且不论是否拟附加 s.9D(2) 条件都要考虑。其作用是把拒保从自由裁量变成须证明的法定门槛。它与 s.9G(2) 评估因素的区别在于门槛决定「可否拒保」、因素决定「附加什么条件」（0B.2）。〔LGS2N L781 "(1) The court need not admit an accused person to bail if it appears to the court that there are substantial grounds for believing"〕 |
+| 顺延保释（B.E.S.T., Bail Extended on the Same Terms） | 已有保释、控方不反对且无须改变条件时，辩方向法庭请求按相同条件延期的速办形态，法庭文件常记作 "B.E.S.T."。其制度目的是让无争议案件不消耗实质保释聆讯。它与有争议申请的区别在于控方一旦反对即不得再用 B.E.S.T. 形式（0C.2、0F）。〔LGS2N L823 "you can simply ask for “Bail to be Extended on the Same Terms.” This is often marked down as “B.E.S.T”"；ADV-V2 L956 "Ask for BEST – Bail to be extended on the same terms if the application is opposed"〕 |
+| 带堂（Brought Up / B/U） | 未获保释的被告人每 8 天被带回法庭重新审查保释的机制，依据《裁判官条例》（Magistrates Ordinance, Cap. 227）s.79；被告人可以放弃这一权利。其制度目的是防止羁押状态被默认化、保持司法审查的周期性。它与 s.9G(11) 过滤的区别在于带堂是权利、过滤是对重复申请的限制（0C.2）。〔LGS2N L821 "must be “brought up” (abbreviated on court forms to “B/U”) every 8 days although he can waive this right"〕 |
+| s.9G(11) 两次过滤 | 每次出庭法庭都须重新考虑保释，但同一事实或法律争点已被听过两次后，法庭无须第三次重听；辩方要再启动实质申请，必须证明 material change in circumstances。其制度目的是防止保释问题无限重复消耗司法资源。它与带堂权的区别在于过滤针对「同一争点」，并不剥夺审查本身（0C.2）。〔LGS2N L817 "an argument of fact / law has already been heard by the court twice, it need not rehear the same argument"；LGS2S L656 "allows D to make one more request for bail after bail has been refused for the first time. After that D can only make a"〕 |
+| 复核（Bail Review：s.9J / s.9H CPO） | 被告人（s.9J）或律政司司长（s.9H）以传票加誓章向原讼法庭（Court of First Instance, CFI）法官申请重审保释决定；两条轨道的决定都终局、无上诉。其制度目的是给被拒或被批一方提供高一级纠偏渠道。它与上诉的区别在于复核在原审层级内由 CFI 法官作出且不可再上诉（0E.1）。〔LGS2N L855 "the Defendant can apply for a review before a Court of First Instance Judge: s.9J CPO"；LGS2N L859 "There is no right of appeal against the decision of a Court of First Instance Judge under s. 9H(9)."〕 |
+| 担保人（Surety） | 以财产或担保书向法庭保证被告人到庭、违约时其担保可被没收的第三人，须到庭宣誓并接受法庭讯问。其制度目的是用第三人的监督与财产风险加固归押承诺。它与被告人自签担保书的区别在于担保必须由第三人提供（0D.1）。〔LGS2N L745 "Key point: A surety essentially guarantees that the Defendant will appear in court on the next occasion"；LGS2S L578 "ensure you never agree to be a surety for your client!"〕 |
+| 担保书（Recognisance） | 保证金钱义务的具结书；现行法下法庭保释只有担保人可出具，被告人不可自签（修例前可以）。其制度目的是把金钱罚则预先书面化。它与现金保释的区别在于担保书由第三人承诺、现金由被告人或第三人实缴；警署阶段的表述差异见 0C.1 与审计留痕 D-REC-POL（0B.3）。〔LGS2N L723 "recognizance (surety only. Note previously a Defendant could offer a recognisance, however, the law was changed many years ago.)"〕 |
+| 暂列后方（Stand Down） vs 押后（Adjournment） | stand down 是请法庭把案件排在当日名单较后位置（数分钟或至午间休庭后），以便取得进一步指示；adjournment 是把下次聆讯另定他日。客户开庭未到时的应急工具是前者。其制度目的是在不延误案件的前提下争取取指示时间。两者的区别在于 stand down 当日继续、adjournment 另约日期（0D.4）。〔ADV-V2 L982 "to request for it to be placed lower down on the court list the same day so that further instructions may be obtained"；ADV-V2 L984 "To have a case adjourned is to have the next hearing fixed for another day"〕 |
+| 还押形式（RIPC vs RIJC） | 拒保后被告人还押于警署羁押（Remand in Police Custody）或监狱羁押（Remand in Jail Custody）。本届幻灯明言被告人通常偏好 RIJC，因条件较好。两者的区别只在羁押场所与待遇，法律后果相同（0C.2）。〔LGS2S L606 "Usually D prefers R.I.J.C (better conditions)"〕 |
+| 弃保潜逃（Fail to Surrender to Custody） | 无合理辩解（without reasonable cause）不在指定时日归押的独立刑事罪行，依据《刑事程序条例》s.9L；与「纯粹违反保释条件」（非刑事罪，0D.3）必须分开。其制度目的是以刑事制裁惩罚对司法的藐视。它与一般违例的区别在于是否构成刑事罪、是否须另行定罪（0D.3）。〔LGS2S L598 "Failing to appear in court without reasonable cause when on bail: is a criminal offence: s. 9L CPO"〕 |
+| 没收（Forfeiture：s.9M CPO） | 弃保后法庭可全部或部分没收现金保释或担保人的担保书，即使被告人未被定罪亦可没收；担保人经 s.54(1) CPO 通知到庭可 show cause 说明为何不应没收。其制度目的是让担保与现金承诺具备实际执行力。它与刑事定罪的区别在于没收是不依赖定罪的财产后果（0D.3）。〔LGS2S L599 "court can order forfeiture of cash bail in whole or in part or forfeiture of surety's recognisance"；ADV-V2 L311 "To show cause why the money pledged should not be forfeited"〕 |
+| 上诉待决保释（Bail Pending Appeal） | 定罪后上诉期间的保释：保释推定不再适用，属例外，必须有法定依据，并过 s.83Z / *Lau Man Kin* 的实质胜算门槛。其制度目的是在上诉改判可能性与社会防卫风险之间作平衡。它与定罪前保释的区别在于没有推定、门槛更高且须证明上诉具实质胜算（0C.5）。〔LGS2N L863 "The grant of bail pending appeal is exceptional"；LGS2N L873 "the overriding consideration is whether there are substantial merits to the appeal"〕 |
+| 国安保释门槛（NSL A.42(2) Threshold） | 国安案件先问法官是否有充足理由相信被告人不会继续实施危害国家安全行为，不过关即绝对拒保，过关才回到《刑事程序条例》Part 1A 一般制度。其制度目的是在国安语境下把保释门槛提高至国家安全风险层级。它与一般 s.9G 门槛的区别在于国安门槛是前置闸门、不过即终局（0E.2）。〔ADV-V2 L649 "NSL 42(2) imports a stringent threshold requirement for bail applications."〕 |
 
 ### 环节定位（按程序时序）
 
@@ -144,19 +144,19 @@ flowchart TD
 | 你现在要做什么 | 直达章节 |
 |---|---|
 | 30 秒弄清范围／术语／每环任务 | 速读定位层：适用范围／术语／环节定位 |
-| 客户在警署，问「何时能走、48 小时从何起算」 | 0C.1 ＋ 审计留痕 D-48H（三说并列） |
-| 首次提堂开口前：选 B.E.S.T.／变更／争议 | 0C.2 三形态 ＋ 0F 黄金四步法 |
-| 拆解控方反对理由、逐项反驳 | 0B.2 s.9G 因素攻防 ＋ 0F 四大地雷 |
-| 设计条件包、核查可行性与相互冲突 | 0B.3 条件库红线 ＋ 0B.4 金额谈判 |
-| 找担保人、向担保人与客户解释风险 | 0D.1 ＋ 0D.2 |
-| 裁判官拒保：8 天带堂、CFI 复核 | 0C.2 ＋ 0E.1 ＋ 0J 行 4–5 |
-| 客户违反条件或开庭未到 | 0D.3 ＋ 0D.4 ＋ 五维 3 矩阵 *R v Ashley* 行 |
-| 定罪后候判能否保释（六种报告） | 0C.4 红线表 |
-| 上诉期间保释（MC 14 日 vs DC/CFI 28 日 vs CFA） | 0C.5 ＋ 图 1 上诉分支 |
-| 国安案件保释 | 0E.2 ＋ 图 2 双层门槛 |
-| 想知道「某环节不做会怎样」 | 0J 总表 ＋ 图 1 虚线后果框 |
-| 需要底层原文逐条回查 | 引注图例 ＋ 审计留痕（证据链总表／材料矩阵） |
-| SG01／8051 保释观摩联动 | 0K 两节 |
+| 客户在警署，问「何时能走、48 小时从何起算」 | [0C.1](#0c1-阶段一警署与执法机关保释police--icac--入境处)＋[0C.2](#0c2-阶段二首次提堂与争议保释)＋审计留痕 D-48H（三说并列） |
+| 首次提堂开口前：选 B.E.S.T.／变更／争议 | [0C.2](#0c2-阶段二首次提堂与争议保释) 三形态＋[0F](#0f-法庭口头保释陈词实战oral-bail-application与四大禁忌) 黄金四步法 |
+| 拆解控方反对理由、逐项反驳 | [0B.2](#0b2-s9g-拒保理由评估因素与攻防视角) s.9G 因素攻防＋[0F.2](#0f2-四大禁忌实务地雷) 四大地雷 |
+| 设计条件包、核查可行性与相互冲突 | [0B.3](#0b3-s9d3-条件库逐类红线与可行性三禁) 条件库红线＋[0B.4](#0b4-条件金额谈判与客户指示纪律) 金额谈判 |
+| 找担保人、向担保人与客户解释风险 | [0D.1](#0d1-担保人资格六要素与执业纪律红线)＋[0D.2](#0d2-担保与现金的可行性核查) |
+| 裁判官拒保：8 天带堂、CFI 复核 | [0C.2](#0c2-阶段二首次提堂与争议保释)＋[0E.1](#0e1-高等法院原讼法庭保释复核s9j--s9h--s9i--s9n-cpo)＋[0J](#0j-程序失误与违规后果总表) 行 4–5 |
+| 客户违反条件或开庭未到 | [0D.3](#0d3-违反保释条件-vs-弃保潜逃两级后果)＋[0D.4](#0d4-开庭未到庭的紧急控场stand-down-应急)＋五维 3 矩阵 *R v Ashley* 行 |
+| 定罪后候判能否保释（六种报告） | [0C.4](#0c4-阶段四审讯期间与定罪后候判报告的羁押红线) |
+| 上诉期间保释（MC 14 日 vs DC/CFI 28 日 vs CFA） | [0C.5](#0c5-阶段五上诉待决保释双轨与-cfa-轨)＋图 1 上诉分支 |
+| 国安案件保释 | [0E.2](#0e2-维护国家安全案件的双层门槛nsl-art-422--图-2)＋图 2 双层门槛 |
+| 想知道「某环节不做会怎样」 | [0J](#0j-程序失误与违规后果总表) 总表＋图 1 虚线后果框 |
+| 需要底层原文逐条回查 | 引注图例（本卡地图折叠框）＋[审计留痕](#审计留痕材料矩阵待核事项与历史修订记录)（证据链总表／材料矩阵） |
+| SG01／8051 保释观摩联动 | [0K](#0k-sg-实务应用与跨科接口) 两节 |
 
 <!-- BEGIN:cite-legend -->
 > [!info]- 引注图例（出处码 → 文件；点开折叠）
@@ -170,7 +170,7 @@ flowchart TD
 > | LGS8V | 本届 LGS 8 讲义（量刑） | 本届讲义 | 2026-27 |
 > | LGS8S | 本届 LGS 8 课堂幻灯 | 本届讲义 | 2026-27 |
 > | ADV-V2 | 跨课 PCLL8051《Bail Application》训练手册 Volume 2（2026-27，只读引用） | 本届讲义 | 2026-27 |
-> | OLD-LG02P3O | 往届 LG02 Part Three 讲义（保释专讲·未编辑原件，本卡旧引注行号所指） | 往届官方 | 2025-26 |
+> | OLD-LG02P3O | 往届 LG02 Part Three 讲义（保释专讲·未编辑原件，早期引注行号所指） | 往届官方 | 2025-26 |
 > | OLD-LG02P3 | [往届 LG02 Part Three 讲义（保释专讲·[EDITED] 学生册）](../../04%20Base%20Lectures/%5BLG02%5D%20Investigation,%20Commencement%20of%20Proceedings,%20Limitation%20Periods%20&%20Bail/%5BEDITED%5D%20crim.pro.LGS.2.PART.3.2025.md) | 往届官方 | 2025-26 |
 > | OLD-LG02P2 | 往届 LG02 Part Two 讲义（侦查、限期与保释申请） | 往届官方 | 2025-26 |
 > | OLD-LG09 | 往届 LG09 港区国安法刑事程序讲义 | 往届官方 | 2025-26 |
@@ -191,7 +191,7 @@ flowchart TD
 
 
 > ⚠️ **行号对照（2026-09-29 逐行核验，六律 5）**：往届保释专讲的**未编辑原件**（码 OLD-LG02P3O，313 行）自该件 L56「BAIL」起逐字并入本届 LGS 2 讲义（码 LGS2N，894 行），行号整体 **+581**
-> （该件 L56 → 本届 L637、L90 → L671、L240 → L821、L292 → L873）；本卡旧引注 `[S-LG02-P3: L…]` 所指即这份未编辑原件，本批逐处改写为该码＋原行号。
+> （该件 L56 → 本届 L637、L90 → L671、L240 → L821、L292 → L873）；早期 `S-LG02-P3` 标记所指即这份未编辑原件，本批逐处改写为该码＋原行号。
 > 同目录下的 `[EDITED]` 学生册（码 OLD-LG02P3，433 行）行号与上表不同，本卡只在引用其独有段落（课堂文书官那一段）时才用这个码。
 
 <!-- END:cite-legend -->
@@ -214,7 +214,7 @@ flowchart TD
 
 ### 0B.2 s.9G 拒保理由、评估因素与攻防视角
 
-**法定拒保理由只有三条主路。** s.9G(1) CPO：法庭若有 **substantial grounds for believing**——不论是否拟附加 s.9D(2) 条件——被告人会 (a) fail to surrender to custody（不按时归押）、(b) commit an offence while on bail（保释期间犯案）、(c) interfere with a witness or pervert or obstruct the course of justice（干扰证人或妨碍司法公正），即可拒绝保释。三事并列，法庭只须对其中一项形成实质理由相信〔LGS2N L781 "(1) The court need not admit an accused person to bail if it appears to the court that there are substantial grounds for believing"；LGS2N L783 "(a) fail to surrender to custody as the court may appoint; or"；LGS2N L787 "(c) interfere with a witness or pervert or obstruct the course of justice."；LGS2N L789 "Other grounds for refusing bail set out in ss. 9G(3) to (10) CPO"〕。s.9G(3)–(10) 另列数项法定拒保理由，例如曾违反保释条件或曾弃保、违反暂缓判刑或感化令、受 Hospital Order 约束等〔LGS2N L789 "Other grounds for refusing bail set out in ss. 9G(3) to (10) CPO e.g. D has breached a bail condition or previously failed to surrender"〕。讲义紧接着强调：**这些是全部理由**——"these are the ONLY grounds on which bail may be refused"；控方要求被告人参加认人手续（ID parade）不是拒保的合法理由，被告人也没有参加认人的义务，认人可以在双方方便的时间地点进行〔LGS2N L791 "these are the ONLY grounds on which bail may be refused! A request by the Prosecution for the Defendant to participate in an ID parade"；LGS2S L615 "No obligation on D to participate. ID parade can be arranged at mutually convenient time and location if D wants to participate."；LGS2N L791 "A request by the Prosecution for the Defendant to participate in an ID parade is not a valid reason"；LGS2N L791 "these are the ONLY grounds on which bail may be refused"〕。
+**法定拒保理由只有三条主路。** s.9G(1) CPO：法庭若有 **substantial grounds for believing**——不论是否拟附加 s.9D(2) 条件——被告人会 (a) fail to surrender to custody（不按时归押）、(b) commit an offence while on bail（保释期间犯案）、(c) interfere with a witness or pervert or obstruct the course of justice（干扰证人或妨碍司法公正），即可不批准保释。三事并列，法庭只须对其中一项形成实质理由相信〔LGS2N L781 "(1) The court need not admit an accused person to bail if it appears to the court that there are substantial grounds for believing"；LGS2N L783 "(a) fail to surrender to custody as the court may appoint; or"；LGS2N L787 "(c) interfere with a witness or pervert or obstruct the course of justice."；LGS2N L789 "Other grounds for refusing bail set out in ss. 9G(3) to (10) CPO"〕。s.9G(3)–(10) 另列数项法定拒保理由，例如曾违反保释条件或曾弃保、违反暂缓判刑或感化令、受 Hospital Order 约束等〔LGS2N L789 "Other grounds for refusing bail set out in ss. 9G(3) to (10) CPO e.g. D has breached a bail condition or previously failed to surrender"〕。讲义紧接着强调：**这些是全部理由**——"these are the ONLY grounds on which bail may be refused"；控方要求被告人参加认人手续（ID parade）不是拒保的合法理由，被告人也没有参加认人的义务，认人可以在双方方便的时间地点进行〔LGS2N L791 "these are the ONLY grounds on which bail may be refused! A request by the Prosecution for the Defendant to participate in an ID parade"；LGS2S L615 "No obligation on D to participate. ID parade can be arranged at mutually convenient time and location if D wants to participate."；LGS2N L791 "A request by the Prosecution for the Defendant to participate in an ID parade is not a valid reason"；LGS2N L791 "these are the ONLY grounds on which bail may be refused"〕。
 
 **攻防视角**：控方陈词的任务是把本案事实挂进这三条主路之一——挂不进去的反对（如 ID parade、证人多、案情受关注）在法律上不构成拒保依据；辩方的第一反应 therefore 是先问清对方主张哪一条理由，再把事实与条件对准它化解，而不是自说自话地铺陈背景〔CAP-K2 L3487 "So you have to find out on what basis they are objecting, if they're objecting for the defendant to take part in an ID parade"；CAP-K2 L3478–L3496 "fail to surrender to custody"〕。
 
