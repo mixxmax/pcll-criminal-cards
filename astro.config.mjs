@@ -360,72 +360,29 @@ export default defineConfig({
 
 							const pathname = window.location.pathname;
 							const CHECKLISTS = {
-								'co00-master-overview': {
-									title: '全景总纲核验清单', badge: '6项核心',
+								'cr00-overview-flowcharts': {
+									title: '总览与流程图清单', badge: '4项核心',
 									items: [
-										{ label: '五个底层问题', en: 'Five Foundational Questions', href: '#第一部分第一性原理--刑事程序只解决五个底层问题' },
-										{ label: '六状态七闸门控制论', en: 'State Variables & Gates', href: '#第二部分控制论视角--案件是一个受约束的动态系统' },
-										{ label: '八段程序主干', en: 'Eight-Stage Mainline', href: '#第三部分竖向--一宗案件的八段主干' },
-										{ label: '九组横向耦合', en: 'Nine Cross-Couplings', href: '#第四部分横向--程序之间真正会互相牵动的地方' },
-										{ label: '逆向决策路线', en: 'Reverse-Engineering Strategy', href: '#第五部分逆向--从客户目的反推程序工具' },
-										{ label: '一页速记', en: 'One-Page Revision', href: '#第六部分一页速记' },
+										{ label: '全流程白话导引', en: 'Plain-Language Guide', href: '#模块-1全流程一段话白话总导引' },
+										{ label: '三维生态位总表', en: 'Three-Dimension Map', href: '#模块-2刑诉全科卡片三维生态位总表' },
+										{ label: '纵向状态机图', en: 'State Machine Diagrams', href: '#模块-3全流程纵向状态机图' },
+										{ label: '五大易混制度对比', en: 'Comparison Matrix', href: '#模块-4五大高频易混制度横向对比矩阵' },
 									]
 								},
-								'co01-deadlines-and-time-limits': {
-									title: '刑事时效与日历清单', badge: '7项核心',
+								'cr00-deadlines-case-matrix': {
+									title: '时限与判例矩阵清单', badge: '3项核心',
 									items: [
-										{ label: '拘捕与羁押时限', en: 'Custody & Remand', href: '#1-拘捕羁押与法律代表' },
-										{ label: '检控限制期', en: 'Limitation Periods', href: '#2-检控限制期与时效' },
-										{ label: '移交交付答辩', en: 'Transfer / Committal / Plea', href: '#3-移交交付答辩' },
-										{ label: '审前披露', en: 'Pre-trial Disclosure', href: '#4-审前与证据披露' },
-										{ label: '审讯判刑与上诉', en: 'Trial / Sentence / Appeal', href: '#5-审讯判刑与上诉' },
-										{ label: '费用与保释', en: 'Costs & Bail', href: '#6-费用与保释' },
-										{ label: '时限地图速查', en: 'Deadline Map', href: '#7-时限地图速查' },
+										{ label: '全流程死线联动大表', en: 'Deadline Master Table', href: '#模块-1全流程死线联动大表' },
+										{ label: '条例连号解码', en: 'Ordinance Decoder', href: '#模块-2四大核心条例连号解码' },
+										{ label: '核心判例微故事矩阵', en: 'Case Story Matrix', href: '#模块-3核心判例微故事矩阵' },
 									]
 								},
-								'co02-procedural-flowcharts': {
-									title: '程序路径图清单', badge: '8条路径',
+								'cr00-exam-sg-router': {
+									title: '考场路由与 SG 清单', badge: '3项核心',
 									items: [
-										{ label: '侦查到首次出庭', en: 'Investigation to First Appearance', href: '#1-侦查到首次出庭' },
-										{ label: '保释到交付', en: 'Bail to Committal', href: '#2-保释到交付' },
-										{ label: '移交与交付审判', en: 'Transfer & Committal', href: '#3-移交与交付审判' },
-										{ label: '审前准备', en: 'Pre-trial Preparation', href: '#4-审前准备' },
-										{ label: '审讯流程', en: 'Trial Flow', href: '#5-审讯流程' },
-										{ label: '量刑流程', en: 'Sentencing Flow', href: '#6-量刑流程' },
-										{ label: '上诉复核', en: 'Appeal & Review', href: '#7-上诉复核' },
-										{ label: '图例', en: 'Legend', href: '#8-图例' },
-									]
-								},
-								'co03-past-paper-matrix': {
-									title: '试题考点矩阵清单', badge: '5项核心',
-									items: [
-										{ label: '考点总览与题型分布', en: 'Question Bank Overview', href: '#1-考点总览与题型分布' },
-										{ label: '五组历年试卷', en: 'Five Past Paper Sets', href: '#2-五组历年试卷与分章考点' },
-										{ label: '高频知识点与主干机制', en: 'High-Frequency Rules', href: '#3-高频知识点与主干机制' },
-										{ label: '出题规律与应试建议', en: 'Exam Patterns', href: '#4-出题规律与应试建议' },
-										{ label: '内课复习顺序', en: 'Revision Order', href: '#5-内课复习顺序建议' },
-									]
-								},
-								'co04-sg-progression': {
-									title: 'SG 进阶对比清单', badge: '6项核心',
-									items: [
-										{ label: '三人笔记总览', en: 'Three-Set Overview', href: '#1-三人笔记总览' },
-										{ label: '同课多组对比', en: 'Same-Lecture Compare', href: '#2-同一课次的多组对比' },
-										{ label: '按主题的对比矩阵', en: 'Topic Comparison Matrix', href: '#3-按主题的对比矩阵' },
-										{ label: 'SG01–SG08 进阶', en: 'SG01–SG08 Progression', href: '#4-sg01sg08-进阶能力链' },
-										{ label: '考前核心口径', en: 'Exam Core Positions', href: '#5-考前必须统一的核心口径' },
-										{ label: '冲突裁决与同步', en: 'Conflict & Sync', href: '#6-冲突裁决与同步建议' },
-									]
-								},
-								'co00-structure-map': {
-									title: '知识拓扑结构清单', badge: '6项结构',
-									items: [
-										{ label: '三层知识塔', en: 'Knowledge Pyramid', href: '#1-三层知识塔' },
-										{ label: '层一：知识掌握', en: 'Layer 1 Mastery', href: '#层一知识掌握sg01sg08' },
-										{ label: '层二：学习方法', en: 'Layer 2 Methods', href: '#层二学习方法' },
-										{ label: '层三：执行动作', en: 'Layer 3 Actions', href: '#层三执行动作' },
-										{ label: 'LG 与 SG 映射', en: 'LG & SG Mapping', href: '#4-lg-与-sg-的映射' },
-										{ label: '建议顺序', en: 'Recommended Order', href: '#5-建议顺序' },
+										{ label: '题眼信号路由器', en: 'Fact-Signal Router', href: '#模块-1考场逆向题眼信号--制度--攻防动作路由器' },
+										{ label: 'SG01–SG08 任务红线', en: 'SG Task Map', href: '#模块-2sg01sg08-任务与红线总表' },
+										{ label: '跨章复合大题套路', en: 'Cross-Chapter Playbooks', href: '#模块-3五大跨章复合大题标准答题套路' },
 									]
 								},
 								'05-institution-bail': {
@@ -597,12 +554,9 @@ export default defineConfig({
 				{
 					label: '🧭 全景总括与时钟体系 (Master & Tools)',
 					items: [
-						{ label: 'CO00 · 全景总纲与刑事流程', slug: 'master/co00-master-overview' },
-						{ label: 'CO00 · 宏观知识拓扑结构', slug: 'master/co00-structure-map' },
-						{ label: 'CO01 · 刑事诉讼时效与法定日历', slug: 'master/co01-deadlines-and-time-limits' },
-						{ label: 'CO02 · 核心程序流程图索引', slug: 'master/co02-procedural-flowcharts' },
-						{ label: 'CO03 · 历年试题考点矩阵', slug: 'master/co03-past-paper-matrix' },
-						{ label: 'CO04 · SG 研习进度与跨组对比', slug: 'master/co04-sg-progression' },
+						{ label: 'CR00 · 刑事诉讼全科总览与程序图谱', slug: 'master/cr00-overview-flowcharts' },
+						{ label: 'CR00 · 刑诉法定时限与判例矩阵', slug: 'master/cr00-deadlines-case-matrix' },
+						{ label: 'CR00 · 刑诉考场路由与 SG 战法', slug: 'master/cr00-exam-sg-router' },
 					],
 				},
 				{
