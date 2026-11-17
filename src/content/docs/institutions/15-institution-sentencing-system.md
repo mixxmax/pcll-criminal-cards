@@ -244,9 +244,9 @@ flowchart TD
 
 ### 0B.4 四原则与“艺术而非科学”
 
-报应（retribution）、阻吓（deterrence）、预防（prevention）、更生（rehabilitation）——可组合、可偏重；法官须作平衡，使刑罚与罪责相称并符合公众利益〔CR8 L94 "the sentence passed is proportionate to the Defendant’s culpability"〕。幻灯提示：部分原则重被告个人、部分重社会整体〔CR8S L58 "more focused on the individual D and some more on society"〕。更生原则有《人权法案》第 6(3) 条文呼应：监狱制度以改造与社会复归为根本目的〔CR8 L92 "The penitentiary system shall comprise treatment of prisoners"〕。
+报应（retribution）、阻吓（deterrence）、预防（prevention）、更生（rehabilitation）——四项古典量刑目的并非只能择一，法官可以组合使用、也可以偏重某一项，但无论如何都须作平衡，使最终刑罚与被告的罪责相称并符合公众利益〔CR8 L94 "the sentence passed is proportionate to the Defendant’s culpability"〕。幻灯提示：这四项原则中，有些较着重被告个人（如更生、报应），有些较着重社会整体（如阻吓、预防）〔CR8S L58 "more focused on the individual D and some more on society"〕。更生原则有《人权法案》第 6(3) 条文呼应：监狱制度以改造与社会复归为根本目的〔CR8 L92 "The penitentiary system shall comprise treatment of prisoners"〕。
 
-“量刑是艺术而非科学”：法官裁量广阔，刑罚落在裁量范围内则上诉难推（→0L 的接口：可上诉的是“裁量外”的错误，不是“判得重”）〔CR8 L96 "Sentencing is an “art not a science.”"〕。 〔CR8 L112–L134 "DUTIES OF COUNSEL ON SENTENCIN"〕
+“量刑是艺术而非科学”（*Sentencing is an “art not a science”*）：法官的量刑裁量空间非常广阔，只要最终刑罚落在其可裁量的合理范围之内，上诉庭一般不会轻易干预。因此辩方真正可攻击的不是“判得重”本身，而是裁量范围之外的法律错误——例如用错刑种、适用错误的量刑原则或计算错误（→0L 的接口）〔CR8 L96 "Sentencing is an “art not a science.”"〕。 〔CR8 L112–L134 "DUTIES OF COUNSEL ON SENTENCIN"〕
 
 ### 0B.5 求情纪律：认罪后与审讯后两套口径
 
@@ -377,12 +377,12 @@ flowchart TD
 
 ### 0E.1 “实际用途”（practical use）测试与评估链
 
-- **测试**：资料或协助须“有实际用途”——能以预防、监察或侦测犯罪的能力协助当局；不以成功拘捕／检控为限，但须可信可靠（*Yeung Hoi Ting*：初评应由独立于调查的较高阶人员复核，控方有责任确保评估可靠）〔CR8 L1032 "the key test is whether the information or assistance provided by D is “of practical use”"；CR8 L1034 "has the capability of preventing, monitoring or detecting criminal activity"〕。
-- **考虑因素**（*Z v. HKSAR*）：披露的全面坦诚度、资料真确与可靠、所揭发罪行的范围与严重度、资料的意义与用途、当局是否已掌握、被告愿否出庭作证；及协助对被告的后果（人身风险、保护性羁押、出狱后本人与家人安危）〔CR8 L1036–L1040 "The nature and extent of the assistance"〕。
-- **时限与对价**：未提供的协助（承诺）不计；将会作证的，判刑押后至作证价值可评估后〔CR8 L1044 "the court will not take into account a promise to do so"〕。越早越好——案发 16 个月后才给，只剩小折扣；在囚期间“学到”的内容更损价值〔CR8 L1062 "the sooner he does so after arrest"〕。定罪判刑后才提供、未致拘捕、再无作证可能的，仍可属“实际用途”（*HKSAR v. Z* [2025]：阻截大量毒品流入并给予走私手法与人物情报，18 年刑减 18 个月）〔CR8 L1064 "D received a discount of 18 months on an 18-year sentence"〕。
-- **付费与“储分”**：收受报酬的协助照样可减，但大额报酬会降温；警惕职业罪犯以协助“储分”（*HKSAR v. A*）〔CR8 L1048–L1050 "the court should examine closely all the circumstances"〕。
-- **法官角色**：无充分理由不推翻执法机关对价值的判定（*Pastana*；但控方当庭表“中立”可留门）〔CR8 L1060 "should not go behind the determination of the law enforcement authority"〕。
-- **反例（零折扣）**：*HKSAR v. M*——含糊、前后不一、案发 8 个月后才给且部分警方已知，零折扣（另获 38% 系含认罪与自首的未知控罪）〔CR8 L1046 "no discount was awarded to D"〕。
+- **测试（“实际用途”）**：被告提供的资料或协助必须对执法当局有“实际用途”（*of practical use*）——即能够协助当局预防、监察或侦测犯罪。它不以成功拘捕或检控为必要条件，但资料必须可信、可靠。*Yeung Hoi Ting* 案确立程序保障：初步评估应由独立于该调查的较高阶人员复核，控方有责任确保评估本身可靠〔CR8 L1032 "the key test is whether the information or assistance provided by D is “of practical use”"；CR8 L1034 "has the capability of preventing, monitoring or detecting criminal activity"〕。
+- **法庭的考虑因素（*Z v. HKSAR*）**：法官在决定折扣幅度时会综合考量——被告披露的全面坦诚度、所供资料的真确性与可靠程度、所揭发罪行的范围与严重度、资料本身的意义与用途、执法当局是否事先已掌握该等资料、以及被告是否愿意出庭作证；同时也会衡量协助对被告造成的后果，包括人身安全风险、是否需要保护性羁押、以及出狱后本人与家人的安危〔CR8 L1036–L1040 "The nature and extent of the assistance"〕。
+- **时限与对价**：被告只是**承诺**将来协助而未实际提供的，法庭不予计算折扣（*the court will not take into account a promise to do so*）；若被告表示将会出庭作证，法庭会把判刑押后，待其作证价值可被评估后再处理。时间上越早提供越好——案发 16 个月后才提供的协助只剩小折扣；而在囚期间才“学到”并提供的内容，其协助价值亦更低〔CR8 L1062 "the sooner he does so after arrest"〕。定罪判刑后才提供、且未促成拘捕、再无作证可能的，仍可属“实际用途”（*HKSAR v. Z* [2025]：阻截大量毒品流入并给予走私手法与人物情报，18 年刑减 18 个月）〔CR8 L1064 "D received a discount of 18 months on an 18-year sentence"〕。
+- **付费与“储分”**：被告收受报酬提供的协助仍可获折扣，但报酬数额过大时折扣会相应调低；法庭亦会警惕职业罪犯利用协助机制为将来“储分”（*HKSAR v. A*）〔CR8 L1048–L1050 "the court should examine closely all the circumstances"〕。
+- **法官的角色**：除非有充分理由，法官一般不会推翻执法机关对协助价值的判定（*Pastana*）；但若控方在庭上明确表示持中立或保留态度，法庭仍可留有余地自行评估〔CR8 L1060 "should not go behind the determination of the law enforcement authority"〕。
+- **反例（零折扣）**：*HKSAR v. M* 案中，被告所供资料含糊、前后不一，且迟至案发 8 个月后才提供、部分内容警方其实早已掌握——法庭因此完全不给协助折扣（该案另获的 38% 折扣系认罪折扣与自首未被起诉罪行折扣的合计，与协助无关）〔CR8 L1046 "no discount was awarded to D"〕。
 
 ### 0E.2 Sivan 程序（保密）
 
