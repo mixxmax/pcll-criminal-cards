@@ -20,6 +20,7 @@ MAP = {
     '01 Institutions/13 Institution - Criminal Evidence Disputes.md': ('institutions/13-institution-criminal-evidence.md', '13 · 刑事证据争议（自白、案中案与免受侵扰）', 'PCLL8050 刑事证据争议：控方披露、辩方 alibi 通知、供认挑战、voir dire、Turnbull 识别证据与剩余酌情权。'),
     '01 Institutions/14 Institution - Trial Preparation and Documents.md': ('institutions/14-institution-trial-preparation.md', '14 · 备审准备、s.65B陈述书与审讯卷宗', 'PCLL8050 审讯准备与文书：案卷分析、Brief to Counsel、proof of evidence、s.65B/s.65C、披露、PTR/CMH 与审讯文件。'),
     '01 Institutions/15 Institution - Sentencing System.md': ('institutions/15-institution-sentencing-system.md', '15 · 量刑体系、求情指引与刑罚种类', 'PCLL8050 量刑体系：刑罚目的、起点法、认罪折扣、协助执法、s.27 OSCO、s.56A DDO、并串刑、附加命令、讼费与上诉互动。'),
+    '01 Institutions/16 Institution - Criminal Appeals, Review & Case Stated.md': ('institutions/16-institution-criminal-appeals.md', '16 · 刑事上诉与判后复核体系', 'PCLL8050 刑事上诉与判后复核：裁判法院三轨救济、区院/原讼庭上诉庭许可、律政司刑期复核、案件呈述与终审法院上诉。'),
 }
 
 

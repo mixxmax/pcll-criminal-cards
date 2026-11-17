@@ -1,7 +1,6 @@
 ---
 title: "CR00 · 刑事诉讼全科总览、三维架构与程序图谱"
-description: "PCLL8050 刑事诉讼全科总纲：全流程白话导引、主干轴＋拦截武器＋底层底座三维生态位、审前与审中判后两张纵向状态机图、五大高频易混制度对比矩阵。"
-cohort: "2026-27"
+description: "PCLL8050 刑事诉讼全科总纲：全流程白话导引、三维生态位、审前与审中判后两张纵向状态机图、五大易混制度对比矩阵。"
 ---
 
 # 刑事诉讼全科总览 — 一份文件掌握整体结构
@@ -21,21 +20,21 @@ cohort: "2026-27"
 
 | 阶段 | 覆盖卡片 | 该阶段解决的核心问题 | 关键法条与入口 |
 |---|---|---|---|
-| ① 侦查、拘捕与警署程序 | [07 调查取证与辩方权利](../institutions/07-institution-investigation-rights/) · [11 警权行使与搜查](../institutions/11-framework-police-powers-search/) | 被捕后 48 小时内能做什么、供词如何取得、搜查与截查的边界 | PFO ss.51–52（48 小时提堂）；PFO s.54 录影采访；1992 Rules（供词排除） |
-| ② 保释制度全周期 | [05 保释制度体系](../institutions/05-institution-bail/) | 警署保释与法庭保释的门槛、条件设计、8 日上限与违令后果 | CPO ss.9D–9P（保释推定与例外）；MO s.79（每次还押 ≤8 日） |
-| ③ 检控启动、首次提堂、移交与交付 | [12 检控与程序启动](../institutions/12-framework-prosecution-rules/) · [08 控罪与审讯管辖](../institutions/08-institution-charges-trial-route/) · [10 法院层级与辩护代理](../institutions/10-framework-courts-jurisdiction/) | 罪行分流到哪一级法院、交付程序怎么走、法律援助如何取得 | MO s.26（6 个月时效）；MO ss.80A–86（交付）；MO ss.88–90（移交 DC）；DCO ss.75/77/82 |
-| ④ 审前披露与控罪/被告合并分拆 | [14 备审准备与 s.65B/65C](../institutions/14-institution-trial-preparation/) | 控方披露义务、被告合并分拆（severance）、证据定型 | PD 9.3（披露与排期）；CPO s.51（控罪修订）；CPO ss.65B–65C |
-| ⑤ 正审程序、案中案与证据攻防 | [13 刑事证据争议](../institutions/13-institution-criminal-evidence/) | 招认自愿性案中案、辨认证据、不在场证明、剩余酌情权 | *R v Turnbull*；*R v Galbraith*；CPO s.83（证据）；MO s.79F（易受伤害证人） |
-| ⑥ 定罪后量刑与判后救济 | [15 量刑体系](../institutions/15-institution-sentencing-system/) | 起点法、认罪折扣、协助执法、刑罚选择、讼费与上诉 | CPO ss.81–83Z；CCCO Cap. 492；MO ss.104/105/113 |
+| ① 侦查、拘捕与警署程序 | 07 调查取证与辩方权利 · 11 警权行使与搜查 | 被捕后 48 小时内能做什么、供词如何取得、搜查与截查的边界 | PFO ss.51–52（48 小时提堂）；PFO s.54 录影采访；1992 Rules（供词排除） |
+| ② 保释制度全周期 | 05 保释制度体系 | 警署保释与法庭保释的门槛、条件设计、8 日上限与违令后果 | CPO ss.9D–9P（保释推定与例外）；MO s.79（每次还押 ≤8 日） |
+| ③ 检控启动、首次提堂、移交与交付 | 12 检控与程序启动 · 08 控罪与审讯管辖 · 10 法院层级与辩护代理 | 罪行分流到哪一级法院、交付程序怎么走、法律援助如何取得 | MO s.26（6 个月时效）；MO ss.80A–86（交付）；MO ss.88–90（移交 DC）；DCO ss.75/77/82 |
+| ④ 审前披露与控罪/被告合并分拆 | 14 备审准备与 s.65B/65C | 控方披露义务、被告合并分拆（severance）、证据定型 | PD 9.3（披露与排期）；CPO s.51（控罪修订）；CPO ss.65B–65C |
+| ⑤ 正审程序、案中案与证据攻防 | 13 刑事证据争议 | 招认自愿性案中案、辨认证据、不在场证明、剩余酌情权 | *R v Turnbull*；*R v Galbraith*；CPO s.83（证据）；MO s.79F（易受伤害证人） |
+| ⑥ 定罪后量刑与判后救济 | 15 量刑体系 | 起点法、认罪折扣、协助执法、刑罚选择、讼费与上诉 | CPO ss.81–83Z；CCCO Cap. 492；MO ss.104/105/113 |
 
 ### 第二维：横向插队终止/拦截武器库（4 大战术切口）
 
 | 武器 | 触发时机 | 实质效果 | 对应卡片 |
 |---|---|---|---|
-| O.N.E. Bind Over | 首次提堂、答辩前，控方不提证供 | 定罪前脱身、不留定罪案底；代价是须认同控方案情 | [06 答辩与 O.N.E.](../institutions/06-institution-plea-bind-over/) |
-| Permanent Stay of Proceedings | 审前或审中，程序严重滥用致无法公平审讯 | 整个检控永久中止，等同无罪终结 | [14 备审准备](../institutions/14-institution-trial-preparation/) |
-| No Case to Answer | 控方完结举证后、辩方答辩前 | 法官依 *R v Galbraith* 两肢测试裁定控方证据不足，当庭撤控 | [13 证据争议](../institutions/13-institution-criminal-evidence/) |
-| 高院保释复核 | 保释被拒或条件过苛后 | 被告依 CPO s.9J 申请高院复核翻盘；律政司依 s.9H/9I 在 48 小时内复核即时还押 | [05 保释](../institutions/05-institution-bail/) |
+| O.N.E. Bind Over | 首次提堂、答辩前，控方不提证供 | 定罪前脱身、不留定罪案底；代价是须认同控方案情 | 06 答辩与 O.N.E. |
+| Permanent Stay of Proceedings | 审前或审中，程序严重滥用致无法公平审讯 | 整个检控永久中止，等同无罪终结 | 14 备审准备 |
+| No Case to Answer | 控方完结举证后、辩方答辩前 | 法官依 *R v Galbraith* 两肢测试裁定控方证据不足，当庭撤控 | 13 证据争议 |
+| 高院保释复核 | 保释被拒或条件过苛后 | 被告依 CPO s.9J 申请高院复核翻盘；律政司依 s.9H/9I 在 48 小时内复核即时还押 | 05 保释 |
 
 ### 第三维：跨阶段通用底座
 
@@ -51,45 +50,45 @@ cohort: "2026-27"
 
 ```mermaid
 flowchart TD
-    A["被捕：立即带到警署主管处<br/>PFO s.51 forthwith"] --> B["48 小时内提堂<br/>PFO s.52(1)；递解 72h"]
-    B --> C{"首次提堂：<br/>不须答辩（no plea）"}
-    C --> D["保释博弈：警署保释 vs 法庭保释<br/>CPO s.9D 推定 / s.9G 拒保"]
-    C --> E{"罪行分流"}
-    E -->|"简易罪行"| F["MC 简易审讯<br/>6 个月时效 MO s.26"]
-    E -->|"可公诉罪行"| G["交付原讼法庭 CFI<br/>MO ss.80A–86；或移交 DC MO ss.88–90"]
-    G --> H["审前程序：分页交付文件册 14 日<br/>PD 9.3；Alibi Notice s.75A DCO / s.65DA CPO"]
-    H --> I{"答辩决策"}
-    I -->|"证据薄弱"| J["O.N.E. Bind Over<br/>定罪前无案底脱身"]
-    I -->|"证据确凿"| K["答辩（plea）或认罪要约<br/>plea offer to lesser offence"]
-    D -.->|"拒保"| L["保释复核：CPO s.9J 被告申请 / s.9H-9I 律政司 48h"]
-    classDef warn fill:#fde8e8,stroke:#c0392b,stroke-dasharray:5 5;
-    L:::warn
-    J:::warn
+ A["被捕：立即带到警署主管处<br/>PFO s.51 forthwith"] --> B["48 小时内提堂<br/>PFO s.52(1)；递解 72h"]
+ B --> C{"首次提堂：<br/>不须答辩（no plea）"}
+ C --> D["保释博弈：警署保释 vs 法庭保释<br/>CPO s.9D 推定 / s.9G 拒保"]
+ C --> E{"罪行分流"}
+ E -->|"简易罪行"| F["MC 简易审讯<br/>6 个月时效 MO s.26"]
+ E -->|"可公诉罪行"| G["交付原讼法庭 CFI<br/>MO ss.80A–86；或移交 DC MO ss.88–90"]
+ G --> H["审前程序：分页交付文件册 14 日<br/>PD 9.3；Alibi Notice s.75A DCO / s.65DA CPO"]
+ H --> I{"答辩决策"}
+ I -->|"证据薄弱"| J["O.N.E. Bind Over<br/>定罪前无案底脱身"]
+ I -->|"证据确凿"| K["答辩（plea）或认罪要约<br/>plea offer to lesser offence"]
+ D -.->|"拒保"| L["保释复核：CPO s.9J 被告申请 / s.9H-9I 律政司 48h"]
+ classDef warn fill:#fde8e8,stroke:#c0392b,stroke-dasharray:5 5;
+ L:::warn
+ J:::warn
 ```
 
 ### 图 2：审中至判后——从 Voir Dire 到上诉双轨
 
 ```mermaid
 flowchart TD
-    A["正审开始：控方开案陈词 → 举证"] --> B{"招认自愿性受挑战？"}
-    B -->|"是"| C["案中案 Voir Dire<br/>陪审团退庭；裁定可采性后回庭"]
-    B -->|"否"| D["控方完结举证"]
-    C --> D
-    D --> E{"辩方申请 No Case to Answer？"}
-    E -->|"是"| F["Galbraith 两肢测试：<br/>无证据 / 证据内在矛盾或极度薄弱 → 撤控"]
-    E -->|"否"| G["辩方答辩 + 求情"]
-    F:::warn
-    G --> H{"定罪？"}
-    H -->|"无罪"| I["无罪释放：讼费随事件结果<br/>CCCO s.15"]
-    H -->|"定罪"| J["Newton Hearing（如有量刑事实争议）<br/>→ 量刑六步：起点→加减→认罪折扣→并串→totality→选刑种"]
-    J --> K["判刑：12 类刑罚选择<br/>附加命令：充公/没收/赔偿/CBO"]
-    K --> L{"判后救济"}
-    L -->|"MC 案件"| M["14 日三轨：s.104 裁判官复核 / s.105 案件呈述 / s.113 原讼庭上诉"]
-    L -->|"DC/CFI 案件"| N["28 日上诉庭许可 s.83Q<br/>单一法官 s.83Y → 合议庭 renew（14 日）"]
-    L -->|"律政司"| O["21 日刑期复核 s.81A CPO"]
-    N -.->|"无 merit"| P["loss of time s.83W：上诉期羁押不计入刑期"]
-    P:::warn
-    classDef warn fill:#fde8e8,stroke:#c0392b,stroke-dasharray:5 5;
+ A["正审开始：控方开案陈词 → 举证"] --> B{"招认自愿性受挑战？"}
+ B -->|"是"| C["案中案 Voir Dire<br/>陪审团退庭；裁定可采性后回庭"]
+ B -->|"否"| D["控方完结举证"]
+ C --> D
+ D --> E{"辩方申请 No Case to Answer？"}
+ E -->|"是"| F["Galbraith 两肢测试：<br/>无证据 / 证据内在矛盾或极度薄弱 → 撤控"]
+ E -->|"否"| G["辩方答辩 + 求情"]
+ F:::warn
+ G --> H{"定罪？"}
+ H -->|"无罪"| I["无罪释放：讼费随事件结果<br/>CCCO s.15"]
+ H -->|"定罪"| J["Newton Hearing（如有量刑事实争议）<br/>→ 量刑六步：起点→加减→认罪折扣→并串→totality→选刑种"]
+ J --> K["判刑：12 类刑罚选择<br/>附加命令：充公/没收/赔偿/CBO"]
+ K --> L{"判后救济"}
+ L -->|"MC 案件"| M["14 日三轨：s.104 裁判官复核 / s.105 案件呈述 / s.113 原讼庭上诉"]
+ L -->|"DC/CFI 案件"| N["28 日上诉庭许可 s.83Q<br/>单一法官 s.83Y → 合议庭 renew（14 日）"]
+ L -->|"律政司"| O["21 日刑期复核 s.81A CPO"]
+ N -.->|"无 merit"| P["loss of time s.83W：上诉期羁押不计入刑期"]
+ P:::warn
+ classDef warn fill:#fde8e8,stroke:#c0392b,stroke-dasharray:5 5;
 ```
 
 ## 模块 4：五大高频易混制度横向对比矩阵
@@ -151,14 +150,14 @@ flowchart TD
 
 | 要做的事 | 跳转 |
 |---|---|
-| 30 秒弄清范围/术语/每环任务 | [速读定位层见各专题卡开头](../institutions/15-institution-sentencing-system/) |
-| 给客户估刑 | [15 量刑体系](../institutions/15-institution-sentencing-system/) 0C/0D |
-| 保释条件设计与违令后果 | [05 保释](../institutions/05-institution-bail/) |
-| 侦查阶段权利与供词攻击 | [07 调查取证](../institutions/07-institution-investigation-rights/) · [13 证据争议](../institutions/13-institution-criminal-evidence/) |
-| 控罪分流与交付程序 | [08 控罪与审讯管辖](../institutions/08-institution-charges-trial-route/) · [12 检控与程序启动](../institutions/12-framework-prosecution-rules/) |
-| 审前披露与文书 | [14 备审准备](../institutions/14-institution-trial-preparation/) |
-| 定罪后量刑与上诉 | [15 量刑体系](../institutions/15-institution-sentencing-system/) |
-| 考前扫高频失误 | [时限与判例矩阵](./cr00-deadlines-case-matrix/) · [考场路由器](./cr00-exam-sg-router/) |
+| 30 秒弄清范围/术语/每环任务 | 速读定位层见各专题卡开头 |
+| 给客户估刑 | 15 量刑体系 0C/0D |
+| 保释条件设计与违令后果 | 05 保释 |
+| 侦查阶段权利与供词攻击 | 07 调查取证 · 13 证据争议 |
+| 控罪分流与交付程序 | 08 控罪与审讯管辖 · 12 检控与程序启动 |
+| 审前披露与文书 | 14 备审准备 |
+| 定罪后量刑与上诉 | 15 量刑体系 |
+| 考前扫高频失误 | 时限与判例矩阵 · 考场路由器 |
 
 
 ---

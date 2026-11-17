@@ -646,6 +646,7 @@ export default defineConfig({
 						{ label: '13 · 刑事证据争议（自白、案中案与免受侵扰）', slug: 'institutions/13-institution-criminal-evidence' },
 						{ label: '14 · 备审准备、s.65B陈述书与审讯卷宗', slug: 'institutions/14-institution-trial-preparation' },
 						{ label: '15 · 量刑体系、求情指引与刑罚种类', slug: 'institutions/15-institution-sentencing-system' },
+						{ label: '16 · 刑事上诉与判后复核体系', slug: 'institutions/16-institution-criminal-appeals' },
 					],
 				},
 			],
