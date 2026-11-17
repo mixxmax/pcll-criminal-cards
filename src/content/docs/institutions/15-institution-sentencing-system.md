@@ -218,6 +218,8 @@ flowchart TD
 
 ### 0B.2 刑罚体制分层：最高刑制、固定刑、强制刑
 
+**这张表在回答一个问题：法官面对一个罪名时，法律给他的“量刑空间”到底有多大？** 香港刑法对不同罪名设有三种不同的刑罚体制——多数罪名只规定最高刑（“shall be liable…”），法官在 0 到最高刑之间自由裁量；少数罪名是固定刑（如成年谋杀只能判终身监禁），法官毫无空间；还有些罪名法例直接列明一组“唯一选项”（如公众地方藏武器罪按年龄只许三选一）。理解这张表的关键是：最高刑只是“天花板”，不代表“常判的刑期”——它保留给该类案件中最坏的情形，客户真正想知道的还是 likely sentence（见 0C.5）。
+
 | 层 | 规则 | 依据 |
 |---|---|---|
 | 最高刑制（一般） | 大多数罪名由法例以 “shall be liable…” 定最高刑；最高刑保留给该类案件中最坏者（*Yau Wai Hang*）；但 *Chang Yau Hung Alexander*：不臆想最坏，而看已到法院的最坏类型层，本案是否落入该宽带 | 〔CR8 L100 "should be reserved for the very worst kind of case"〕 |
@@ -231,6 +233,8 @@ flowchart TD
 **体制分层的使用纪律**：给客户意见时，最高刑制这层只负责“可判空间”，不负责“会判多少”——客户要的是 likely sentence（→0C.5、0M.1 暗礁 1）〔CR8 L490 "Your client is much more interested in your advice as to the LIKELY SENTENCE"〕。 〔CR8 L98–L110 "THE SENTENCING REGIME IN HONG KONG"〕 〔CR8 L94–L110 "A Judge may apply a combination of the above principles"〕 〔CR8 L100–L110 "For most offences, a maximum sentence is prescribed by the"〕
 
 ### 0B.3 控辩职责：法庭两边的角色边界
+
+**求情不是辩方单方面的陈情——控方和辩方各有法定职责，法官靠双方的“边界感”来保证量刑公平。** 控方的职责是协助法庭避免可上诉的错误：提供刑事记录、相关判例与统计、就刑罚类型（而非长短）陈词，但不得用讼辩技巧去影响刑期长短。辩方的职责则是寻求“全部情况下可合理科处的最轻刑罚”：无义务主动呈出加重因素，但对法庭已知的不利事实应正面处理而非回避；无义务纠正控方的记录错误，但绝不可积极误导（例如签署与事实不符的 s.65C 承认事实）。最后，无论胜败，辩方判后都必须会见客户告知结果。下表逐条列出双方在各守则（Prosecution Code／Bar Code）下的具体责任。
 
 | 方 | 职责要点 | 依据 |
 |---|---|---|
@@ -249,6 +253,8 @@ flowchart TD
 “量刑是艺术而非科学”（*Sentencing is an “art not a science”*）：法官的量刑裁量空间非常广阔，只要最终刑罚落在其可裁量的合理范围之内，上诉庭一般不会轻易干预。因此辩方真正可攻击的不是“判得重”本身，而是裁量范围之外的法律错误——例如用错刑种、适用错误的量刑原则或计算错误（→0L 的接口）〔CR8 L96 "Sentencing is an “art not a science.”"〕。 〔CR8 L112–L134 "DUTIES OF COUNSEL ON SENTENCIN"〕
 
 ### 0B.5 求情纪律：认罪后与审讯后两套口径
+
+**同一个求情陈词，认罪后和审讯定罪后能讲的话完全不同——讲错就会适得其反。** 认罪后，控方已宣读 Brief Facts 且被告已确认，辩方要处理的是两个问题：“为什么犯罪”和“为什么不会再犯”，此时绝不能再提抗辩或争议 Brief Facts（争议应在认罪前经修订或 Newton Hearing 解决）。审讯定罪后则更严格：法官已经对事实作出裁断，辩方只能打中性求情因素（个人背景、客观情况），不得争议法官的事实认定（那是上诉的战场）、不得透露上诉打算、也不应讲悔意——因为审讯中不认罪的人此刻的“悔意”不会被视为真诚。下表对照两种场景下“该说什么”与“绝不能说什么”。
 
 | 场景 | 要说的 | 不能说／不要做的 | 依据 |
 |---|---|---|---|
@@ -276,6 +282,8 @@ flowchart TD
 
 ### 0C.1 权威层级：类似事实案例不是权威
 
+**求情时引用判例前，必须先分清“什么才是真权威”——多数相似案件判例其实不是。** 真正的权威是上诉庭三名法官联合订立的 guideline 或 tariff（只针对严重、流行或判刑存在分歧的罪名）；而单一案件的判刑结果只属“类似事实案例”（similar fact cases），它不是权威、在求情中的参考价值极低——在求情中大量引用这类案例反而会招来法官批评（*HKSAR v. Lau Sau King*）。*Cross & Cheung* 一类附录也只是量刑幅度的起点参考，讲义明言“this is a starting point only, you must read the actual cases!”——必须回到实际判例才能用。
+
 - **真权威**：CA 三名法官订立的 guideline／tariff，多为严重、流行或判刑分歧的罪名〔CR8 L538 "Guidelines and tariffs must be laid down by 3 Judges"〕。guideline 非“紧身衣”，偏离须说服力理由〔CR8 L540 "they are not “straight-jackets”"〕；tariff 按附表数量定年数，订立后更难说服偏离〔CR8 L542 "it will be much harder to persuade the court"〕。
 - **类似事实案例（similar fact cases）**：不是权威，求情中价值极低；引用非真权威会招来批评（*HKSAR v. Lau Sau King*）〔CR8 L536 "you open yourself up to criticism in mitigation"〕。幻灯同口径：类似事实案不是 sentencing authorities〔CR8S L423 "‘Similar fact’ cases are not sentencing authorities."〕。
 - **Cross & Cheung 附录**：只是量刑幅度的起点参考——讲义明言“this is a starting point only, you must read the actual cases!”〔CR8 L50 "Note: this is a starting point only, you must read the actual cases!"〕。
@@ -289,6 +297,8 @@ flowchart TD
 4. **起点已是法定上限后**：幻灯留作思考问题——起点已顶格，还能否再因加重因素上调？——按 0F（s.27(13) 以法定最高刑为限）与 totality 框架处理；LGS8 课堂口径回流见审计区 2026-11-13 节与 open 块〔CR8S L707 "What if the court adopts a starting point which is already the maximum"〕。 〔CR8 L140–L142 "The ‘Starting Point’ – the sentence that is fixed before"〕 〔CR8 L140 "The ‘Starting Point’ – the sentence that is fixed before"〕
 
 ### 0C.3 指引与 tariff 表（本届讲义所载，逐罪）
+
+**这是本卡最实用的一张表：上诉庭对常见罪名订立的量刑起点（starting point）或幅度带（band）。** 用法很简单——先在左栏找到罪名，中间一栏是该罪在典型情节下的起点或分档范围，右栏解释决定起点上下浮动的关键因素（金额、数量、角色、手段等）。重要提醒：表中数字是“起点”而非“终点”，认罪折扣与求情因素仍会在其上加减（见 0D）；而且指引会随判例发展修订（如贩毒表 2025 年刚被 *Huang Ruifang* 更新），考试和实务都必须用本届讲义所载版本。
 
 | 罪名 | 指引／tariff | 关键量刑逻辑 | 依据 |
 |---|---|---|---|
@@ -331,6 +341,8 @@ flowchart TD
 > 本节为 2026-10-10 重构新增深节 3。主线：**先定基数（起点）→ 对表分档（时点）→ 较轻罪要约（Lam Kai Man 四项）→ 计算纪律（基数错算暗礁）**。认罪可被视作悔意表现；审讯定罪后的悔意表达通常不被接纳〔CR8 L972 "can be treated as an indication of remorse"〕。
 
 ### 0D.1 Ngo VanNam 五档（2016-09-02 起新指引）
+
+**认罪折扣的核心逻辑：越早认罪，折扣越大；拖得越晚，折扣越小，甚至趋近于零。** 2016 年上诉庭在 *Ngo VanNam* 案订立五档指引——认罪折扣从首次可得机会的 1/3，一路降到审讯进行中的不足 20%。立法目的很简单：鼓励被告尽早认罪以节省法庭时间与讼费。注意两点实务细节：第一，折扣只适用于监禁刑期，感化令、社区服务令、戒毒所等非监禁刑罚没有 1/3 的数学口径；第二，该指引属程序性量刑规则，犯罪早于指引但判刑在指引之后，仍适用新指引（*Chang Yau Hung* 案）。下表列出五档及其适用时点。
 
 | 阶段 | 通常扣减 | 依据 |
 |---|---|---|
@@ -389,6 +401,8 @@ flowchart TD
 协助细节不欲公开者，可经 Sivan 程序以书面或内庭呈交法官（*R v. Chan Kwok-hung*）；判刑仍在公开庭进行，庭上只须说“书面资料显示有特殊情况支持从宽处理”（*Tse Ka-wah*）〔CR8 L1068 "special circumstances which on the papers justify a lenient view"〕。
 
 ### 0E.3 “通常”折扣阶层（含认罪 1/3）
+
+**协助执法折扣有一个“通常”基准：协助资料有实际用途但不作证的，通常给约 40%（以含 1/3 认罪折扣在内的总折扣计）；愿意出庭作证的可更高。** 下表按协助方式分档列出折扣幅度与依据。记住两点：其一，这些是“通常”值而非硬性比例——法官仍会按协助的实际价值、时机与被告的配合程度调整；其二，折扣是相对于起点的总扣减，其中已包含认罪折扣，不要重复计算（见 0D.4、0M.1 暗礁 5）。
 
 | 层级 | 内容 | 总扣减（含 1/3 认罪折扣） | 依据 |
 |---|---|---|---|
@@ -458,8 +472,8 @@ flowchart TD
 ### 0G.1 执行方式的判定
 
 - **目标**：罪行与刑罚相称（proportionality）〔CR8 L152 "seeking to achieve proportionality between the offences"〕。
-- **one transaction 通常并立**：但只属经验法则，重在真实罪责——*Ngai Yiu Ching*：同一事主、数小时内三宗非礼并立、非法禁錮**连续**（该罪另增整体罪责）；“non-inflexible rule of law”“practical rule of thumb”〔CR8 L154 "a practical rule of thumb to guide judges"〕。
-- **真正检验**（*Brian Alfred Hall*, Stock VP）：各罪在时间上与目的上是否各自独立、是否各自增加对方罪责——是则连续〔CR8 L156 "separate in time and objective"〕。
+- **one transaction（同一交易）通常并立**：同一事犯的数项罪行若属同一交易，经验法则是判并立（concurrent）——各刑同时起算、实际服刑取最长者。但这只是经验法则，关键仍在各罪是否各自增加罪责：*Ngai Yiu Ching* 案中，同一事主、数小时内犯下三宗非礼，法庭判并立，但非法禁锢罪因另增整体罪责而判**连续**；所谓“non-inflexible rule of law”“practical rule of thumb”〔CR8 L154 "a practical rule of thumb to guide judges"〕。
+- **真正检验（*Brian Alfred Hall*, Stock VP）**：决定并立还是连续的真正标准是——各罪在时间上与目的上是否各自独立、是否各自增加对方罪责。若答案是肯定的，法官应判连续刑罚〔CR8 L156 "separate in time and objective"〕。
 - **分立无关罪**：若各罪事实分立且互不相关，法官应判处连续刑罚；即使各罪特征近似或涉及同一事主，只要属不同日子所犯的独立罪行（如两宗不同日的贩毒罪，*AG v. Shamsudin*），仍应连续〔CR8 L158 "separate and unrelated, then consecutive sentences are appropriate"〕。
 - **类型惯例**：袭警拒捕类（resisting arrest）通常连续以收阻吓（*Leung Ping-wa*）〔CR8 L160 "to deter offenders from resisting police officers"〕。
 - **同一交易但性质迥异**：连续可（爆窃／非法禁锢中强奸：暴力性质程度不同；*Chan Chi-lai*）〔CR8 L162 "markedly different in nature"〕。
@@ -475,6 +489,8 @@ flowchart TD
 **算术示例（自拟）**：被告两罪分别经起点与折扣后应判 2 年——若法院认为两罪事实关联但各自独立增加罪责，可采用 `partially concurrent`（部分并期）：两罪各判 2 年，命其中 1 年与另罪并期执行、另 1 年分期执行，实际执行合共 3 年而非 4 年（全分期 4 年过重、全并期 2 年过轻，法官不压低单项起点而调执行方式）；若两罪属同一交易且罪责轻微，则可全部并立、实际只服较长的 2 年。总额检验的落点永远是"实际执行年限"而非"判词上的年数相加"——这正是求情时必须正面计算并陈述的数字。 〔CR8 L174–L184 "The Totality principle ensures the Defendant is not punished twice"〕
 
 ### 0G.3 T.I.C.（一并考虑）
+
+**T.I.C.（Taken into Consideration）是一个实务技巧：被告承认犯有某些未被起诉的罪行时，法官可把这些“已承认但未定罪”的事实纳入量刑考量。** 好处是法官对被告的整体罪责有更完整的图像，可能判得比只看已定罪控罪时更重；坏处（对被告而言）是这些未起诉罪行的事实会实质影响刑期，但被告不必为它们另受审。下表列出适用条件与注意事项。
 
 把被告承认的他罪纳入考量而不另行定罪，可比未计 T.I.C. 时判得较高〔CR8 L188 "the Defendant has admitted to committing"〕。
 
@@ -531,6 +547,8 @@ flowchart TD
 - 幻灯实务三问：付得起多少？要否缴付期／分期？可否从保释金中扣（须客户同意；**钱是客户自己的还是借来的**）〔CR8S L215–L219 "Can any fine imposed be deducted from his bail money?"〕。
 
 ### 0H.4 更生三件套：PO／CSO／DATC 对照
+
+**当监禁过重时，法庭有三件“更生刑罚”可选——它们都以“代替监禁”为前提，但适用对象、程序要求和违反后果各不相同。** 感化令（PO）由感化官监督，被告在社会上服刑；社区服务令（CSO）要求被告无偿做社区工作；戒毒所（DATC）专门处理吸毒相关罪行。三者最大的实务差异在于：PO 和 CSO 都有被告同意门槛，DATC 则在法定条件下**必须羁押**候报告且不可保释；且三者均不能与其他刑罚并用（见 0H.8 组合禁止）。下表逐维度对照。
 
 | 维度 | Probation Order（PO） | Community Service Order（CSO） | DATC Order |
 |---|---|---|---|
@@ -620,14 +638,14 @@ flowchart TD
 
 ### 0I.1 监禁的两条客户纪律
 
-1. **不讲最高刑，讲 likely sentence**：最高刑保留给最坏类案件；无限了然见 0C.5〔CR8 L488–L490 "reserved for the very worst kind of the offence"〕。
-2. **无法定刑罚的可公诉罪**：s.101I CPO——7 年监禁加罚款〔CR8 L504 "under s. 101I CPO, a Defendant is liable to 7 years imprisonment"〕。
-3. **罚金与监禁的衔接**：见 0H.3（s.113A 欠缴 ≤12 月、起算次序；MC 另见 s.101/s.68 MO）。
+1. **不讲最高刑，讲 likely sentence**：向客户陈述刑罚时，律师不应罗列最高刑——最高刑只保留给该类案件中最坏的情形；客户真正需要的是 likely sentence 的估计（详见 0C.5）〔CR8 L488–L490 "reserved for the very worst kind of the offence"〕。
+2. **无法定刑罚的可公诉罪**：部分可公诉罪法例没有规定特定刑罚，依 s.101I CPO，被告最高可被判 7 年监禁加罚款〔CR8 L504 "under s. 101I CPO, a Defendant is liable to 7 years imprisonment"〕。
+3. **罚金与监禁的衔接**：罚款的缴付、欠缴监禁与起算次序详见 0H.3（s.113A 欠缴监禁不超 12 个月、附加监禁在前刑服毕后起算；MC 另见 s.101/s.68 MO）。
 
 ### 0I.2 终身监禁：强制与酌情
 
-- **强制终身**：成年谋杀（s.2 OAPO）——只可判终身、不可上诉该刑罚；未成年（犯案时 <18）谋杀属酌情〔CR8 L510 "no other sentence other than life imprisonment can be imposed"〕。
-- **酌情终身**：如误杀——法官有空间在终身与确定刑期间选择；最高刑为终身者，二选一〔CR8 L512 "a Judge has 2 options"〕。适用面：被告“remain a serious danger to the public for a period which cannot be reliably estimated”（*Chan Li Fat*）；若确定刑已相称并足以保护公众，一般不应判酌情终身〔CR8 L514–L516 "remain a serious danger to the public for a period which cannot be reliably estimated"〕。
+- **强制终身**：成年谋杀（s.2 OAPO）属强制终身监禁——法官只可判处终身监禁、没有其他选择，该刑罚本身亦不可上诉；但犯案时未满 18 岁的谋杀则属酌情终身〔CR8 L510 "no other sentence other than life imprisonment can be imposed"〕。
+- **酌情终身**：如误杀（manslaughter）——法官有空间在终身监禁与确定年期监禁之间作出选择；凡最高刑为终身的罪名，法官只有这两项可选。酌情终身适用于被告“remain a serious danger to the publicfor a period which cannot be reliably estimated”（*Chan Li Fat*）；若确定刑已相称并足以保护公众，一般不应判酌情终身〔CR8 L514–L516 "remain a serious danger to the public for a period which cannot be reliably estimated"〕。
 - **最短服刑期（minimum term）**：酌情终身监禁的法官必须定出被告须服满的最短期间（s.67B CPO）；该最短期间不适用 r.69 减刑；被告可就该最短期间单独依 s.83G CPO 上诉，即使不挑战终身监禁本身亦然；而强制终身监禁（如成年谋杀）则完全没有上诉权〔CR8 L520–L522 "must specify the minimum length that the Defendant must serve"〕。
 - **复核**：长期监禁复核委员会——不定期刑、≥10 年、定罪时 <21 岁三类；强制终身：判刑满 5 年后“as soon as practicable”转介、其后每 2 年一次；酌情终身：尽快转介后每 2 年一次〔CR8 L524 "reviews sentences every two years"〕。
 
@@ -670,7 +688,7 @@ flowchart TD
 
 ### 0K.1 框架：CCCO 的适用面与总原则
 
-- **权源**：刑事讼费**无固有管辖**，必须出自成文法——CCCO〔OLD-EXC L14 "No inherent jurisdiction to award costs in criminal cases"·往届仅参考〕（Costs in Criminal Cases Ordinance，**Cap. 492**，1997-01-17 施行；章号库内曾两说并列——SG7C 已考：作 Cap. 494 者仅往届官方答案与 Set 1 学生笔记，按分层取 Cap. 492）〔OLD-LG99 L20–L33 "Costs in Criminal Cases Ordinance, Cap. 492"·往届仅参考〕。
+- **权源**：刑事案件的讼费**没有普通法上的固有管辖**，必须出自成文法——即《刑事案件讼费条例》（CCCO，Costs in Criminal Cases Ordinance，Cap. 492**，1997-01-17 施行；章号库内曾两说并列——SG7C 已考：作 Cap. 494 者仅往届官方答案与 Set 1 学生笔记，按分层取 Cap. 492）〔OLD-LG99 L20–L33 "Costs in Criminal Cases Ordinance, Cap. 492"·往届仅参考〕。
 - **时际**：只适用于 1997-01-17 后所犯罪行的程序（s.25；看控罪书罪行日非审讯日：*Heung Chin Tong*）〔OLD-LG99 L22–L27 "Came into operation on 17 January 1997"·往届仅参考〕。
 - **CFA**：CCCO 不及 CFA；CFA 讼费由 s.43 HKCFAO 管，但 CCCO 一般原则仍适用（*Egan*）〔OLD-LG99 L31–L33 "CCCO does not apply to the Court of Final Appeal"·往届仅参考〕。
 - **流产审讯**：陪审团解散的 aborted trial 不属“is not tried for the offence”（s.4）——该阶段无讼费管辖（*Chen Keen*，CA 撤销、CFA 维持）〔OLD-LG99 L39–L42 "An aborted trial (jury discharge) does not fall within"·往届仅参考〕。
