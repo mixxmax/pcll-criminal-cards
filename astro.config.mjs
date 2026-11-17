@@ -536,12 +536,12 @@ export default defineConfig({
 								'12-framework-prosecution-rules': {
 									title: '检控与启动核验清单', badge: '6项核心',
 									items: [
-										{ label: '刑事检控原则', en: 'Prosecution Principles', href: '#1-刑事检控原则' },
-										{ label: '程序启动方式', en: 'Commencement Methods', href: '#2-程序启动方式' },
-										{ label: '1992 R&Ds', en: '1992 Rules & Directions', href: '#3-1992-rds' },
-										{ label: '控罪与传票', en: 'Charges & Summons', href: '#4-控罪与传票' },
-										{ label: '披露与答辩', en: 'Disclosure & Plea', href: '#5-披露与答辩' },
-										{ label: '高危雷区', en: 'High-Risk Traps', href: '#6-高危雷区' },
+										{ label: '检控决定与检控守则', en: 'Decision to Prosecute', href: '#1-检控决定与检控守则the-decision-to-prosecute--prosecution-code' },
+										{ label: '私人检控机制 s.14 MO', en: 'Private Prosecutions', href: '#2-私人检控机制private-prosecutions--s14-mo' },
+										{ label: '诉讼启动与重叠控罪', en: 'Commencement & Duplicity', href: '#3-诉讼启动五大方式与重叠控罪禁止commencement--duplicity' },
+										{ label: '时效死线与控罪修改', en: 'Limitation & Amendment', href: '#4-检控时效死线与控罪修改limitation-periods--amendments' },
+										{ label: '1992 录取口供规则', en: '1992 R&Ds', href: '#5-1992-年查问疑犯及录取口供规则与指示1992-rules--directions' },
+										{ label: '全流程核对清单', en: 'Checklist', href: '#6-全流程核对清单检控启动口供逐闸自检' },
 									]
 								},
 								'13-institution-criminal-evidence': {

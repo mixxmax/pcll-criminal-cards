@@ -16,26 +16,26 @@ preservation: "2026-11-16 蓝图重构前版本备份 _workspace/backup-2026-11-
 
 > **整课互指**：Master Overview §1–§5 · Structure Map · 保释专题 (Level B) · 警权与搜查 (Level C) · 时限表
 
-## 速读定位层（30 秒全景：范围 · 术语 · 环节任务，2026-10-10）
+## 速读定位层（30 秒全景：范围 · 术语 · 环节任务）
 
 > 本层为 2026-10-10 按《PCLL MATERIAL STANDARDS.md》§18.4 落地新增的开篇导引：30 秒锁定检控主线的覆盖范围、关键术语与各程序环节"解决什么问题"；规则的完整条件、例外、冲突并列（六条 D 编号）与逐条原文引注仍以 §0–§7 正文为准，本层引注复用正文已登记的图例码（含 📄 官方 PDF 页码引注，无新码）。
 > **白话导引**：检控卡回答三件事。谁决定检控——律政司主导、检控守则两闸测试（证据充分性＋公众利益）各自独立过，部分罪名还要司长／控方书面同意；私人能不能检控——s.14 MO 可以且无需许可，但拒发传票只能司法复核（s.104/105/113 全是死路），律政司任何阶段可接管；什么时候必须启动与怎么改控罪——简易罪 6 个月时效（过了裁判官就没管辖权），控罪 verdict 前可改但要过 *Lui Tsun Sum* 的实质偏见防线。再加 1992 R&Ds——警诫、记录、取供方式、少年与律师权的程序规则，违反了口供「面临被排除」而非自动出局。时效、同意书、传票、口供规则都是辩方的第一道攻防线——做错会怎样见 §7 总表。
 
 
-### a. 制度辐射范围（本卡覆盖什么，不覆盖什么）
+### 适用范围
 
 **覆盖（按检控工作时序）**——自「检不检」到「口供能不能用」的完整链：
-1. **检控决策**：《基本法》A.63 的宪制独立＋检控守则 para 5 的**双重测试**（证据充分性＝合理定罪机会 → 公众利益 para 5.9 因素），检控官职责并非不惜一切代价定罪〔LGS1V L146 "A.63 of the Basic Law (“BL”) provides that the DOJ shall control criminal prosecutions free of any interference"；LGS2N L499 "does the evidence demonstrate a reasonable prospect of conviction"；LGS1V L148 "It is not the role of the Prosecutor to obtain a conviction at all costs"〕；
-2. **检控同意书**：须律政司司长同意的罪行（s.33(5) POO、POBO Part II、s.55(3) CO、国安法 A.41(2) 书面同意）与须控方同意的情形（公诉罪简易审理 s.94A MO）；未取同意＝程序失当，定罪前可修改／撤回重检治愈，定罪后为「良好上诉理由」（两说并列 D-CONSENT-GGA）〔LGS2N L505 "For some offences, the Secretary for Justice must give her consent to prosecution"；LGS2N L515 "the consent of the Prosecutor must be obtained: s. 94A MO"；LGS2N L513 "a procedural irregularity and can provide a good ground of appeal post-conviction"〕；
+1. **检控决策**：《基本法》A.63 的宪制独立＋检控守则 para 5 的**双重测试**（证据充分性即合理定罪机会 → 公众利益 para 5.9 因素），检控官职责并非不惜一切代价定罪〔LGS1V L146 "A.63 of the Basic Law (“BL”) provides that the DOJ shall control criminal prosecutions free of any interference"；LGS2N L499 "does the evidence demonstrate a reasonable prospect of conviction"；LGS1V L148 "It is not the role of the Prosecutor to obtain a conviction at all costs"〕；
+2. **检控同意书**：须律政司司长同意的罪行（s.33(5) POO、POBO Part II、s.55(3) CO、国安法 A.41(2) 书面同意）与须控方同意的情形（公诉罪简易审理 s.94A MO）；未取同意构成程序失当，定罪前可修改／撤回重检治愈，定罪后为「良好上诉理由」（两说并列 D-CONSENT-GGA）〔LGS2N L505 "For some offences, the Secretary for Justice must give her consent to prosecution"；LGS2N L515 "the consent of the Prosecutor must be obtained: s. 94A MO"；LGS2N L513 "a procedural irregularity and can provide a good ground of appeal post-conviction"〕；
 3. **私人检控**（s.14 MO）：无须许可、单方面（ex parte）申请、Prima Facie 测试签发传票；律政司 s.14(1) 可任意阶段介入／终止（s.15 nolle prosequi）；**拒发传票的唯一挑战途径是司法复核**（*Kwok Tak Ying*：s.104／105／113 MO 全被否定）〔LGS2S L453 "S. 14 MO: possible for individuals/bodies to bring a private prosecution not commenced by SJ – no leave is required"；LGS2N L603 "the Magistrate needs to be satisfied that the essential elements of the offence are prima facie present"；LGS2N L619 "Judicial review is the only avenue of challenge available against M"〕；
 4. **五大启动路径**：拘捕落案（48 小时带堂，起算点三说并列 D-48H）、告发＋传票、拟检控通知书（s.7D MO，限最高刑 ≤6 个月／1 万）、定额罚款（不留案底 Cap. 297 s.2(3)）、私人检控〔LGS2N L547 "Generally, criminal proceedings are commenced in one of two ways"；LGS2N L569 "the maximum sentence that can be imposed does not exceed a fine of $10,000 or imprisonment for 6 months"；LGS2S L445 "s. 2(3) Rehabilitation of Offenders Ordinance, Cap. 297"〕；
 5. **时效死线**：简易罪行 6 个月（s.26 MO，自投诉／告发**产生**起算）、逾期裁判官无管辖权、条例特例（版权 3 年／防贿 1–2 年）；公诉罪行无一般时效，极度迟延时辩方可申请永久终止程序（PD 9.7）；NSL 一律公诉（A.41(3)）〔LGS2N L523 "a complaint or information must be laid within 6 months from the time when the complaint or information arose"；LGS2N L523 "a Magistrate has no jurisdiction to deal with the complaint or information"；LGS2N L527 "There is no general limitation period for indictable offences"；LGS2S L383 "Excessive delay: application for a permanent stay? PD 9.7"〕；
-6. **控罪修改与重叠控罪**：Duplicity＝一罪一告发、混入两罪不作废且可经修改治愈；控方裁决（verdict）前可随时修改，s.27 MO 规范行使方式（休庭／≤$5,000 费用／召回证人／结案后不得再举证）；*Lui Tsun Sum* 实质偏见防线（间隔越久偏见越大，该案定罪被撤销）〔LGS2N L565 "The requirement that a separate complaint / information is required for each offence is called THE RULE AGAINST DUPLICITY"；LGS3R L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity"；LGS2S L402 "Longer the time between arraignment and amendment – the greater the likely prejudice"〕；
+6. **控罪修改与重叠控罪**：Duplicity 指一罪一告发、混入两罪不作废且可经修改治愈；控方裁决（verdict）前可随时修改，s.27 MO 规范行使方式（休庭／≤$5,000 费用／召回证人／结案后不得再举证）；*Lui Tsun Sum* 实质偏见防线（间隔越久偏见越大，该案定罪被撤销）〔LGS2N L565 "The requirement that a separate complaint / information is required for each offence is called THE RULE AGAINST DUPLICITY"；LGS3R L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity"；LGS2S L402 "Longer the time between arraignment and amendment – the greater the likely prejudice"〕；
 7. **1992 R&Ds**：除原则 (e)（自愿性，overriding）外不具法律效力，违规使口供「**面临被排除**」（may render liable to be excluded），按违规严重性与次数个案衡量；Rule 2 一有合理怀疑（客观测试）即须警诫＋即时记录；Rule 3 落案后仅限例外讯问；R4／R5／D5／D6／D8／R6 的取供合规网；迟延警诫两判对照（*Chan Yuk Ling* 排除＋撤定罪 vs *Fung Wing Ching* proviso 接纳）〔LGS2N L383 "The R&Ds do not have force of law (except for principle (e)) but are guidelines for law enforcement officers to follow"；📄RD1992 p.1 "Non-conformity with these Rules and Directions may render answers and statements liable to be excluded"；LGS2N L411 "as soon as police officers have reasonable grounds for suspecting that a suspect has committed an offence, they must caution that suspect"；LGS2S L319 "late caution rendered oral confession inadmissible. Conviction set aside"；LGS2S L318 "Caution was late but no prejudice caused – proviso applied"〕。
 
 **不覆盖（边界声明，相关主卡承担）**：① 街头截查、拘捕与搜查（警权本体）→ 11 Framework - Police Powers & Search Rules；② 法院管辖、答辩地点与法律代表 → 10 Framework - Criminal Courts, Jurisdiction & Legal Representation；③ 保释全部细节 → 05 Institution - Bail；④ 警署探访、录口供时辩护方逐节点操作 → 07 Institution - Investigation Rights and Defence；⑤ 控罪内容、合并与最终审讯路线 → 08 Institution - Charges and Trial Route；⑥ 供述可采性争议、Voir Dire 操作与半程裁决 → 13 Institution - Criminal Evidence Disputes；⑦ 认罪建议与 O.N.E. Bind Over → 06 Institution - Plea Advice and ONE Bind Over。时限横向汇总 → 01 Deadlines and Time Limits。
 
-### b. 关键术语逐一一句精确定义（中文定义＝英文原词）
+### 术语（核心概念与实务运作定义）
 
 | 术语（英文原词） | 一句中文精确定义 | 出处 |
 |---|---|---|
@@ -56,23 +56,23 @@ preservation: "2026-11-16 蓝图重构前版本备份 _workspace/backup-2026-11-
 | 口供自愿性（Voluntariness，Principle (e)） | 口供可采性的根本条件：非经强权者以对受损的恐惧或对利益的期望、或压迫所取得；是 R&Ds 中唯一有普通法效力且 overriding 的原则〔LGS2N L407 "It is a fundamental condition of the admissibility of a confession that it is voluntary"；📄RD1992 p.1 "That principle set out in paragraph (e) above is overriding and applicable in all cases"〕 | §5.1 |
 | 案中案（Voir Dire／Alternative Procedure） | 裁定口供可采性的单独听证：排除路径为（a）非自愿或（b）法官行使剩余裁量权〔LGS2N L387 "may be excluded from evidence in a Voir Dire / Alternative Procedure either because it is (a) involuntary or (b) although voluntary"〕 | §5.1 |
 
-### c. 各环节解决什么问题（按检控工作时序）
+### 环节定位（按程序时序）
 
 | 环节（时序） | 它解决的具体问题 | 依据 |
 |---|---|---|
 | 检不检（双重测试） | 证据够不够、值不值：先过"合理定罪机会"，再过"公众利益"；检控官不是求定罪机器〔LGS2S L353 "Sufficiency of Evidence – test: is there a reasonable prospect of conviction"；LGS1S L110 "Not the role of a Prosecutor to obtain a conviction at all costs"〕 | §1 |
-| 开案合规（同意书） | 启动前查该罪要不要 SJ 书面同意／控方同意：漏取＝程序失当，早救修改重检、晚救上诉良好理由〔LGS2N L505 "For some offences, the Secretary for Justice must give her consent to prosecution"；LGS2N L513 "the irregularity to be cured by the charge being amended or withdrawn and then re-laid"〕 | §1 |
+| 开案合规（同意书） | 启动前查该罪要不要 SJ 书面同意／控方同意：漏取构成程序失当，早救修改重检、晚救上诉良好理由〔LGS2N L505 "For some offences, the Secretary for Justice must give her consent to prosecution"；LGS2N L513 "the irregularity to be cured by the charge being amended or withdrawn and then re-laid"〕 | §1 |
 | 选启动路径 | 五条路怎么选：已抓人→拘捕落案（48 小时带堂）；未抓人→告发＋传票；轻微罪→NIP／定额罚款；自力救济→私人检控〔LGS2N L549 "The arrest of the Defendant who is then charged and a charge sheet prepared by the police"；LGS2S L446 "If D disputes liability then an information is laid and a summons issued"〕 | §3.1 |
 | 核时效死线 | 简易罪 6 个月起算点与条例特例；公诉无时效但防"过度迟延"（PD 9.7 永久终止）〔LGS2S L385 "Always check the relevant Ordinance"；LGS2N L527 "There is no general limitation period for indictable offences"〕 | §4.1 |
 | 起草控罪 | 一罪一告发（duplicity 防线）；verdict 前修改的自由与界限（s.27 MO 保障、*Lui Tsun Sum* 偏见防线）〔LGS2S L417 "Separate complaint / information is required for each offence"；LGS2S L401 "Charge can be amended any time up until verdict is delivered"〕 | §3.2、§4.2 |
 | 警诫时机（R2） | 什么时候必须 caution：一有合理怀疑（客观测试）立即警诫＋即时记录；街头逮捕改走 PRCS 流程〔LGS2N L411 "as soon as police officers have reasonable grounds for suspecting that a suspect has committed an offence, they must caution that suspect"；LGS2N L415 "there is no need to make a contemporaneous record when the person is being arrested on the street"〕 | §5、§5.1 |
 | 落案后讯问（R3） | 落案后还能不能问：原则不可，仅 R3(b) 例外（防伤害／澄清歧义），且须再次警诫＋完整即时记录〔LGS2S L323 "Police can only question post-charge in limited circumstances"；LGS2N L429 "to prevent harm to another person or clear up an ambiguity in a previous statement given by that person"〕 | §5 |
 | 取供合规（R4/5、D5/6/8、R6） | 自撰 vs 问答式 ROI 的程序网：再警诫、逐字、读回、签署；少年在场人；母语与签署效力；律师私下会见；同案犯陈述不得诱取回应〔LGS2N L443 "The usual type of written statement has 3 parts: a caution, the questions and answers, and the declaration"；LGS2N L447 "nothing shall be said or done to invite any reply or comment"〕 | §5.1 |
-| 违规后果定性 | 违反 R&Ds 不等于口供自动排除：官方原文 "may render liable to be excluded"，按严重性与次数个案衡量，路径＝非自愿／剩余裁量权〔LGS2S L302 "Must consider the seriousness of the breach and the number of breaches to determine the consequences"；LGS2N L397 "substantial and significant breaches could have this result"〕 | §5.1 第 1 项 |
+| 违规后果定性 | 违反 R&Ds 不等于口供自动排除：官方原文 "may render liable to be excluded"，按严重性与次数个案衡量，路径为非自愿／剩余裁量权〔LGS2S L302 "Must consider the seriousness of the breach and the number of breaches to determine the consequences"；LGS2N L397 "substantial and significant breaches could have this result"〕 | §5.1 第 1 项 |
 
-## 🗺️ 本卡地图（章节位置与阅读顺序，2026-10-10）
+## 🗺️ 本卡地图（章节位置与阅读顺序）
 
-> 两件套：**图 1 · 母题结构图**（检控决策与启动分支 roadmap＝全流程主干与后果虚线；私人检控全流程＝**图 2** 见 §2，1992 讯问规则链＝**图 3** 见 §5）→ **任务直达表**（按要做的事跳章节）。mermaid 节点看结构、不可点；点跳用直达表锚链。
+> 两件套：**图 1 · 母题结构图**（检控决策与启动分支 roadmap 即全流程主干与后果虚线；私人检控全流程见**图 2**（§2），1992 讯问规则链见**图 3**（§5））→ **任务直达表**（按要做的事跳章节）。mermaid 节点看结构、不可点；点跳用直达表锚链。
 
 **图 1 · 检控决策与启动分支 roadmap（全流程主干与后果虚线）**：
 
@@ -116,7 +116,7 @@ flowchart TD
 
 | 你现在要做什么 | 直达章节 |
 |---|---|
-| 30 秒弄清范围/术语/环节任务 | [速读定位层](#速读定位层（30%20秒全景：范围%20·%20术语%20·%20环节任务，2026-10-10）) |
+| 30 秒弄清范围/术语/环节任务 | [速读定位层](#速读定位层30-秒全景范围--术语--环节任务) |
 | 写"应否检控"分析 | §1（双重测试＋A.63）＋§7 行 1 |
 | 办私人检控／救被拒传票 | §2 mermaid＋§2.1 补强＋§7 行 10 |
 | 选启动路径／查 48 小时提堂 | §3.1 五路径＋⚠️ D-48H＋§7 行 3–4 |
@@ -124,8 +124,8 @@ flowchart TD
 | 起草或攻击控罪书 | §3.2（duplicity）＋§4.2（修改防线）＋§7 行 5–6 |
 | 警诫时机与口供排除 | §5 mermaid＋§5.1 第 1、5 项＋§7 行 7 |
 | 取供方式合规（少年／语言／律师／同案犯） | §5.1 第 6–12 项＋§7 行 8–9 |
-| 查"某环节做错会怎样" | [§7 后果速查总表](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)（§1–§5 正文均有"总表索引"回点） |
-| 核对某条规则出处与届别 | [§0 图例](#0.%20底层材料溯源库与代码表（Source%20Provenance%20Index）)＋审计区·对齐总表（原 §6） |
+| 查"某环节做错会怎样" | [§7 后果速查总表](#7-环节--不做做错的后果--依据速查总表)（§1–§5 正文均有"总表索引"回点） |
+| 核对某条规则出处与届别 | [§0 图例](#0-底层材料溯源库与代码表source-provenance-index)＋审计区·对齐总表（原 §6） |
 | SG01 Q A3/A6/B2/B3/D 实战穿透 | §1（A3、QD）、§4.2（A6）、§5.1 末（B2、B3）💡 段 → SG01 Classroom |
 
 ---
@@ -164,11 +164,11 @@ flowchart TD
 LGS 1 讲义／幻灯（码 LGS1V／LGS1S）供检控守则与受害人宪章部分，控罪修改与重叠控罪取本届 LGS 3 修订讲义（码 LGS3R），三份官方 PDF（码 PROSCODE／RD1992／RD2012）为守则与规则原文；
 讲义与幻灯一致时以讲义条文为主，两说不一者一律并列并登记文末，不代用户裁决。
 
-**旧 `[S-Statute]`／`[S-Case]`／`[S-Exam-LG]` 三行的去向**：旧表所列 Cap. 227 (MO)、Cap. 221 (CPO)、Cap. 221C、Cap. 201 (CO)、Cap. 245 (POO)、Cap. 528 等法例，以及 *Kwok Tak Ying*、*Lui Tsun Sum*、*Ng Siu Chau*、*Tse So So*、*Chan Yuk Ling*、*Fung Wing Ching*、*Pang Ho Yin*、*Chiu Wing Kai*、*Ng Chi Keung*、*Choi Yan Kwong* 十件判例，都不是本库可定位的文件，其条文与判词内容一律以载明它们的讲义／幻灯原文行号（或官方 PDF 页码）为出处；Set 3 学生笔记改以码 OLD-EXLG 登记，其非官方性质在正文逐处写明。
+**旧 S-Statute／S-Case／S-Exam-LG 三行的去向**：旧表所列 Cap. 227 (MO)、Cap. 221 (CPO)、Cap. 221C、Cap. 201 (CO)、Cap. 245 (POO)、Cap. 528 等法例，以及 *Kwok Tak Ying*、*Lui Tsun Sum*、*Ng Siu Chau*、*Tse So So*、*Chan Yuk Ling*、*Fung Wing Ching*、*Pang Ho Yin*、*Chiu Wing Kai*、*Ng Chi Keung*、*Choi Yan Kwong* 十件判例，都不是本库可定位的文件，其条文与判词内容一律以载明它们的讲义／幻灯原文行号（或官方 PDF 页码）为出处；Set 3 学生笔记改以码 OLD-EXLG 登记，其非官方性质在正文逐处写明。
 
 ---
 
-## 1. 检控决定与检控守则（The Decision to Prosecute & Prosecution Code）`[S-LGS1-SLIDES-2026: Slide 10–12]` `[S-LGS2-SLIDES-2026: Slide 37–39]`
+## 1. 检控决定与检控守则（The Decision to Prosecute & Prosecution Code）
 
 1. **宪制独立地位**：《基本法》第 63 条明确规定律政司主管刑事检察工作，**不受任何干涉**。 〔LGS1V L146 "A.63 of the Basic Law (“BL”) provides that the DOJ shall control criminal prosecutions free of any interference"；LGS1S L107 "A. 63 BL: DOJ controls criminal prosecutions free of any interference"；LGS2N L489 "The decision whether or not to prosecute is made by the Secretary for Justice or by counsel in the Prosecutions Division"〕
 2. **检控双重测试（Two-Stage Prosecutorial Test — para 5 PC）**： 〔LGS2N L491 "In deciding whether to prosecute, 2 considerations are relevant"；LGS2N L497 "See para 5 of the Prosecution Code"；📄PROSCODE p.17 "the decision to prosecute includes two … likely to prove the offence"〕
@@ -188,7 +188,7 @@ LGS 1 讲义／幻灯（码 LGS1V／LGS1S）供检控守则与受害人宪章部
 
 ---
 
-## 2. 私人检控机制（Private Prosecutions — s.14 MO）`[S-LGS2-SLIDES-2026: Slide 47–50]`
+## 2. 私人检控机制（Private Prosecutions — s.14 MO）
 
 **图 2 · 私人检控全流程（告发→签发→介入→救济）**：
 
@@ -229,7 +229,7 @@ flowchart TD
 
 ---
 
-## 3. 诉讼启动五大方式与重叠控罪禁止（Commencement & Duplicity）`[S-LGS2-SLIDES-2026: Slide 41–46]`
+## 3. 诉讼启动五大方式与重叠控罪禁止（Commencement & Duplicity）
 
 ### 3.1 刑事诉讼启动五种路径
 > **§3.1 本节取材**：五种路径的清单出自本届讲义 METHODS OF COMMENCING PROCEEDINGS 段，各路径的条文细节取本届讲义与本届幻灯 Slide 41–46 对读；两处有出入者（告发条文、48 小时起算）就地以 ⚠️ 并列。 〔LGS2N L535 "There are various different methods of commencing criminal proceedings"；LGS2N L547 "Generally, criminal proceedings are commenced in one of two ways"；LGS2N L551 "the information is laid before a Magistrate who issues a summons or a warrant of arrest"〕
@@ -258,7 +258,7 @@ flowchart TD
 
 ---
 
-## 4. 检控时效死线与控罪修改（Limitation Periods & Amendments）`[S-LGS2-SLIDES-2026: Slide 40, 42]`
+## 4. 检控时效死线与控罪修改（Limitation Periods & Amendments）
 
 ### 4.1 时效死线（Limitation Periods）
 > **§4.1 本节取材**：时效死线、逾期后果与个别条例特例取本届讲义 LIMITATION PERIODS 段与本届幻灯 Slide 40；公诉罪行无一般时效及永久终止程序申请亦出自同一对照。 〔LGS2N L523 "a complaint or information must be laid within 6 months from the time when the complaint or information arose"；LGS2S L378 "S. 26 MO: generally 6 months from the time the complaint or information arose"；LGS2N L527 "There is no general limitation period for indictable offences"〕
@@ -272,12 +272,11 @@ flowchart TD
 
 **总表索引（2026-10-10）**：简易罪 6 个月时效漏算与公诉案"过度迟延"应对的后果链归并 [§7 行 2](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
 
-### 4.2 控罪修改与重大偏见防线（*HKSAR v Lui Tsun Sum [2020]*）`[S-Case]`
-> **§4.2 本节取材**：修改权条文取本届 LGS 3 修订讲义的 s.27 MO 摘录与 *Tse So So* 段，修改时限与 *Lui Tsun Sum* 案情取本届幻灯 Slide 42 及本届讲义 Arrest and Charge 段；所引 Set 3 学生笔记属往届材料，已在括注内标「·往届仅参考」。 〔LGS3R L424 "The Magistrate can also amend the charge of his own volition during the trial under s. 27"；LGS3R L420 "Defects in the Indictment/Charge Sheet can be cured by an amendment"；LGS2S L401 "Charge can be amended any time up until verdict is delivered"〕
+### 4.2 控罪修改与重大偏见防线（*HKSAR v Lui Tsun Sum [2020]*）
 
 * **修改权主体**：控方**可于裁决（verdict）宣告前的任何时候**申请修改控罪（本届幻灯 Slide 42、本届讲义 Arrest and Charge 段及 *HKSAR v Ng Siu Chau* [1999] HKCA 36）。裁判官亦可**依职权**修改，其规范依据为 **s.27 MO**——按 *Tse So So* [2007] 10 HKCFAR 368（Ribero P.J.）的说明，**s.27 并非授权条款**，而是规范审讯中裁判官如何行使「已假定存在」的修改权：面对形式／实质缺陷或告发与证据间的差异，**只要经程序保障后不造成不公，即须优先修改而非驳回**，并就实体是非裁判（本届 LGS 3 讲义 s.27 条文摘录）。修改权不限于审讯本案之裁判官，**任何主审裁判官均可行使**（同处）。区域法院／原讼法庭修改起诉书则依 **s.23 CPO**（以不造成不公为限，见本届 LGS 3 讲义）。 〔LGS2N L555 "The Prosecution can apply to amend the charge any time up until verdict is delivered"；LGS2S L401 "See HKSAR v. Ng Siu Chau [1999] HKCA 36"；LGS3R L422 "has general power to amend an information or a charge to ensure the effective exercise of her jurisdiction"；LGS3R L426 "amend the complaint, information or summons if he is satisfied that no injustice would be caused"；LGS3R L434 "The power to amend a charge is not restricted to the trial Magistrate and can be exercised by any presiding Magistrate"；LGS3R L420 "S. 23 CPO gives a DC or CFI Judge the power to amend the Indictment"〕
 * **修改的法定配套（本届 LGS 3 讲义所录 s.27(2)、(3) MO）**：缺陷非属重大，或可能造成的不公可经**费用命令、休庭（adjournment）、召回并进一步讯问证人**而治愈时，裁判官**应当**修改；修改后须读回并解释新控罪、允许各方传召／召回证人、给予合理必要休庭，并可命令赔付**不超过 $5,000** 的费用；**控方结案后才修改的，除驳回性证据外控方不得再呈证据**。—— 实务救济路径即：**以休庭化解偏见，而非直接要求撤销定罪**。 〔LGS3R L428 "would be cured by an order as to costs, an adjournment or leave to recall and further examine witnesses"；LGS3R L430 "read and explain the amended complaint, information or summons to the defendant"；LGS3R L430 "make an order that the complainant or informant shall pay to the defendant such costs, not exceeding $5,000"；LGS3R L430 "if the amendment is made after the case for the complainant or informant is closed, no further evidence may be called by the complainant"〕
-* **重大偏见防线（*HKSAR v Lui Tsun Sum & Ors* [2020] HKCA 516）**：被告人原被控串谋敲诈及自称三合会会员；修改建议**来自审裁处**（依 §2.5 一为本届一为往届者从本届：本届幻灯记为**裁判官 M**；⚠️ 往届 Set 3 学生笔记写作 DC 法庭，两说已并列登记文末），于辩方结案陈词阶段提出且遭辩方反对，最终**以修改后的完全不同罪名（三合会会员罪）定罪**。上诉庭确立的检验：**自提堂至修改之间相隔越久，可能造成之偏见越大**；本次修改并非技术性调整，而是控方无法证明原控罪要素后**为确保定罪**而换罪，故对辩方构成**实质偏见（substantial prejudice）**。上诉庭在该案**撤销定罪**（「撤销定罪」只见于往届 Set 3 学生笔记，本届幻灯 Slide 42 仅记述偏见结论）。 〔LGS2S L402 "late amendment of charge just before verdict"；LGS2S L402 "Suggestion came from M at point of D"；LGS2S L402 "Longer the time between arraignment and amendment – the greater the likely prejudice"；LGS2S L402 "the amendment caused substantial prejudice to Ds"；LGS2S L402 "The Prosecution could not establish the elements of their original charge and so the amendment was made to secure"；OLD-EXLG L1561 "DC court interrupted Ds"·往届仅参考；OLD-EXLG L1565 "CA overturned the conviction: the amendments are to be made to secure a conviction"·往届仅参考；D-LTS-FORUM〕
+* **重大偏见防线（*HKSAR v Lui Tsun Sum & Ors* [2020] HKCA 516）**：被告人原被控串谋敲诈及自称三合会会员；修改建议**来自审裁处**（依 §2.5 采本届口径：本届幻灯记为**裁判官 M**；另一来源记为 DC 法庭，两说已并列登记文末），于辩方结案陈词阶段提出且遭辩方反对，最终**以修改后的完全不同罪名（三合会会员罪）定罪**。上诉庭确立的检验：**自提堂至修改之间相隔越久，可能造成之偏见越大**；本次修改并非技术性调整，而是控方无法证明原控罪要素后**为确保定罪**而换罪，故对辩方构成**实质偏见（substantial prejudice）**。上诉庭在该案**撤销定罪**（「撤销定罪」的记载与本届幻灯 Slide 42 的偏见结论存在出处差异，两说并列登记文末）。 〔LGS2S L402 "late amendment of charge just before verdict"；LGS2S L402 "Suggestion came from M at point of D"；LGS2S L402 "Longer the time between arraignment and amendment – the greater the likely prejudice"；LGS2S L402 "the amendment caused substantial prejudice to Ds"；LGS2S L402 "The Prosecution could not establish the elements of their original charge and so the amendment was made to secure"；OLD-EXLG L1561 "DC court interrupted Ds"·往届仅参考；OLD-EXLG L1565 "CA overturned the conviction: the amendments are to be made to secure a conviction"·往届仅参考；D-LTS-FORUM〕
  * ⚠️ 这是**个案结论**：库内未确立「凡过晚修改即必撤定罪」的一般规则，正确的表述是「过晚且换为不同罪名、且无休庭等程序保障以化解偏见时，定罪将难以维持」。 〔LGS3R L448 "Amending the charge at trial can cure the defect"〕 〔❓「凡过晚修改即必撤定罪」的一般规则库内并无确立，本行的正确表述是本卡对两案结论的归纳，并非任何原件原文，已就地标注〕
  * ⚠️ **另一处并存的时限表述**：Slide 38 就「未取得法定同意」的瑕疵指控方修改 "can be done at any time up until **conviction**"，与本届幻灯 Slide 42／本届讲义 Arrest and Charge 段的 up until **verdict** 并存，库内未见调和说明。 〔LGS2S L365 "this can be done at any time up until conviction"；LGS2S L401 "Charge can be amended any time up until verdict is delivered"；LGS2N L555 "The Prosecution can apply to amend the charge any time up until verdict is delivered"；D-CONV-VERDICT〕
 
@@ -287,7 +286,7 @@ flowchart TD
 
 ---
 
-## 5. 1992 年查问疑犯及录取口供规则与指示（1992 Rules & Directions）`[S-LGS2-SLIDES-2026: Slide 31–36]`
+## 5. 1992 年查问疑犯及录取口供规则与指示（1992 Rules & Directions）
 
 **图 3 · 1992 R&Ds 讯问流程（Rule 1→2→3）**：
 
@@ -346,40 +345,42 @@ flowchart TD
 
 | # | 闸门 | 自检问题（辩方核查视角） | 未过时的动作 | 深节回点 |
 |---|---|---|---|---|
-| 1 | 检控决策与同意 | 两闸测试各自独立过了吗？该罪名要司长／控方书面同意吗（s.33(5) POO／s.31 POBO／s.55(3) CO／s.94A MO）？ | 未获同意＝程序失当＋定罪后良好上诉理由；补同意路径核 §1 | §1／§7 行 1 |
+| 1 | 检控决策与同意 | 两闸测试各自独立过了吗？该罪名要司长／控方书面同意吗（s.33(5) POO／s.31 POBO／s.55(3) CO／s.94A MO）？ | 未获同意构成程序失当，定罪后构成良好上诉理由；补同意路径核 §1 | §1／§7 行 1 |
 | 2 | 启动方式 | 五方式选对（拘捕落案／告发传票／NIP／定额罚款／私人检控）？NIP 只限 ≤6 月或 $1 万罪？ | 选错路径回正确节点；48 小时起算点按所引讲义口径并核 s.52(1) PFO | §3.1／§7 行 3–4 |
 | 3 | 时效 | 简易罪 6 个月从「产生」日起算？版权 3 年、防贿 1／2 年特例？ | 逾期裁判官无管辖权；公诉案过度迟延评估 stay | §4.1／§7 行 2 |
 | 4 | 控罪起草 | 一罪一告发？duplicity 触雷（如管有＋贩毒混一状）？ | 重叠控罪不作废但可修改治愈——辩方循偏见／不公抗辩或 R.3(3) 索详情 | §3.2／§7 行 5 |
-| 5 | 控罪修改 | 修改时点（verdict 前）？性质变了？休庭／费用／召回证人保障给了？ | 过晚＋换罪＋无保障＝*Lui Tsun Sum* 实质偏见——上诉撤销点 | §4.2／§7 行 6 |
+| 5 | 控罪修改 | 修改时点（verdict 前）？性质变了？休庭／费用／召回证人保障给了？ | 过晚＋换罪＋无保障即 *Lui Tsun Sum* 式实质偏见——上诉撤销点 | §4.2／§7 行 6 |
 | 6 | 警诫与记录 | 合理怀疑一出现就警诫了？即时记录（或 PRCS）做了？落案后只有 R3(b) 例外才可继续问？ | 迟延警诫与违规讯问按 *Chan Yuk Ling*／*Fung Wing Ching* 两轨评估 | §5.1 #5／§5 图 3／§7 行 7 |
 | 7 | 取供方式 | R4/R5 逐字记录、不引导、读回、签署声明齐？D5 少年在场（非警务＋同性）？D6 母语与可读文本？D8 律师权没被无据阻止？ | 逐项对 1992 R&Ds；违规叠加提升排除机会 | §5.1 #6–#11／§7 行 8–9 |
 | 8 | 口供后果口径 | 「面临被排除」而非自动出局？按严重性与次数衡量？排除路径分清（非自愿 vs 剩余裁量）？ | Voir Dire 主张排除；两说并列不单押 | §5.1 #1–#2／§7 行 7–9 |
 
 清单用法：接案当日把 1–5 走完（检控合法性与控罪面）；口供证据到手后走 6–8（R&Ds 合规审查面）。
 
-## 7. 环节 × 不做/做错的后果 × 依据速查总表（2026-10-10）
+## 7. 环节 × 不做/做错的后果 × 依据速查总表
 
-> 按《PCLL MATERIAL STANDARDS.md》§18.6 新增：把检控主线各环节"不做／做错会怎样"集中在一张总表，正文 §1、§2.1、§3.1、§3.2、§4.1、§4.2、§5.1 以"总表索引"回点行号。【程序代价】＝程序本身的失当定性；【治愈路径】＝出错后仍能把程序拉回正轨的法定渠道；【证据面】＝所得证据／口供的可采性走向（R&Ds 违规属"面临被排除"（may render liable to be excluded）而非自动排除，按严重性与次数个案衡量）；【制约束缚】＝无法绕开的硬性要件。库内材料未写明后果者如实标"库内无明文"并登记文末 open 块（O-12-1、O-12-2），不臆造。
+> 按《PCLL MATERIAL STANDARDS.md》§18.6 新增：把检控主线各环节"不做／做错会怎样"集中在一张总表，正文 §1、§2.1、§3.1、§3.2、§4.1、§4.2、§5.1 以"总表索引"回点行号。【程序代价】指程序本身的失当定性；【治愈路径】指出错后仍能把程序拉回正轨的法定渠道；【证据面】指所得证据／口供的可采性走向（R&Ds 违规属"面临被排除"（may render liable to be excluded）而非自动排除，按严重性与次数个案衡量）；【制约束缚】指无法绕开的硬性要件。库内材料未写明后果者如实标"库内无明文"并登记文末 open 块（O-12-1、O-12-2），不臆造。
 
 | # | 程序环节 | 不做／做错的状态 | 后果链 | 规则与材料依据 |
 |---|---|---|---|---|
-| 1 | 检控同意书（SJ／控方） | 该取未取即启动（s.33(5) POO／POBO Part II／s.55(3) CO／NSL A.41(2)；公诉罪简易审漏 s.94A 同意）；或误以为检控都要 SJ 同意 | 【程序代价】漏取法定同意＝**程序失当（procedural irregularity）**，非全案当然无效；【治愈路径】定罪前：修改控罪或撤回后重新提出告发即可治愈；定罪后才发现：构成「良好上诉理由」——⚠️ 两说并列未裁（"can provide" vs "is a" good ground，D-CONSENT-GGA），**不是自动必然推翻定罪**（个案裁断论属本卡既有 ❓ 推论）；【制约束缚】同意书并非普及义务——"Not required for all offences"，简易罪在 MC 审理无须控方同意 | 〔LGS2S L364 "failing to obtain P’s consent to prosecute where required is a procedural irregularity"；LGS2N L513 "the irregularity to be cured by the charge being amended or withdrawn and then re-laid"；LGS2S L366 "If the failure to obtain consent is only discovered post conviction, then it is a good ground of appeal."；LGS2S L359 "Not required for all offences."；LGS2S L362 "Do not need Prosecutor’s consent for a summary offence to be tried in MC."〕 |
+| 1 | 检控同意书（SJ／控方） | 该取未取即启动（s.33(5) POO／POBO Part II／s.55(3) CO／NSL A.41(2)；公诉罪简易审漏 s.94A 同意）；或误以为检控都要 SJ 同意 | 【程序代价】漏取法定同意即构成**程序失当（procedural irregularity）**，非全案当然无效；【治愈路径】定罪前：修改控罪或撤回后重新提出告发即可治愈；定罪后才发现：构成「良好上诉理由」——⚠️ 两说并列未裁（"can provide" vs "is a" good ground，D-CONSENT-GGA），**不是自动必然推翻定罪**（个案裁断论属本卡既有 ❓ 推论）；【制约束缚】同意书并非普及义务——"Not required for all offences"，简易罪在 MC 审理无须控方同意 | 〔LGS2S L364 "failing to obtain P’s consent to prosecute where required is a procedural irregularity"；LGS2N L513 "the irregularity to be cured by the charge being amended or withdrawn and then re-laid"；LGS2S L366 "If the failure to obtain consent is only discovered post conviction, then it is a good ground of appeal."；LGS2S L359 "Not required for all offences."；LGS2S L362 "Do not need Prosecutor’s consent for a summary offence to be tried in MC."〕 |
 | 2 | 简易罪 6 个月时效 | 漏算时效：自"投诉／告发**产生**"起算失误；不查创设条例的特例 | 【程序代价】时效届满后裁判官**对该投诉／告发无管辖权**——法院门都进不去，控方此路彻底封死；【制约束缚】起算是"from the time when the complaint or information arose"而非犯罪日（本卡 2026-09-27 已更正）；条例可另定时效：版权 3 年、防贿 1–2 年，"Always check the relevant Ordinance"；公诉罪无一般时效，但辩方有对应武器：过度迟延 → PD 9.7 永久终止程序 | 〔LGS2N L523 "a complaint or information must be laid within 6 months from the time when the complaint or information arose"；LGS2N L523 "a Magistrate has no jurisdiction to deal with the complaint or information"；LGS2S L385 "Always check the relevant Ordinance"；LGS2N L525 "no prosecution shall be commenced after the expiration of 3 years from the date of the offence"；LGS2N L527 "where there is excessive delay, the Defence may make an application for a permanent stay of proceedings"〕 |
 | 3 | 48 小时带堂 | 拘捕落案后不按"合理切实可行"尽快带见裁判官；写答案时起算点选边不标明 | 【制约束缚】条文本身是 s.52(1) PFO 的 "as soon as practicable" 义务，实务表述为 24／48 小时；⚠️ 起算点三说并列未裁（of charge／of arrest／as soon as practicable，D-48H），应试按所引讲义表述并点出条文依据；SNSO 下可延至 14 天（裁判官授权）；【库内无明文】迟带堂的个案后果（释放、赔偿或证据影响）库内未立言 → O-12-1 | 〔LGS3R L240 "there is a right to be brought before a Magistrate as soon as practicable"；LGS3R L240 "this will usually be within 24 hours of being charged (48 hours of arrest)"；LGS1S L201 "Every D must be brought before a Magistrate within 48 hours (72 hours if deportation case) of charge"；LGS2N L347 "Then within 48 hours of his arrest (or 72 hours for deportation cases), the arrested person must be brought before a Magistrate"；LGS1V L234 "a Magistrate can authorize an extended period of detention of an arrested person without charge to 14 days"〕 |
 | 4 | 启动路径选择 | NIP 用在最高刑 >6 个月／1 万的罪行；被告争议定额罚款仍硬收；未抓人却按"拘捕落案"办 | 【程序代价】NIP 的法定上限是硬性门槛（≤6 个月监禁或 1 万罚款），超限罪行没有 s.7D 这条路；定额罚款条款只给"不留案底"的出清机制，被告一争议，正路就是告发＋传票，不存在"坚持罚款"的程序；被告不回应 NIP 可能换来 s.101A 传票／拘票与视同认罪量刑；【治愈路径】程序走回头：提告发由裁判官签发传票（s.72 MO／s.8 MO），⚠️ 私人检控语境条文 s.75／s.72 两说并列（D-MO75V72） | 〔LGS2N L569 "the maximum sentence that can be imposed does not exceed a fine of $10,000 or imprisonment for 6 months"；LGS2S L445 "D does not receive a criminal conviction provided the"；LGS2S L446 "If D disputes liability then an information is laid and a summons issued"；LGS2N L573 "may lead to a summons or warrant being issued under s. 101A MO"；LGS2N L573 "the Magistrate will determine the matter as if the Defendant had pleaded guilty"〕 |
-| 5 | 控罪书起草（duplicity） | 一券塞进两项独立罪名（如"管有＋贩毒"式罪状）；辩方误判"duplicity＝控罪作废" | 【程序代价】并非作废——"does not render the charges/counts a nullity"，犯错的代价是**给控方一张可修改的靶子**而非一颗银弹；【治愈路径】审讯中修改即可治愈；控方裁决前任何时点可改；辩方正解是（i）抗辩修改的偏见与不公（→ 行 6）、（ii）依 R.3(3) 要求交付进一步详情，不是等"控罪自动倒下"；【制约束缚】一罪一告发的合规写法见 §3.2 合规范例（First Count／Second Count 分列） | 〔LGS2N L565 "The Prosecution cannot allege two or more offences in the same charge"；LGS3R L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity"；LGS3R L448 "Amending the charge at trial can cure the defect"；LGS3R L422 "Such a general power is consistent with R. 3(3) of the Indictment Rules"；LGS2S L427 "Theft contrary to section 9 of the Theft Ordinance, Cap.210"〕 |
+| 5 | 控罪书起草（duplicity） | 一券塞进两项独立罪名（如"管有＋贩毒"式罪状）；辩方误判"duplicity 会令控罪作废" | 【程序代价】并非作废——"does not render the charges/counts a nullity"，犯错的代价是**给控方一张可修改的靶子**而非一颗银弹；【治愈路径】审讯中修改即可治愈；控方裁决前任何时点可改；辩方正解是（i）抗辩修改的偏见与不公（→ 行 6）、（ii）依 R.3(3) 要求交付进一步详情，不是等"控罪自动倒下"；【制约束缚】一罪一告发的合规写法见 §3.2 合规范例（First Count／Second Count 分列） | 〔LGS2N L565 "The Prosecution cannot allege two or more offences in the same charge"；LGS3R L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity"；LGS3R L448 "Amending the charge at trial can cure the defect"；LGS3R L422 "Such a general power is consistent with R. 3(3) of the Indictment Rules"；LGS2S L427 "Theft contrary to section 9 of the Theft Ordinance, Cap.210"〕 |
 | 6 | 控罪修改攻防 | 控方拖到近裁决才申请修改换成不同罪名；裁判官不修程序保障直接改；辩方只对"太晚"喊口号不提偏见 | 【证据面（个案防线）】*Lui Tsun Sum*：提堂至修改间隔越久、偏见越大；该案近裁决换罪定罪被上诉庭撤销——但库内确立的是**个案检验**而非"凡晚改必撤"的一般规则；【制约束缚】s.27 MO 的配套：不公可经费用（≤$5,000）／休庭／召回证人治愈；修改后须读回解释、允许传召召回证人；控方结案后才改的，除驳回性证据外不得再呈证据——辩方真实武器是"要休庭、要召回、要不公论证"，不是"反对修改"四字；⚠️ 修改时限终点两说并列（conviction／verdict，D-CONV-VERDICT） | 〔LGS2S L402 "Longer the time between arraignment and amendment – the greater the likely prejudice"；LGS2S L402 "the amendment caused substantial prejudice to Ds"；OLD-EXLG L1565 "CA overturned the conviction: the amendments are to be made to secure a conviction"·往届仅参考；LGS3R L428 "would be cured by an order as to costs, an adjournment or leave to recall and further examine witnesses"；LGS3R L430 "make an order that the complainant or informant shall pay to the defendant such costs, not exceeding $5,000"；LGS3R L430 "if the amendment is made after the case for the complainant or informant is closed, no further evidence may be called by the complainant"〕 |
 | 7 | 警诫时机（R2） | 已有合理怀疑仍继续"自由查问"不警诫；警诫了但不做即时记录；把街头当堂陈述硬套即时记录要求 | 【证据面】迟延警诫的代价谱系（两案对照）：*Chan Yuk Ling*——迟致口头口供**被排除、定罪被撤销**；*Fung Wing Ching*——迟但未造成偏见，**适用 proviso 口供获接纳**；定性句是官方 "may render … liable to be excluded"，按违规**严重性与次数**个案衡量，多项重大违规叠加时排除机会显著上升（Voir Dire／剩余裁量权路径）；忘记记录 = 另加一层 R2 违规；【制约束缚】"合理怀疑"是客观测试（*Chiu Wing Kai*），警员主观善意救不回来；街头逮捕当场陈述无需当场记录，回署 PRCS 签署补足 | 〔LGS2N L411 "as soon as police officers have reasonable grounds for suspecting that a suspect has committed an offence, they must caution that suspect"；📄RD1992 p.1 "Non-conformity with these Rules and Directions may render answers and statements liable to be excluded from evidence in subsequent criminal proceedings"；LGS2S L302 "Must consider the seriousness of the breach and the number of breaches to determine the consequences"；LGS2S L319 "late caution rendered oral confession inadmissible. Conviction set aside"；LGS2S L318 "Caution was late but no prejudice caused – proviso applied"；LGS2N L423 "has evidence which would afford reasonable grounds for suspecting that a person has committed an offence is an objective one"；LGS2N L415 "This latter statement is called a Post-Recorded Caution Statement"〕 |
 | 8 | 落案后讯问与取供方式 | 落案后径行继续盘问；ROI 代写时提问引导、不逐字、不读回；少年无合适在场人；让被告签署他读不懂的文本 | 【证据面】R3 违规：落案后只许 R3(b) 两例外（防伤害／澄清歧义）内讯问且须 R3(a) 再警诫，外无据——所得陈述进入"面临被排除"区间；R4／R5 违规（代写引导、缺逐字、缺读回、缺真实性声明）叠加同一评估；D5 违规个案：*Fung Wing Ching* 母亲未在场 → **书面**口供被排除（注意 ⚠️ "only 16" 与 "under 16" 文本张力已登记）；D6 是硬后果：取得被告无法阅读文本的签署"**不具证据价值**"；【制约束缚】D5 义务受 "So far as practicable" 限定且替代在场人须"非警务人员＋与少年同性"双要件 | 〔LGS2N L427 "Such persons must be immediately cautioned in the manner set out in R3(a)"；LGS2N L429 "to prevent harm to another person or clear up an ambiguity in a previous statement given by that person"；LGS2S L323 "Police can only question post-charge in limited circumstances"；LGS2N L437 "he shall take down the exact words used without asking any questions other than those necessary to make the statement coherent, legible and relevant"；LGS2S L318 "Written confession excluded as breach of Direction 5"；LGS2N L459 "So far as practicable, children and young persons under the age of 16 years should only be interviewed"；LGS2N L469 "It is of no evidential value to obtain a signature to a document in another language that the Defendant cannot read"〕 |
 | 9 | 律师权与同案犯陈述 | 以"律师会教他不开口"为由拒绝会见；向已落案者出示同案犯陈述并追问"他说的是不是真的" | 【制约束缚】D8／原则 (c)：阻律师只许在"有合理理由相信会造成不合理迟延或阻碍"时——"律师会建议客户不回答问题"**明文不构成理由**；该权非绝对（*Mohammed*）；R6：出示同案犯陈述可以，但引诱回应即破防——警方不得问真假、不得暗示有罪，主动发言须立即 R3(a) 再警诫；同案犯非宣誓庭外陈述**不得用作针对另一同案被告**，只可用作针对陈述者本人；【库内无明文】阻律师会见的证据面后果 → O-12-2 | 〔LGS2N L473 "the Defendant should be able to communicate privately with a solicitor or barrister"；LGS2N L475 "This does not include the lawyer advising his client not to answer questions"；LGS2N L479 "But this is not an absolute right and access can be excluded in certain circumstances"；LGS2N L447 "nothing shall be said or done to invite any reply or comment"；LGS2N L453 "the statement of one co-Accused which is not made on oath cannot be used as evidence against another co-Accused"；LGS2N L451 "he must be immediately cautioned in accordance with R3(a)"〕 |
-| 10 | 私人检控救济 | 裁判官拒发传票后走 s.104／105／113 MO 上诉 | 【程序代价】三条上诉路**全被否定**（*Kwok Tak Ying*）：签发传票是 ex parte 申请、潜在被告无诉讼地位、不属裁判官"以简易程序裁断事项"——投错门径＝程序空转；【制约束缚】唯一途径是**司法复核**；另记：律政司 s.14(1) 可在任何阶段介入接管或终止（s.15 nolle prosequi／撤回／不提证供），私人检控人无权阻挡（para 7(4) 因素） | 〔LGS2N L611 "the issuance of a summons is an ex parte application in which the prospective D has no locus standi"；LGS2N L613 "s. 105 MO cannot be used to appeal a refusal to issue a private summons"；LGS2N L615 "There must be an inter partes hearing over which the M has exercised his summary jurisdiction"；LGS2N L619 "Judicial review is the only avenue of challenge available against M"；LGS2S L481 "Factors include: interests of public justice, seriousness of offence, views of any interested party, the prospects of fair trial"〕 |
+| 10 | 私人检控救济 | 裁判官拒发传票后走 s.104／105／113 MO 上诉 | 【程序代价】三条上诉路**全被否定**（*Kwok Tak Ying*）：签发传票是 ex parte 申请、潜在被告无诉讼地位、不属裁判官"以简易程序裁断事项"——投错门径即程序空转；【制约束缚】唯一途径是**司法复核**；另记：律政司 s.14(1) 可在任何阶段介入接管或终止（s.15 nolle prosequi／撤回／不提证供），私人检控人无权阻挡（para 7(4) 因素） | 〔LGS2N L611 "the issuance of a summons is an ex parte application in which the prospective D has no locus standi"；LGS2N L613 "s. 105 MO cannot be used to appeal a refusal to issue a private summons"；LGS2N L615 "There must be an inter partes hearing over which the M has exercised his summary jurisdiction"；LGS2N L619 "Judicial review is the only avenue of challenge available against M"；LGS2S L481 "Factors include: interests of public justice, seriousness of offence, views of any interested party, the prospects of fair trial"〕 |
 
 **使用口径**：本表各行可在正文对应小节展开——行 1↔§1（同意书清单与两说）；行 2↔§4.1（时效与特例）；行 3–4↔§3.1（五路径与 D-48H）；行 5↔§3.2（duplicity）；行 6↔§4.2（s.27 MO 与 *Lui Tsun Sum*）；行 7↔§5 mermaid＋§5.1 第 1、5 项（R2 与后果定性）；行 8↔§5.1 第 6–8 项；行 9↔§5.1 第 10–11 项；行 10↔§2／§2.1（私人检控与 JR）。库内无明文的两处已登记 open 块 O-12-1／O-12-2。
 
 ---
 
-#### 审计留痕：对齐总表、待核事项与历史修订记录
+## 审计留痕：对齐总表、待核事项与历史修订记录
 
+
+> **§4.2 本节取材**：修改权条文取本届 LGS 3 修订讲义的 s.27 MO 摘录与 *Tse So So* 段，修改时限与 *Lui Tsun Sum* 案情取本届幻灯 Slide 42 及本届讲义 Arrest and Charge 段；所引 Set 3 学生笔记属往届材料，已在括注内标「·往届仅参考」。 〔LGS3R L424 "The Magistrate can also amend the charge of his own volition during the trial under s. 27"；LGS3R L420 "Defects in the Indictment/Charge Sheet can be cured by an amendment"；LGS2S L401 "Charge can be amended any time up until verdict is delivered"〕
 > 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则。
 
 #### 证据链对齐总表（原 §6，原样保留）
@@ -395,7 +396,7 @@ flowchart TD
 | **重叠控罪禁止** | 一罪一告发；duplicitous 控罪**并非作废**、审讯中修改可治愈；可要求进一步详情（R.3(3)） | LGS 2 Slide 44, 45 | LGS 2 讲义 L563–565 · LGS 3 讲义 L422、L448 〔LGS2N L565 "The requirement that a separate complaint / information is required for each offence is called THE RULE AGAINST DUPLICITY"；LGS2S L417 "Separate complaint / information is required for each offence"；LGS3R L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity"〕 | 控罪书起草与瑕疵抗辩 |
 | **6 个月时效** | s.26 MO：自投诉／告发**产生**起 6 个月；逾期裁判官无管辖权；版权 3 年、防贿 1／2 年 | LGS 2 Slide 40 | LGS 2 讲义 L521–531 〔LGS2N L523 "a complaint or information must be laid within 6 months from the time when the complaint or information arose"；LGS2S L378 "S. 26 MO: generally 6 months from the time the complaint or information arose"；LGS2N L523 "a Magistrate has no jurisdiction to deal with the complaint or information"〕 | 诉讼时效法定抗辩 |
 | **控罪修改权力与偏见** | verdict 前可改（*Ng Siu Chau*）；s.27 MO 规范行使方式、以休庭／费用／召回证人为保障；*Lui Tsun Sum* 实质偏见 → 该案定罪被撤销 | LGS 2 Slide 42 | LGS 2 讲义 L555 · LGS 3 讲义 L420–434 · Set 3 笔记 L1557–1565 〔LGS3R L420 "Defects in the Indictment/Charge Sheet can be cured by an amendment"；LGS2S L402 "Suggestion came from M at point of D"；OLD-EXLG L1565 "CA overturned the conviction: the amendments are to be made to secure a conviction"·往届仅参考；D-LTS-FORUM〕 | 本届 SG01 **Q A6**（修订权、阶段与检验标准） |
-| **R&Ds 法律地位与违规后果** | 除原则 (e) 外**不具法律效力**；"may render … liable to be excluded"；按违规**严重性与次数**衡量；排除路径＝非自愿／剩余裁量权 | LGS 2 Slide 31, 32 | LGS 2 讲义 L383–397 · 官方 PDF NOTE 段 〔LGS2N L383 "The R&Ds do not have force of law (except for principle (e)) but are guidelines for law enforcement officers to follow"；LGS2N L397 "substantial and significant breaches could have this result"；📄RD1992 p.1 "Non-conformity with these Rules and Directions may render answers and statements liable to be excluded"〕 | 案中案 Voir Dire 排除口供 |
+| **R&Ds 法律地位与违规后果** | 除原则 (e) 外**不具法律效力**；"may render … liable to be excluded"；按违规**严重性与次数**衡量；排除路径为非自愿／剩余裁量权 | LGS 2 Slide 31, 32 | LGS 2 讲义 L383–397 · 官方 PDF NOTE 段 〔LGS2N L383 "The R&Ds do not have force of law (except for principle (e)) but are guidelines for law enforcement officers to follow"；LGS2N L397 "substantial and significant breaches could have this result"；📄RD1992 p.1 "Non-conformity with these Rules and Directions may render answers and statements liable to be excluded"〕 | 案中案 Voir Dire 排除口供 |
 | **Rule 7 适用对象** | 涵盖 ICAC、海关、入境处等非警务执法人员；**不**适用于保安员、教师、雇主（仍可能为 person in authority） | LGS 2 Slide 31 | LGS 2 讲义 L371–381 · 官方 PDF Rule VII 〔LGS2N L371 "Persons other than police officers charged with the duty of investigating offences or charging offenders"；LGS2N L381 "They do not apply to security guards, teachers, employers"；📄RD1992 p.5 "shall, so far as may be practicable, comply with these Rules"〕 | 非警员讯问之合规审查 |
 | **Rule 2 警诫时机** | 一有合理怀疑（客观测试 *Chiu Wing Kai*）即须警诫并作「合理可行」即时记录；街头逮捕改采 PRCS | LGS 2 Slide 33 | LGS 2 讲义 L411–423 〔LGS2N L411 "as soon as police officers have reasonable grounds for suspecting that a suspect has committed an offence, they must caution that suspect"；LGS2N L423 "has evidence which would afford reasonable grounds for suspecting that a person has committed an offence is an objective one"；LGS2N L415 "This latter statement is called a Post-Recorded Caution Statement"〕 | *Chan Yuk Ling*／*Fung Wing Ching* 迟延警诫之争 |
 | **Rule 3 落案后讯问** | 须依 R3(a) 再次警诫；仅 R3(b) 例外（防止／减少伤害或损失、澄清歧义）；须完整即时书面记录 | LGS 2 Slide 34 | LGS 2 讲义 L425–431 〔LGS2N L427 "Such persons must be immediately cautioned in the manner set out in R3(a)"；LGS2N L429 "to prevent harm to another person or clear up an ambiguity in a previous statement given by that person"；LGS2S L323 "Police can only question post-charge in limited circumstances"〕 | 落案后陈述之可采性 |
