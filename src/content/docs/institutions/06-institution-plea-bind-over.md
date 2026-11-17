@@ -61,7 +61,7 @@ SG课表安排:
 
 **不覆盖（边界声明，由相邻主卡承担）**：① 侦查阶段权利、警诫回应与搜证规制（→ 07 卡）；② 保释制度本体（→ 05 卡）；③ 控罪选择、移交交付与审讯路径（→ 08 卡）；④ 量刑制度全景与起点、求情要素体系（→ 15 量刑卡，本卡只引折扣与缓刑禁区接口）；⑤ 供认争议与审讯中挑战（→ SG07 及 13 卡）；⑥ PCLL8051 认罪求情陈词本件（→ 8051 求情讼辩体系，本卡只供事实与折扣基石）。
 
-### 术语
+### 术语（核心概念与实务运作定义）
 
 | 术语 | 定义与章节 |
 |---|---|
@@ -81,7 +81,7 @@ SG课表安排:
 | 终止检控（Nolle Prosequi） | 律政司司长以书面指示终止诉讼的特权程序；被控人当庭释放，但不构成阻止后续诉讼的绝对屏障（0F）〔L5N L172–L176 "shall not operate as a bar to subsequent proceedings"〕 |
 | 案件留档（Charge Left on File） | 经法官同意、在未答辩且未传证据前把控罪留档不处理的实务惯例；其后符合条件可再激活（0F）〔L5N L180–L182 "A charge can only be left on the file if no plea"〕 |
 
-### 环节定位
+### 环节定位（按程序时序）
 
 | 环节 | 实际操作 |
 |---|---|
@@ -91,7 +91,7 @@ SG课表安排:
 | O.N.E. 信十步 | 把探索性请求写成 DoJ 可按 10.7 审批的文本，且不泄露答辩底线（→ 0G）〔L5N L120 "Your letter requesting an O.N.E. B/O should be addressed to either the"；L5N L126 "You should not reveal your Defence in the O.N.E. Bind Over letter"〕 |
 | PNG＋同意案情 | 合意 ONE 的事实基础如何成立而不成为认罪或定罪（→ 0C.4）〔L5N L108 "plead not guilty but agree the Brief Facts"〕 |
 | 较轻替代认罪路径 | 用证据缺口换较轻入罪，同时以 *Lam Kai Man* 机制保留量刑利益（→ 0D）〔L8N L1002–L1008 "(1) the Defendant should make a clear and unequivocal statement of his"〕 |
-| equivocal 审查 | 拦截「认罪加保留＝没有承认犯罪」的无效认罪；不能用 Newton 绕开（→ 0E）〔L5N L330–L346 "There is a distinction between an “unequivocal” guilty plea and"；L5N L398–L406 "A Newton Inquiry is not appropriate where e.g. the Defendant"〕 |
+| equivocal 审查 | 拦截「认罪加保留并不等于承认犯罪」的无效认罪；不能用 Newton 绕开（→ 0E）〔L5N L330–L346 "There is a distinction between an “unequivocal” guilty plea and"；L5N L398–L406 "A Newton Inquiry is not appropriate where e.g. the Defendant"〕 |
 | Newton 启动 | 认罪但重大事实分歧：先协商修订、何时强制开庭、聆讯结果如何影响量刑（→ 0E）〔L5N L376–L380 "A Newton Hearing / Inquiry is held where there is a disputed"；L5N L390 "Where there is a difference between the Prosecution’s evidence and the factual basis on"〕 |
 | 六种非起诉处置比较 | 把「撤案／不继续」的口径混乱拆成六条后果完全不同的法律路径（→ 0F）〔L5N L158–L200 "If the Prosecution “withdraws” the charge, in theory if new evidence comes"〕 |
 | 折扣定档与缓刑禁区 | 何时认罪值多少、哪些罪不可缓刑——把现实建议锚在阶梯与禁区上（→ 0B.5、0G）〔L8N L980–L986 "a 25% reduction if he pleads guilty before trial dates are fixed;"；L8N L464 "Note: Check Schedule 3 CPO! If the offence is an Excepted Offence,"〕 |
@@ -441,7 +441,7 @@ SG02 的两份计分作业（各 6 分）把本卡的规则压进两封信里：
 5. **审期前改认罪的换庭程序**：不必等原定审讯日、不必在审讯庭认罪——由事务律师立即致函**裁判法院第一法庭书记官（First Clerk of Court）**并抄送控方，申请 "brought up early in Court 1"，说明案情简短、拟改认罪，免除传召证人〔L5S L340–L354 "MC / DC – letter to First Clerk of Court (MC) /"〕。
 6. **认较轻替代罪（AOABH）的四结局沙盘**：结局一控方接受——原罪撤销、按 AOABH 判刑，可评估缓刑或 CSO 但均非必然；结局二拒绝后审讯定原罪——被拒要约无效，无认罪扣减；结局三审讯后定较轻罪——按 *Lam Kai Man* 三因素核折扣（→ 0D.3）；结局四两罪均不成立——彻底无罪，autrefois acquit 保护〔L5N L304 "(1) be convicted of the offence charged (in which case his guilty"；L8N L978–L986 "a 1/3 discount on any term of imprisonment will only be given"；L5S L207–L357 "Possible outcomes if D offers to PG to a lesser offence:"〕。
 7. **伦理题必答**：客户问「你们替我决定是否认罪」——必须明确拒绝代作决定，援引 BC 10.56(a) 声明答辩选择权完全属于客户（→ 0B.1）〔L5S L350 "Remember to answer the ethical question – should lawyer decide on plea?"〕。
-8. **一致性权衡与行动指令**：指出认 AOABH 与自卫抗辩的内在冲突（认罪＝承认使用了非法且不合理的武力）；设答复期限，请客户于指定日期前签署指示确认，事务律师签署〔GLOA L16–L17 "STRUCTURE States/summarizes issues in client centered manner Prioritizes the issues – deals"；L5S L200 "MUST be consistent with D’s case theory (e.g. Nancy Kissel – the"〕。
+8. **一致性权衡与行动指令**：指出认 AOABH 与自卫抗辩的内在冲突（认罪即意味着承认使用了非法且不合理的武力）；设答复期限，请客户于指定日期前签署指示确认，事务律师签署〔GLOA L16–L17 "STRUCTURE States/summarizes issues in client centered manner Prioritizes the issues – deals"；L5S L200 "MUST be consistent with D’s case theory (e.g. Nancy Kissel – the"〕。
 
 ### 0G.3 面谈取指示：O.N.E. 与答辩的结构化清单
 
@@ -496,7 +496,7 @@ SG02 的两份计分作业（各 6 分）把本卡的规则压进两封信里：
 
 ## 0J. 程序失误与违规后果总表
 
-> 把「不做／做错会怎样」集中在一表；图 1 的虚线 warnnode 与各节 ⛓️ 点题行回链本表。【代价】＝直接不利结果；【补救】＝回归之路；库内无明文后果如实标「无明文」并进审计留痕 open 块，不臆造。
+> 把「不做／做错会怎样」集中在一表；图 1 的虚线 warnnode 与各节 ⛓️ 点题行回链本表。【代价】指直接不利结果；【补救】指回归之路；库内无明文后果如实标「无明文」并进审计留痕 open 块，不臆造。
 
 | # | 程序环节 | 不做／做错的情形 | 后果链（代价／门槛／补救） | 依据 |
 |---|---|---|---|---|
@@ -504,16 +504,16 @@ SG02 的两份计分作业（各 6 分）把本卡的规则压进两封信里：
 | 2 | O.N.E. 信内容控制 | 在申请信中泄露答辩防线 | 【代价】without prejudice 收不回信息：控方已掌握辩护方向，谈判破裂后可针对性补强证据链并在审讯反用；唯一例外是客户极明确书面指示，且已发出即不可逆。 | 〔L5N L126 "Although the letter is drafted “without prejudice” it is hard to take back knowledge once acquired!"；L5S L85 "(1) Revealing the defence. Ask yourself these questions:"〕 |
 | 3 | O.N.E. 信轨道控制 | 同封信内混入较轻罪认罪要约 | 【代价】违背本届题面「只探索 ONE」的明令，混同两种处置轨道：作业直接失分，实务上亦使 DoJ 无法按 10.7 单轨审批。【补救】另起轨道、另写文书（0B.3、0F）。 | 〔SGS2 L150 "NOTE: YOU ARE ONLY EXPLORING THE POSSIBILITY OF AN O.N.E. BIND OVER"；SGS2 L148 "You have instructions to write to the DOJ to ask for an"〕 |
 | 4 | O.N.E. 信手笔与附件 | 自称罪行 minor／写作 my client／塞入有害附件 | 【代价】评分指引与讲义点名失分：自定性 minor 显傲慢；"my client" 破坏客户化叙述；有害附件（牧师信儿童坐膝段）被不利解读反噬相称性论证。【补救】剔除并重取客观品格资料（0G.1 步骤 5/9）。 | 〔L5S L96 "(3) Forgetting to state D’s clear record – why is this important?"；L5S L100 "Think carefully – is the letter from the pastor helpful or unhelpful?"；SGS2 L247 "State in the introduction that Mr. / Mrs. / Ms. etc. is"；SGS2 L251 "Review the Prosecution Code carefully – which considerations apply to your client"〕 |
-| 5 | Letter of Advice 作答结构 | 打乱客户提问顺序／漏答／只报最高刑／漏答伦理题 | 【代价】评分硬性失分：往届第一大失分点；不现实长刑期同被点名；伦理题漏答＝客户自主权核心价值缺席。【补救】按 GLOA 逐题设小标题回应（0G.2 步骤 2/3/7）。 | 〔GLOA L16 "STRUCTURE States/summarizes issues in client centered manner Prioritizes the issues – deals"；L5S L352 "Didn’t answer all client’s questions – should answer them in order asked"；L5S L353 "Advised on an unrealistically long sentence"；L5S L350 "Remember to answer the ethical question – should lawyer decide on plea?"〕 |
+| 5 | Letter of Advice 作答结构 | 打乱客户提问顺序／漏答／只报最高刑／漏答伦理题 | 【代价】评分硬性失分：往届第一大失分点；不现实长刑期同被点名；伦理题漏答意味着客户自主权核心价值缺席。【补救】按 GLOA 逐题设小标题回应（0G.2 步骤 2/3/7）。 | 〔GLOA L16 "STRUCTURE States/summarizes issues in client centered manner Prioritizes the issues – deals"；L5S L352 "Didn’t answer all client’s questions – should answer them in order asked"；L5S L353 "Advised on an unrealistically long sentence"；L5S L350 "Remember to answer the ethical question – should lawyer decide on plea?"〕 |
 | 6 | 答辩决定归属 | 律师替客户拍板答辩，或以最高刑／无来源窄刑期引导客户 | 【代价】侵犯客户 complete freedom of choice；诱导下作成之认罪动摇其「深思熟虑知情」性质，可能成为 *Wong Chi Yuk* 类撤回事由的讨论入口。【补救】按 BC 10.56 四步法补课（0B.2、0B.1）。 | 〔L5N L224 "complete freedom of choice in his plea"；L5N L230 "(i) advise the defendant that, if he is not guilty, he should"；L7N L164–L178 "Once the solicitor has thoroughly read and analysed the prosecution"〕 |
-| 7 | 同意案情撮要 | 未逐字审查即同意／客户不愿却仍推进签保 | 【代价】同意的案情可在民事诉讼中作为自认证据对抗被告人；不实案情下无真实同意＝合意 ONE 程序无法成立；拒绝同意不等于只剩 PNG。【补救】先修订措辞（必要时涂黑）；失败则重给答辩意见。 | 〔L5N L130 "Review the wording of the Brief Facts carefully – your client will"；L5N L134–L136 "What if your client refuses to agree the Brief Facts? This is"；L5N L152 "Tip: if facts are being deleted – ensure they are blacked out"〕 |
+| 7 | 同意案情撮要 | 未逐字审查即同意／客户不愿却仍推进签保 | 【代价】同意的案情可在民事诉讼中作为自认证据对抗被告人；不实案情下没有真实同意，合意 ONE 程序便无法成立；拒绝同意不等于只剩 PNG。【补救】先修订措辞（必要时涂黑）；失败则重给答辩意见。 | 〔L5N L130 "Review the wording of the Brief Facts carefully – your client will"；L5N L134–L136 "What if your client refuses to agree the Brief Facts? This is"；L5N L152 "Tip: if facts are being deleted – ensure they are blacked out"〕 |
 | 8 | 较轻罪要约的保全 | 要约未记入记录、未保留原文与指示，或要约与审讯立场矛盾 | 【代价】*Lam Kai Man*：通常须明确、记入法庭记录并始终坚持同一基础；书面例外须 D 证明理由；「两头都要」→ 审后定轻罪时折扣分档收窄。【补救】全套证据化：发送日期、原文、答复、指示记录（0D.3）。 | 〔L8N L1002–L1008 "(1) the Defendant should make a clear and unequivocal statement of his"；L8N L1008–L1014 "(4) In cases where a plea was entered to manslaughter"；L5S L200 "MUST be consistent with D’s case theory (e.g. Nancy Kissel – the"〕 |
-| 9 | 认罪有效性审查 | equivolic plea 照走普通求情流程 | 【代价】附加「若属实即无罪」保留的认罪＝无效认罪风险：法庭绝不可接纳，判刑前随时撤销；用 Newton 绕开＝程序错位。【补救】先作明确性审查与劝告四步法（0B.2）。 | 〔L5N L334 "These should not be accepted by the Court since the Defendant has"；L5N L398–L406 "A Newton Inquiry is not appropriate where e.g. the Defendant denies committing"〕 |
+| 9 | 认罪有效性审查 | equivolic plea 照走普通求情流程 | 【代价】附加「若属实即无罪」保留的认罪存在无效认罪风险：法庭绝不可接纳，判刑前随时撤销；用 Newton 绕开属于程序错位。【补救】先作明确性审查与劝告四步法（0B.2）。 | 〔L5N L334 "These should not be accepted by the Court since the Defendant has"；L5N L398–L406 "A Newton Inquiry is not appropriate where e.g. the Defendant denies committing"〕 |
 | 10 | Newton 启动门槛 | 为无关痛痒的事实、或「根本不认犯罪」的争议贸然申请 Newton | 【代价】迷你审讯＋交叉盘问成本；控方举证后，聆讯过程可能削减认罪折扣（裁量）。【门槛】须有影响量刑的实质事实分歧且法庭不愿按 D 版本判刑；失利本身不等于已裁伪证。 | 〔L5N L378–L380 "dispute of facts relevant to or closely bound up with the ingredients"；L5S L282 "D may lose benefit of 1 /3 discount on GP. Up to"；L5N L398–L406 "A Newton Inquiry is not appropriate where e.g. the Defendant"〕 |
 | 11 | 认罪后事实基础管理 | 把控方 opening／summary 当作已同意事实 | 【代价】实质争议被无证据文本解决；*Cheung Tsz Hong* 上诉庭因此对 counts 1 & 2 撤销定罪。【补救】分清「承认的事实」与「控方单方面陈述」；重大分歧按行 12 提前通知。 | 〔L5N L354 "the J relied on the Prosecution’s Opening and Summary of Facts as a basis for conviction and sentence and these were not ‘evidence’ in the case"〕 |
 | 12 | 量刑事实分歧通告 | 不提前向控方与法庭说明拟认罪的事实基础与分歧 | 【代价】判刑时突然改变基础：程序风险与信任折损，可能被迫在不利条件下 Newton。【补救】按 *Underwood* 原则由辩方主动提示争议区域（0E.3）。 | 〔L5N L390 "Where there is a difference between the Prosecution’s evidence and the factual basis on"〕 |
 | 13 | 定审期后的认罪时点 | 拖延到开审首日或审讯中途才认罪（不用 Brought Up Early） | 【代价】折扣滑落：定审期后至开审前 25%–20% → 开审首日 20% → 审讯中 <20%（*Cheung Tsz Hong* 实得 10%）。【补救】立即致函第一法庭书记官申请 Brought Up Early in Court 1（0G.2 步骤 5）。 | 〔L8N L980–L986 "a 25% reduction if he pleads guilty before trial dates are fixed;"；L8N L1018 "the D was only given a 10% discount"；L5S L340–L354 "MC / DC – letter to First Clerk of Court (MC) /"〕 |
-| 14 | 量刑建议的法定禁区 | 未查 Schedule 3 即向客户评估缓刑可能 | 【代价】向客户承诺法律上不可能的缓刑＝专业失职级误导；s.19 伤人、s.122 猥亵侵犯均在禁区。【补救】先定适当刑罚种类，再按 s.109B 框架评估资格（0B.5）。 | 〔L8N L460–L464 "The Court can impose a suspended Sentence of Imprisonment (“S/S”) under s."；L8N L774–L800 "The following offences are declared to be excepted offences"〕 |
+| 14 | 量刑建议的法定禁区 | 未查 Schedule 3 即向客户评估缓刑可能 | 【代价】向客户承诺法律上不可能的缓刑属于专业失职级误导；s.19 伤人、s.122 猥亵侵犯均在禁区。【补救】先定适当刑罚种类，再按 s.109B 框架评估资格（0B.5）。 | 〔L8N L460–L464 "The Court can impose a suspended Sentence of Imprisonment (“S/S”) under s."；L8N L774–L800 "The following offences are declared to be excepted offences"〕 |
 | 15 | 判后责任 | 定罪判刑后不再会见客户解释结果 | 【代价】违反判后解释义务（BC para. 10.64）；上诉窗口与复核路径（含 *Siu Ying Ming* 的 s.104 复核）可能在沉默中错过。【补救】排期判后会见并考虑刑罚选项、Sch 3 与 s.109A 事项。 | 〔L5N L866 "Where a Defendant has been convicted and sentenced, it is the duty of Defence"；L5N L358–L360 "Recently, the law on reversal of an unequivocal guilty plea was expanded"〕 |
 | 16 | 计分作业交付时点 | 两信未按题令于 SGS FOUR 之前交付 | 【代价】两份计分作业（各 6 分）的交付面风险；统一死线在已读材料无明文 → 审计留痕 open 块 O-DEADLINE。【补救】回 SG02 原题与 Classroom 核对本届实际安排。 | 〔SGS2 L156–L168 "COURSEWORK ASSESSED EXERCISES TO BE HANDED IN PRIOR TO SGS FOUR ON"；MARK L36 "When marking coursework, the marks will range from 0 – 6. Half"〕 |
 
