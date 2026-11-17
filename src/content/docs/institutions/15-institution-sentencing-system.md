@@ -89,7 +89,7 @@ SG课表安排:
 | 赔偿令（compensation order） | 定罪后命被告向受害人赔偿人身伤害或财物损失；与被告自愿赔偿的求情因素不同 | 〔CR8 L288 "Do not confuse this with the Defendant’s offer"〕 |
 | 归还令（restitution order） | 把财物发还予有权管有者（s.84 CPO，DC/CFI） | 〔CR8 L306 "to return property to the person entitled to it"〕 |
 | 刑事破产令（Criminal Bankruptcy Order, CBO） | DC/CFI 罪行造成非人身伤害损失逾 HK$150,000 时附加作出的破产令，不可与赔偿令并存、s.84B 不可单独上诉 | 〔CR8 L346 "a CBO and a Compensation Order cannot be combined"〕 |
-| 讼费（costs, CCCO） | 刑事程序讼费无法定外固有管辖，权源全部来自 Costs in Criminal Cases Ordinance；不随胜败自动归属 | （往届口径，仅参考）〔OLD-LG99 L271 "Golden Rule : Not automatic upon conviction"·往届仅参考〕 |
+| 讼费（costs, CCCO） | 刑事程序讼费无法定外固有管辖，权源全部来自 Costs in Criminal Cases Ordinance；不随胜败自动归属 | 〔OLD-LG99 L271 "Golden Rule : Not automatic upon conviction"·往届仅参考〕 |
 | 失效定罪（spent conviction） | 初犯、刑罚不超3个月或罚款不超$10,000 且3年内无新定罪时定罪转为“spent”，记录仍在并可在量刑时考虑 | 〔CR8 L704 "Spent convictions can be taken into account on sentencing"〕 |
 | 还押折抵（time on remand, s.67A CPO） | 候判羁押期间在计算释放日期时算入；实务由惩教署长计算，法官对法定外期间保留酌情 | 〔CR8 L530 "the court does have a discretion to reduce sentence"〕 |
 | 减刑（remission, r.69 Prison Rules） | 实际服刑超30日者因良好行为可减最多 1/3，终身监禁不适用；国安罪须署长信纳不违国安利益 | 〔CR8 L1371 "eligible for up to a 1/3 remission of his sentence"〕 |
@@ -112,8 +112,8 @@ SG课表安排:
 | 总额检验 | 多罪怎么执行、合计是否 crushing——把逐项答案组装成整体刑罚 | 〔CR8 L182 "Then the overall length of imprisonment may be reduced"〕 |
 | 附加命令 | 充公／没收／赔偿／取消资格是否也被请求或自动跟上——刑罚之外的资产与资格面 | 〔CR8 L334 "if no such application is made, then the court has no power to order confiscation"〕 |
 | 执行与记录 | 还押折抵、remission、spent 怎么落——判后实际服刑与记录面 | 〔CR8 L1371 "eligible for up to a 1/3 remission of his sentence"；CR8 L700 "The conviction is not erased but remains on their record"〕 |
-| 讼费 | 控方会否索费（s.12 CCCO 特殊情状）、辩方保住已支出费用（无罪／部分无罪）——金钱后果面 | （往届口径，仅参考）〔OLD-LG99 L271 "Not automatic upon conviction"·往届仅参考〕 |
-| 上诉互动 | 判词有没有可上诉的错误、28日／21日时限、败诉风险——判后救济评估 | （往届口径，仅参考）〔OLD-EXA L110 "within 28 days of sentencing"·往届仅参考〕 |
+| 讼费 | 控方会否索费（s.12 CCCO 特殊情状）、辩方保住已支出费用（无罪／部分无罪）——金钱后果面 | 〔OLD-LG99 L271 "Not automatic upon conviction"·往届仅参考〕 |
+| 上诉互动 | 判词有没有可上诉的错误、28日／21日时限、败诉风险——判后救济评估 | 〔OLD-EXA L110 "within 28 days of sentencing"·往届仅参考〕 |
 
 
 <!-- BEGIN:cite-legend -->
@@ -242,7 +242,7 @@ CSO通常须年满14、有适合报告及同意；最长240小时，在最多12�
 
 ### 0A.5 缓刑必须先回答是否应判监
 
-法庭先定适当监禁，再考虑缓刑；不能为了避免即时收监而先决定缓刑再倒推刑期。s.109B及Schedule3排除需核到具体罪名，例如s.19与s.122在本届附表摘录，s.39并未列出。**不能缓刑不等于必须判监**：刑罚类型的第一步仍须独立分析。〔CR8 L460–L468 "The Court can impose a suspended Sentence of Imprisonment (“S/S”)"〕〔CR8 L774–L800 "The following offences are declared to be excepted offences—"〕
+法庭先定适当监禁，再考虑缓刑；不能为了避免即时收监而先决定缓刑再倒推刑期。s.109B及Schedule 3（excepted offences）排除需逐罪核对——**不可缓刑的高频例外罪**包括：伤人／造成身体伤害类（Offences Against the Person Ordinance s.17 wounding、s.19 GBH）、性罪行（如非礼 indecent assault）、抢劫 robbery、藏有攻击性武器 offensive weapons 等暴力与侵害人身罪名；**极易误判的反面清单**：AOABH（Cap. 212 s.39 袭击致造成身体伤害）、普通盗窃 theft、普通入屋犯法 burglary、刑事毁坏 criminal damage **均不属例外罪行**——被告就这些罪名判监不超过 2 年时仍可考虑缓刑。课程摘录中 s.19、s.122 在列而 s.39 未列，正是这一正反分界的考点。**不能缓刑不等于必须判监**：刑罚类型的第一步仍须独立分析。〔CR8 L460–L468 "The Court can impose a suspended Sentence of Imprisonment (“S/S”)"〕〔CR8 L774–L800 "The following offences are declared to be excepted offences—"〕
 
 缓刑仍属监禁刑罚，operational period内再犯等可能涉及启动。不要告诉客户是“没有坐牢记录”或把缓刑与ONE混同；后者不作该罪定罪，法律性质不同。〔CR8 L466–L468 "Conditions may be imposed in passing a S/S. A S/S"〕〔CR5 L108–L110 "An O.N.E. B/O is not a conviction. It is an"〕
 
@@ -250,7 +250,7 @@ CSO通常须年满14、有适合报告及同意；最长240小时，在最多12�
 
 不同规则可能看犯罪、定罪或判刑时年龄；刑事责任、罪责和可入某设施的资格不完全同一问题。把生日、犯罪日、定罪/判刑日列入事实表，回到具体法条文字，不能只写“现在20岁”。〔CR8 L718–L746 "Under the JOO, a ‘child’ is a person under the"〕
 
-s.109A对16至未满21岁的监禁提出先考虑其他适当方法的要求；须与excepted offences及相关规则结合，不能称绝对不得判监。即使属excepted offence，亦不禁止法院为了量刑判断取报告；同样，不为显然不适合的方案无目的索取所有报告。〔CR8 L764–L806 "S. 109A CPO: SENTENCING YOUNG OFFENDERS"〕
+s.109A CPO 对 16 至未满 21 岁者判处监禁设有法定限制：法院在决定判监前须先考虑其他适当的刑罚方法（probation、community service order、bind over 等），其立法意图是青少年监禁应属例外而非默认——但它**不是绝对禁止判监**：若个案严重或其他方法确不适当，法院仍可判监，且须在判词中说明为何未能采用替代方法。它与 Schedule 3 excepted offences 的关系是叠加而非互斥：属例外罪行者连缓刑这条"先判监再缓执行"的中间路径也被封死，只剩直接监禁与更生设施的选择。即使属excepted offence，亦不禁止法院为了量刑判断取报告；同样，不为显然不适合的方案无目的索取所有报告。〔CR8 L764–L806 "S. 109A CPO: SENTENCING YOUNG OFFENDERS"〕
 
 ### 0A.7 报告、押后与候判保释
 
@@ -548,6 +548,8 @@ flowchart TD
 
 先定各罪正确刑罚，**再**因总额减总和——确保不因同一罪行重复受罚、总刑期不致“crushing”；*Ngai Yiu-ching*：“the importance of the totality principle cannot be overstated”〔CR8 L176–L184 "should reflect the ‘totality’ of the Defendant’s criminality"〕。**已在服刑**：为不相关罪行服刑中者，新罪判刑同样适用 totality（*Lin Chi Man* [2024] 3 HKLRD 83）〔CR8 L184 "already serving a sentence of imprisonment for an unrelated offence"〕。未决案件（outstanding cases）可先向控方查明，必要时押后同场处理以保一致性与 totality 适用〔CR8 L138 "cases before other courts which are currently pending"〕。
 
+**算术示例（自拟）**：被告两罪分别经起点与折扣后应判 2 年——若法院认为两罪事实关联但各自独立增加罪责，可判"1 年并立＋1 年连续"（即其中一年与另罪同时起算、一年刑满后才开始），实际执行合共 3 年而非 4 年；若两罪属同一交易且罪责轻微，则可全部并立、实际只服较长的 2 年。总额检验的落点永远是"实际执行年限"而非"判词上的年数相加"——这正是求情时必须正面计算并陈述的数字。
+
 ### 0G.3 T.I.C.（一并考虑）
 
 把被告承认的他罪纳入考量而不另行定罪，可比未计 T.I.C. 时判得较高〔CR8 L188 "the Defendant has admitted to committing"〕。
@@ -715,44 +717,49 @@ flowchart TD
 ### 0K.1 框架：CCCO 的适用面与总原则
 
 - **权源**：刑事讼费**无固有管辖**，必须出自成文法——CCCO〔OLD-EXC L14 "No inherent jurisdiction to award costs in criminal cases"·往届仅参考〕（Costs in Criminal Cases Ordinance，**Cap. 492**，1997-01-17 施行；章号库内曾两说并列——SG7C 已考：作 Cap. 494 者仅往届官方答案与 Set 1 学生笔记，按分层取 Cap. 492）〔OLD-LG99 L20–L33 "Costs in Criminal Cases Ordinance, Cap. 492"·往届仅参考〕。
-- **时际**：只适用于 1997-01-17 后所犯罪行的程序（s.25；看控罪书罪行日非审讯日：*Heung Chin Tong*）（往届口径，仅参考）〔OLD-LG99 L22–L27 "Came into operation on 17 January 1997"·往届仅参考〕。
-- **CFA**：CCCO 不及 CFA；CFA 讼费由 s.43 HKCFAO 管，但 CCCO 一般原则仍适用（*Egan*）（往届口径，仅参考）〔OLD-LG99 L31–L33 "CCCO does not apply to the Court of Final Appeal"·往届仅参考〕。
-- **流产审讯**：陪审团解散的 aborted trial 不属“is not tried for the offence”（s.4）——该阶段无讼费管辖（*Chen Keen*，CA 撤销、CFA 维持）（往届口径，仅参考）〔OLD-LG99 L39–L42 "An aborted trial (jury discharge) does not fall within"·往届仅参考〕。
-- **s.15 总原则**：讼费随事件结果（无罪释放被告得费）；非惩罚而属补偿（indemnity principle）；须在支付能力之内（往届口径，仅参考）〔OLD-LG99 L47–L50 "Costs follow the event (costs to D on acquittal)"·往届仅参考〕。
+- **时际**：只适用于 1997-01-17 后所犯罪行的程序（s.25；看控罪书罪行日非审讯日：*Heung Chin Tong*）〔OLD-LG99 L22–L27 "Came into operation on 17 January 1997"·往届仅参考〕。
+- **CFA**：CCCO 不及 CFA；CFA 讼费由 s.43 HKCFAO 管，但 CCCO 一般原则仍适用（*Egan*）〔OLD-LG99 L31–L33 "CCCO does not apply to the Court of Final Appeal"·往届仅参考〕。
+- **流产审讯**：陪审团解散的 aborted trial 不属“is not tried for the offence”（s.4）——该阶段无讼费管辖（*Chen Keen*，CA 撤销、CFA 维持）〔OLD-LG99 L39–L42 "An aborted trial (jury discharge) does not fall within"·往届仅参考〕。
+- **s.15 总原则**：讼费随事件结果（无罪释放被告得费）；非惩罚而属补偿（indemnity principle）；须在支付能力之内〔OLD-LG99 L47–L50 "Costs follow the event (costs to D on acquittal)"·往届仅参考〕。
 
 ### 0K.2 辩方讼费（无罪／部分无罪）
 
-- **MC 四种情形（s.3(1)）**：不提呈／中止、撤销或无罪释放等；上限 $30,000 或评定（s.3(2)）；测试沿 *Kwok Moon-yan*（往届口径，仅参考）〔OLD-LG99 L54–L60 "HK$30,000 (unless agreed) or taxation"·往届仅参考〕。
-- **一般规则**（*Chan Kam Ching*，FACC）：无罪释放后通常判给讼费，**除有正面理由**——最常见是被告自招嫌疑（行为可在调查或审讯中，亦可在此之前而构成检控背景）；但**不得**以与无罪裁决相悖的方式行使裁量——**永不可**以“本应定罪”为由拒费（往届口径，仅参考）〔OLD-LG99 L185–L205 "the court normally makes a costs order in favour of the accused"·往届仅参考〕。
-- **可拒费的五类理由**（嘉宾讲稿整理）：自招嫌疑；误导控方高估案情；证据充分却因无实质技术理由脱罪（*Ronacrete*／*Tse Mui Chun*，且不违反无罪推定 *Tsang Wai Ping*）；有可及早提出的良好解释而迟迟不提（*Tsang Chiu Hung*——以实体是非抗辩者不因此而失费；以管辖或程序欠妥为据者可拒）；获奖将“affront to the administration of justice”（*Wong Tak Keung*／*Chan Yau Hei*）（往届口径，仅参考）〔OLD-LG99 L64–L97 "Costs be awarded on acquittal unless"·往届仅参考〕。
-- **撤回控罪的讼费**（*Lam Chiu Fong (No 2)*／*Chan Hok Pan* 五步）：可看撤回理由、拟议证据强度、独立来源证据、不争议的行为印记；不宜因讼费申请另开证据聆讯；控方须预期申请并备理据（往届口径，仅参考）〔OLD-LG99 L145–L180 "It is not desirable that court lists be clogged"·往届仅参考〕。
-- **部分无罪**：可就撤销之罪依 s.6 申请，但有正面理由可拒（*Chow Chi Wai*：定罪罪事实同时构成对脱罪罪的嫌疑；*梁玥晴*：无论如何都须传召的证据）（往届口径，仅参考）〔OLD-LG99 L233–L237 "subject to argument of “existence of positive reasons"·往届仅参考〕。
-- **程序（Hui Yui Sang, CFA）**：无罪裁决后辩方应即时表示是否申请；控方须表明是否反对及所据事实；双方应即场备妥陈词；法官须精确说明裁量理由与所依事实（往届口径，仅参考）〔OLD-LG99 L219–L229 "Immediately after a not guilty verdict is delivered"·往届仅参考〕。
-- **迟申请**：法院“loath to entertain”；额外聆讯的 wasted costs 或可抵销所得（往届口径，仅参考）〔OLD-LG99 L241–L250 "loath to entertain such application"·往届仅参考〕。
-- **金额面**：亲身诉讼被告只得收入损失与交通费（*Li Koi-hop*）；辩方讼费**不含**与拘捕相关及附随费用（*Stephen Chan*）（往届口径，仅参考）〔OLD-LG99 L209–L215 "only entitled to his loss of income and travelling expenses"·往届仅参考；OLD-LG99 L403–L405 "does NOT include costs related to and incidental to the arrest"·往届仅参考〕。
+- **MC 四种情形（s.3(1)）**：不提呈／中止、撤销或无罪释放等；上限 $30,000 或评定（s.3(2)）；测试沿 *Kwok Moon-yan*〔OLD-LG99 L54–L60 "HK$30,000 (unless agreed) or taxation"·往届仅参考〕。
+- **一般规则**（*Chan Kam Ching*，FACC）：无罪释放后通常判给讼费，**除有正面理由**——最常见是被告自招嫌疑（行为可在调查或审讯中，亦可在此之前而构成检控背景）；但**不得**以与无罪裁决相悖的方式行使裁量——**永不可**以“本应定罪”为由拒费〔OLD-LG99 L185–L205 "the court normally makes a costs order in favour of the accused"·往届仅参考〕。
+- **可拒费的五类理由**（无罪释放后法院仍可凭"positive reason"拒绝判给讼费；每一类都须由控方／法庭正面论证，辩方逐项拆招）：
+  (1) **自招嫌疑（incrimination）**：被告在调查或审讯阶段的言行足以令一名理性侦探合理怀疑其有罪——例如案发后自认参与、提供与证据吻合的细节、企图转移赃物。法院看的是"言行本身是否构成检控背景"，而非被告后来是否被定罪；此理由最常见也最难反驳，因为它与无罪裁决并不冲突。
+  (2) **误导控方高估案情**：被告或其代表作出足以令控方误判证据强度的陈述或行为（如虚假不在场证明、隐瞒关键事实致控方坚持检控），使控方耗费本不必要的讼费。
+  (3) **证据充分却无实质理由脱罪**：控方证据强到即使被告全盘否认仍足以定罪，被告却因纯技术或程序理由（如某证据形式瑕疵）获释——*Ronacrete*／*Tse Mui Chun* 一类；但此理由不得违反无罪推定（*Tsang Wai Ping*）：只要控方未能排除合理怀疑，被告不认罪本身不是"无实质理由"。
+  (4) **有可及早提出的良好解释而迟迟不提**：*Tsang Chiu Hung* 的分界线是本卡最常考的点——若被告留到正审才提出一个**实体是非**抗辩（即对指控本身的有罪／无罪解释，如不在场、不知情），他行使 silence 与否不影响讼费；反之，若其一直依赖**管辖权或程序技术硬伤**（如搜查令欠妥、管辖异议）拖延至正审才突袭，即使该抗辩最终成立，法院仍可认定其本可早日提出、令控方白白耗费讼费而拒判费用。区分标准是"抗辩的性质"而非"提出的早晚"本身。
+  (5) **判给讼费将"affront to the administration of justice"**：*Wong Tak Keung*／*Chan Yau Hei*——在极端个案中，判给费用会对司法公正造成冒犯（例如被告行为虽构成检控背景但情节轻微、或控方程序本身有瑕疵），法院可拒。此为兜底且罕用的裁量。
+- **撤回控罪的讼费**（*Lam Chiu Fong (No 2)*／*Chan Hok Pan* 的分析框架）：控方中途撤控时，被告是否应得讼费不能只看"赢了"，而要还原撤控当时的信息状态——因为控方撤控时**尚未经过正审盘问**，法院手上没有证人证言可供全面衡量，只能在不另开证据聆讯的前提下（否则会令 court lists be clogged、堵塞排期）作出费用裁量。故法庭按五步考察：(i) **撤回理由**——是证据不足、证人失踪、法律技术问题还是策略性改控？理由越接近"本不该检控"，越倾向判费；(ii) **拟议证据的强度**——控方原本准备出庭的证据若明显薄弱，说明检控欠缺基础；(iii) **是否有独立来源证据**——除被告口供或程序瑕疵外，控方是否另有不依赖被告的客观证据链支撑其原有立场；(iv) **双方无争议的客观事实与被告行为表现**——如被告案发后的即时反应、合作程度、有无自招嫌疑；(v) **程序公平**——控方是否须预期辩方会申请讼费而事先备妥理由。五步合观：若撤控源于控方证据基础本身就不足，法院倾向判给被告费用；若撤控只是策略调整且证据仍强，被告自招嫌疑的风险则可能抵销。控方在撤控时务必预期费用申请并备好理据，否则只能在信息不全的情况下被动应对。
+- **部分无罪**：可就撤销之罪依 s.6 申请，但有正面理由可拒（*Chow Chi Wai*：定罪罪事实同时构成对脱罪罪的嫌疑；*梁玥晴*：无论如何都须传召的证据）〔OLD-LG99 L233–L237 "subject to argument of “existence of positive reasons"·往届仅参考〕。
+- **程序（Hui Yui Sang, CFA）**：无罪裁决后辩方应即时表示是否申请；控方须表明是否反对及所据事实；双方应即场备妥陈词；法官须精确说明裁量理由与所依事实〔OLD-LG99 L219–L229 "Immediately after a not guilty verdict is delivered"·往届仅参考〕。
+- **迟申请**：法院“loath to entertain”；额外聆讯的 wasted costs 或可抵销所得〔OLD-LG99 L241–L250 "loath to entertain such application"·往届仅参考〕。
+- **金额面**：亲身诉讼被告只得收入损失与交通费（*Li Koi-hop*）；辩方讼费**不含**与拘捕相关及附随费用（*Stephen Chan*）〔OLD-LG99 L209–L215 "only entitled to his loss of income and travelling expenses"·往届仅参考；OLD-LG99 L403–L405 "does NOT include costs related to and incidental to the arrest"·往届仅参考〕。
 
 ### 0K.3 控方讼费（定罪后）
 
-- **条文**：Part III CCCO——s.11（简易程序）／s.12（可公诉罪；SG7C 标注本案适用面）（往届口径，仅参考）〔OLD-LG99 L268–L272 "Not automatic upon conviction"·往届仅参考〕。
-- **金科玉律**：**绝不随定罪自动产生**——须有特殊情况（控方支出超出通常程序之费用：*Chan Chor*）。*Chan Kwok-wah*：并非每个定罪被告都须付费；控方举证是被告的基本宪法性权利，因不认罪而被罚费＝间接剥夺该权利；须找“特殊情况”——故意刁难证人、故意拖延、坚持证明显然／无可争议的琐事（往届口径，仅参考）〔OLD-LG99 L272–L280 "Not every defendant who was convicted was required to pay costs"·往届仅参考〕。*Yuen Ming-sing*：不应让被告受“败则付费”的威吓；但无理拖延审讯者可恰当付〔OLD-LG99 L284–L288 "not worded in a manner that costs should automatically follow the event"·往届仅参考〕。*Man Chai Wah*：被告有权要控方证明案件；**仅例外情况**应付费〔OLD-LG99 L332–L338 "It is only in exceptional circumstances"·往届仅参考〕。
-- **认罪者**：*Chan Kwok-hung*——认罪后判费非正常；只有被告处理调查／检控构成**滥用**致控方产生本不必要的额外费用时方可（$40,000 因无依据被撤）（往届口径，仅参考）〔OLD-LG99 L305–L315 "should not normally be made"·往届仅参考〕。
-- **亲身诉讼**：以琐碎不负责任方式进行辩护不因无律师指导而豁免——但行使宪法性举证权利不因 LIP 而被罚（往届口径，仅参考）〔OLD-LG99 L298–L301 "not entitled to unlimited use of the limited resources"·往届仅参考〕。
-- **金额**：s.11(2)——$30,000 或评定；**必须顾及被告财力**（*Harkishindas*；*Wai Sau-cheong* $3,000→$500）；不含执法机关侦查／拘捕费用（*Lui Kin Hong*）；法援者 s.16：(1) DLA 不付控方讼费、(2) 除 (3) 外法援被告不付（往届口径，仅参考）〔OLD-LG99 L380–L393 "MUST HAVE REGARD TO D’S MEANS"·往届仅参考〕。
-- **“incurred by him”（s.15(a)）**：由第三人代付也可获补偿——看被告是否最终负责（*Miller & Glennie*；*Lam Lai Wah* 三步，雇主／保险公司／亲属代付场景）（往届口径，仅参考）〔OLD-LG99 L415–L434 "responsible or liable for the costs"·往届仅参考〕。
+- **条文**：Part III CCCO——s.11（简易程序）／s.12（可公诉罪；SG7C 标注本案适用面）〔OLD-LG99 L268–L272 "Not automatic upon conviction"·往届仅参考〕。
+- **金科玉律**：**绝不随定罪自动产生**——须有特殊情况（控方支出超出通常程序之费用：*Chan Chor*）。*Chan Kwok-wah*：并非每个定罪被告都须付费；控方举证是被告的基本宪法性权利，因不认罪而被罚费＝间接剥夺该权利；须找“特殊情况”——故意刁难证人、故意拖延、坚持证明显然／无可争议的琐事〔OLD-LG99 L272–L280 "Not every defendant who was convicted was required to pay costs"·往届仅参考〕。*Yuen Ming-sing*：不应让被告受“败则付费”的威吓；但无理拖延审讯者可恰当付〔OLD-LG99 L284–L288 "not worded in a manner that costs should automatically follow the event"·往届仅参考〕。*Man Chai Wah*：被告有权要控方证明案件；**仅例外情况**应付费〔OLD-LG99 L332–L338 "It is only in exceptional circumstances"·往届仅参考〕。
+- **认罪者**：*Chan Kwok-hung*——认罪后判费非正常；只有被告处理调查／检控构成**滥用**致控方产生本不必要的额外费用时方可（$40,000 因无依据被撤）〔OLD-LG99 L305–L315 "should not normally be made"·往届仅参考〕。
+- **亲身诉讼**：以琐碎不负责任方式进行辩护不因无律师指导而豁免——但行使宪法性举证权利不因 LIP 而被罚〔OLD-LG99 L298–L301 "not entitled to unlimited use of the limited resources"·往届仅参考〕。
+- **金额**：s.11(2)——$30,000 或评定；**必须顾及被告财力**（*Harkishindas*；*Wai Sau-cheong* $3,000→$500）；不含执法机关侦查／拘捕费用（*Lui Kin Hong*）；法援者 s.16：(1) DLA 不付控方讼费、(2) 除 (3) 外法援被告不付〔OLD-LG99 L380–L393 "MUST HAVE REGARD TO D’S MEANS"·往届仅参考〕。
+- **“incurred by him”（s.15(a)）**：由第三人代付也可获补偿——看被告是否最终负责（*Miller & Glennie*；*Lam Lai Wah* 三步，雇主／保险公司／亲属代付场景）〔OLD-LG99 L415–L434 "responsible or liable for the costs"·往届仅参考〕。
 
 ### 0K.4 上诉谈了费（双方）
 
-- **s.13 CCCO**：上诉败方付控方费——**不随败诉自动**；测试是上诉“was or is without merit”（**not reasonably arguable**）；法官须按 s.15 考虑金额（补偿性＋公正合理）；控方须提供估算；**被告须获机会**就应否判费（liability）与负担能力（quantum）陈词（*Chui Shu Shing*）（往届口径，仅参考）〔OLD-LG99 L342–L376 "“without merit” means the appeal is not reasonably arguable"·往届仅参考〕。
-- **without merit 的样态**：上诉只是把审讯论点重提（*Poon Chi-hung*）；纯事实重审；不获采纳的“错误指导”指控；全无 merit 形迹者（往届口径，仅参考）〔OLD-LG99 L349–L364 "raised the same points in the appeal that he has raised previously"·往届仅参考〕。
-- **辩方得上诉费**：成功撤销定罪时可得；可因多提不成立理由耗时而扣减（*趙鳳娟*／*Ng Shui Lun*）（往届口径，仅参考）〔OLD-LG99 L254–L264 "本庭認為不應行使酌情權"·往届仅参考〕。
+- **s.13 CCCO**：上诉败方付控方费——**不随败诉自动**；测试是上诉“was or is without merit”（**not reasonably arguable**）；法官须按 s.15 考虑金额（补偿性＋公正合理）；控方须提供估算；**被告须获机会**就应否判费（liability）与负担能力（quantum）陈词（*Chui Shu Shing*）〔OLD-LG99 L342–L376 "“without merit” means the appeal is not reasonably arguable"·往届仅参考〕。
+- **without merit 的样态**：上诉只是把审讯论点重提（*Poon Chi-hung*）；纯事实重审；不获采纳的“错误指导”指控；全无 merit 形迹者〔OLD-LG99 L349–L364 "raised the same points in the appeal that he has raised previously"·往届仅参考〕。
+- **辩方得上诉费**：成功撤销定罪时可得；可因多提不成立理由耗时而扣减（*趙鳳娟*／*Ng Shui Lun*）〔OLD-LG99 L254–L264 "本庭認為不應行使酌情權"·往届仅参考〕。
 
 ### 0K.5 Wasted costs（s.18）与 s.17
 
-- **对象**：针对法律或其他代表**个人**；定义：一方因代表（或其雇员）**严重不当作为或不作为**、**不当拖延或其他严重失当行为**而招致的、事发后认为不应由该方承担的费用（往届口径，仅参考）〔OLD-LG99 L493–L505 "any seriously improper act or omission"·往届仅参考〕。
-- **排除**：不适用于上诉委员会或 CFA（s.2 定义只含 MC/DC/CFI/CA）（往届口径，仅参考）〔OLD-LG99 L509–L512 "Does not apply to Appeal Committee or CFA"·往届仅参考〕。
-- **程序**：作出前须给代表合理机会陈词（s.18(2)）；政府律师被命令则由政府收入支付（s.18(6)）；须兼顾对抗制下无畏讼辩的利益（s.18(3)）；须定明确数额，不得交评定（往届口径，仅参考）〔OLD-LG99 L516–L524 "a reasonable opportunity to appear before the court"·往届仅参考〕。
-- **门槛**：*Medcalf*——最后手段；有法律专业特权约束其答辩时，须极其谨慎；*Tam Yi Chun*——提出经验律师应知不成立的上诉理由本身**不是**严重不当；*Mark Sutherland*——比民事与英国更高的门槛：针对个人的 draconian 命令，只限严重不当行为或严重失当，失误判断不足（往届口径，仅参考）〔OLD-LG99 L554–L637 "It is a last resort."·往届仅参考〕。
-- **s.17（不必要或不正当作为所致费用）**：无须严重不当——凡案件若处理妥当就不会发生的作为或不作为（*Denning*；*Au Yeung Lai Hung* 采用）；“as a result of”须因果关系（往届口径，仅参考）〔OLD-LG99 L484–L490 "A causal link is required"·往届仅参考〕。
+- **对象**：针对法律或其他代表**个人**；定义：一方因代表（或其雇员）**严重不当作为或不作为**、**不当拖延或其他严重失当行为**而招致的、事发后认为不应由该方承担的费用〔OLD-LG99 L493–L505 "any seriously improper act or omission"·往届仅参考〕。
+- **排除**：不适用于上诉委员会或 CFA（s.2 定义只含 MC/DC/CFI/CA）〔OLD-LG99 L509–L512 "Does not apply to Appeal Committee or CFA"·往届仅参考〕。
+- **程序**：作出前须给代表合理机会陈词（s.18(2)）；政府律师被命令则由政府收入支付（s.18(6)）；须兼顾对抗制下无畏讼辩的利益（s.18(3)）；须定明确数额，不得交评定〔OLD-LG99 L516–L524 "a reasonable opportunity to appear before the court"·往届仅参考〕。
+- **门槛**：*Medcalf*——最后手段；有法律专业特权约束其答辩时，须极其谨慎；*Tam Yi Chun*——提出经验律师应知不成立的上诉理由本身**不是**严重不当；*Mark Sutherland*——比民事与英国更高的门槛：针对个人的 draconian 命令，只限严重不当行为或严重失当，失误判断不足〔OLD-LG99 L554–L637 "It is a last resort."·往届仅参考〕。
+- **s.17（不必要或不正当作为所致费用）**：无须严重不当——凡案件若处理妥当就不会发生的作为或不作为（*Denning*；*Au Yeung Lai Hung* 采用）；“as a result of”须因果关系〔OLD-LG99 L484–L490 "A causal link is required"·往届仅参考〕。
 
 **SG07 讼费争点的落位**：法官说本应认罪，未指明额外费用或特殊诉讼行为。先撤令；金额、财力及法援是另层。客户称现金是积蓄，题书未裁定财力。〔S7 L108 "I also order you to pay the Prosecution’s costs."〕；A4.3。
 
@@ -766,20 +773,20 @@ flowchart TD
 
 适用 SG07 A4.1：从判词明确采用的事实与理由倒推可上诉错误。 ^sg07-sentence-appeal
 
-- **排除**：法定刑（如成年谋杀终身）不得上诉该刑罚；“shall be sentenced to…”＝固定／强制不可上诉；“shall be liable to…”＝酌情可上诉（往届口径，仅参考）〔OLD-EXA L103 "‘Shall be sentenced to …’: Fixed / mandatory sentence"·往届仅参考〕。
+- **排除**：法定刑（如成年谋杀终身）不得上诉该刑罚；“shall be sentenced to…”＝固定／强制不可上诉；“shall be liable to…”＝酌情可上诉〔OLD-EXA L103 "‘Shall be sentenced to …’: Fixed / mandatory sentence"·往届仅参考〕。
 - **许可**：s.83I CPO——刑期上诉**须上诉庭许可**（权利本身在 s.83G：SG7C 已考两条文分工）〔OLD-EXA L104 "Leave from CA is required to appeal against sentence"·往届仅参考；CR10 L543 "leave of the CA is required to appeal against sentence"〕。
 - **五型理由**（往届框架）：① **not justified in law**（超出法院权限，罕见）；② **wrong in principle**（刑种错误，如本应感化／CSO 却判监）；③ **manifestly excessive**（*Yao William*：不止“长了一点”；看总刑是否与全部罪责不成比例至 crushing）；④ **wrong factual premise**（以证据外事实或不相关因素量刑——SG07 “serial burglar／came to Hong Kong to offend”正落此型）；⑤ **significant alteration in circumstances**（判罚后指引下调可受惠 *Seabrook*；判后协助当局 *Yau Kwok Yin*）〔OLD-EXA L106 "Judge sentenced on the basis of facts that were not in evidence"·往届仅参考〕。
-- **CA 权力**：撤销并改判（不超过原审法院权限）、加重或减轻、驳回（往届口径，仅参考）〔OLD-EXA L105 "Quash the sentence and substitute another sentence"·往届仅参考〕。
-- **程序**：Form XI（许可类）／Form VIII（定罪纯法律问题）；单一上诉庭法官批许可；拒后 **14 日**内向全庭 renew（往届口径，仅参考）〔OLD-EXA L111 "within 14 days of the refusal"·往届仅参考〕。
-- **时限（s.83Q）**：双方均 28 日；**判刑迟于定罪逾 7 日者**，定罪与刑期上诉自判刑日起计——SG07 案：定罪 2026-10-19、判刑 2026-11-09（隔 21 日>7 日）→ 自 2026-11-09 起计 28 日〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考；S7 L108 "the sentencing hearing on 9th November 2026"〕；逾期可申请延长（不得包装成 renew——*Kalawila*）（往届口径，仅参考）〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考〕。
+- **CA 权力**：撤销并改判（不超过原审法院权限）、加重或减轻、驳回〔OLD-EXA L105 "Quash the sentence and substitute another sentence"·往届仅参考〕。
+- **程序**：Form XI（许可类）／Form VIII（定罪纯法律问题）；单一上诉庭法官批许可；拒后 **14 日**内向全庭 renew〔OLD-EXA L111 "within 14 days of the refusal"·往届仅参考〕。
+- **时限（s.83Q）**：双方均 28 日；**判刑迟于定罪逾 7 日者**，定罪与刑期上诉自判刑日起计——SG07 案：定罪 2026-10-19、判刑 2026-11-09（隔 21 日>7 日）→ 自 2026-11-09 起计 28 日〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考；S7 L108 "the sentencing hearing on 9th November 2026"〕；逾期可申请延长（不得包装成 renew——*Kalawila*）〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考〕。
 - **理由门槛**：arguable——PD 4.2《刑事上诉》para 5 与 Bar Code 10.24（不可成立理由可被颁废讼费）（SG7C 登记）〔CR10 L631 "PD 4.2, Criminal Appeals to the CA"〕。
-- **风险**：无 merit 者可遭**加刑**或 **loss of time**（s.83W：上诉期羁押不计入刑期）；标准＝total lack of merit；无律师亦可作（*Wong Chun Yin & Muhammad Shehbaz* 各 4 周）；renew 可再加；**尽早弃**：Form VII（r.39 CAR），勿等聆讯日（往届口径，仅参考）〔OLD-EXA L124–L126 "A total lack of merit"·往届仅参考〕。
-- **上诉保释**：大部分刑期将于上诉聆讯前服毕、或上诉有实质 merit 二选一；实质 merit 为首要考虑（*Lau Man Kin*）（往届口径，仅参考）〔OLD-EXA L134 "Overriding consideration is whether the appeal has substantial merit"·往届仅参考〕。
+- **风险**：无 merit 者可遭**加刑**或 **loss of time**（s.83W：上诉期羁押不计入刑期）；标准＝total lack of merit；无律师亦可作（*Wong Chun Yin & Muhammad Shehbaz* 各 4 周）；renew 可再加；**尽早弃**：Form VII（r.39 CAR），勿等聆讯日〔OLD-EXA L124–L126 "A total lack of merit"·往届仅参考〕。
+- **上诉保释**：大部分刑期将于上诉聆讯前服毕、或上诉有实质 merit 二选一；实质 merit 为首要考虑（*Lau Man Kin*）〔OLD-EXA L134 "Overriding consideration is whether the appeal has substantial merit"·往届仅参考〕。
 
 ### 0L.2 律政司复核与裁判法院路径（接口级）
 
-- **SJ review of sentence（s.81A CPO）**：律政司司长对 MC/DC/CFI 任何判罚（法定刑除外）申请复核——须许可、门槛高（wrong in principle／manifestly inadequate／manifestly excessive／not authorised by law）；判决 21 日内书面提出；CA完成可：不改／撤销／改判任何应判刑罚；惯例上 CA 加刑时给“上诉加刑折扣”或以已服大部分而不插手（*Yan Shen*）；被告已上诉定罪／已申请 s.104 review／s.105 案件呈述者不得复核（撤回或处置后除外；s.81C 可与被告刑期上诉同听）（往届口径，仅参考）〔OLD-EXA L50–L53 "High burden of proof by Pros. for CA to intervene"·往届仅参考〕。
-- **裁判法院量刑救济（接口级）**：s.113 MO 上诉 CFI（14 日、无需许可、rehearing 测试 **Hui Lai Ki**）；s.105 MO 案件呈述（14 clear days、纯法律点，控方路径为主）；s.104 MO 复核（14 clear days 、同一裁判官、较上诉便宜——讼费考量在 SG07 语境）（往届口径，仅参考）〔OLD-EXA L34–L48 "MUCH CHEAPER to proceed by way of review than by appeal"·往届仅参考〕。
+- **SJ review of sentence（s.81A CPO）**：律政司司长对 MC/DC/CFI 任何判罚（法定刑除外）申请复核——须许可、门槛高（wrong in principle／manifestly inadequate／manifestly excessive／not authorised by law）；判决 21 日内书面提出；CA完成可：不改／撤销／改判任何应判刑罚；惯例上 CA 加刑时给“上诉加刑折扣”或以已服大部分而不插手（*Yan Shen*）；被告已上诉定罪／已申请 s.104 review／s.105 案件呈述者不得复核（撤回或处置后除外；s.81C 可与被告刑期上诉同听）〔OLD-EXA L50–L53 "High burden of proof by Pros. for CA to intervene"·往届仅参考〕。
+- **裁判法院量刑救济（接口级）**：s.113 MO 上诉 CFI（14 日、无需许可、rehearing 测试 **Hui Lai Ki**）；s.105 MO 案件呈述（14 clear days、纯法律点，控方路径为主）；s.104 MO 复核（14 clear days 、同一裁判官、较上诉便宜——讼费考量在 SG07 语境）〔OLD-EXA L34–L48 "MUCH CHEAPER to proceed by way of review than by appeal"·往届仅参考〕。
 
 ### 0L.3 量刑当场的“上诉倒推”纪律（本卡自拟，非官方）
 
@@ -798,8 +805,8 @@ flowchart TD
 ### 0L.5 讼费命令的上诉（独立路径）
 
 - **Cap.492 s.19＋Cap.492A r.4**：DC／CFI 作令 → CA；21 日内向作令法院书面给 notice of appeal 及 grounds，缴规定费，向利害关系人送达；按 O.59 作必要调整。法官可因充分理由延时。题书 11月9日作令，11月30日届满，独立于刑期的12月7日。R9：规则4、上诉通知及延期。
-- **无固有管辖**：只在该等条文（s.113 MO、s.19 CCCO、s.31 HKCFAO）许可范围内可上诉讼费（往届口径，仅参考）〔OLD-EXA L138 "NO statutory right of appeal against refusal to order costs"·往届仅参考〕。
-- **DC 层面拒给释后费**：无罪被告无呈请权——只余司法复核（*Kanjanapas*；SG7C 登记 *Kanjanapas Premlee v SJ* [2023] HKCFA 29 为裁判官覆核讼费权限面）（往届口径，仅参考）〔OLD-EXA L138 "D can only apply to judicially review"·往届仅参考〕。
+- **无固有管辖**：只在该等条文（s.113 MO、s.19 CCCO、s.31 HKCFAO）许可范围内可上诉讼费〔OLD-EXA L138 "NO statutory right of appeal against refusal to order costs"·往届仅参考〕。
+- **DC 层面拒给释后费**：无罪被告无呈请权——只余司法复核（*Kanjanapas*；SG7C 登记 *Kanjanapas Premlee v SJ* [2023] HKCFA 29 为裁判官覆核讼费权限面）〔OLD-EXA L138 "D can only apply to judicially review"·往届仅参考〕。
 - **成功定罪上诉的讼费**：见 0K.4（成功可得、可扣减）。
 
 **总表索引**：上诉环节“不做／做错”的后果链，见 0N 行 13（超 28 日／21 日）、行 14（无 merit 上诉）。
@@ -846,7 +853,7 @@ flowchart TD
 
 ## 0N. 环节×不做后果链×依据 总表（索引）（2026-10-10 深化；2026-11-16 重编）
 
-> 对应 §18.6：把“不做／做错会怎样”集中在一张总表，正文各环节以其行号回点（0B→行 1/10/11、0C→行 2/3/4、0D→行 5/6、0F→行 7、0G→行 9/10、0H→行 1/8、0K→行 12、0L→行 13/14）。【要素错失】＝该核没核而踩空；【记录缺失】＝失去日后可主张的位置；【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令。库内无明文后果者如实标注，不臆造。
+> 对应 §18.6：把“不做／做错会怎样”集中在一张总表，正文各环节以其行号回点（0B→行 1/10/11、0C→行 2/3/4、0D→行 5/6、0F→行 7、0G→行 9/10、0H→行 1/8、0K→行 12、0L→行 13/14）。【要素错失】＝该核没核而踩空；【记录缺失】＝失去日后可主张的位置；【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利命令。库内查无明文后果规定者，表中如实标注「无明文」。
 
 | # | 程序环节 | 不做／做错的状态 | 后果链 | 依据 |
 |---|---|---|---|---|
@@ -863,7 +870,7 @@ flowchart TD
 | 11 | 求情口径：认罪后提抗辩/争议 Brief Facts；审讯后讲悔意/透露上诉 | 场合错位的发言 | 【记录缺失】可采性归零或反向伤害；保证求情是两份题：为何犯、为何不再犯 | 〔CR8 L1353 "DO NOT: (1) raise a defence; (2) dispute the Brief Facts."；CR8 L1363–L1367 "do not mention plans to appeal"〕 |
 | 12 | 讼费：无罪后不即时表示申请；被索费不回应“特殊情况”与负担能力；超 21 日才想起上诉讼费令 | 金钱后果固化 | 【自动后果】迟申请“loath to entertain”；【制裁暴露】abuse 线被默认；负担能力未记录则数额无从压 | 往届课堂例子；命令上诉见0L.5。〔OLD-LG99 L223–L245 "Immediately after a not guilty verdict is delivered"·往届仅参考〕 |
 | 13 | 上诉启动：不读判刑理由、不核 28 日钟起算点（s.83Q） | 时限与理由基础流失 | 【自动后果】28 日钟持续走；【要素错失】理由不 arguable 即被费用反噬 | 〔OLD-EXA L110 "can be given within 28 days of sentencing"·往届仅参考；CR8 L1381 "You should review these carefully to see whether"〕 |
-| 14 | 上诉评估：不达标仍递上诉（total lack of merit），或不达标不弃 | 风险命令 | 【制裁暴露】s.83W loss of time（上诉期羁押不计刑）＋可加刑；续 renew 可再加；应尽早 Form VII | （往届口径，仅参考）〔OLD-EXA L124–L126 "A total lack of merit"·往届仅参考〕 |
+| 14 | 上诉评估：不达标仍递上诉（total lack of merit），或不达标不弃 | 风险命令 | 【制裁暴露】s.83W loss of time（上诉期羁押不计刑）＋可加刑；续 renew 可再加；应尽早 Form VII | 〔OLD-EXA L124–L126 "A total lack of merit"·往届仅参考〕 |
 
 **使用口径**：本表每行回对应深节展开；写 SG07 答案时按行 4/7/9/10/12/13 挑论点（“法官言行→程序错→后果”三段式），写 SG08 备忘录按行 13/14 作可行性与风险面。
 
