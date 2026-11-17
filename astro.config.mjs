@@ -478,13 +478,13 @@ export default defineConfig({
 									]
 								},
 								'06-institution-plea-bind-over': {
-									title: '答辩建议核验清单', badge: '4项规矩',
+									title: '答辩建议核验清单', badge: '5项核验',
 									items: [
-										{ label: '即时不答辩的时机', en: 'Timing of No Plea', href: '#0a1-即时不答辩与先答辩的取舍' },
-										{ label: '书面答辩建议', en: 'Written Plea Advice', href: '#0a3-书面答辩建议四大规矩' },
-										{ label: '认罪协商与折扣', en: 'Plea Negotiation & Discount', href: '#0a4-认罪协商与折扣时点' },
-										{ label: 'ONE bind over', en: 'O.N.E. Bind Over', href: '#0a6-one-bind-over' },
-										{ label: '定罪与终局效果', en: 'Finality & Consequences', href: '#0a7-定罪终局性与程序后果' },
+										{ label: '即时不答辩的时机', en: 'Timing of No Plea', href: '#0c1-协商时机首次提堂的暂不答辩与代码词' },
+										{ label: '书面答辩建议', en: 'Written Plea Advice', href: '#0b1-答辩前研究与知情建议' },
+										{ label: '认罪协商与折扣', en: 'Plea Negotiation & Discount', href: '#0b4-折扣阶梯认罪的时间价值ngo-van-nam-体系' },
+										{ label: 'ONE bind over', en: 'O.N.E. Bind Over', href: '#0c-one-bind-over法源适当性程序落地与客户同意' },
+										{ label: '定罪与终局效果', en: 'Finality & Consequences', href: '#0f-六种非起诉处置机制与讼费' },
 									]
 								},
 								'07-institution-investigation-rights': {

@@ -65,21 +65,21 @@ SG课表安排:
 
 | 术语 | 定义与章节 |
 |---|---|
-| 不提证据（Offer No Evidence, O.N.E.） | 控方就起诉书不提证据、案件被法庭撤销（dismissed）的处置；法律效力等同 acquittal，原则上不能再以同一控罪起诉（s.51A CPO）——与「不提证据附签保」必须分开（0F）〔L5N L162 "On the other hand, if the Prosecution “offer no evidence” the case"；L5S L122 "Offer No Evidence – cannot recharge: s. 51A CPO: same as an"〕 |
-| 不提证据附签保（O.N.E. Bind Over） | 控辩合意加法庭预防性命令的合意处置：被告人答辩不认罪（plead not guilty, PNG）但同意案情撮要，控方不提证据，裁判官依 s.109I CPO 下达签保令；不是定罪，但签保期未届满时 CRO 上有记录（0C）〔L5N L108–L110 "An O.N.E. B/O is not a conviction. It is an agreement between"；L5N L164 "“Offering no evidence” (or “O.N.E.”) is different from “offering no evidence on"〕 |
-| 暂不答辩（No Plea Taken） | 首次提堂后申请押后（课程口径通常 6–8 周）暂不答辩，让控方备证、辩方阅卷并给知情建议；协商进行中庭上用代码词表述而不暴露协商内容（0C.1）〔L5N L116 "If the O.N.E. B/O procedure is still being negotiated"〕 |
-| 案情撮要（Brief Facts / Summary of Facts） | 控方案情的书面撮要；辩方须逐字审阅、修订不实或不必要偏害内容；法庭上同意的案情可在随后民事诉讼中作为证据对抗被告人（0C.5）〔L5N L130 "Review the wording of the Brief Facts carefully – your client will"〕 |
-| 无损权益（Without Prejudice） | 协商信件的标记；它不能收回控方已经获知的信息，不是信息抹除器（0G）〔L5N L126 "You should not reveal your Defence in the O.N.E. Bind Over letter"〕 |
-| 签保守行为（Bind Over；recognizance） | 法庭命令当事人在不超过 2 年期内保持治安（keep the peace）及／或行为良好（good behaviour）的命令，可附自签、担保或现金条件；两类义务按 *Lau Wai-wo* 须按个案精确区分、不能照抄（0C.2、0C.5）〔L8N L226 "See s.109I CPO: “A Judge, a District Judge or a magistrate shall"；L8N L230 "the traditional use of both types of conditions in all cases should not be continued"〕 |
-| 较轻替代罪（Lesser Alternative Offence） | 起诉书内可被裁定的较轻罪名；被告人可提议认该罪以协商改控，或依 s.51(1)(b) CPO 作替代答辩；被拒的认罪要约不构成有效定罪基础（0D）〔L5S L198 "D can offer to PG to a lesser alternative offence: s. 51"；L5N L304 "(1) be convicted of the offence charged (in which case his guilty"〕 |
-| 模棱两可认罪（Equivocal Plea） | 认罪时附加的条件若属实即等于没有承认该罪的认罪形态；法庭绝不可接纳，必须在判刑前撤销（0E）〔L5N L334 "These should not be accepted by the Court since the Defendant has"；L5N L316 "The admitted facts are equivocal as to guilt: Chan Ching Chi v. R [1965]"〕 |
-| Newton 聆讯（Newton Hearing / Inquiry） | 认罪（或定罪）后，就足以影响量刑的实质事实存在争议、且法庭不愿按被告人版本判刑时须举行的事实聆讯（0E）〔L5N L378 "Where there is a substantial dispute on the facts and the court is not"〕 |
-| 首个可行机会（First Available Opportunity） | 首次实际答辩的窗口；在此认罪通常获三分之一监禁刑扣减，此后按 *Ngo Van Nam* 阶梯递减（0B.5）〔L8N L978 "a 1/3 discount on any term of imprisonment will only be given"〕 |
-| 提早带庭（Brought Up Early in Court 1） | 定审期后拟改认罪时，由事务律师致函裁判法院第一法庭书记官申请把案件提早带到第一庭处理的换庭程序，避免拖到开审日沦至最低折扣档（0G）〔L5S L340–L354 "MC / DC – letter to First Clerk of Court (MC) /"〕 |
-| 例外罪行（Excepted Offence） | CPO 附表 3 所列罪行绝对禁止缓刑；s.19 伤人与 s.122 猥亵侵犯均在列——建议信漏查即成专业失职（0B.5、0G）〔L8N L464 "Note: Check Schedule 3 CPO! If the offence is an Excepted Offence,"；L8N L774–L800 "The following offences are declared to be excepted offences"〕 |
-| 一并考虑其他罪行（T.I.C.） | 被告人认主罪并自愿承认其他未被起诉的同类罪行供量刑一并考虑；不单独定罪，实务通常不再追诉，换取「彻底了结」（0F）〔L5N L192–L200 "There is another practice which has developed in the courts for which"〕 |
-| 终止检控（Nolle Prosequi） | 律政司司长以书面指示终止诉讼的特权程序；被控人当庭释放，但不构成阻止后续诉讼的绝对屏障（0F）〔L5N L172–L176 "shall not operate as a bar to subsequent proceedings"〕 |
-| 案件留档（Charge Left on File） | 经法官同意、在未答辩且未传证据前把控罪留档不处理的实务惯例；其后符合条件可再激活（0F）〔L5N L180–L182 "A charge can only be left on the file if no plea"〕 |
+| 不提证据（Offer No Evidence, O.N.E.） | 控方在法庭上表示就起诉书不提证据，案件被法庭撤销（dismissed）。其法律效力等同 acquittal，依据《刑事程序条例》（Criminal Procedure Ordinance, Cap. 221）s.51A 原则上不能再以同一控罪起诉，被告人获得完全脱罪。它与「不提证据附签保」的区别在于 O.N.E. 是终局撤销、附签保则附带预防性命令（0F）。〔L5N L162 "On the other hand, if the Prosecution “offer no evidence” the case"；L5S L122 "Offer No Evidence – cannot recharge: s. 51A CPO: same as an"〕 |
+| 不提证据附签保（O.N.E. Bind Over） | 控辩双方合意、经法庭预防性命令的合意处置：被告人答辩不认罪（plead not guilty, PNG）但同意案情撮要，控方不提证据，裁判官依《裁判官条例》（Magistrates Ordinance, Cap. 227）s.109I 下达签保令。它不是定罪，但签保期未届满时记录留在裁判法院档案（CRO）。它与定罪的区别在于无罪名成立、无刑罚，但留下行为约束记录（0C）。〔L5N L108–L110 "An O.N.E. B/O is not a conviction. It is an agreement between"；L5N L164 "“Offering no evidence” (or “O.N.E.”) is different from “offering no evidence on"〕 |
+| 暂不答辩（No Plea Taken） | 首次提堂后申请押后（课程口径通常 6–8 周）暂不答辩，让控方备证、辩方阅卷并给出知情建议。协商进行中庭上用代码词表述而不暴露协商内容。它与正式答辩的区别在于不产生答辩记录、为协商留出时间（0C.1）。〔L5N L116 "If the O.N.E. B/O procedure is still being negotiated"〕 |
+| 案情撮要（Brief Facts / Summary of Facts） | 控方就指控向法庭提交的书面案情撮要；辩方须逐字审阅并修订不实或不必要偏害内容。法庭上同意的案情可在随后民事诉讼中作为证据对抗被告人，同意即构成自认。它与证供材料的区别在于撮要是经双方确认的正式陈述（0C.5）。〔L5N L130 "Review the wording of the Brief Facts carefully – your client will"〕 |
+| 无损权益（Without Prejudice） | 协商信件上标示 "without prejudice" 的标记，表示内容不应用于法庭程序。它不能收回控方已经获知的信息，不是信息抹除器。它与绝对保密的区别在于标记只影响证据使用、不影响信息流向（0G）。〔L5N L126 "You should not reveal your Defence in the O.N.E. Bind Over letter"〕 |
+| 签保守行为（Bind Over；recognizance） | 法庭命令当事人在不超过 2 年期内保持治安（keep the peace）及／或行为良好（good behaviour）的命令，可附自签、担保或现金条件。两类义务按 *Lau Wai-wo* 须按个案精确区分、不能照抄。它与刑事定罪的区别在于签保是预防性命令、不构成罪名（0C.2、0C.5）。〔L8N L226 "See s.109I CPO: “A Judge, a District Judge or a magistrate shall"；L8N L230 "the traditional use of both types of conditions in all cases should not be continued"〕 |
+| 较轻替代罪（Lesser Alternative Offence） | 起诉书内可被裁定的较轻罪名；被告人可提议认该罪以协商改控，或依《刑事程序条例》s.51(1)(b) 作替代答辩。被拒的认罪要约不构成有效定罪基础。它与 O.N.E. Bind Over 的区别在于替代罪通道以定罪收场、签保通道不定罪（0D）。〔L5S L198 "D can offer to PG to a lesser alternative offence: s. 51"；L5N L304 "(1) be convicted of the offence charged (in which case his guilty"〕 |
+| 模棱两可认罪（Equivocal Plea） | 认罪时附加的条件若属实即等于没有承认该罪的认罪形态；法庭绝不可接纳，必须在判刑前撤销。它与 unequivocal 认罪的区别在于附带保留的认罪不产生认罪效力（0E）。〔L5N L334 "These should not be accepted by the Court since the Defendant has"；L5N L316 "The admitted facts are equivocal as to guilt: Chan Ching Chi v. R [1965]"〕 |
+| Newton 聆讯（Newton Hearing / Inquiry） | 认罪（或定罪）后，就足以影响量刑的实质事实存在争议、且法庭不愿按被告人版本判刑时须举行的事实聆讯。其制度目的是让量刑建立在经查明的事实基础上。它与普通求情陈词的区别在于 Newton 是证据式的事实查证、不是陈词（0E）。〔L5N L378 "Where there is a substantial dispute on the facts and the court is not"〕 |
+| 首个可行机会（First Available Opportunity） | 首次实际答辩的窗口；在此认罪通常获三分之一监禁刑扣减，此后按 *Ngo Van Nam* 阶梯递减。其制度目的是用时间折扣奖励尽早认罪、节省司法资源。它与迟延认罪的区别在于折扣幅度随时间递减（0B.5）。〔L8N L978 "a 1/3 discount on any term of imprisonment will only be given"〕 |
+| 提早带庭（Brought Up Early in Court 1） | 定审期后拟改认罪时，由事务律师致函裁判法院第一法庭书记官申请把案件提早带到第一庭处理的换庭程序，避免拖到开审日沦至最低折扣档。它与正常排期的区别在于主动压缩延迟、保住折扣（0G）。〔L5S L340–L354 "MC / DC – letter to First Clerk of Court (MC) /"〕 |
+| 例外罪行（Excepted Offence） | 《刑事程序条例》附表 3 所列罪行绝对禁止缓刑；s.19 伤人与 s.122 猥亵侵犯均在列，建议信漏查即成专业失职。它与一般罪行的区别在于法庭对缓刑没有裁量空间（0B.5、0G）。〔L8N L464 "Note: Check Schedule 3 CPO! If the offence is an Excepted Offence,"；L8N L774–L800 "The following offences are declared to be excepted offences"〕 |
+| 一并考虑其他罪行（T.I.C.） | 被告人认主罪并自愿承认其他未被起诉的同类罪行供量刑一并考虑；不单独定罪，实务通常不再追诉，换取「彻底了结」。它与正式加控的区别在于不单独定罪、不产生判刑记录（0F）。〔L5N L192–L200 "There is another practice which has developed in the courts for which"〕 |
+| 终止检控（Nolle Prosequi） | 律政司司长以书面指示终止诉讼的特权程序；被控人当庭释放，但不构成阻止后续诉讼的绝对屏障。它与撤销控罪的区别在于 nolle prosequi 由控方发起、效力上不阻却再诉（0F）。〔L5N L172–L176 "shall not operate as a bar to subsequent proceedings"〕 |
+| 案件留档（Charge Left on File） | 经法官同意、在未答辩且未传证据前把控罪留档不处理的实务惯例；其后符合条件可再激活。它与终止检控的区别在于留档是暂停而非终结（0F）。〔L5N L180–L182 "A charge can only be left on the file if no plea"〕 |
 
 ### 环节定位（按程序时序）
 
@@ -137,17 +137,17 @@ flowchart TD
 
 | 你现在要做什么 | 直达章节 |
 |---|---|
-| 30 秒弄清范围／术语／每环任务 | 速读定位层：适用范围／术语／环节定位 |
-| 回答「客户问认不认／四项决定」 | 0B.1–0B.2 ＋ 0I ＋ 0J 行 6 |
-| 协商改控／认较轻罪／修订案情撮要 | 0B.3 ＋ 0D ＋ 0J 行 8 |
-| 写 O.N.E. 申请函（SG02 计分作业） | 0G 十步＋红线 ＋ 0C.3 Code 10.7 六项 ＋ 0J 行 2–4 |
-| 写 Letter of Advice（SG02 计分作业） | 0G 八步 ＋ 0B.5 折扣与禁区 ＋ 0J 行 5、13、14 |
-| ONE 落地程序、客户拒绝同意案情 | 0C.4 ＋ 0C.5 ＋ 0J 行 7 |
-| 认罪后反悔／重大事实争议（Newton） | 0E ＋ 0J 行 9–12 |
-| 比较「撤案」类六种处置 | 0F 六处置表 |
-| 量化认罪利益／能否缓刑 | 0B.5 阶梯与 Sch 3 禁区 ＋ 0J 行 1、13、14 |
-| 想知道「某环不做会怎样」 | 0J 总表 ＋ 图 1 虚线后果框 |
-| 判后解释／SG03、SG07／跨课接口 | 0B.5 判后义务 ＋ 0K |
+| 30 秒弄清范围／术语／每环任务 | [速读定位层](#速读定位层)／[适用范围](#适用范围)／[术语](#术语核心概念与实务运作定义)／[环节定位](#环节定位按程序时序) |
+| 回答「客户问认不认／四项决定」 | [0B.1](#0b1-答辩前研究与知情建议)–[0B.2](#0b2-两类伦理困局的配对处理)＋[0I](#0i-攻防与出庭前核对清单)＋[0J](#0j-程序失误与违规后果总表) 行 6 |
+| 协商改控／认较轻罪／修订案情撮要 | [0B.3](#0b3-三种协商对象各成一张要约不能混写)＋[0D](#0d-控罪协商与较轻替代罪s51-cpo要约效力与保全)＋[0J](#0j-程序失误与违规后果总表) 行 8 |
+| 写 O.N.E. 申请函（SG02 计分作业） | [0G.1](#0g1-playbook-a--one-bind-over-申请函十步法大律师致律政司) 十步＋红线＋[0C.3](#0c3-适当性审查prosecution-code-106107-六标准攻防视角) Code 10.7 六项＋[0J](#0j-程序失误与违规后果总表) 行 2–4 |
+| 写 Letter of Advice（SG02 计分作业） | [0G.2](#0g2-playbook-b--letter-of-advice-八步法律师致客户) 八步＋[0B.5](#0b5-缓刑禁区schedule-3与判后义务) 折扣与禁区＋[0J](#0j-程序失误与违规后果总表) 行 5、13、14 |
+| ONE 落地程序、客户拒绝同意案情 | [0C.4](#0c4-程序落地裁判官最终裁量与庭审六步)＋[0C.5](#0c5-同意案情的后果管理民事自认道歉信与违令回路)＋[0J](#0j-程序失误与违规后果总表) 行 7 |
+| 认罪后反悔／重大事实争议（Newton） | [0E](#0e-认罪有效性与认罪后争议撤回门槛与-newton-聆讯)＋[0J](#0j-程序失误与违规后果总表) 行 9–12 |
+| 比较「撤案」类六种处置 | [0F](#0f-六种非起诉处置机制与讼费) 六处置表 |
+| 量化认罪利益／能否缓刑 | [0B.4](#0b4-折扣阶梯认罪的时间价值ngo-van-nam-体系) 阶梯与 [0B.5](#0b5-缓刑禁区schedule-3与判后义务) Sch 3 禁区＋[0J](#0j-程序失误与违规后果总表) 行 1、13、14 |
+| 想知道「某环不做会怎样」 | [0J](#0j-程序失误与违规后果总表) 总表＋图 1 虚线后果框 |
+| 判后解释／SG03、SG07／跨课接口 | [0B.5](#0b5-缓刑禁区schedule-3与判后义务) 判后义务＋[0K](#0k-sg-实务应用与跨科接口) |
 
 <!-- BEGIN:cite-legend -->
 > [!info]- 引注图例（出处码 → 文件；点开折叠）
@@ -343,7 +343,7 @@ O.N.E. Bind Over 是本卡第一条协商轨道，目标是让案件**不以刑�
 
 **答辩程序的地域差异**：MC 与 DC 由法庭向被告人取答辩（plea is taken）；CFI 的同一程序称 **提审（arraignment）**——s.49 CPO 规定提审只在法官席前、陪审团组庭前进行，被告人必须亲自到庭；交付 CFI 的案件在交付程序中已在 MC 取过答辩，交付后再于 CFI 提审时重新答辩。DC 首日出庭虽名「答辩日（Plea Day）」却不取答辩，只收「答辩意向（indication of plea）」，意向认罪的另定认罪与判刑日〔L5N L204 "Technically “plea is taken from the Defendant” in the MC & DC."；L5N L208 "The “arraignment” is done before the Judge only and before the Jury is empanelled: s. 49 CPO"；L5N L210 "Note that where the Defendant has been committed to the CFI, plea will be taken in the MC as part of the committal proceedings."；L5N L204–L208 "Technically “plea is taken from the Defendant” in the MC & DC."；L5N L204–L270 "Technically “plea is taken from the Defendant” in the MC & DC."；L5N L276 "Note that in the DC, no plea is taken on the Defendant’s"〕。
 
-**撤回认罪的六大情形（*HKSAR v Wong Chi Yuk* [2000] HKCA 699; [2000] 3 HKLRD 125）**：(1) 承认的事实不构成被控之罪（*Chan Wai Lam & Others v R* [1981] HKLR 139）；(2) 承认的事实就罪责而言模棱两可（*Chan Ching Chi v R* [1965] HKLR 598）；(3) 控罪表面有瑕疵、无效或不清晰（*Chao Tse Yuen v R (No 2)* [1963] HKLR 121）；(4) 认罪非自愿——受胁迫、误导或非自由选择（*Ma Kam Wing v R* [1975] HKLR 612）；(5) 认罪因欺诈或根本性错误引致（*HKSAR v Li Wa San* [2000] 1 HKLRD A7）；(6) 认罪并非深思熟虑的知情决定（*R v Wong Wai Leung* [1990] 1 HKC 144）〔L5N L312 "See HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000] 3 HKLRD 125 for 6 instances in which a guilty plea may be reversed:"；L5N L312–L330 "See HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000] 3 HKLRD"；L5N L312–L344 "See HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000]"；L5N L314 "The facts that the Defendant has admitted do not amount to the offence charged: Chan Wai Lam"；L5N L322 "The plea was induced by fraud or fundamental mistake: HKSAR v. Li Wa San"；L5S L221–L227 "HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000] 3 HKLRD 125:"〕。六大情形的公约数：错误必须达到 **令认罪意图失效（vitiated the intention to plead guilty）** 的程度——仅为自身原因想认罪、或为求轻判而认罪，都不算〔L5N L326 "Essentially the Defendant must be able to demonstrate a fundamental mistake of law."〕。
+**撤回认罪的六大情形（*HKSAR v Wong Chi Yuk* [2000] HKCA 699; [2000] 3 HKLRD 125）**：(1) 承认的事实不构成被控罪名（*Chan Wai Lam & Others v R* [1981] HKLR 139）；(2) 承认的事实就罪责而言模棱两可（*Chan Ching Chi v R* [1965] HKLR 598）；(3) 控罪表面有瑕疵、无效或不清晰（*Chao Tse Yuen v R (No 2)* [1963] HKLR 121）；(4) 认罪非自愿——受胁迫、误导或非自由选择（*Ma Kam Wing v R* [1975] HKLR 612）；(5) 认罪因欺诈或根本性错误引致（*HKSAR v Li Wa San* [2000] 1 HKLRD A7）；(6) 认罪并非深思熟虑的知情决定（*R v Wong Wai Leung* [1990] 1 HKC 144）〔L5N L312 "See HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000] 3 HKLRD 125 for 6 instances in which a guilty plea may be reversed:"；L5N L312–L330 "See HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000] 3 HKLRD"；L5N L312–L344 "See HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000]"；L5N L314 "The facts that the Defendant has admitted do not amount to the offence charged: Chan Wai Lam"；L5N L322 "The plea was induced by fraud or fundamental mistake: HKSAR v. Li Wa San"；L5S L221–L227 "HKSAR v Wong Chi Yuk [2000] HKCA 699; [2000] 3 HKLRD 125:"〕。六大情形的公约数：错误必须达到 **令认罪意图失效（vitiated the intention to plead guilty）** 的程度——仅为自身原因想认罪、或为求轻判而认罪，都不算〔L5N L326 "Essentially the Defendant must be able to demonstrate a fundamental mistake of law."〕。
 
 **为什么这么难**：s.113 MO——撤回认罪须法庭许可；被告人事后只是不喜欢刑期，许可不会获批〔L5N L328 "Why is it so difficult to reverse a Guilty Plea? See s. 113 MO. Reversing a guilty plea requires leave of the court. Leave will not be given where the Defendant merely wishes to reverse his guilty plea as he does not like the sentence to be passed."〕。
 
@@ -369,7 +369,7 @@ O.N.E. Bind Over 是本卡第一条协商轨道，目标是让案件**不以刑�
 
 **典型触发情形**：(1) 认贩毒但求情称部分毒品自用并与朋友分享——控方 disputable 即须开 Newton（自用部分可获扣减：*HKSAR v Chong Heung Sang* [2010] 3 HKC 88；*HKSAR v Cheung Wai Man* [2019] 1 HKC 573 (CA)）；(2) 控方就罪行对受害人的影响及其康复进度举证而被告人争议；(3) 控方为申请 OS Ordinance（Cap. 455）加刑而出具社区影响陈述，遭被告人争议〔L5N L384 "the Defendant pleads guilty to TDD but claims in mitigation that the drugs were for self-consumption"；L5N L386 "evidence is produced of the impact of the offence on the Victim"；L5N L388 "the Prosecution produces a community impact statement"；L5N L376–L400 "A Newton Hearing / Inquiry is held where there is"；L5N L378 "Where there is a substantial dispute on the facts and the court"；L5N L378 "the court is not willing to sentence on the Defendant’s version"；L5N L398 "the Defendant denies committing a specific offence"〕。
 
-**启动的主动方**：辩方应**主动**（take the initiative）向控方提示认罪基础与争议区域：*R v Underwood* [2005] 1 Cr App R (S) 13——判刑时突然改变基础是程序风险。法官也可**主动命令** Newton：认为双方呈交的 SoF 未反映真实版本时（*HKSAR v Mohammad Nadim* [2010] 1 HKC 281）；但法官不命令 Newton 时，即**受 SoF 所载基础约束量刑**（可拒绝不可信的求情）；被告人只有单薄的 far-fetched 主张时，法官无义务为此开庭〔L5N L390 "Where there is a difference between the Prosecution’s evidence and the factual basis on which the Defendant intends to plead guilty, then the Defendant’s Counsel should take the initiative"；L5N L392 "The Judge may also order a Newton Hearing of his own initiative"；L5N L392 "he is bound to sentence on the basis set out in the Summary of Facts (although he can reject implausible or fanciful mitigation.)"〕。
+**启动的主动方**：辩方应**主动**（take the initiative）向控方提示认罪基础与争议区域：*R v Underwood* [2005] 1 Cr App R (S) 13——判刑时突然改变基础是程序风险。法官也可**主动命令** Newton：认为双方呈交的 SoF 未反映真实版本时（*HKSAR v Mohammad Nadim* [2010] 1 HKC 281）；但法官不命令 Newton 时，即**受 SoF 所载基础约束量刑**（可以不采纳不可信的求情）；被告人只有单薄的 far-fetched 主张时，法官无义务为此开庭〔L5N L390 "Where there is a difference between the Prosecution’s evidence and the factual basis on which the Defendant intends to plead guilty, then the Defendant’s Counsel should take the initiative"；L5N L392 "The Judge may also order a Newton Hearing of his own initiative"；L5N L392 "he is bound to sentence on the basis set out in the Summary of Facts (although he can reject implausible or fanciful mitigation.)"〕。
 
 **聆讯程序**：控辩双方举证、证人宣誓作证；事实属被告人专属知识（exclusive knowledge）的，被告人愿意即应作证；不作证的，法官可经解释后按其认为合适作出推断〔L5N L394 "The Judge hears evidence from both sides in a Newton Inquiry – witnesses are examined on oath."；L5N L394 "the Judge can draw such inferences as he sees fit."〕。
 
@@ -492,7 +492,7 @@ SG02 的两份计分作业（各 6 分）把本卡的规则压进两封信里：
 
 ### 0I.2 控方／答辩方：审查与阻击要点
 
-控方一侧的审查与阻击要点如下：(1) O.N.E. 申请按 10.7 六项独立审查——受害人意见只是因素之一，DoJ 应自行决定；不沦为私人复仇工具（→ 0C.3）〔L5N L128 "the complainant wants the Defendant to apologise. However, strictly speaking, although the DOJ should take the victim’s views into account, they should make the decision itself."〕；(2) 不适合的申请坚决拒绝，避免养成申请名声（→ 0C.3）〔L5N L114 "Do not ask for an O.N.E. B/O in all circumstances. Consider carefully"〕；(3) 谈判破裂后利用信中已获知的辩方信息针对性补强——辩方信件即战场侦察（→ 0J 行 2）〔L5N L126 "Although the letter is drafted “without prejudice” it is hard to take back knowledge once acquired!"〕；(4) 较轻罪要约的拒绝效果：nullity，审讯中不因要约而折扣，除非辩方按 *Lam Kai Man* 完成举证（→ 0D.3）〔L8N L1004 "the onus would be on the Defendant to show that he had clearly and unequivocally made such a plea"〕；(5) 案情撮要修订请求被拒时守住 SoF——但记住 SoF 不是证据，Newton 才是正路（→ 0E.3）〔L5N L354 "these were not ‘evidence’ in the case"〕；(6) 法庭主动建议 O.N.E. 时，控方仍可拒绝——检控权不因司法建议而转移（→ 0C.4）〔L5N L136 "The Magistrate can suggest to the Prosecution that the case is an"〕；(7) 共同被告答辩分歧（D1 认罪、D2 不认罪）时，D1 的求情与判刑时点按法庭指示与全案安排评估——本届幻灯以设问提出、未给统一答案，考虑相对罪责与量刑整体性（totality & parity）、D1 是否在 D2 案中作证等因素；相关押后／报告按实际权限申请〔L5S L289 "What if D1 PGs but D2 PNG’s? When would mitigation and sentencing for D1 take place?"；L5S L289 "What if D1 PGs but D2 PNG’s? When would mitigation and sentencing"〕。
+控方一侧的审查与阻击要点如下：(1) O.N.E. 申请按 10.7 六项独立审查——受害人意见只是因素之一，DoJ 应自行决定；不沦为私人复仇工具（→ 0C.3）〔L5N L128 "the complainant wants the Defendant to apologise. However, strictly speaking, although the DOJ should take the victim’s views into account, they should make the decision itself."〕；(2) 不适合的申请坚决拒绝，避免养成申请名声（→ 0C.3）〔L5N L114 "Do not ask for an O.N.E. B/O in all circumstances. Consider carefully"〕；(3) 谈判破裂后利用信中已获知的辩方信息针对性补强——辩方信件即战场侦察（→ 0J 行 2）〔L5N L126 "Although the letter is drafted “without prejudice” it is hard to take back knowledge once acquired!"〕；(4) 较轻罪要约的拒绝效果：nullity，审讯中不因要约而折扣，除非辩方按 *Lam Kai Man* 完成举证（→ 0D.3）〔L8N L1004 "the onus would be on the Defendant to show that he had clearly and unequivocally made such a plea"〕；(5) 案情撮要修订请求被拒时守住 SoF——但记住 SoF 不是证据，Newton 才是正路（→ 0E.3）〔L5N L354 "these were not ‘evidence’ in the case"〕；(6) 法庭主动建议 O.N.E. 时，控方仍然可以拒绝——检控权不因司法建议而转移（→ 0C.4）〔L5N L136 "The Magistrate can suggest to the Prosecution that the case is an"〕；(7) 共同被告答辩分歧（D1 认罪、D2 不认罪）时，D1 的求情与判刑时点按法庭指示与全案安排评估——本届幻灯以设问提出、未给统一答案，考虑相对罪责与量刑整体性（totality & parity）、D1 是否在 D2 案中作证等因素；相关押后／报告按实际权限申请〔L5S L289 "What if D1 PGs but D2 PNG’s? When would mitigation and sentencing for D1 take place?"；L5S L289 "What if D1 PGs but D2 PNG’s? When would mitigation and sentencing"〕。
 
 ## 0J. 程序失误与违规后果总表
 
