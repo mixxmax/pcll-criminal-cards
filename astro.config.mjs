@@ -525,12 +525,12 @@ export default defineConfig({
 								'11-framework-police-powers-search': {
 									title: '警权与搜查核验清单', badge: '6项核心',
 									items: [
-										{ label: '截停与搜查权力', en: 'Stop & Search', href: '#1-截停与搜查权力' },
-										{ label: '进入与搜查处所', en: 'Entry & Premises', href: '#2-进入与搜查处所' },
-										{ label: '扣留与扣押', en: 'Detention & Seizure', href: '#3-扣留与扣押' },
-										{ label: '羁押规例', en: 'Custody Rules', href: '#4-羁押规例' },
-										{ label: '辩方救济', en: 'Defence Remedies', href: '#5-辩方救济' },
-										{ label: '高危雷区', en: 'High-Risk Traps', href: '#6-高危雷区' },
+										{ label: '截停扣留与搜身 s.54', en: 'Stop & Search', href: '#1-警察截停扣留与搜身权力s54-pfo-双轨制' },
+										{ label: '无令拘捕与公民拘捕', en: 'Arrest Powers', href: '#2-警察无令拘捕-vs-公民拘捕制度' },
+										{ label: '处所搜查与破门', en: 'Search of Premises', href: '#3-处所搜查与破门权力search-of-premises' },
+										{ label: '数码设备搜查规则', en: 'Digital Devices', href: '#4-手机与数码设备搜查制度digital-device-search-rules' },
+										{ label: '样本指纹与扣押 s.59', en: 'Samples & Seizure', href: '#5-身体样本指纹提取与证据扣押s59-pfo-体系' },
+										{ label: '全流程核对清单', en: 'Checklist', href: '#6-全流程核对清单截查取证逐闸自检' },
 									]
 								},
 								'12-framework-prosecution-rules': {
