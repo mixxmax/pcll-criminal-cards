@@ -533,13 +533,13 @@ export default defineConfig({
 								'15-institution-sentencing-system': {
 									title: '量刑核验清单', badge: '7项核心',
 									items: [
-										{ label: '量刑起点与折扣', en: 'Starting Point & Discount', href: '#0a1-量刑起点与认罪折扣' },
-										{ label: '加重与减轻因素', en: 'Aggravating & Mitigating', href: '#0a2-加重与减轻因素' },
-										{ label: '非监禁选项', en: 'Non-Custodial Options', href: '#0b-非监禁选项' },
-										{ label: '监禁与附属命令', en: 'Custodial & Ancillary', href: '#0c-监禁与附属命令' },
-										{ label: '费用与赔偿', en: 'Costs & Compensation', href: '#0d-费用与赔偿' },
-										{ label: '上诉与复核', en: 'Appeal & Review', href: '#0e-上诉与复核' },
-										{ label: '实务雷区', en: 'Practical Traps', href: '#0g-实务雷区' },
+										{ label: '量刑起点与指引', en: 'Starting Point & Guidelines', href: '#0c-启动点法与量刑指引' },
+										{ label: '认罪与协助折扣', en: 'Plea & Assistance Discounts', href: '#0d-认罪折扣分档时机与基数' },
+										{ label: '四原则与加减因素', en: 'Four Principles', href: '#0b4-四原则与艺术而非科学' },
+										{ label: '非监禁与设施选项', en: 'Non-Custodial & Facilities', href: '#0h-非监禁与设施类选择' },
+										{ label: '附加命令与讼费', en: 'Ancillary Orders & Costs', href: '#0j-附加命令住院充公没收赔偿归还取消资格与-cbo' },
+										{ label: '上诉量刑互动', en: 'Sentence Appeal', href: '#0l-上诉量刑互动从判刑理由倒推' },
+										{ label: '实务暗礁清单', en: 'Practical Traps', href: '#0m-实务暗礁与核对清单' },
 									]
 								},
 							};
