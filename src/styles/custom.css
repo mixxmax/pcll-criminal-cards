@@ -58,9 +58,9 @@ html { scroll-behavior: smooth; }
    ========================================================================== */
 header.header {
   background-image: linear-gradient(rgba(245, 244, 239, 0.45), rgba(245, 244, 239, 0.55)), url('/pcll-criminal-cards/header-bg.jpg') !important;
-  background-size: cover !important;
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
+  background-size: 64px 64px !important;
+  background-repeat: repeat-x !important;
+  background-position: left center !important;
   backdrop-filter: blur(4px) !important;
   -webkit-backdrop-filter: blur(4px) !important;
   border-bottom: 2px solid var(--gold) !important;
