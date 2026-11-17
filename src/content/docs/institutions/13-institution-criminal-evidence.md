@@ -39,7 +39,7 @@ updated: 2026-11-17
 ---
 
 # 刑事证据争议体系 披露 可接纳性与证明力
-> **2026-10-10 深化重构**：新增「速读定位层」「🗺️ 本卡地图」与 0B–0I 深节（控方披露体系／辩方披露与通知／供认实体挑战／Notice→Voir Dire→Alternative Procedure／辨认与弱点证人／NCTA／环节×不做后果×依据总表／SG 应用与材料矩阵），既有 0A 与 §1–§8 全部保留（零删减，重排不重写）。**【11 月两连弹】SG06（2026-11-04 口供排除·Notice of Objection 起草）与 SG07（2026-11-11 挑战证供·Brief A/B）备考入口见 [0K](#0K.%20SG%20应用（2026-10-10%20深化；2026-11-15%20重编，材料矩阵移审计留痕）)**；今日 LG5（13:00–15:30）/LG6（16:00–18:30）授课的课堂口径待字幕入库后回补（open 块 O-13.6）。
+> **2026-10-10 深化重构**：新增「速读定位层」「🗺️ 本卡地图」与 0B–0I 深节（控方披露体系／辩方披露与通知／供认实体挑战／Notice→Voir Dire→Alternative Procedure／辨认与弱点证人／NCTA／环节×不做后果×依据总表／SG 应用与材料矩阵），既有 0A 与 §1–§8 全部保留（零删减，重排不重写）。**【11 月两连弹】SG06（2026-11-04 口供排除·Notice of Objection 起草）与 SG07（2026-11-11 挑战证供·Brief A/B）备考入口见 [0K](#0k-sg-应用)**；今日 LG5（13:00–15:30）/LG6（16:00–18:30）授课的课堂口径待字幕入库后回补（open 块 O-13.6）。
 
 > **2026-10-06内容扩充**：先读新增“0A. 披露、供认争议与半程裁决的实质路径”，其中逐条展开条件、例外、证据、行动和后果；原有分析与引注保留。课堂字幕只作教师解释及核对，ASR内容与书面规则有别。
 
@@ -55,7 +55,7 @@ updated: 2026-11-17
 
 > **白话导引（从头到尾一遍过）**：证据争议的主线是「取得 → 进入 → 半程」三道闸。取得端：控方承担积极、持续、繁重的披露义务（Prosecution Code 12）——拟用证据、unused material 都在范围内，PII 与 LPP 是两类须经法院衡平的例外；辩方反向只有四项披露义务（alibi 10 日、expert、stay 通知、供认反对理由）。进入端：无争议事实用 s.65B／s.65C 一次定型（14 日反对窗、conclusive）；有争议的供认走「自愿性（控方 BRD 举证）→ 剩余裁量（不公平／偏害／实质违反 R&Ds）」两阶，程序上按法院选 voir dire（CFI 陪审团退席）或 Alternative Procedure（MC/DC 同听两类争点），起草 Notice of Objection 按 GD26 三栏。辨认证据几乎总可采，攻防靠 ID parade 程序记录与 Turnbull 方向；弱点证人走 Part 3A 三种特别程序。半程：NCTA 用 Galbraith 两肢滤掉取至最高仍不能定罪的案件，2023 年 ss.81AA–AAJ 给控方上诉通道。每个环节「不做」的后果链收在 0J 总表。
 >
-### a. 程序辐射范围（本卡覆盖什么，不覆盖什么）
+### 适用范围
 
 **覆盖（按程序时序）**——自侦查取证完成到审讯半程的「证据取得 → 证据进入 → 半程过滤」全链：
 1. **控方披露义务体系**：积极、持续、onerous 的 disclosure 义务（Prosecution Code para. 12；普通法公平审讯权）；三级法院的披露时点（CFI s.80B MO／DC s.79 DCO／MC 无条文但同规则）；materiality 宽测试（*Keane*）；**unused material** 与不可采证据的披露；PII 与 LPP 两类例外的成立与程序；控方证人定罪／纪律／未决控罪的披露边界〔CR6 L68–L82 "The Prosecution’s duty of disclosure is based on the Defendant’s"；CR6 L134–L146 "Unused material and inadmissib"〕；
@@ -68,9 +68,9 @@ updated: 2026-11-17
 8. **NCTA 与半程裁决**：Galbraith 两肢（could/may not will/must）；*Re SJ’s Reference (Nos. 1–3 2021)* 四点；迟来 NCTA 的例外门槛；2023 年 Division 3 CPO（ss. 81AA–AAJ）控方对 NCTA 裁定的上诉通道〔CR6 L1034–L1052 "This is a submission on the law made by the"；CR6 L1078–L1084 "Ss. 81AA – AAJ of Division 3 CPO, added in 2023"〕；
 9. **攻防与 SG 应用**：披露失职的推翻风险、迟交反对通知与程序瑕疵的证据削弱、SG05（s.65B/C 定型）／SG06（口供排除）／SG07（挑战证供）的题型映射（见 0J、0K）。
 
-**不覆盖（边界声明，相关承担者标明）**：① 审讯准备与文书全流（brief to counsel、defence statement 类）→ 14 Institution - Trial Preparation and Documents；② 警察权力与搜查、警署内律师职责的侦查端主体 → 11 Framework - Police Powers & Search Rules（本卡只引警诫／R&Ds 接口）；③ 检控启动、移交与 1992 R&Ds 的制度框架 → 12 Framework - Prosecution, Commencement & 1992 R&Ds（R&Ds 的条文本体在该卡，本卡只处理「违反 R&Ds 对供认可采性的后果」）；④ **传闻证据规则与定罪记录作为证据**（hearsay 例外全表、bad character／s.54(1)(f) shield、similar fact evidence、spent convictions ROO）→ 属 LG5 主题，对应主卡未建，本卡 §3 既有表行保留 CR5 引注作接口，只在供认与辨认语境引用（供认＝不利己承认的传闻例外、s.65B 不开传闻后门、SG07 Brief B 的 SFE 边界点 *Noor Mohamed*）；⑤ 量刑与认罪折扣 → 15 Institution - Sentencing System（SG07 Brief A Q4／Brief B Q3 归该域）；⑥ 上诉程序本体（s.83 系列、表格、时限）→ SG08／LG10 对应卡（未建，登记 open O-13.3）。
+**不覆盖（边界声明，相关承担者标明）**：① 审讯准备与文书全流（brief to counsel、defence statement 类）→ 14 Institution - Trial Preparation and Documents；② 警察权力与搜查、警署内律师职责的侦查端主体 → 11 Framework - Police Powers & Search Rules（本卡只引警诫／R&Ds 接口）；③ 检控启动、移交与 1992 R&Ds 的制度框架 → 12 Framework - Prosecution, Commencement & 1992 R&Ds（R&Ds 的条文本体在该卡，本卡只处理「违反 R&Ds 对供认可采性的后果」）；④ **传闻证据规则与定罪记录作为证据**（hearsay 例外全表、bad character／s.54(1)(f) shield、similar fact evidence、spent convictions ROO）→ 属 LG5 主题，对应主卡未建，本卡 §3 既有表行保留 CR5 引注作接口，只在供认与辨认语境引用（供认即不利己承认的传闻例外、s.65B 不开传闻后门、SG07 Brief B 的 SFE 边界点 *Noor Mohamed*）；⑤ 量刑与认罪折扣 → 15 Institution - Sentencing System（SG07 Brief A Q4／Brief B Q3 归该域）；⑥ 上诉程序本体（s.83 系列、表格、时限）→ SG08／LG10 对应卡（未建，登记 open O-13.3）。
 
-### b. 关键术语逐一一句精确定义（中文定义＝英文原词）
+### 术语（核心概念与实务运作定义）
 
 | 术语（英文原词） | 一句中文精确定义 | 出处 |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
@@ -99,7 +99,7 @@ updated: 2026-11-17
 | Mushtaq 方向 | 供认经裁定可采而被告仍主张系遭压迫等取得时，法官指示陪审团若认为可能如此取得并致不可靠即应置之不理〔CR6 L754 "if they consider that written or oral statements were, or"〕 | R v Mushtaq |
 | 双管齐下异议（double-barrelled allegation） | 被告既否认作出供认、又指该（如有作出的）供认因失当行为非自愿——两者互不排斥，须开 voir dire〔CR6 L632 "An assertion that the Defendant did not make the confession"〕 | Thongjai |
 
-### c. 各环节解决什么问题（按程序时序）
+### 环节定位（按程序时序）
 
 | 环节（时序） | 它解决的具体问题 | 依据 |
 |---|---|---|
@@ -116,20 +116,20 @@ updated: 2026-11-17
 | ID parade 操作 | 在警方主导辨认的最早时点把偏见压到最低；律师在场即时记录异议才能保住庭上攻击材料〔CR6 L944 "Your role is to ensure that the ID parade is fairly conducted"〕 | ID Parade Book |
 | NCTA | 半程把「取至最高仍不能定罪」的案件滤掉，避免无辜者背辩方举证压力走完全程〔CR6 L1038–L1048 "whether a Jury properly directed may convict rather than"〕 | Galbraith |
 
-### d. 【11 月两连弹】本卡最近的两个 SG 截止点
+### SG 截止点提示（11 月两连弹）
 
 | 倒计时（以 2026-10-10 为基准） | SG 与本卡对应 | 立即要做 |
 |---|---|---|
-| **T-25 日：SG06（2026-11-04 19:00–21:00）** 口供排除 | 角色为 Prosecutor；范围＝披露责任、NCTA、审讯策略（含境外证人）、cautioned statements、voir dires／alternative procedure、**草拟 Notice of Objection**〔CO26 L586 "Role of Prosecutor, duties of disclosure, no case to answer"〕；第三案卷 John Lace 当堂发放 | 0E.6＋0K.3：按 GD26 三栏起草规范预演；往届范本两篇对照（0K.6 行 12–13） |
+| **T-25 日：SG06（2026-11-04 19:00–21:00）** 口供排除 | 角色为 Prosecutor；范围包括披露责任、NCTA、审讯策略（含境外证人）、cautioned statements、voir dires／alternative procedure、**草拟 Notice of Objection**〔CO26 L586 "Role of Prosecutor, duties of disclosure, no case to answer"〕；第三案卷 John Lace 当堂发放 | 0E.6＋0K.3：按 GD26 三栏起草规范预演；往届范本两篇对照（0K.6 行 12–13） |
 | **T-32 日：SG07（2026-11-11 19:00–21:00）** 挑战证供 | Brief A Mohammed（供认＋PC4300 披露＋dock ID）；Brief B Donald（开案偏见＋SFE 边界）；2 Brief 共 7 问，均须课前备齐完整答案〔S7B L60–L65 "Review your LGS 5 – 9 notes"〕 | 0K.4：七问与本卡章节逐问映射＋已有完整答案入口 |
 
 
 
-## 🗺️ 本卡地图（章节位置与阅读顺序，2026-10-10）
+## 🗺️ 本卡地图（章节位置与阅读顺序）
 
 > 本卡按「证据生命周期」排章：取得（披露）→ 进入（挑战）→ 半程（NCTA）→ 后果与 SG；五原则节是学理回扣层，随时可旁插。
 >
-> 本节两件套：**图 1 · 母题结构图**（下一张，Criminal Evidence Disputes 的分支 roadmap＝全流程主干与后果虚线；特别机制图 2 见 0E.7 程序状态机）→ **任务直达表**（按要做的事跳章节）。
+> 本节两件套：**图 1 · 母题结构图**（下一张，Criminal Evidence Disputes 的分支 roadmap 即全流程主干与后果虚线；特别机制图 2 见 0E.7 程序状态机）→ **任务直达表**（按要做的事跳章节）。
 
 **图 1 · 刑事证据争议分支 roadmap（全流程主干与后果虚线）**：
 
@@ -174,16 +174,16 @@ flowchart LR
 
 | 你现在要做什么 | 直达章节 |
 |---|---|
-| 30 秒弄清范围/术语/每环任务/两连弹 | [速读定位层](#速读定位层（30%20秒全景：范围%20·%20术语%20·%20环节任务）) |
-| 向控方追讨未披露材料（含弱点证人/纪律记录） | [0B 控方披露体系](#0B.%20控方披露义务体系（2026-10-10%20深化）) |
-| 回应 s.65B 送达／起草 s.65C 承认事实（SG05） | [0C.5 正式承认接口](#0C.%20辩方披露与通知义务（2026-10-10%20深化）)＋[0K.2](#0K.%20SG%20应用（2026-10-10%20深化；2026-11-15%20重编，材料矩阵移审计留痕）) |
-| 挑选供认异议并搭因果链 | [0D 供认实体挑战](#0D.%20供认可采性的实体挑战（2026-10-10%20深化）) |
-| 起草 Notice of Objection（SG06 核心动作） | [0E.6 Notice 起草规范](#0E.%20挑战程序三件套：Notice%20of%20Objection%20→%20Voir%20Dire%20→%20Alternative%20Procedure（2026-10-10%20深化）)＋[0K.3](#0K.%20SG%20应用（2026-10-10%20深化；2026-11-15%20重编，材料矩阵移审计留痕）) |
-| 在 CFI／DC／MC 各选什么挑战程序 | [0E.1–0E.5](#0E.%20挑战程序三件套：Notice%20of%20Objection%20→%20Voir%20Dire%20→%20Alternative%20Procedure（2026-10-10%20深化）) |
-| 攻击或防御辨认（SG07 Q3 dock ID） | [0F 辨认与弱点证人](#0F.%20辨认证据与易受伤害证人（2026-10-10%20深化）) |
-| 半程申请或反对 NCTA | [0G NCTA](#0G.%20NCTA%20与半程裁决（2026-10-10%20深化）) |
-| 查「某环不做会怎样」 | [0J 后果链总表](#0J.%20环节%20×%20不做后果%20×%20依据%20总表（2026-10-10%20深化；2026-11-15%20重编）) |
-| 11 月两连弹备考（SG06/SG07） | [0K SG 应用](#0K.%20SG%20应用（2026-10-10%20深化；2026-11-15%20重编，材料矩阵移审计留痕）) |
+| 30 秒弄清范围/术语/每环任务/两连弹 | [速读定位层](#速读定位层30-秒全景范围--术语--环节任务) |
+| 向控方追讨未披露材料（含弱点证人/纪律记录） | [0B 控方披露体系](#0b-控方披露义务体系) |
+| 回应 s.65B 送达／起草 s.65C 承认事实（SG05） | [0C.5 正式承认接口](#0c5-s65bs65c-接口定型把无争议证据一次锁死)＋[0K.2](#0k2-sg0510-28s65bc-定型jeff-sham) |
+| 挑选供认异议并搭因果链 | [0D 供认实体挑战](#0d-供认可采性的实体挑战) |
+| 起草 Notice of Objection（SG06 核心动作） | [0E.6 Notice 起草规范](#0e6-notice-of-objection-起草规范sg06-核心gd26往届范本对照)＋[0K.3](#0k-sg-应用) |
+| 在 CFI／DC／MC 各选什么挑战程序 | [0E.1–0E.5](#0e-挑战程序三件套notice-of-objection--voir-dire--alternative-procedure) |
+| 攻击或防御辨认（SG07 Q3 dock ID） | [0F 辨认与弱点证人](#0f-辨认证据与易受伤害证人) |
+| 半程申请或反对 NCTA | [0G NCTA](#0g-ncta-与半程裁决) |
+| 查「某环不做会怎样」 | [0J 后果链总表](#0j-环节--不做后果--依据-总表) |
+| 11 月两连弹备考（SG06/SG07） | [0K SG 应用](#0k-sg-应用) |
 | 学理复盘（五原则） | §1 第一性 → §2 顺向 → §4 控制论 → §5 横向 → §6 逆向 |
 
 
@@ -301,9 +301,9 @@ NCTA成功则无罪；失败只表示须回应，不是预判有罪。最终仍�
 
 
 
-## 0B. 控方披露义务体系（2026-10-10 深化）
+## 0B. 控方披露义务体系
 
-> 主线：**义务性质（积极·持续）→ 时点（三级法院）→ 范围（materiality·unused·不可采）→ 例外（PII·LPP）→ 证人材料 → 辩方边界 → 失灵后果**。主体依据本届 LGS6 讲义（CR6）与投影片（CR6S）；后果链归并 [0J 总表](#0J.%20环节%20×%20不做后果%20×%20依据%20总表（2026-10-10%20深化；2026-11-15%20重编） 行 1–3。
+> 主线：**义务性质（积极·持续）→ 时点（三级法院）→ 范围（materiality·unused·不可采）→ 例外（PII·LPP）→ 证人材料 → 辩方边界 → 失灵后果**。主体依据本届 LGS6 讲义（CR6）与投影片（CR6S）；后果链归并 [0J 总表](#0j-环节--不做后果--依据-总表 行 1–3。
 
 ### 0B.1 义务性质：积极、持续、onerous
 
@@ -379,7 +379,7 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 ### 0B.8 披露失灵后果谱系 → 点题 0J 行 1–3
 
-审前／审中发现：可致押后让辩方研究证据并伴随讼费后果；严重案件可致**永久搁置检控**〔CR6 L174 "it may lead to an adjournment for the Defence to consider"；CR6 L176 "In serious cases, such a failure may lead to a permanent stay"〕。定罪后：构成 material irregularity 或令定罪 unsafe and unsatisfactory → 撤销定罪（*Chong Ho Yin*／*Wong Tin Lung*）；未披露材料可作为新证据在上诉采纳：s.83V CPO／s.118(1)(b) MO〔CR6 L170–L172 "fresh evidence of the undisclosed material may be admitted"〕。投影片另列 ICAC／警方的纪律后果与被告申请永久搁置〔CR6S L145–L155 "Disciplinary consequences for ICAC / police"〕。往届上诉视角：*Ng Chun To Raymond* 要求——非每次不披露都使审讯不公，须「若已披露，陪审团合理可能作出不同裁决的真实可能性」（往届仅参考）〔OLD-SET2EX L259 "NOT every non-disclosure of info. would make a trial unfair"·往届仅参考〕。
+审前／审中发现：可致押后让辩方研究证据并伴随讼费后果；严重案件可致**永久搁置检控**〔CR6 L174 "it may lead to an adjournment for the Defence to consider"；CR6 L176 "In serious cases, such a failure may lead to a permanent stay"〕。定罪后：构成 material irregularity 或令定罪 unsafe and unsatisfactory → 撤销定罪（*Chong Ho Yin*／*Wong Tin Lung*）；未披露材料可被采纳为新证据在上诉：s.83V CPO／s.118(1)(b) MO〔CR6 L170–L172 "fresh evidence of the undisclosed material may be admitted"〕。投影片另列 ICAC／警方的纪律后果与被告申请永久搁置〔CR6S L145–L155 "Disciplinary consequences for ICAC / police"〕。往届上诉视角：*Ng Chun To Raymond* 要求——非每次不披露都使审讯不公，须「若已披露，陪审团合理可能作出不同裁决的真实可能性」（往届仅参考）〔OLD-SET2EX L259 "NOT every non-disclosure of info. would make a trial unfair"·往届仅参考〕。
 
 **实务提示清单**（辩方自查）：看原件不看副本、查实体证物不只看清单、看完全部 unused material、主动及时提出披露请求、按案发时间实地视察〔CR6 L180–L188 "always examine the originals"〕。
 
@@ -395,9 +395,9 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 适用及法源：A2 · R4 披露、证人出庭及主问与盘问。
 
-## 0C. 辩方披露与通知义务（2026-10-10 深化）
+## 0C. 辩方披露与通知义务
 
-> 主线：**四项义务 → 四项不披露 → 自我入罪特权 → 两个正式通知（alibi／expert）→ s.65B/65C 接口定型**。后果链归并 [0J 总表](#0J.%20环节%20×%20不做后果%20×%20依据%20总表（2026-10-10%20深化；2026-11-15%20重编） 行 4–6。
+> 主线：**四项义务 → 四项不披露 → 自我入罪特权 → 两个正式通知（alibi／expert）→ s.65B/65C 接口定型**。后果链归并 [0J 总表](#0j-环节--不做后果--依据-总表 行 4–6。
 
 ### 0C.1 辩方只有四项披露义务
 
@@ -424,15 +424,15 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 | 机制 | 核心规则 | 误用后果 | 引注 |
 |---|---|---|---|
-| s.65B 书面陈述 | 须经 s.65B(2)(3) 形式；**送达后 14 日内反对**，否则自动进入证据（可协议豁免送达与时限）；hearsay 段须删改——s.65B **不是**传闻规则的后门；承认后失去盘问权，仅 s.65B(4)(a)(b)（呈交方获许可补充／任何一方或法庭主动传召）可补救；内容须庭上读出或撮要（s.65B(5)） | 14 日沉睡＝陈述自动入证据；想盘问的点被锁定；对方仍可传证据反驳（但实务上你不会同意你有盘问点的陈述） | 〔CR6 L310 "they must object within 14 days of service"；CR6 L312 "it does not allow the admission of hearsay statements by the back door"；CR6 L314 "you may lose the right to XXN the statement maker"〕 |
-| s.65C 承认事实 | 经签署即 conclusive：不得传召相反证据（*Lam Chi Keung*）；可补充不可矛盾（*Tam Wing Kwong*）；**上诉与重审持续有效**、换律师换战术不改变命运（s.65C(3)；*Wu Wing Hong*）；撤回须许可＋充分理由（如控方未披露导致误认、新证人改变局面）；大律师失职承认是严重指控且罕成功 | 承认即永久：清晰记录、犯罪发生、被告身份、证物链（若挑战毒品性质与重量则**不应**承认证物链！）、医疗证据一旦锁死无从翻案；明知客户有前科却签「clear record」＝误导法庭、违反 Bar Code 10.47/10.60/10.61 | 〔CR6 L328 "conclusive evidence” according to s. 65C(1)"；CR6 L346 "he should not admit the chain of evidence"；CR6 L352–L354 "you need leave of the court and a good reason"；CR6 L364 "This amounts to positively misleading the court"〕 |
+| s.65B 书面陈述 | 须经 s.65B(2)(3) 形式；**送达后 14 日内反对**，否则自动进入证据（可协议豁免送达与时限）；hearsay 段须删改——s.65B **不是**传闻规则的后门；承认后失去盘问权，仅 s.65B(4)(a)(b)（呈交方获许可补充／任何一方或法庭主动传召）可补救；内容须庭上读出或撮要（s.65B(5)） | 14 日沉睡即陈述自动入证据；想盘问的点被锁定；对方仍可传证据反驳（但实务上你不会同意你有盘问点的陈述） | 〔CR6 L310 "they must object within 14 days of service"；CR6 L312 "it does not allow the admission of hearsay statements by the back door"；CR6 L314 "you may lose the right to XXN the statement maker"〕 |
+| s.65C 承认事实 | 经签署即 conclusive：不得传召相反证据（*Lam Chi Keung*）；可补充不可矛盾（*Tam Wing Kwong*）；**上诉与重审持续有效**、换律师换战术不改变命运（s.65C(3)；*Wu Wing Hong*）；撤回须许可＋充分理由（如控方未披露导致误认、新证人改变局面）；大律师失职承认是严重指控且罕成功 | 承认即永久：清晰记录、犯罪发生、被告身份、证物链（若挑战毒品性质与重量则**不应**承认证物链！）、医疗证据一旦锁死无从翻案；明知客户有前科却签「clear record」即误导法庭、违反 Bar Code 10.47/10.60/10.61 | 〔CR6 L328 "conclusive evidence” according to s. 65C(1)"；CR6 L346 "he should not admit the chain of evidence"；CR6 L352–L354 "you need leave of the court and a good reason"；CR6 L364 "This amounts to positively misleading the court"〕 |
 
 **起草纪律**（LGS7 与讲义一致）：承认事实须全面如口头作证（照片：谁拍、何时、何地、拍什么）；客户书面同意并签名副本；双方大律师签署并注日期；可引 bundle 页码与已同意证物；PD 9.3／9.4 亦须遵〔CR6 L368–L378 "you must ensure that they are comprehensive"；CR7 L290–L330 "must comply with the formalities in s. 65B(2)"〕。**为何还承认**：省时省费收窄争点＋主动案件管理；拒绝承认一项其后不争之点，可被判处不利讼费后果〔CR6 L384–L390 "may suffer adverse costs consequences"〕。SG05 的 Exercise 2/3（Jeff Sham 案）是本条最直接的本届应用——**见 0K.2**；⚠️ 14 日反对期另有 PD 9.3 §5.3.7(2) 的 21 日说，冲突登记于 Deadlines 卡 F 节，本卡并列不裁决（SG05 Classroom 已注）。
 
 
-## 0D. 供认可采性的实体挑战（2026-10-10 深化）
+## 0D. 供认可采性的实体挑战
 
-> 主线：**三因素（关联→自愿→剩余裁量）→ 自愿性两阶段测试 → 四类失当行为 → 剩余裁量三类 → 因果联系 → 供认形态**。与既有 0A.4–0A.5 互为表里：0A 是路径图，本节是规则与判例库。后果链归并 [0J 总表](#0J.%20环节%20×%20不做后果%20×%20依据%20总表（2026-10-10%20深化；2026-11-15%20重编） 行 8。
+> 主线：**三因素（关联→自愿→剩余裁量）→ 自愿性两阶段测试 → 四类失当行为 → 剩余裁量三类 → 因果联系 → 供认形态**。与既有 0A.4–0A.5 互为表里：0A 是路径图，本节是规则与判例库。后果链归并 [0J 总表](#0j-环节--不做后果--依据-总表 行 8。
 
 ### 0D.1 三因素与举证责任
 
@@ -455,7 +455,7 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 | 失当行为 | 要点与判例 | 引注 |
 |---|---|---|
 | 暴力／威胁 | 常见问题包括掌掴、拳打、脚踢、不必要上铐或威胁以上；**在供认之后**发生的暴力或威胁不能使该供认非自愿——时机即一切 | 〔CR6 L670 "if the alleged violence or threat of violence is subsequent to"〕 |
-| 利诱 | 被告提议以供认换取好处＋有权人士同意（如保释、较轻控罪）；**自生希望**未被有权人士打消时亦可成立（*Chan Yip-Kan*：暗示可转作控方证人）；有权人士应对之正道：声明无权承诺、只记录并转交控方（*Chau Ching Kay*）；被告主动提出而警方未回应＝自生 | 〔CR6 L676 "An inducement may also exist where the Defendant has a self-generated hope"；CR6 L678 "the Accused’s offer was self-generated"〕 |
+| 利诱 | 被告提议以供认换取好处＋有权人士同意（如保释、较轻控罪）；**自生希望**未被有权人士打消时亦可成立（*Chan Yip-Kan*：暗示可转作控方证人）；有权人士应对之正道：声明无权承诺、只记录并转交控方（*Chau Ching Kay*）；被告主动提出而警方未回应即自生 | 〔CR6 L676 "An inducement may also exist where the Defendant has a self-generated hope"；CR6 L678 "the Accused’s offer was self-generated"〕 |
 | 欺诈虚假陈述 | 令被告以为签署不同性质文件；*Ajodha* 为 leading case | 〔CR6 L680–L682 "The leading case on this is Ajodha v The State"〕 |
 | 压迫 | 每案事实问题：盘问是否压垮或消磨被告自由意志（*R v. Li Wai-fat*）；盘问「不是茶叙」（*Tam Ho Nam (No. 2)*：压迫≠令被告不便或不乐意被问） | 〔CR6 L686 "Was the interrogation such as to overwhelm or sap"〕 |
 
@@ -467,7 +467,7 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 | 类 | 规则与判例 | 引注 |
 |---|---|---|
-| 不公平（unfairness） | 无封闭类别，每案事实问题；含义由「审讯中使用是否不公平」（*SJ v. Lam Tat Ming*）扩展至**取证整体情况的公平**——可看侦查机关整体行为（*Chan Kau Tai* CA）；向 PIA 的自愿供认很少以裁量排除（真正不公平早该归入非自愿）；卧底行动致未警诫、未提醒沉默权 → 较愿以裁量排除 | 〔CR6 L712 "the court must take a broad view of the overall circumstances"；CR6 L714 "the Judge’s residual discretion should be rarely exercised"〕 |
+| 不公平（unfairness） | 无封闭类别，每案事实问题；含义由「审讯中使用是否不公平」（*SJ v. Lam Tat Ming*）扩展至**取证整体情况的公平**——可审视侦查机关整体行为（*Chan Kau Tai* CA）；向 PIA 的自愿供认很少以裁量排除（真正不公平早该归入非自愿）；卧底行动致未警诫、未提醒沉默权 → 较愿以裁量排除 | 〔CR6 L712 "the court must take a broad view of the overall circumstances"；CR6 L714 "the Judge’s residual discretion should be rarely exercised"〕 |
 | 偏见高于证明价值 | 法官恒有此裁量（纵相关可采）；*Noor Mohamed*：控方欲引第一任妻子亦死于氰化物（从未被控）→ PC 裁不可采；必须对读 *Brides in the Bath*；与现代「不公平」类大量重叠 | 〔CR6 L718 "The Judge always has a discretion to exclude evidence where its"〕 |
 | 实质违反 R&Ds | 轻微违反不引致排除；须**重大**（多或严重）；个别根本规则的单一违反亦可（*Fung Wing Ching*：未满 16 岁讯问母亲未在场违 Direction 5 → ROI 不可采）；R&Ds 只约束执法人员（Rule 7） | 〔CR6 L744 "Breaches of the R&Ds must be substantial (i.e. numerous or serious)"；CR6 L746 "only apply to law enforcement officers"〕 |
 
@@ -488,9 +488,9 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 辩方律师指称警方失当行为时，应传召证据支持其主张；作无根基的赤裸指控严重违反伦理（Bar Code paras. 10.41–10.42）〔CR6 L794 "It is hugely unethical for Defence Counsel to make bare assertions"〕。
 
-## 0E. 挑战程序三件套：Notice of Objection → Voir Dire → Alternative Procedure（2026-10-10 深化）
+## 0E. 挑战程序三件套：Notice of Objection → Voir Dire → Alternative Procedure
 
-> 主线：**何时必须开（四场景）→ 何时开（时机三选项）→ 在哪开（陪审团在场/缺席）→ 怎么开（Voir Dire 内序／AP 十一序）→ 怎么写（Notice 起草三栏）→ 开完怎么收尾（Mushtaq／衍生证据／Okafor 理由）**。SG06（2026-11-04）核心动作即本节——后果链归并 [0J 总表](#0J.%20环节%20×%20不做后果%20×%20依据%20总表（2026-10-10%20深化；2026-11-15%20重编） 行 7。
+> 主线：**何时必须开（四场景）→ 何时开（时机三选项）→ 在哪开（陪审团在场/缺席）→ 怎么开（Voir Dire 内序／AP 十一序）→ 怎么写（Notice 起草三栏）→ 开完怎么收尾（Mushtaq／衍生证据／Okafor 理由）**。SG06（2026-11-04）核心动作即本节——后果链归并 [0J 总表](#0j-环节--不做后果--依据-总表 行 7。
 
 ### 0E.1 何时必须开 voir dire：四场景
 
@@ -515,7 +515,7 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 ### 0E.4 裁定理由：Chau Ching Kay 不给＋Okafor 五情形要给
 
-无法定义务必须给附理由的裁定（*Chau Ching Kay* CFA）；但 *Okafor*（Stock V-P）：裁定基础**不清楚**时——拒绝理由不应是秘密，若记录本身已清楚则无须另给；不清楚而无理由＝剥夺有意义上诉，构成法律错误〔CR6 L798–L804 "if the basis for the decision is not clear from the circumstances"〕。**应给理由的五种情形（非穷尽）**：①有重大 R&Ds 违反仍行使裁量**收取**；②裁定取决于困难或新颖法律点（须显示已掌握并正确处理）；③重要争点上证人供词明显互斥，收取时应至少扼要解释矛盾如何解决或为何无碍；④认定侦查机关有不当行为却仍裁自愿（除非理由在记录上显而易见）；⑤前一份被排除而后一份被收取（须知悉后一份为何不受前一份情事感染）〔CR6 L802 "(5) where an earlier statement against interest was ruled inadmissible"〕。
+无法定义务必须给附理由的裁定（*Chau Ching Kay* CFA）；但 *Okafor*（Stock V-P）：裁定基础**不清楚**时——拒绝理由不应是秘密，若记录本身已清楚则无须另给；不清楚而无理由即剥夺有意义上诉，构成法律错误〔CR6 L798–L804 "if the basis for the decision is not clear from the circumstances"〕。**应给理由的五种情形（非穷尽）**：①有重大 R&Ds 违反仍行使裁量**收取**；②裁定取决于困难或新颖法律点（须显示已掌握并正确处理）；③重要争点上证人供词明显互斥，收取时应至少扼要解释矛盾如何解决或为何无碍；④认定侦查机关有不当行为却仍裁自愿（除非理由在记录上显而易见）；⑤前一份被排除而后一份被收取（须知悉后一份为何不受前一份情事感染）〔CR6 L802 "(5) where an earlier statement against interest was ruled inadmissible"〕。
 
 ### 0E.5 MC/DC 的 Alternative Procedure：完整十一序
 
@@ -535,7 +535,7 @@ MC/DC 通常用 AP 而少见 voir dire（例外：供认是唯一证据时，或
 10. 辩方就**一般争点**作 NCTA 陈词 → 法官裁定；
 11. 有案可答 → 辩方案情开始；被告作证可就被打、被诱等指控作证；**若被告不作证，其在特别争点的证供不予采纳**〔CR6 L824–L862 "all the evidence on the issue of admissibility must be heard before the close"〕。
 
-**裁定后**：供认被排除＝到此为止——陪审团不应听到，独任法官不得写入 Reasons for Verdict；供认被收、被告仍主张被打被诱 → **Mushtaq 方向**（纵被告否认作出亦须给，*Pang Hiu San*；SJD 58／113）〔CR6 L864 "nor should a judge sitting alone consider it in his Reasons for Verdict"〕。
+**裁定后**：供认被排除即到此为止——陪审团不应听到，独任法官不得写入 Reasons for Verdict；供认被收、被告仍主张被打被诱 → **Mushtaq 方向**（纵被告否认作出亦须给，*Pang Hiu San*；SJD 58／113）〔CR6 L864 "nor should a judge sitting alone consider it in his Reasons for Verdict"〕。
 
 ### 0E.6 Notice of Objection 起草规范（SG06 核心，GD26＋往届范本对照）
 
@@ -575,9 +575,9 @@ stateDiagram-v2
 **图后依据**：两路程序分工与「供认被排除则控证可能不足 NCTA」的挂钩见 0A.6 既有流程图与 0E.5；陪审团前处理的罕见策略与 Wong Yun-fat 风险见 0E.2。〔CR6 L784–L786 "he should do so as part of the Defence case"；CR6 L842–L858 "The Defendant can make a NCTA submission on special issue"〕
 
 
-## 0F. 辨认证据与易受伤害证人（2026-10-10 深化）
+## 0F. 辨认证据与易受伤害证人
 
-> 主线：**两问（可采性 vs 证明力）→ Turnbull 指引 → ID parade → 其他辨认形态 → dock ID → 弱点证人四型×三程序＋CRHO**。后果链归并 [0J 总表](#0J.%20环节%20×%20不做后果%20×%20依据%20总表（2026-10-10%20深化；2026-11-15%20重编） 行 9–10。
+> 主线：**两问（可采性 vs 证明力）→ Turnbull 指引 → ID parade → 其他辨认形态 → dock ID → 弱点证人四型×三程序＋CRHO**。后果链归并 [0J 总表](#0j-环节--不做后果--依据-总表 行 9–10。
 
 ### 0F.1 辨认争议的两种问法
 
@@ -610,7 +610,7 @@ stateDiagram-v2
 | Identikit | 与照片同基础或先前辨认基础可采 | 〔CR6 L988 "admissible either on the same basis as photographs"〕 |
 | 社交媒体 | *Alexander & McGill*：可采，但须把辨认情况（看了哪些照片、如何辨认）完整呈堂让陪审团评估 | 〔CR6 L990 "it is important that the circumstances of the identification"〕 |
 | 笔迹 | 先证真确才可采：作者／目击者／认得笔迹者证明；s.17 EO 准证人比对真确样本；裁判官不应在无专家证据下自行比对（*Cheng Chi-wai*） | 〔CR6 L998 "Magistrate should not compare handwriting samples himself"〕 |
-| 指纹 | 可作辨认证据；**欠缺指纹**亦可被辩方用来请陪审团作有利推论——*Hoang Gia Huan*：法官「欠缺指纹证明不了什么」属误指；单一指纹在恰当证明下可定罪（*Chiu Wai Keung* 锁房内指纹推定） | 〔CR6 L1000 "the absence of D’s fingerprints proves nothing one way"〕 |
+| 指纹 | 可用作辨认证据；**欠缺指纹**亦可被辩方用来请陪审团作有利推论——*Hoang Gia Huan*：法官「欠缺指纹证明不了什么」属误指；单一指纹在恰当证明下可定罪（*Chiu Wai Keung* 锁房内指纹推定） | 〔CR6 L1000 "the absence of D’s fingerprints proves nothing one way"〕 |
 | 鞋印／耳印／血型／DNA | 鞋印最多归入群组（*R v T*）；耳印可采但可靠性动摇可致重审（*Dallagher*）；血型只示人群比例；DNA 无「独一无二」——专家只讲匹配特征与 random occurrence ratio，是否被告所留由陪审团定（*Doheny and Adams*；SJD 43） | 〔CR6 L1004–L1010 "an expert witness should not be asked to provide his opinion on the likelihood"〕 |
 
 ### 0F.5 Dock ID：三许可＋两 may＋禁区
@@ -619,7 +619,7 @@ stateDiagram-v2
 
 **可容许三种**（*Christie*）：① 证人与被告相识，庭上只是确认栏中人即所识之人；② 原始辨认情况良好、辨认不见有争——如**拘捕警员在庭上指认其所拘捕的被告**；③ 证人案发后**很快**已指认被告〔CR6 L1018 "the witness has identified the Defendant very soon after"〕。**另可（may）容许两种**：被告拒绝参加 ID parade；找不到外貌相近演员（如被告 6 呎 9 吋）——但两情形下控方应先安排 group／confrontation 而非径用 dock ID〔CR6 L1020 "the Prosecution should arrange alternative forms of ID"〕。**禁区**：证人首次被要求辨认且无事先安排的辨认；警方安排过 earlier ID 而证人未能认出被告〔CR6S L764–L766 "When it is the first time the witness is being asked to identify D"〕。*SG07 已核更正*：讲义文本即上述三许可，旧写「曾被合法羁押／辨认处理一部分」不确；*Christie* 年份 [1914]（SG07 原稿）与 [1945]（本届讲义两处）两说并存不裁决〔S7B L97–L102 "Should you object to the identification of Mohammed by"；CR6 L1018 "R v. Christie [1945] AC 545"〕。
 
-证人忘记在行列中认出谁：OC Parade 可作证当日行列中被告被指认（*Osbourne & Virtue*；*Tang Chi-Keung*）——其性质是证人记得认过人只忘记认谁，属 original evidence 非传闻后门；证人**完全不记得有指认**时能否引入，CA 有「最严重怀疑」（*Lam Wai Ming*，往届投影片注）〔CR6 L1024 "was admissible as it was evidence of identification other than identification in court"；OLD-LG6S L753 "expressing the “gravest of doubts” that Osbourne applied"·往届仅参考〕。今日行列多已录像，可避免此问题〔CR6 L1028 "such issues could also be resolved with the introduction of the video recording"〕。**庭上不得**要求被告按要求动作或展示身体部位以助比对（*SJ v. Wong Chi Wing*：露齿比对 CCTV → 定罪撤销；侦查阶段可要求配合，审讯中被告角色完全被动）〔CR6 L1030 "D’s role at trial is entirely passive"〕。
+证人忘记在行列中认出谁：OC Parade 可证明当日行列中被告被指认（*Osbourne & Virtue*；*Tang Chi-Keung*）——其性质是证人记得认过人只忘记认谁，属 original evidence 非传闻后门；证人**完全不记得有指认**时能否引入，CA 有「最严重怀疑」（*Lam Wai Ming*，往届投影片注）〔CR6 L1024 "was admissible as it was evidence of identification other than identification in court"；OLD-LG6S L753 "expressing the “gravest of doubts” that Osbourne applied"·往届仅参考〕。今日行列多已录像，可避免此问题〔CR6 L1028 "such issues could also be resolved with the introduction of the video recording"〕。**庭上不得**要求被告按要求动作或展示身体部位以助比对（*SJ v. Wong Chi Wing*：露齿比对 CCTV → 定罪撤销；侦查阶段可要求配合，审讯中被告角色完全被动）〔CR6 L1030 "D’s role at trial is entirely passive"〕。
 
 ### 0F.6 易受伤害证人：四型 × 三程序＋CRHO
 
@@ -628,7 +628,7 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 | 程序 | Child | 精神上无行为能力 | 恐惧证人 | 性罪行事主 | 关键规则 |
 |---|---|---|---|---|---|
 | Live TV Link（s.79B） | ✔ | ✔（含被告） | ✔（任何程序） | ✔（s.79B(4A)） | 须许可；法庭亦可主动；作证处所视为法庭一部分（s.79B(5)）〔CR6 L508 "is deemed to be part of the Courtroom"〕 |
-| Video Recorded Evidence（s.79C） | ✔ | ✔（含被告） | ✘ | ✘ | 「adult」＝警员或政府雇用社工／临床心理学家；许可**应**批，除非 s.79C(4)：证人不能接受盘问／录像情况未按规则披露／按司法利益不应收取；证人仍须到庭受盘问（不问录像覆盖内容；s.79C(6)）〔CR6 L522 "the witness must be called by party tendering the recording"〕 |
+| Video Recorded Evidence（s.79C） | ✔ | ✔（含被告） | ✘ | ✘ | 「adult」指警员或政府雇用社工／临床心理学家；许可**应**批，除非 s.79C(4)：证人不能接受盘问／录像情况未按规则披露／按司法利益不应收取；证人仍须到庭受盘问（不问录像覆盖内容；s.79C(6)）〔CR6 L522 "the witness must be called by party tendering the recording"〕 |
 | Deposition（s.79E） | ✔ | ✔（含被告） | ✘ | ✘ | 申请人须证明 (a) 有充分理由审讯无法不延或 (b) 全面审讯会危害证人身心健康；裁判官监誓录取、对方面前可盘问；被涵盖事项其后不得再问（s.79E(8)，许可例外）〔CR6 L544 "shall not be examined in chief or cross-examined in any subsequent hearing"〕 |
 
 三程序可**组合**（录像作 EIC＋Live TV Link 受盘问）；另 PD 9.5 与 Cap 221J 规则配套；SJD 38〔CR6 L486–L492 "a video recording is admitted under s. 79C for a child"；CR6 L524 "See Specimen Jury Direction 38"〕。**s.79F Notice of Transfer**：儿童（性虐／残忍／伤人罪行）或精神上无行为能力人士受害、DPP 认为证据足够交付且不延误关乎其福祉——可在被告选择初级侦讯**前**送达转移通知书（*裁判官无酌情拒绝权*）；被告另可按 s.79G 在 CFI 提堂前申请撤销（成立即作无罪处理，SJ 可依 s.81E(3) 上诉）〔CR6 L550–L560 "the Magistrate has no discretion to refuse the request for transfer"〕。**CRHO（Cap. 654，2025 年 3 月生效）**：原 Part 3B（境外证人 s.79I）被废除；s.6(2) 刑事审讯属「excluded proceedings」不得远程，但 s.6(4)(5) 容许为**个别证人**作远程作证令（国安听证除外）——法官须按 s.9 因素信纳符合司法利益〔CR6 L562–L566 "can make an order for a witness to an excluded proceeding to be able to testify"〕。SG06 大纲已列「境外证人作证」议题——本节即其依据〔CO26 L586 "trial strategies including whether a witness who is overseas can testify"〕。
@@ -647,7 +647,7 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 
 [Zabed Ali（CFA 原判）](https://babelcite.com/case/25694)；〔CR5 L750 "what was the matter in issue"〕。B2 · R11 类似事实与验尸报告。
 
-## 0G. NCTA 与半程裁决（2026-10-10 深化）
+## 0G. NCTA 与半程裁决
 
 > 主线：**Galbraith 两肢 → 2021 参考四点 → 迟来 NCTA 例外 → 上下游（s.16/s.79G discharge、s.81D 参考、s.81AA-AAJ 上诉）→ 战术清单**。与既有 0A.8 互为表里。
 
@@ -674,11 +674,11 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 
 ### 0G.4 战术抉择清单
 
-提出前先问：是否有**要件性缺口**（如辨认成争却无辨认证据、无化验师证书证粉末）？XXN 是否已把控方证人打成「inherently weak／tenuous／riddled with inconsistencies」？**等待结案陈词是否更好**（届时控方须 BRD，门槛高得多）？陈词被驳回后结案陈词重提是否会被淡化？法官有无从提问透露的信号？客户与律师行的看法？**用判例 own words 造句**〔CR6 L1086–L1102 "Use the words and phrases from the case law to persuasive effect"〕。往届应考注：法官只拣有利证人片段而不看整体＝误用测试（*R v Shippey*「pick out the plums and leave the duff」，往届仅参考）〔OLD-SET2EX L254 "The Trial J failed to apply the Galbraith test properly"·往届仅参考〕。另条提醒：结案阶段间接证据须是「only reasonable／irresistible」推论——比 NCTA 的「合理可能」高得多，两段门槛不要混〔CR6S L825 "if another reasonable inference can be drawn in D’s favour"〕。
+提出前先问：是否有**要件性缺口**（如辨认成争却无辨认证据、无化验师证书证粉末）？XXN 是否已把控方证人打成「inherently weak／tenuous／riddled with inconsistencies」？**等待结案陈词是否更好**（届时控方须 BRD，门槛高得多）？陈词被驳回后结案陈词重提是否会被淡化？法官有无从提问透露的信号？客户与律师行的看法？**用判例 own words 造句**〔CR6 L1086–L1102 "Use the words and phrases from the case law to persuasive effect"〕。往届应考注：法官只拣有利证人片段而不看整体即误用测试（*R v Shippey*「pick out the plums and leave the duff」，往届仅参考）〔OLD-SET2EX L254 "The Trial J failed to apply the Galbraith test properly"·往届仅参考〕。另条提醒：结案阶段间接证据须是「only reasonable／irresistible」推论——比 NCTA 的「合理可能」高得多，两段门槛不要混〔CR6S L825 "if another reasonable inference can be drawn in D’s favour"〕。
 
 
 
-## 0I. 攻防与核对清单（2026-11-15 对齐四级蓝图）
+## 0I. 攻防与核对清单
 
 > 本节把 SG06／SG07 备考动作与 0E.6 Notice 起草规范压成三段核对清单；规则与引注回 0C–0G 对应节。控方端合规要点（辩方攻击点清单）一并列。
 
@@ -695,19 +695,19 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 披露持续义务（0B.1–0B.3）、PII 须 articulation（0B.4）、警诫与同步记录（12 卡接口）、ID parade 程序与律师在场（0F.3）、Turnbull 方向无遗漏（0F.2）、65B 送达与 14 日窗、85A 五件与 alibi ≥10 日——逐项对应 0J 总表行 1–12。
 
 
-## 0J. 环节 × 不做后果 × 依据 总表（2026-10-10 深化；2026-11-15 重编）
+## 0J. 环节 × 不做后果 × 依据 总表
 
-> 对应 §18.6：把「不做／迟做会怎样」集中在一张总表，正文各环节以其行号回点（0B.8→行1–3、0C.4→行4–5、0C.5→行6、0D→行8、0E→行7、0F→行9–10、0G→行11–12）。【自动后果】＝无需对方动作即发生；【制裁暴露】＝对方或法院可启动的不利后果；【举证负担】＝想止血者要证明什么；【救济门槛】＝按哪条规则补救。库内无明文处如实标「库内无明文」并进 open 块 O-13.4，不臆造。
+> 对应 §18.6：把「不做／迟做会怎样」集中在一张总表，正文各环节以其行号回点（0B.8→行1–3、0C.4→行4–5、0C.5→行6、0D→行8、0E→行7、0F→行9–10、0G→行11–12）。【自动后果】指无需对方动作即发生；【制裁暴露】指对方或法院可启动的不利后果；【举证负担】指想止血者要证明什么；【救济门槛】指按哪条规则补救。库内无明文处如实标「库内无明文」并进 open 块 O-13.4，不臆造。
 
 | # | 程序环节 | 不做／迟做的状态 | 后果链（自动／制裁暴露／举证／救济门槛） | 规则与材料依据 |
 |---|---|---|---|---|
-| 1 | 控方披露相关材料的持续义务 | 未披露应披露材料（used＋unused） | 【制裁暴露·审中】押后让辩方研究，伴随讼费后果；严重案件可致永久搁置检控。【自动后果·审后】构成 material irregularity 或令定罪 unsafe and unsatisfactory → 可撤销定罪（*Chong Ho Yin*／*Wong Tin Lung*／*Gao Heija*／*Wong Yuk Lam* 同线）。【救济门槛】上诉中未披露材料可作新证据采纳：s.83V CPO／s.118(1)(b) MO；*Ng Chun To Raymond*：须达「若已披露，陪审团合理可能有不同裁决的真实可能性」（往届应考整理，往届仅参考） | 〔CR6 L170–L176 "may be a material irregularity or render the conviction unsafe"；CR6 L172 "fresh evidence of the undisclosed material may be admitted"；CR6S L145–L155 "Permanent stay of proceedings"〕 |
+| 1 | 控方披露相关材料的持续义务 | 未披露应披露材料（used＋unused） | 【制裁暴露·审中】押后让辩方研究，伴随讼费后果；严重案件可致永久搁置检控。【自动后果·审后】构成 material irregularity 或令定罪 unsafe and unsatisfactory → 可撤销定罪（*Chong Ho Yin*／*Wong Tin Lung*／*Gao Heija*／*Wong Yuk Lam* 同线）。【救济门槛】上诉中未披露材料可被采纳为新证据：s.83V CPO／s.118(1)(b) MO；*Ng Chun To Raymond*：须达「若已披露，陪审团合理可能有不同裁决的真实可能性」（往届应考整理，往届仅参考） | 〔CR6 L170–L176 "may be a material irregularity or render the conviction unsafe"；CR6 L172 "fresh evidence of the undisclosed material may be admitted"；CR6S L145–L155 "Permanent stay of proceedings"〕 |
 | 2 | 不及时辨识并请求具体材料 | 不点名、不及时请求（如 CCTV） | 【自动后果】证据随时间流失——义务在控方但灭失在案外；良好实务是及时点名请求以保全。【举证负担】事后想追：只能回头争「本应披露而未披露」→ 回到行 1 的不公测试 | 〔CR6 L72 "it is good practice to make such requests on a timely basis to preserve"；CR6 L180–L188 "be proactive in making a request for disclosure"〕 |
 | 3 | 不查阅 unused material | 只看控方拟用证据 | 【自动后果】失去「train of enquiry」的起点——unused／不可采材料可能引向新争点或可采证据；【举证负担】庭上才知存在时，要重新论证延误与不公 | 〔CR6 L136 "may lead the Defendant on a train of enquiry"；CR6 L184 "ensure you view ALL unused material"〕 |
 | 4 | 不交 alibi 通知（10 日前） | 开审前 10 日内才首次披露 alibi | 【制裁暴露】可以**完全不得传召**该 alibi 证据；纵法官裁量准许，迟通知**削弱分量**；MC 无明文但控方可求押后＋讼费后果。【举证负担】求法官裁量放行的一方须解释迟误；【救济门槛】法官剩余裁量（无条文硬阻） | 〔CR6 L242 "the Prosecution may request an adjournment if they have not been given notice"；CR6 L244–L246 "Failing to comply with the statutory provisions may mean the alibi cannot be called"；CR6S L190 "Cannot call evidence at trial."〕 |
 | 5 | 不按 s.65DA 交换专家证据 | 未尽快提供专家陈述／记录 | 【自动后果】未经许可不得援引该专家证据（s.65DA(5)）。【制裁暴露】押后＋wasted costs；*Lai Chee Ying*：首天才交 → 既非「尽快」又不相关，许可被拒绝。【举证负担】求许可者须证「尽快」与相关性 | 〔CR6 L278 "cannot be adduced at the trial without leave of the court"；CR6 L280 "on this basis, leave was denied"〕 |
 | 6 | 14 日内不反对 s.65B 陈述 | 收到 s.65B 通知后沉睡 | 【自动后果】陈述**自动进入证据**，等同口头作证；盘问权缩水至 s.65B(4)(a)(b)（呈交方获许可补充／任何一方或法庭主动传召）。【举证负担】想再盘问须说服法庭行使 s.65B(4) 留下的许可空间。【⚠️ 并行口径】PD 9.3 §5.3.7(2) 作 21 日——冲突登记于 Deadlines 卡，本表不裁决 | 〔CR6 L310 "they must object within 14 days of service"；CR6 L314 "Section 65B(4) provides that, with leave of the court"；CR7 L298 "Failure to object within the time limit means the statement is admitted"〕 |
-| 7 | Notice of Objection 写空泛／迟来／泄露防线 | 无日期时间言词的概括反对；内部矛盾；把全部抗辩写进通知 | 【制裁暴露】控方无从回应 → 反对在法庭前被弱化；具体争点是控方主问越界的界线（*Wong Tak-ming*：EIC 只能一般性问失当，细节不得触及——Notice 写得越虚，控方主问空间越大）。【自动后果】起草不符 GD26 三栏（CONTENT 具体基础／STRUCTURE 时序＋所求／PRESENTATION tramlines 标示对象）＝职业形式失分。【库内无明文】「迟交 Notice 即失 challenge 权」无明文 → open O-13.4 | 〔GD26 L14 "Grounds should be specific – give dates, times, location, identity"；CR6 L820 "The Prosecutor can ask general questions regarding misconduct"〕 |
+| 7 | Notice of Objection 写空泛／迟来／泄露防线 | 无日期时间言词的概括反对；内部矛盾；把全部抗辩写进通知 | 【制裁暴露】控方无从回应 → 反对在法庭前被弱化；具体争点是控方主问越界的界线（*Wong Tak-ming*：EIC 只能一般性问失当，细节不得触及——Notice 写得越虚，控方主问空间越大）。【自动后果】起草不符 GD26 三栏（CONTENT 具体基础／STRUCTURE 时序＋所求／PRESENTATION tramlines 标示对象）即职业形式失分。【库内无明文】「迟交 Notice 即失 challenge 权」无明文 → open O-13.4 | 〔GD26 L14 "Grounds should be specific – give dates, times, location, identity"；CR6 L820 "The Prosecutor can ask general questions regarding misconduct"〕 |
 | 8 | 不按「次」建供认时间轴 | 多份供认混作一团、因果链断裂 | 【自动后果】异议因果落空：在供认**之后**的失当行为不能使该供认非自愿；前一份被排除不必然决定后一份——逐份证明影响未消散（*Leung Kit-ling* 三因素：时距／换人／对象特质）。【举证负担】「若非该行为不会供认」的因果联系由主张方建立 | 〔CR6 L670 "it cannot render the confession involuntary. Timing is everything!"；CR6 L688–L692 "the length of time in between the oppression"；CR6 L756–L758 "had the effect of the threat, inducement, oppression, fraudulent misrepresentation dissipated"〕 |
 | 9 | ID parade 不在场、不即时记录瑕疵 | 律师缺席或不记录组成／程序问题 | 【自动后果】瑕疵通常只去**分量**不去可采性——不经记录就没有攻击材料（*Yip Keung* 属可导致排除的更重度瑕疵，程度问题）；即时反对组成并记录理由才有日后再排的资本。【救济门槛】庭上作 Turnbull／分量攻击 | 〔CR6 L934 "Failure to follow ID parade procedures may lead to the ID evidence being excluded"；CR6 L944–L968 "you take detailed, accurate notes of what occurred"；CR6 L970 "it may affect the weight to be attached to the ID evidence"〕 |
 | 10 | 法官漏给／不给 Turnbull 方向；辨认成争却不备 Turnbull 攻击 | 全部或大部依赖辨认而方向缺漏 | 【自动后果】**定罪可被推翻**（指引第七项）；法官应按指引：特别谨慎警告＋理由＋贴近情形＋具体弱点＋支持证据＋强弱总结；辨认质量差且无支持证据应**撤离陪审团**。【举证负担（辩方）】辨认案情须先把「辨认是否成争」站稳——不争辨认或仅一般描述（*Slater*／*Gayle*）则方向非必须 | 〔CR6 L908 "Failure to follow the Turnbull guidelines is likely to lead"；CR6 L902 "the Judge should withdraw the case from the Jury unless there is other evidence"；CR6 L896 "a mistaken witness can be a convincing one"〕 |
@@ -717,7 +717,7 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 **点题（以材料为据）**：三大高频后果——①**披露失职的推翻风险**：Gao Heija／Wong Tin Lung／Chong Ho Yin／Wong Yuk Lam 四案均因未披露而推翻定罪，并伴审中押后＋讼费与严重时永久搁置（行 1–3）；②**迟交反对通知**：s.65B 的 14 日沉睡令陈述自动入证据（行 6）、Notice 空泛削弱反对并扩大控方主问空间（行 7）、alibi／expert 两个正式通知的时限失守（行 4–5）；③**ID 程序瑕疵的证据削弱**：parade 瑕疵原则上去分量、重者方可排除（行 9），而法官漏给 Turnbull 方向则直接换来定罪被推翻（行 10）。所有行均可回正文对应小节取操作细节。
 
 
-## 0K. SG 应用（2026-10-10 深化；2026-11-15 重编，材料矩阵移审计留痕）
+## 0K. SG 应用
 
 > 对应深度合同「SG 应用」。本节把本卡四场覆盖 SG（SG04/05/06/07）逐一挂接任务、章节与现成成果；时间以课表登记与本届学生册为据。
 
@@ -731,7 +731,7 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 | 2026-10-10（今）16:00–18:30 | **LG6 授课**（工作表6!G13:G27） | **本卡主体讲义的授课日**——课堂口径／答疑到货后补 0B–0G（open O-13.6） |
 | 2026-10-21（T-11） | **SG04** 19:00–21:00（工作表8!D13:D28） | brief 与证据争点；Letter of Advice＋O.N.E. 纸本交件（SG05 Classroom 交件槽） |
 | 2026-10-28（T-18） | **SG05** 19:00–21:00（工作表9!D15:D30） | s.65B／s.65C 定型（Jeff Sham）；**Brief to Counsel 纸本交件**〔S5B L60 "YOU SHOULD HAND IN YOUR COMPLETED BRIEF TO COUNSEL"〕 |
-| 2026-11-04（T-25） | **SG06** 19:00–21:00（工作表10!D13:D27）【弹】 | 口供排除；**第三案卷 John Lace 当堂发放**（CO26 :132）；范围＝披露／NCTA／境外证人／cautioned statements／voir dires／**Notice 起草**（CO26 L586–L591） |
+| 2026-11-04（T-25） | **SG06** 19:00–21:00（工作表10!D13:D27）【弹】 | 口供排除；**第三案卷 John Lace 当堂发放**（CO26 :132）；范围包括披露／NCTA／境外证人／cautioned statements／voir dires／**Notice 起草**（CO26 L586–L591） |
 | 2026-11-11（T-32） | **SG07** 19:00–21:00（工作表11!D12:D26）【弹】 | 挑战证供 Mohammed（Q1 供认／Q2 披露／Q3 dock ID）＋Donald（Q1 开案／Q2 SFE 边界）；2 Brief 共 7 问 |
 
 ### 0K.2 SG05（10-28）：s.65B/C 定型——Jeff Sham
@@ -802,7 +802,7 @@ SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思
 | 两种证明闸门 | no case的prima facie测试与最终beyond reasonable doubt标准不同。 | 〔CR6 L1058–L1060 "Practically, the threshold on the Prosecution to establish a ‘case to answer’ is very"〕 |
 | 失去shield条件 | 被告作证时的bad character shield及失去保护情形须按s.54(1)(f) CPO等逐项检查。 | 〔CR5 L638–L650 "If the Defendant does have previous convictions and if the Defendant’s testimony or the"〕 |
 | 品格用途 | 信用与犯罪倾向是不同用途，不能把信用上的坏品格自动作为有罪倾向。 | 〔CR5 L662 "Why does it matter if the Defendant is XXN’d on his previous convictions? Answer:"〕 |
-| 相似事实 | similar fact evidence须考虑关联及偏害，并检查法庭许可，不是另有坏事就可加入。 | 〔CR5 L756 "Where the Prosecution seeks to admit Similar Fact Evidence, they can only do so"〕 |
+| 相似事实 | similar fact evidence须考虑关联及偏害，并检查法庭许可，并非另有不法行为即可纳入。 | 〔CR5 L756 "Where the Prosecution seeks to admit Similar Fact Evidence, they can only do so"〕 |
 | 良好品格 | good character的信用及倾向方向有不同作用，须看被告作证／审前陈述状态。 | 〔CR5 L768–L774 "While a Defendant’s bad character only goes to his credibility, but not his propensity,"〕 |
 | 滥用程序两路 | 区分无法公平审讯与即使可公平审讯仍损害司法完整性的滥用；不能混成一项口号。 | 〔CR5P L146–L147 "- Fair trial is impossible and to continue would be abuse of process e.g."〕 |
 
@@ -811,7 +811,7 @@ SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思
 
 ## 4. 办案流程控制与关键节点核查
 
-> 建模目的：把"读过讲义"变成可检查的状态。法定条件见第 3 节。主闭环＝状态 → 触发事实 → 决策点 → 行动 → 反馈（制裁）→ 补救；每行的后果归并 0J 总表。基础核对四项如下，主闭环六变量随后。
+> 建模目的：把"读过讲义"变成可检查的状态。法定条件见第 3 节。主闭环为状态 → 触发事实 → 决策点 → 行动 → 反馈（制裁）→ 补救；每行的后果归并 0J 总表。基础核对四项如下，主闭环六变量随后。
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 |---|---|---|
@@ -822,12 +822,12 @@ SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（制裁） | 补救 |
 |---|---|---|---|---|---|
-| **M＝材料台账**（已收披露／请求记录／unused 清单） | 新指控／新阶段／控方证据包到 | 还差什么材料？谁手里？涉 PII／LPP 吗？ | 书面点名请求＋设复函死线；未见回覆写第二封 | 庭中才发现 → 押后＋讼费（0J 行 1） | 申请方向／押后；严重不公考虑 stay（0B.8） |
-| **C＝供认台账**（每次供认一张时间轴） | 客户陈述与警方记录不一致 | 异议对象是哪一份？因果接得上吗（0D.3/0D.5）？ | 逐份建轴＋选异议层（非自愿／裁量／备位） | 锁定错供认对象 → 因果落空（0J 行 8） | 补建轴后重排 Notice（GD26 CONTENT） |
-| **N＝程序闸门**（Notice→裁定→Mushtaq） | 诉前／PTR 是否已书面通知反对 | voir dire 还是 AP？陪审团在场策略（0E.2）？ | 按 GD26 起草并送达；记录反对入庭册 | Notice 空泛 → 反对削弱（0J 行 7） | 庭上即时口头补充＋请求记录（0E.2 时机） |
-| **I＝辨认台账**（每证人一列） | 案情是否全部／大部依赖辨认 | 可采性争点还是 weight 争点（0F.1）？ | parade 在场记录／要求 Turnbull 方向 | 漏 Turnbull → 推翻风险（0J 行 10） | RFV 中检验法官是否「知悉并贴近」（0F.2） |
-| **S＝案件强度仪表盘**（要件逐项） | 控方案情将尽 | NCTA 还是留到结案（0G.4）？ | 要件缺口列清单＋客户授权 | 乱提 → 结案陈词被预判（0J 行 12） | 不成立即转入辩方案情（NCTA 失败≠有罪） |
-| **R＝裁决记录**（理由／裁定时刻／可用证据范围） | voir dire／AP 裁定作出 | 理由是否够奠定上诉（Okafor 五情形，0E.4）？ | 请求理由／确认记录完整 | 理由缺失 → 上诉被削（0E.4） | 上诉时主「应有的复审被剥夺」 |
+| **M：材料台账**（已收披露／请求记录／unused 清单） | 新指控／新阶段／控方证据包到 | 还差什么材料？谁手里？涉 PII／LPP 吗？ | 书面点名请求＋设复函死线；未见回覆写第二封 | 庭中才发现 → 押后＋讼费（0J 行 1） | 申请方向／押后；严重不公考虑 stay（0B.8） |
+| **C：供认台账**（每次供认一张时间轴） | 客户陈述与警方记录不一致 | 异议对象是哪一份？因果接得上吗（0D.3/0D.5）？ | 逐份建轴＋选异议层（非自愿／裁量／备位） | 锁定错供认对象 → 因果落空（0J 行 8） | 补建轴后重排 Notice（GD26 CONTENT） |
+| **N：程序闸门**（Notice→裁定→Mushtaq） | 诉前／PTR 是否已书面通知反对 | voir dire 还是 AP？陪审团在场策略（0E.2）？ | 按 GD26 起草并送达；记录反对入庭册 | Notice 空泛 → 反对削弱（0J 行 7） | 庭上即时口头补充＋请求记录（0E.2 时机） |
+| **I：辨认台账**（每证人一列） | 案情是否全部／大部依赖辨认 | 可采性争点还是 weight 争点（0F.1）？ | parade 在场记录／要求 Turnbull 方向 | 漏 Turnbull → 推翻风险（0J 行 10） | RFV 中检验法官是否「知悉并贴近」（0F.2） |
+| **S：案件强度仪表盘**（要件逐项） | 控方案情将尽 | NCTA 还是留到结案（0G.4）？ | 要件缺口列清单＋客户授权 | 乱提 → 结案陈词被预判（0J 行 12） | 不成立即转入辩方案情（NCTA 失败≠有罪） |
+| **R：裁决记录**（理由／裁定时刻／可用证据范围） | voir dire／AP 裁定作出 | 理由是否够奠定上诉（Okafor 五情形，0E.4）？ | 请求理由／确认记录完整 | 理由缺失 → 上诉被削（0E.4） | 上诉时主「应有的复审被剥夺」 |
 
 **三类反模式（该闭环专门捕）**：(1) 把「控方会用」误当「全部已知」——断在 M（0J 行 2–3）；(2) 把「这份供认」与「那份供认」混在一起——断在 C（0J 行 8）；(3) 把「觉得证据弱」当「没有 prima facie」——断在 S（0G.1 门槛）。
 
@@ -856,8 +856,8 @@ SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思
 
 | 客户目标 | 从目标倒推所需材料、工具与代价 |
 |---|---|
-| 排除口供 | 具体指明自愿性或其他准入问题及事实基础——不是只说警方不可信。倒推链（E1）：裁定不可采 → 特别争点证据＋陈词 → Notice 具体基础 → 每次供认时间轴上有失当行为＋因果未消散 → 客户指示清晰；关键文件＝VRI／ROI 正本、custody 记录、翻译与饮食休息记录、客户 sign 的指示笔录；断环：混错供认对象（→0J 行 8）、Notice 只有「警方行为不当」口号（→0J 行 7，GD26 CONTENT 九件逐项）〔CR6 L794 "hugely unethical for Defence Counsel to make bare assertions"〕 |
-| 取得遗漏材料 | 说明相关性及持续披露义务——特权和特殊程序仍须另核。倒推链（E2）：庭上可用 → 披露到位 → 书面请求点名 → materiality／记录披露门槛；断环：*Guney* 反撒网——把请求写成「全部人事档案」会被挡；对策：只点名与可信性／争点相连的结果类记录（0B.6–0B.7）〔CR6 L156 "not entitled to a general trawl through the Prosecution papers"〕 |
+| 排除口供 | 具体指明自愿性或其他准入问题及事实基础——不是只说警方不可信。倒推链（E1）：裁定不可采 → 特别争点证据＋陈词 → Notice 具体基础 → 每次供认时间轴上有失当行为＋因果未消散 → 客户指示清晰；关键文件包括 VRI／ROI 正本、custody 记录、翻译与饮食休息记录、客户 sign 的指示笔录；断环：混错供认对象（→0J 行 8）、Notice 只有「警方行为不当」口号（→0J 行 7，GD26 CONTENT 九件逐项）〔CR6 L794 "hugely unethical for Defence Counsel to make bare assertions"〕 |
+| 取得遗漏材料 | 说明相关性及持续披露义务——特权和特殊程序仍须另行核实。倒推链（E2）：庭上可用 → 披露到位 → 书面请求点名 → materiality／记录披露门槛；断环：*Guney* 反撒网——把请求写成「全部人事档案」会被挡；对策：只点名与可信性／争点相连的结果类记录（0B.6–0B.7）〔CR6 L156 "not entitled to a general trawl through the Prosecution papers"〕 |
 | 削弱辨认 | 陪审团信不稳 → Turnbull 方向命中弱点 → parade／照片程序瑕疵入记录 → 律师当时在场并即时笔记。断环：把程序瑕疵当可采性挑战——通常只去 weight（→0J 行 9）；忘记 dock ID 三许可的对照检查（0F.5）〔CR6 L890 "it deals with the weight to be attached to that evidence"〕 |
 | 避免不公平审讯 | 区分公正无法实现与司法程序滥用——stay 不是所有侦查瑕疵的自动答案 |
 | 争取无须答辩 | 核 prima facie 阶段测试与剩余证据——不能错用最终 BRD 作为唯一中途测试。倒推链（E4）：NCTA 成立 → 要件缺口清且无可补救 → 控方案情取至最高仍不足；要件对照表（每条要素 ↔ 证据编号）；断环：把「弱」当「无」——prima facie 门槛极低（→0J 行 12）、在迟来阶段才提——迟来 NCTA 只限「doomed to fail」（0G.2）〔CR6 L1064 "only be done if the Prosecution’s case was “doomed to fail”"〕 |
@@ -876,7 +876,15 @@ SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思
 **证据与写法自检**：把每一句拆成“事实来自哪里／法律条件来自哪里／结论强度多大”。客户说法、模拟训练、自拟建议与法定规则各自标明；不要把本卡策略分析当成讲义原话。
 
 
-#### 审计留痕：材料矩阵、待核事项与历史修订记录
+## SG08 证据错误如何影响定罪上诉
+
+**混合陈述与沉默。** 入证后，法院须辨认对己不利和开脱内容并衡量各部分。法院可以不采信该解释，但不应先把入证的自卫解释排除出考虑。沉默不得作为有罪或不可信的积极推论；真正说过并可采的先前说法才可比较。拒裁实质供词异议时，先问法院是否把供词用于关键要件，再评估即使排除能否维持。R1 Jeff 判词与独立重审 · R5 Lace 供词沉默及定罪后果。 ^sg08-conviction
+
+**在容器内检出枪械。** Cap.238 s.24(1) 是由容器控制推定管有，(2) 是物件性质知识。*Royster* 及 *Mohammed Khan Shamim* 两项均是提证责任。反面证据够提出争议时，控方须排除合理怀疑。若争的是知道物件在包里，先承认或证明物件属性并不能解决知情。R4 Lace 枪械知识与推定。 ^sg08-knowledge
+
+SG08 对应口答
+
+## 审计留痕：材料矩阵、待核事项与历史修订记录
 
 > 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则；SG05 录音增量（==高亮==）按用户高亮保留在正文相应位置。
 
@@ -1052,12 +1060,3 @@ SG04程序六问完整英文及适用分别处理live link、ID、stay及品格�
 **引注守恒与零删减**：本卡 330 处〔〕引注随原块逐字迁移；删除的章节导航图与 0A.6 小图不含引注（节点指针文字由正文承接）；SG05 录音增量（==高亮== 实质内容）按用户高亮保留在正文相应位置——留痕说明移审计区；制作说明类段落移审计区。实质内容零丢失。
 
 **门禁**：cite_check 与 check_one 于替换后执行（结果见任务报告）。
-
-## SG08 证据错误如何影响定罪上诉
-
-**混合陈述与沉默。** 入证后，法院须辨认对己不利和开脱内容并衡量各部分。法院可拒信解释，但不应先把入证的自卫解释排除出考虑。沉默不可作为有罪或不可信的积极推论；真正说过并可采的先前说法才可比较。拒裁实质供词异议时，先问法院是否把供词用于关键要件，再评估即使排除能否维持。R1 Jeff 判词与独立重审 · R5 Lace 供词沉默及定罪后果。 ^sg08-conviction
-
-**在容器内检出枪械。** Cap.238 s.24(1) 是由容器控制推定管有，(2) 是物件性质知识。*Royster* 及 *Mohammed Khan Shamim* 两项均是提证责任。反面证据够提出争议时，控方须排除合理怀疑。若争的是知道物件在包里，先承认或证明物件属性并不能解决知情。R4 Lace 枪械知识与推定。 ^sg08-knowledge
-
-SG08 对应口答
-

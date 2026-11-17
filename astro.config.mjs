@@ -547,13 +547,13 @@ export default defineConfig({
 								'13-institution-criminal-evidence': {
 									title: '刑事证据争议核验清单', badge: '7项核心',
 									items: [
-										{ label: '可采性总框架', en: 'Admissibility Framework', href: '#1-可采性总框架' },
-										{ label: '自白与供词', en: 'Confessions', href: '#2-自白与供词' },
-										{ label: 'voir dire 三步测试', en: 'Voir Dire Test', href: '#3-voir-dire-三步测试' },
-										{ label: '案中案程序', en: 'Trial within a Trial', href: '#4-案中案程序' },
-										{ label: '免受侵扰权利', en: 'Right to Silence', href: '#5-免受侵扰权利' },
-										{ label: '辨认与实物证据', en: 'Identification & Real Evidence', href: '#6-辨认与实物证据' },
-										{ label: '高危雷区', en: 'High-Risk Traps', href: '#7-高危雷区' },
+										{ label: '控方披露义务体系', en: 'Prosecution Disclosure', href: '#0b-控方披露义务体系' },
+										{ label: '辩方披露与通知义务', en: 'Defence Disclosure', href: '#0c-辩方披露与通知义务' },
+										{ label: '供认可采性挑战', en: 'Confession Challenge', href: '#0d-供认可采性的实体挑战' },
+										{ label: 'Notice/Voir Dire/AP', en: 'Challenge Procedure', href: '#0e-挑战程序三件套notice-of-objection--voir-dire--alternative-procedure' },
+										{ label: '辨认与弱点证人', en: 'ID & Vulnerable Witnesses', href: '#0f-辨认证据与易受伤害证人' },
+										{ label: 'NCTA 与半程裁决', en: 'NCTA & Half-Time', href: '#0g-ncta-与半程裁决' },
+										{ label: '后果链总表 0J', en: 'Consequence Table', href: '#0j-环节--不做后果--依据-总表' },
 									]
 								},
 								'14-institution-trial-preparation': {
