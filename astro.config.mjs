@@ -514,12 +514,12 @@ export default defineConfig({
 								'10-framework-courts-jurisdiction': {
 									title: '法院管辖核验清单', badge: '6项核心',
 									items: [
-										{ label: '刑事法院层级', en: 'Court Hierarchy', href: '#1-刑事法院层级' },
-										{ label: '原讼庭管辖', en: 'CFI Jurisdiction', href: '#2-原讼庭管辖' },
-										{ label: '区域法院管辖', en: 'DC Jurisdiction', href: '#3-区域法院管辖' },
-										{ label: '裁判法院管辖', en: 'MC Jurisdiction', href: '#4-裁判法院管辖' },
-										{ label: '法律代表规则', en: 'Legal Representation', href: '#5-法律代表规则' },
-										{ label: '特别管辖与移送', en: 'Special Jurisdiction', href: '#6-特别管辖与移送' },
+										{ label: '五级法院管辖与量刑上限', en: 'Court Hierarchy', href: '#1-五级刑事法院裁判权与量刑权力全景矩阵court-hierarchy--sentencing-powers' },
+										{ label: '少年法庭三机制', en: 'Juvenile Court', href: '#2-少年法庭juvenile-court实务三大核心机制' },
+										{ label: '答辩地点分流', en: 'Venue for Plea', href: '#3-案件答辩地点与分流机制venue-for-taking-plea' },
+										{ label: '法律代表双轨', en: 'DLS vs Legal Aid', href: '#4-法律代表双轨制当值律师服务dlsvs-法律援助legal-aid' },
+										{ label: '先例约束力法则', en: 'Stare Decisis', href: '#5-判例先例约束力法则stare-decisis-in-criminal-courts' },
+										{ label: '全流程核对清单', en: 'Checklist', href: '#6-全流程核对清单接案定审逐闸自检' },
 									]
 								},
 								'11-framework-police-powers-search': {
