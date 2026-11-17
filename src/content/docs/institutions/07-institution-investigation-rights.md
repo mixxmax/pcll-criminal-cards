@@ -38,18 +38,18 @@ SG课表安排:
 
 # 侦查阶段权利与辩护体系（Investigation Rights and Defence）
 
-## 速读定位层（30 秒全景：范围 · 术语 · 环节任务）
+## 速读定位层
 
 > 本层为 2026-10-10 深化重构新增的开篇导引；具体各层的规则、条件、例外与引注见下方 0B–0I（本轮深化）、§0A（既有）与 §1–§8（既有并实质化补强）。侦查阶段是**证据定型期**——在这个阶段被"做"掉的东西（供述、附录、医疗记录）和在警署没"做"的东西（记录、投诉、电话），在审讯阶段都补不回来。
 
 > **白话导引（从头到尾一遍过）**：侦查阶段是证据定型期——客户此刻说的每句话、签的每个名、警方记或不记的每条记录，审讯阶段都补不回来。链条是这样走的：警方街头截停问话（还不算拘捕）→ 形成合理怀疑后正式拘捕，此时 *Christie* 五原则要求告知真实拘捕原因，漏了的可在警署合理期间内补知治愈（*Kulynycz*）→ 被捕人须 forthwith 送交独立于办案团队的值日官（DO，s.51 PFO），custody records 与 Occurrence Book 从此开始记 → 处理手续中口头告知权利并发放《在羁留人士通知书》（Pol 153）签收，拍照指纹与样本各按 s.59 系列条件 → OC Case 接管调查，问话按 R1→R2→R3 三阶触发：一有合理怀疑即须警诫，落案后原则上不得再问 → 全程客户握有沉默权与私下会见律师权（拒绝须有"不合理迟误或妨碍"的具体理由）→ 最后落案或释放：未落案走运作保释（s.52(3)），已落案走警署保释（s.52(1)），不保释则 48 小时内首次提堂。律师的位置贯穿全程：到场、被拒要理由并记簿、会见五动作、离署后 attendance note 与 Rule 5D——每一个记录动作都是日后供认争议与保释申请的弹药。对口规（1992 R&Ds）的条文细目与排除机制主述归 12 卡，本卡承侦查端触发与后果面。
 >
-### a. 程序辐射范围（本卡覆盖什么，不覆盖什么）
+### 适用范围
 
 **覆盖（按程序时序）**——自接案联络／警方截查告知起，到首次提堂前的权利防线与辩护动作全链：
 1. **被捕告知与边界（逮捕前告知）**：Christie 五原则＋讲义补充 (4)–(14) 八项（几项罪行只许以较重罪告知、治愈机制 *R v Kulynycz*、s.51 交值日官、48 小时、武力与手铐、指纹趾纹样本）〔CR2 L321 "Where arresting without a warrant, an officer must ordinarily"；CR2 L335 "it can be cured by informing the Defendant of the reasons for arrest at the police station"〕；
 2. **警署接管**：值日官（DO）独立职能、custody records 与 Occurrence Book 的证据价值〔CR3 L80 "Throughout the detention, a detailed record is kept of the detainee’s movements"；CR3 L82 "The DO is an independent officer not involved in the investigation"〕；
-3. **处理手续**：口头＋书面告知权利、Pol 153《在羁留人士通知书》发放签收、身体样本权力核对（s.59(1)(a) 无条件 vs s.59(1)(b) 有条件、s.59A 亲密样本可拒、s.59C 非亲密样本可强制）〔CR3 L86 "A written copy of these rights"；CR2 L359 "sole-prints and toe-prints of that person if the officer has reason to believe"〕；
+3. **处理手续**：口头＋书面告知权利、Pol 153《在羁留人士通知书》发放签收、身体样本权力核对（s.59(1)(a) 无条件 vs s.59(1)(b) 有条件、s.59A 亲密样本被捕人有权拒绝、s.59C 非亲密样本可强制）〔CR3 L86 "A written copy of these rights"；CR2 L359 "sole-prints and toe-prints of that person if the officer has reason to believe"〕；
 4. **讯问与记录义务**：R1–R3 三个阶段警诫与"so far as practicable"同步记录、PRCS 街头转书机制、R4/R5 录供三段式与宣读、录像替代同时记录——**对口规（1992 R&Ds）的细则、自愿性与排除测试主述归 12 卡 §5/§5.1**，本卡只承担"侦查端权利何时触发、被谁侵害、不留记录的后果"〔CR2 L411 "they must caution that suspect"；CR2 L441 "a contemporaneous written record of the interview must be kept"〕；
 5. **会见／电话（律师与亲友）**：D8／Principle (c) 私下会见与在场讯问权、拒绝须有理据且不包含"律师会劝其沉默"〔CR2 L475 "This does not include the lawyer advising his client not to answer questions"〕；Pol 153 第 2/3 项通知与致电亲友；律师到访、被拒、要求记入 Occurrence Book、回所详记并可能出庭作证的完整链〔CR3 L146 "the lawyer’s testimony, and the attendance notes taken, may form part of the evidence at trial"；CAP-K2 L1795 "go to the duty officer and ask for your visit to be noted in the Occurrence Book"〕；
 6. **福利（medicine／饮食／休息）**：D4 舒适与饮食、D1(b) 休息饮食记录、Pol 153 第 7 项饮水、第 8 项医疗、DO 安排政府医院〔CR3 L256 "ensure that the DO arranges to take the client to a government hospital"；SG01AN L297 "Pol 153 第 8 项"〕；
@@ -59,9 +59,9 @@ SG课表安排:
 
 **不覆盖（边界声明，相关主卡承担）**：① 截停/拘捕/搜查权力的**警察权力本体**（s.54、s.50、s.50(6) 手机数码、公民拘捕、武力——→ 卡 11；本卡只在被侵害后果面回链）；② 1992 R&Ds **条文细目、适用对象、自愿性测试与排除机制**（→ 卡 12 §5/§5.1，含 Rules/Directions 全表；本卡只留侦查端触发点与后果接口）；③ 保释制度本体（→ 05 卡；保释增补并入 05 卡 §4.0／§5.3，2026-10-10）；④ 供认排除的 voir dire/Alternative Procedure 机制、披露与举证（→ 13 卡）；⑤ 检控决定、启动方式、时效与控罪修改（→ 卡 12 §1–§4）；⑥ 法院管辖与选址（→ 卡 10）；⑦ 国安与强制回答特殊制度（→ LGS9 体系，登记文末 open 块）。
 
-### b. 关键术语逐一一句精确定义（中文定义＝英文原词）
+### 术语（核心概念与实务运作定义）
 
-| 术语（英文原词） | 一句中文精确定义 | 出处 |
+| 术语（英文原词） | 核心概念与实务运作定义 | 出处 |
 |---|---|---|
 | 拘捕（arrest） | 警员明示拘捕、或使用武力约束自由、或以言行表明必要时将以武力阻止离开；"截停查问不属拘捕"（Lord Devlin 于 *Chong Fook Kam*，终院在 *Yeung May Wan* 认可转引）〔CR2 L198 "An arrest occurs when a police officer states in terms that he is arresting"〕 | *Yeung May Wan* (2005) 8 HKCFAR 137 |
 | 告知真实原因（true ground of arrest） | 无令状拘捕时通常须告知被捕人被捕的真实理由，不得暗藏真理由或给假理由；明知一般性质或不可行（如逃跑）时无须告知〔CR2 L321 "An officer cannot keep the true reasons to himself or give a reason that is not the true reason"〕 | *Christie v Leachinsky* [1947] AC 573 五原则 |
@@ -74,7 +74,7 @@ SG课表安排:
 | 警诫（caution） | 警员在 R2（一有合理怀疑即须）与 R3(a)（落案后）给予的口头警告："You are not obliged to say anything unless you wish to do so but whatever you say will be put into writing and may be given in evidence."〔CR1 L122 "When a Defendant is arrested by a police officer, by Rule 2 … he must be cautioned"〕 | R2/R3(a) R&Ds |
 | 同步即时记录（contemporaneous record） | 警诫后问话或陈述须"so far as is practicable"即时记录时间地点在场人；街头被捕当场陈述例外，回署后作事后协记录〔CR2 L413 "the police must make a contemporaneous record of anything the cautioned person says"〕 | R2/R3(c) 及 D2/D3 R&Ds |
 | 事后补录警诫陈述（Post-Recorded Caution Statement, PRCS） | 街头当场应答无须即时记录，警员回署后写出全文、由疑犯签署的陈述〔CR2 L415 "This latter statement is called a Post-Recorded Caution Statement"〕 | R2 机制（讲义） |
-| 会面记录（Record of Interview, ROI） | 问答式书面问讯记录，同时落入 R4（书面陈述）与 R5（问答式）规管：须再警诫、逐字不诱导、读回、给更正机会、末附真确声明——标准三段式＝警诫＋问答＋声明〔CR2 L445 "R4 applies since it is a “written statement” as does R5 since a ROI is in a Q&A format"；CR2 L443 "3 parts: a caution, the questions and answers, and the declaration"〕 | R4/R5 R&Ds |
+| 会面记录（Record of Interview, ROI） | 问答式书面问讯记录，同时落入 R4（书面陈述）与 R5（问答式）规管：须再警诫、逐字不诱导、读回、给更正机会、末附真确声明——标准三段式即警诫、问答与声明〔CR2 L445 "R4 applies since it is a “written statement” as does R5 since a ROI is in a Q&A format"；CR2 L443 "3 parts: a caution, the questions and answers, and the declaration"〕 | R4/R5 R&Ds |
 | 录像会面（video recorded interview） | R5(b) 允许以录像代替同时书面记录（现今惯常做法）；辩方应索取副本〔CR2 L441 "except where the interview is video recorded which is routinely done these days"；CR3 L216 "copies of any video recorded interviews"〕 | R5(b) R&Ds；LGS3 Part 1 |
 | 私下联络／会见律师权（right to communicate with a lawyer） | 侦查任何阶段均可私下与律师通讯并可要求律师在场问讯，前提是不致对调查或司政造成不合理迟误或妨碍；拒绝须有理由且**不包括**律师会劝客人保持沉默〔CR2 L475 "communication can only be prevented or delayed if the officer has reasonable grounds"；CAP-K2 L1834 "the key point is they have to be able to justify why they are refusing access"〕 | D8 R&Ds；A.35 BL；*Mohammed v The State* |
 | 沉默权（right to silence） | 无义务答问或提供入罪证据，阶上由 R1/R2 强化；被捕时保持沉默不得用作不利推断；例外有 OSCO ss.3/4、POBO s.14、NSL A.43(5) 等强制供讯条款〔CR2 L349 "no adverse inference can be drawn from the Defendant’s exercise of his right of silence"；CR1 L124 "such right may be abrogated"〕 | 普通法＋A.11(2)(g) HKBOR、As.39/87 BL |
@@ -95,7 +95,7 @@ SG课表安排:
 | 聘用确认（retainer letter, Rule 5D SPR） | 受聘后 7 日内须发的聘用确认函〔CR3 L290 "A retainer letter is required to be sent within 7 days of instructions (see Rule 5D SPR)"〕 | Rule 5D SPR |
 | 投诉警察课（Complaints Against Police Office, CAPO） | 警方行为（包括侵害在羁留权利）的外部投诉渠道之一；另有民事索偿、刑事告诉、内部纪律〔CR2 L391 "The Defendant may complain to the Complaints Against Police Office"〕 | 讲义列明 |
 
-### c. 各环节解决什么问题（按程序时序）
+### 环节定位（按程序时序）
 
 | 环节（时序） | 它解决的具体问题 | 依据 |
 |---|---|---|
@@ -187,15 +187,15 @@ flowchart TD
 
 | 你现在要做什么 | 直达章节 |
 |---|---|
-| 30 秒弄清范围/术语/每环任务 | [速读定位层](#速读定位层（30%20秒全景：范围%20·%20术语%20·%20环节任务）) |
-| 客户刚被捕，问"警方能对我做什么" | [0C 被捕告知](#0C.%20被捕告知与治愈：Christie%20五原则、几项罪行边界与警署补知（2026-10-10%20深化）)＋0D.3 样本 |
-| 客户问"我要不要说话／要不要沉默" | [0F 沉默权与知情决定](#0F.%20沉默权与知情决定：弃权前的最后防线（2026-10-10%20深化）) |
-| 你要去警署见客户 | [0G 律师警署 playbook](#0G.%20律师警署%20Playbook：到场、被拒、五动作与离署后义务（2026-10-10%20深化）) |
-| 客户被迟保释／被拒会见／未获医疗 | [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）) 行 6–8·行 13 |
-| 录像会面／ROI 副本有没有拿到 | [0E.2 录供与副本](#0E.%20讯问与记录义务：R1–R6%20触发、同步记录五金与录像副本（2026-10-10%20深化）)＋0J 行 14 |
-| 想知道"某环不做会怎样" | [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）)（正文 10 处点题回链） |
-| 准备期末复习（先例面） | [0K SG 应用](#0K.%20SG%20应用：SG01%20Brief%20A/B%20锚点（2026-10-10%20深化；2026-11-15%20重编，材料矩阵移审计留痕）)→ [0K.1 Brief A/B 映射](#0K.1%20SG01%20Brief%20A/B%20逐题映射（已过，作为先例面）) |
-| 核对保释边界 | [0B.4 获自由路径分支](#0B.4%20获自由路径分支：三岔、48%20小时与保释过渡边界（保送%2005%20卡）)＋05 卡 |
+| 30 秒弄清范围/术语/每环任务 | [速读定位层](#%E9%80%9F%E8%AF%BB%E5%AE%9A%E4%BD%8D%E5%B1%82) |
+| 客户刚被捕，问"警方能对我做什么" | [0C 被捕告知](#0C.%20%E8%A2%AB%E6%8D%95%E5%91%8A%E7%9F%A5%E4%B8%8E%E6%B2%BB%E6%84%88%EF%BC%9AChristie%20%E4%BA%94%E5%8E%9F%E5%88%99%E3%80%81%E5%87%A0%E9%A1%B9%E7%BD%AA%E8%A1%8C%E8%BE%B9%E7%95%8C%E4%B8%8E%E8%AD%A6%E7%BD%B2%E8%A1%A5%E7%9F%A5)＋0D.3 样本 |
+| 客户问"我要不要说话／要不要沉默" | [0F 沉默权与知情决定](#0F.%20%E6%B2%89%E9%BB%98%E6%9D%83%E4%B8%8E%E7%9F%A5%E6%83%85%E5%86%B3%E5%AE%9A%EF%BC%9A%E5%BC%83%E6%9D%83%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E9%98%B2%E7%BA%BF) |
+| 你要去警署见客户 | [0G 律师警署 playbook](#0G.%20%E5%BE%8B%E5%B8%88%E8%AD%A6%E7%BD%B2%20Playbook%EF%BC%9A%E5%88%B0%E5%9C%BA%E3%80%81%E8%A2%AB%E6%8B%92%E3%80%81%E4%BA%94%E5%8A%A8%E4%BD%9C%E4%B8%8E%E7%A6%BB%E7%BD%B2%E5%90%8E%E4%B9%89%E5%8A%A1) |
+| 客户被迟保释／被拒会见／未获医疗 | [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89) 行 6–8·行 13 |
+| 录像会面／ROI 副本有没有拿到 | [0E.2 录供与副本](#0E.%20%E8%AE%AF%E9%97%AE%E4%B8%8E%E8%AE%B0%E5%BD%95%E4%B9%89%E5%8A%A1%EF%BC%9AR1%E2%80%93R6%20%E8%A7%A6%E5%8F%91%E3%80%81%E5%90%8C%E6%AD%A5%E8%AE%B0%E5%BD%95%E4%BA%94%E9%87%91%E4%B8%8E%E5%BD%95%E5%83%8F%E5%89%AF%E6%9C%AC)＋0J 行 14 |
+| 想知道"某环不做会怎样" | [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89)（正文 10 处点题回链） |
+| 准备期末复习（先例面） | [0K SG 应用](#0K.%20SG%20%E5%BA%94%E7%94%A8%EF%BC%9ASG01%20Brief%20A%2FB%20%E9%94%9A%E7%82%B9)→ [0K.1 Brief A/B 映射](#0K.1%20SG01%20Brief%20A%2FB%20%E9%80%90%E9%A2%98%E6%98%A0%E5%B0%84%EF%BC%88%E5%B7%B2%E8%BF%87%EF%BC%8C%E4%BD%9C%E4%B8%BA%E5%85%88%E4%BE%8B%E9%9D%A2%EF%BC%89 |
+| 核对保释边界 | [0B.4 获自由路径分支](#0B.4%20%E8%8E%B7%E8%87%AA%E7%94%B1%E8%B7%AF%E5%BE%84%E5%88%86%E6%94%AF%EF%BC%9A%E4%B8%89%E5%B2%94%E3%80%8148%20%E5%B0%8F%E6%97%B6%E4%B8%8E%E4%BF%9D%E9%87%8A%E8%BF%87%E6%B8%A1%E8%BE%B9%E7%95%8C)＋05 卡 |
 | 学理复盘（五原则） | §1 第一性 → §2 顺向 → §4 控制论 → §5 横向 → §6 逆向 |
 
 ## 0A. 从截查到警署探访：逐个权力与证据节点
@@ -271,19 +271,17 @@ R4/5分别处理陈述取得及记录；客户应有阅读、更正等机会。�
 
 工作衔接顺序如上行文；证据可采性主述见13卡，不能用流程叙述替代申请的实际法律测试。〔CR2 L397–L407 "Note: Merely breaching the R&D doesn’t necessarily mean the confession"〕
 
-**总表索引**（2026-10-10 新增点题）：本节 0A.1–0A.8 各信号——当场告知缺位（→0J 行 1）、以较轻罪问话（→行 2）、不 forthwith 交 DO（→行 3）、不即时警诫（→行 9）、不同步记录（→行 10）、录像副本不索（→行 14）、律师不记 attendance note（→行 16）——在 [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）) 有完整后果链；0A.6"特定强制答复法例另有安排"归 0F（沉默权例外）；0A.7"不能一口气称毒树之果"与卡 13 的 voir dire 接口。
+**总表索引**（2026-10-10 新增点题）：本节 0A.1–0A.8 各信号——当场告知缺位（→0J 行 1）、以较轻罪问话（→行 2）、不 forthwith 交 DO（→行 3）、不即时警诫（→行 9）、不同步记录（→行 10）、录像副本不索（→行 14）、律师不记 attendance note（→行 16）——在 [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89) 有完整后果链；0A.6"特定强制答复法例另有安排"归 0F（沉默权例外）；0A.7"不能一口气称毒树之果"与卡 13 的 voir dire 接口。
 
-## 0B. 侦查阶段总框架：从拘捕到首次提堂的警署状态机（2026-10-10 深化）
 
 > 主线：**被捕（含告知）→ 交警署（s.51，DO 接管）→ 处理手续（告知权利＋Pol 153＋采样）→ 调查（OC Case，R1–R3 警诫、问话、取证）→ 落案或释放（charge or release）→ 保释或羁押 → 48 小时首次提堂**。旁挂两条副线：①律师从任意时点接入的权利链；②每一次权利侵害的记录—反馈—后果回环。
+
+## 0B. 侦查阶段总框架：从拘捕到首次提堂的警署状态机
 
 ### 0B.1 全景状态机
 
 全景状态机已升为本卡 **图 1**（见🗺️ 本卡地图，图后逐项依据随图）。
 
-### 0B.4 获自由路径分支：三岔、48 小时与保释过渡边界（保送 05 卡）
-
-**获自由路径分支是本卡图 2**（获自由路径与保释过渡的决策树；拘捕告知与警诫的审查阶梯见图 1）。
 ### 0B.2 五段程序与律师各时点的可做事项
 
 | 程序段 | 本段在做什么（官方说法） | 律师在此时的关键动作 |
@@ -306,8 +304,7 @@ R4/5分别处理陈述取得及记录；客户应有阅读、更正等机会。�
 | 录像会面 | 惯常做法取代同步书面记录〔CR2 L441 "R5(b) states that a contemporaneous written record of the interview must be kept (except where the interview is video recorded which is routinely done"〕 | 副本索取：属于 LGS3 明确项〔CR3 L216 "copies of any video recorded interviews"〕 | R5(b)；LGS3 Part 1 |
 | 律师 attendance note | 律师离署后即作〔CR3 L262 "Every meeting should be evidenced and recorded by the making of a full attendance note setting out: A summary of the facts of the"〕 | 来源／确切指示／所给建议／观感／下一步；与律师证词一并可成审讯证据〔CR3 L146 "Access is usually not denied indefinitely (What is the ultimate remedy if refused entry to client?) but any delay can be crucial, especially where"〕 | LGS3 Part 1 |
 
-### 0B.4 获自由路径分支：三岔、48 小时与保释过渡边界（保送 05 卡）
-
+### 0B.4 获自由路径分支：三岔、48 小时与保释过渡边界
 ```mermaid
 flowchart TD
  classDef init fill:#E1F5FE,stroke:#0288D1,stroke-width:2px,color:#01579B;
@@ -317,7 +314,7 @@ flowchart TD
 
  A["charge or release 决策点"]:::init --> B{"已落案？"}:::check
  B -->|未落案（自续查）| C["运作保释<br>s.52(3) PFO<br>回署报到日/时"]:::action
- B -->|已落案| D["警方保释或可拒<br>s.52(1) PFO"]:::check
+ B -->|已落案| D["警方保释或拒绝保释<br>s.52(1) PFO"]:::check
  D -->|准予| E["警署保释<br>现金/自签/担保<br>不可扣旅行证件（国安除）"]:::action
  D -->|拒绝| F["48h 内首次提堂<br>（遣送 72h；SNSO 国安可延 14d；RIPC/RIJC）"]:::warn
  C --> G["首堂 → 05 卡阶段二"]:::init
@@ -334,9 +331,10 @@ flowchart TD
 - **未提堂前 s.9D/9G CPO 不适用**：保释推定闸门起算在"首次带见裁判官"之后〔CR3 L102 "The final decision will concern whether the detainee is kept in custody or granted bail. Bail may be granted by the police if the"〕；被还押则 RIPC/RIJC 两状态〔CR2 L775 "If bail is not granted, the Defendant is remanded in either police custody (R.I.P.C) or jail custody (R.I.J.C). Question: Would the Defendant usually prefer"〕；少年另走 JOO ss.4–6（包括 16 岁以下拘捕者由家长/监护人/负责人担保、三例外、被拒后与成年人**分开**看押）〔CR2 L845 "Bail for Juveniles Under s.4 JOO, where a person under 16 is arrested and cannot be brought before the Juvenile Court immediately, then the"〕。
 - **边界声明**：拒保后的保释复核机制（8 天带堂 s.79 MO、s.9J CFI、s.9H SJ、B.E.S.T、条件包）**主述全部归 05 卡 §3–§6；保释增补与讼辩雷区归 05 卡（原 16 增补并入主卡，2026-10-10，备份 `_workspace/backup-2026-10-10-8050-condensation/`）**；本卡只承侦查端律师此刻该做的信息与记录准备（0G.4 Obtaining ⑦与 0G.5.3）。
 
-## 0C. 被捕告知与治愈：Christie 五原则、几项罪行边界与警署补知（2026-10-10 深化）
 
 > 义务链：**一般原则：被捕时必须知道为何被捕 → Christie 五原则 → 派出所补告知可治愈 → 例外（明知/不可行/无技术措辞要求）→ 几项罪行不得"以较轻套问"**。宪法底子：A.5(2) HKBOR（被捕时告知原因、随即被告知被控罪名）〔CR2 L315 "an arrested person shall be informed, at the time of arrest, of the reasons for his arrest"〕，A.28 BL（不受任意或非法拘捕、拘留或监禁）〔CR2 L222 "No Hong Kong resident shall be subjected to arbitrary or unlawful arrest, detention or imprisonment."〕。
+
+## 0C. 被捕告知与治愈：Christie 五原则、几项罪行边界与警署补知
 
 ### 0C.1 Christie v Leachinsky 五原则逐条与讲义结论
 
@@ -369,11 +367,12 @@ flowchart TD
 - **休班警员**：往届编辑版讲义另引 s.21 PFO——休班警员视为当值、可用一切必要手段止捕（对适用者适用）〔OLD-LG02P1 L353 "PFO s 21: “deemed to be on duty”; can use all means necessary to arrest"·往届仅参考〕——拘禁权本体归 卡 11。
 - **武力与手铐**：武力按 s.101A CPO"当时就合理"；policemen 另受 s.50(2) PFO"all means necessary"（仅属警队人员、不适用于普通市民）〔CR2 L351 "(13) The Use of Force: By s. 101A CPO, a citizen can use such force as is reasonable in the circumstances in the prevention"；OLD-EXLG L652 "S.50(2) PFO – “all means necessary” (does not apply to lay people. Only to those “serving in the police force) S.101A CPO – “such"·往届仅参考〕；手铐属警员个案价值判断（本届讲义转述 PGO；具体编号不作庭上引用，SG01AN L304 同口径）〔CR2 L357 "(14) The Use of Handcuffs: An officer may use handcuffs when making an arrest under s.50(2) PFO. However, the PGO state that the use"；SG01AN L304 "3. Handcuffs and Medical Neglect: Handcuffing is permitted on an arrest under s. 50(2) PFO but its use is, per the PGO as reported"〕。
 
-**总表索引**：不告知真实原因／以较轻罪套问／违法不治愈的后果链，回 [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）) 行 1、行 2；不 forthwith 交 DO 见行 3；手铐争议另见行 8 福利面。
+**总表索引**：不告知真实原因／以较轻罪套问／违法不治愈的后果链，回 [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89) 行 1、行 2；不 forthwith 交 DO 见行 3；手铐争议另见行 8 福利面。
 
-## 0D. 警署权利包：DO 与三层记录、Pol 153、通讯权、福利与样本（2026-10-10 深化）
 
 > 本节把"进了警署以后客户拥有什么"拆成五袋：**DO 与记录**、**Pol 153 告知**、**外来通讯**、**福利与医疗**、**指纹趾纹样本**；纪律照背，拒绝就给理由。
+
+## 0D. 警署权利包：DO 与三层记录、Pol 153、通讯权、福利与样本
 
 ### 0D.1 DO、custody records、Occurrence Book 与 forthwith 例外
 
@@ -394,8 +393,8 @@ flowchart TD
 |---|---|---|---|
 | 拍照、指纹、掌纹、身高体重 | s.59(1)(a) PFO：**拘捕后一般权力**，无须附加条件 | 条件天然满足，但走法仍须 s.59 框架内 | 〔CR2 L359 "The Taking of Fingerprints and Toeprints: by s.59(1) PFO: “Where a person has been arrested…….any police officer may take, or cause to be taken"〕 |
 | 脚掌印、趾印 | s.59(1)(b) PFO：**以警员有理由相信有助任何罪行的调查为前提** | 士力架式轻串通店案无从支持该“理由相信”即超权（SG01 Brief B Q2 全部论证）〔SG01AN L295 "现场无脚印证据、身份亦无争议"〕 | 〔CR2 L359 "The Taking of Fingerprints and Toeprints: by s.59(1) PFO: “Where a person has been arrested…….any police officer may take, or cause to be taken"；OLD-EXLG L671 "Sole-prints and toe-prints of that person if the officer has reason to believe"·往届仅参考〕 |
-| 亲密样本（intimate samples） | s.59A PFO：警司级或以上书面授权＋被捕人**同意**（即**有权拒绝**）＋裁判官批准 | 三条件缺一即违法；可拒而不违例 | 〔CR2 L361 "Intimate samples may also be taken from an arrested person under s. 59A PFO if an officer of or above the rank of superintendent"；CR3 L188 "The right to refuse to give intimate samples"〕 |
-| 非亲密样本（non-intimate：头发、口腔拭子、唾液） | s.59C PFO：警司级授权即可；**同意与否均可取**，拒者经 ss.59C(4)(e)、59C(8) 可用**合理武力** | 可拒但可强制；强制亦须合理武力 | 〔CR2 L363 "On the other hand, non-intimate samples may be taken from a person in custody with or without consent of the arrested person under s."；OLD-EXLG L681 "May be taken from a person in custody with or without consent of the arrested person"·往届仅参考〕 |
+| 亲密样本（intimate samples） | s.59A PFO：警司级或以上书面授权＋被捕人**同意**（即**有权拒绝**）＋裁判官批准 | 三条件缺一即违法；拒绝抽样本本身不构成违例 | 〔CR2 L361 "Intimate samples may also be taken from an arrested person under s. 59A PFO if an officer of or above the rank of superintendent"；CR3 L188 "The right to refuse to give intimate samples"〕 |
+| 非亲密样本（non-intimate：头发、口腔拭子、唾液） | s.59C PFO：警司级授权即可；**同意与否均可取**，拒者经 ss.59C(4)(e)、59C(8) 可用**合理武力** | 被捕人有权拒绝但警方可强制；强制亦须合理武力 | 〔CR2 L363 "On the other hand, non-intimate samples may be taken from a person in custody with or without consent of the arrested person under s."；OLD-EXLG L681 "May be taken from a person in custody with or without consent of the arrested person"·往届仅参考〕 |
 | 脱衣搜查／亲密样本程序 | 处理手续层面另须"justification and permission"〔CR3 L88 "Strip searches and intimate samples require justification and permission."〕 | 把理由与许可各自记一项 | 〔CR3 L88 "Processing may involve identification, fingerprinting, photographs, measurements etc. The DO is required to document the property belonging to the detainee on arrival. Strip searches"〕 |
 | 传票式人身检（手铐） | s.50(2) PFO 可戴手铐；讲义转述 PGO 属"价值判断"（必要性、拒捕、案情） | 往届编辑版讲义标（仅参考）："小案＋合作仍被铐"属可争症〔OLD-LG02P1 L341 "Could be unjustified if it is just minor offence and the arrested is cooperating"·往届仅参考〕 | 〔CR2 L357 "(14) The Use of Handcuffs: An officer may use handcuffs when making an arrest under s.50(2) PFO. However, the PGO state that the use"〕 |
 
@@ -409,7 +408,7 @@ flowchart TD
 4. **医疗**：Pol 153 第 8 项——不适即应得 medical attention；往届学生稿另载 PGO 49-12（值日官应填 Pol 42 并送最近政府医院或诊所），**官方 PGO 原文不在库、庭审不宜引用编号**，只作背景待核（open O-T1）〔OLD-EXLG L805 "the Duty Officer shall complete a Pol. 42 and ensure they are taken to the nearest"·往届仅参考；SG01AN L304 "3. Handcuffs and Medical Neglect: Handcuffing is permitted on an arrest under s. 50(2) PFO but its use is, per the PGO as reported"〕。律师离场动作：要求 DO 安排送**政府**医院〔CR3 L256 "ensure that the DO arranges to take the client to a government hospital"〕；并要求 DO 把伤势与投诉记入 Occurrence Book〔CR3 L250 "complaints made to the DO by the client in lawyer’s presence, recorded in the occurrence book. AFTER INTERVIEW"〕。
 5. **未成年在场**：D5"so far as practicable"16 岁以下只在父母／监护人在场下问讯，缺席时由 **非警员＋同性**者在场；往届编辑版另列"应尽量避免在校拘捕或问讯，非可避免者须校长或其指定人在场并同意"〔OLD-EXLG L809 "A child or young person should not be arrested, or even interviewed, at school"·往届仅参考〕；不可行的往届例示（被捕现场即时必问／找不到或拒到家长／等待过久致陈述被批）〔OLD-EXLG L813 "Parent or guardian cannot be located, or refuses to attend the place"·往届仅参考〕。
 
-**总表索引**：本袋"不给 Pol 153／按 PGO 怠医／拒绝饮水／未成年独自问讯"的后果链，一并回 [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）) 行 5、行 7、行 8；PGO 49-12 待核列 open O-T1。
+**总表索引**：本袋"不给 Pol 153／按 PGO 怠医／拒绝饮水／未成年独自问讯"的后果链，一并回 [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89) 行 5、行 7、行 8；PGO 49-12 待核列 open O-T1。
 
 ### 0D.5 外来通讯与书面便利：D8(c) 及其脚料
 
@@ -419,9 +418,10 @@ flowchart TD
 4. **DLS（到庭才有）**：警方阶段没有 Duty Lawyer；DLS 只在 MC／JC／死因庭提供法律代表（首次出庭免费，其后收 handling charge；法援走资随与案情双测试）〔CR1 L186–L204 "The DLS provides legal representation to eligible defendants in the MC, JC and in the Coroners' Court"；OLD-LG01P1 L250 "The DLS provides legal representation to eligible defendants in the MC, JC and in the Coroners' Court"·往届仅参考〕。
 5. **在羁人士其它权利脚注**（告医疗、休息期、识别程序拒绝、投诉权一起记）："The right to medical treatment, refreshment and rest periods；The right of refusal to take part in any identification parade；The right to register any complaint of ill treatment"〔CR3 L184 "The right to medical treatment, refreshment and rest periods; The right of refusal to take part in any identification parade;"〕。
 
-## 0E. 讯问与记录义务：R1–R6 触发、同步记录五金与录像副本（2026-10-10 深化）
 
 > 对口规（1992 R&Ds）的条文全表、适用对象、自愿性测试与后果体系**主述归 卡 12 §5/§5.1**；本卡只承担：①各 Rules／Directions 在**侦查端**由什么事实触发；②义务被**跳过或压低**时的记录链与后果接口。
+
+## 0E. 讯问与记录义务：R1–R6 触发、同步记录五金与录像副本
 
 ### 0E.1 R1 → R2 → R3：三阶触发与判定测试
 
@@ -440,11 +440,11 @@ flowchart TD
 | ① 再警诫 | 取供开始前须再次警诫〔CR2 L435 "Note R4 requires that the person making the statement is cautioned again before he starts, that he be given the chance to read over"〕 | R4 |
 | ② 逐字不诱导 | 警员代写须就字确录对方用词，除使陈述连贯清晰相关所必需者外**不得提问或引导**〔CR2 L437 "The officer must not prompt the person making the statement."〕；往届学生稿另据 D1(c)：不得官方语化〔OLD-EXLG L773 "in writing down statement, words used should not be translated into official vocabulary"·往届仅参考〕 | R4(d) |
 | ③ 宣读与更正机会 | 完成后须读回、给阅读、更正或增删机会；**不识字或拒读者**，取供警员须**向其宣读**并由在场高级警员于记录中记明处理（往届学生稿所载细目，仅参考）〔OLD-EXLG L756 "If the person making the statement cannot read … the officer who has taken it down shall read it over to him"·往届仅参考〕 | R4(e)(f)/R5(c) |
-| ④ 签署与声明 | 三段式＝警诫＋问答＋声明；"I have read the above statement …"式证书；R5(c) 另要 ROI 完成后**立即**读回并邀请签署准确记录证书；往届学生稿另记（仅参考）：**不得涂掉**记录内容〔OLD-EXLG L757 "Nothing recorded in ROI shall be obliterated"·往届仅参考〕 | R4/R5(c)；〔CR2 L443 "R5(c) states that the statement should be read over to the Defendant, he is given an opportunity to correct or add to it and"〕 |
+| ④ 签署与声明 | 三段式即警诫、问答与声明；"I have read the above statement …"式证书；R5(c) 另要 ROI 完成后**立即**读回并邀请签署准确记录证书；往届学生稿另记（仅参考）：**不得涂掉**记录内容〔OLD-EXLG L757 "Nothing recorded in ROI shall be obliterated"·往届仅参考〕 | R4/R5(c)；〔CR2 L443 "R5(c) states that the statement should be read over to the Defendant, he is given an opportunity to correct or add to it and"〕 |
 | ⑤ 语言线（D6(a)–(d)） | 尽可能母语问讯／以所用语言记录／另备**认证**英文译本随原文件认证／须签署——看不懂之另一语言文本上的签署**无证据价值**〔CR2 L463 "whenever possible all interviews should be conducted in the mother tongue of the suspect unless he wants to use another language in which he"；CAP-K2 L1771 "So that's a good example of why you have to take the statement in the mother tongue, but also the version that you sign"〕 | D6 |
 | ⑥ 录像例外 | 录像会面惯例已取代同步书面记录〔CR2 L441 "R5(b) states that a contemporaneous written record of the interview must be kept (except where the interview is video recorded which is routinely done"〕 | R5(b) |
 
-**现场教训（Brief B Q3 先例面）**：识不起文字的 14 岁男孩被要求在以 "Record of Interview" 为标题的中文文本上签字，即同时破 ②、③与⑤；其 [0K.1](#0K.1%20SG01%20Brief%20A/B%20逐题映射（已过，作为先例面）) 已把本案三段免责路线图备好〔SG01AN L329 "2. 未向不识中文的 Tom 宣读（Rule IV(f) 与 Rule"〕。
+**现场教训（Brief B Q3 先例面）**：识不起文字的 14 岁男孩被要求在以 "Record of Interview" 为标题的中文文本上签字，即同时破 ②、③与⑤；其 [0K.1](#0K.1%20SG01%20Brief%20A%2FB%20%E9%80%90%E9%A2%98%E6%98%A0%E5%B0%84%EF%BC%88%E5%B7%B2%E8%BF%87%EF%BC%8C%E4%BD%9C%E4%B8%BA%E5%85%88%E4%BE%8B%E9%9D%A2%EF%BC%89 已把本案三段免责路线图备好〔SG01AN L329 "2. 未向不识中文的 Tom 宣读（Rule IV(f) 与 Rule"〕。
 
 ### 0E.3 同案犯陈述（Rule 6）：证据规则性质的高压线
 
@@ -465,15 +465,16 @@ flowchart TD
 3. **冻结（往届学生稿所载细目）**：决定不给者，**不得再取新陈述、不得再作新问讯**，直到副本发出；拒绝**不得**持续过正式落案点；该拒绝行为可在其后的审讯中被查询〔OLD-EXLG L873 "No further statements should be obtained and no further interviews should be conducted until a copy"·往届仅参考〕。
 4. **录像与文件**：律师应索取录像会面副本、客户获给之文件（书面陈述、charge sheet 等）〔CR3 L214 "the copies of any documents given to the client, these would include any written admissions, and a charge sheet, if already charged; copies of"〕。
 
-**总表索引**：不如期警诫（行 9）、不同步记录（行 10）、录供五金失守（行 11）、落案后违规问话（行 12）、录像副本不索（行 14）的后果链，回 [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）) 各行。
+**总表索引**：不如期警诫（行 9）、不同步记录（行 10）、录供五金失守（行 11）、落案后违规问话（行 12）、录像副本不索（行 14）的后果链，回 [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89) 各行。
 
-## 0F. 沉默权与知情决定：弃权前的最后防线（2026-10-10 深化）
+
+## 0F. 沉默权与知情决定：弃权前的最后防线
 
 ### 0F.1 沉默权的内容与例外（于侦查端生效者）
 
 1. **内容与来源**：无义务回答可能自证其罪的问题——*Rice v Connolly*；普通法之外由 A.11(2)(g) HKBOR（s.8 HKBORO）、As. 39 & 87 BL 支撑，再由 R1/R2 强化〔CR2 L349 "(12) The Right to Silence: There is no obligation on a suspect (or a Defendant once charged) to answer questions or to provide inculpatory"〕。客户的口头浏览器也直接听到：R2 警诫原文〔CR1 L122 "When a Defendant is arrested by a police officer, by Rule 2 of the 1992 Rules & Directions for the Questioning of Suspects and"〕。
 2. **行使的保障**：被捕时保持沉默**不得**用作不利推断〔CR2 L349 "If the Defendant remains silent on arrest, then no adverse inference can be drawn"〕；律师的建议不可被当作拒绝会见理由（0D.5 颈）〔CR2 L475 "D8(b) communication can only be prevented or delayed if the officer has reasonable grounds for believing unreasonable delay, or hindrance to the processes of"〕。
-3. **例外（强制供讯）**：**不是绝对**——OSCO（有组织及严重罪行，Cap. 455）ss.3/4、POBO s.14（不提供所求资料即属罪行）同此结构〔CR2 L349 "(12) The Right to Silence: There is no obligation on a suspect (or a Defendant once charged) to answer questions or to provide inculpatory"；OLD-EXLG L626 "Exception: ss.3 & 4 of the Organized and Serious Crimes Ordinance"·往届仅参考〕；NSL A.43(5) 要求指定情况向警方提供信息（→LGS9）〔CR1 L126 "A. 43(5) NSL also requires information to be provided to the police in certain circumstances"〕；交通类车主识人义务〔CAP-K1 L729 "[00:25:55.020 --> 00:26:03.900] So on a most basic level, um, if you are caught running a red light driving a car,"〕。**机制与特定严重罪行的强制回答制度本卡不代替——另核完整专题**（open 既有条目）。
+3. **例外（强制供讯）**：**不是绝对**——OSCO（有组织及严重罪行，Cap. 455）ss.3/4、POBO s.14（不提供所求资料即属罪行）同此结构〔CR2 L349 "(12) The Right to Silence: There is no obligation on a suspect (or a Defendant once charged) to answer questions or to provide inculpatory"；OLD-EXLG L626 "Exception: ss.3 & 4 of the Organized and Serious Crimes Ordinance"·往届仅参考〕；NSL A.43(5) 要求指定情况向警方提供信息（→LGS9）〔CR1 L126 "A. 43(5) NSL also requires information to be provided to the police in certain circumstances"〕；交通类车主识人义务〔CAP-K1 L729 "[00:25:55.020 --> 00:26:03.900] So on a most basic level, um, if you are caught running a red light driving a car,"〕。**机制与特定严重罪行的强制回答制度本卡不代替——须另行查阅完整专题**（open 既有条目）。
 4. **审讯端的后续**：审讯端缄默与不提供的可评注空间（*Li Defan* 一线、Specimen Directions）属 LGS5/6 与 13 卡 领域——往届学生稿的汇总接线已见（"审讯中缄默"条目）〔OLD-EXLG L2877 "J should not comment that D had the opportunity earlier to explain and did not"·往届仅参考〕，本卡不展开。
 
 ### 0F.2 知情决定：先知道"到底在查什么"，再决定说不说
@@ -488,7 +489,7 @@ flowchart TD
 
 ### 0F.4 首堂声明的界面（B4 先例点题）
 
-旧口径曾一度把"首次提堂未当场声明投诉／挑战口供"用作以此否定其后供词挑战的弹药——"if he didn't do that when he first appeared ... he could be questioned about why he hadn't raised it earlier ... perhaps it was just a recent fabrication"〔CAP-K1 L664 "For example, it used to be thought that on a defendant's first appearance in the magistrates court, [00:23:30.310 --> 00:23:38.390]"〕；近年 CFA 澄清审讯端缄默的保护幅——"the defendant's right of silence cannot be used against him in any way"〔CAP-K1 L694 "but it's the quarterfinal appeal clarified that the defendant's right of silence cannot be used against him in any way. [00:24:35.600 --> 00:24:43.400]"〕（字幕拼写 "Chan Shu Leung"＝往届学生稿所记 *HKSAR v Chan Chu Leung* [2024]〔OLD-EXLG L2887 "HKSAR v. Chan Chu Leung"·往届仅参考〕，实体分析归 13 卡与本卡 open）。**辩方策略接口**不变：首次提堂**形式性**预告挑战（不自愿、诱导、重大违规），**但**不提早暴露实体抗辩细节——过早陈述事实可能于保释记录中被定格，日后指示变动即成为前后不一致的弹劾弹〔SG01AN L361 "切勿提前暴露实体抗辩战术细节"〕。
+旧口径曾一度把"首次提堂未当场声明投诉／挑战口供"用作以此否定其后供词挑战的弹药——"if he didn't do that when he first appeared ... he could be questioned about why he hadn't raised it earlier ... perhaps it was just a recent fabrication"〔CAP-K1 L664 "For example, it used to be thought that on a defendant's first appearance in the magistrates court, [00:23:30.310 --> 00:23:38.390]"〕；近年 CFA 澄清审讯端缄默的保护幅——"the defendant's right of silence cannot be used against him in any way"〔CAP-K1 L694 "but it's the quarterfinal appeal clarified that the defendant's right of silence cannot be used against him in any way. [00:24:35.600 --> 00:24:43.400]"〕（字幕拼写 "Chan Shu Leung"即往届学生稿所记 *HKSAR v Chan Chu Leung* [2024]〔OLD-EXLG L2887 "HKSAR v. Chan Chu Leung"·往届仅参考〕，实体分析归 13 卡与本卡 open）。**辩方策略接口**不变：首次提堂**形式性**预告挑战（不自愿、诱导、重大违规），**但**不提早暴露实体抗辩细节——过早陈述事实可能于保释记录中被定格，日后指示变动即成为前后不一致的弹劾弹〔SG01AN L361 "切勿提前暴露实体抗辩战术细节"〕。
 
 ### 0F.5 律师自己的红线
 
@@ -496,11 +497,12 @@ flowchart TD
 - **为人师表的死线**："you are only ever as good as your instructions ... Never invent facts. Never mislead the court."〔CAP-K2 L3190 "The other tip I have before we get into the slides is always remember that as a lawyer, you are only ever as good"〕——此条同时是刑事讼辩评估的"必挂点"〔CAP-K2 L3211 "That is the one thing that is going to be a sure fail for you and your assessment."〕。
 - **保释陈词的风险意识**：辩方在保释聆讯中的陈词日后可被审讯用作对己方不利——*HKSAR v Nancy Ann Kissel*〔CR2 L833 "Be very careful what you say as Defence Counsel in a bail hearing; it can be used against you later at trial: HKSAR v."〕；客户指示不足时，**只**用其指示到的范围（"cannot offer more than your client has said he can offer"）〔CAP-K2 L3193 "You are bound by your client's instructions, so you cannot, in your bail application, offer more than your client has said he can offer."〕。
 
-**总表索引**：以较轻罪套问（行 2）、录供五金失守（行 11）、警署建议错误（行 15）、首堂界面（行 18）的后果链回 [0J 后果链总表](#0J.%20环节%20×%20不做或侵害%20×%20依据%20后果链总表（索引）)。
+**总表索引**：以较轻罪套问（行 2）、录供五金失守（行 11）、警署建议错误（行 15）、首堂界面（行 18）的后果链回 [0J 后果链总表](#0J.%20%E7%8E%AF%E8%8A%82%20%C3%97%20%E4%B8%8D%E5%81%9A%E6%88%96%E4%BE%B5%E5%AE%B3%20%C3%97%20%E4%BE%9D%E6%8D%AE%20%E5%90%8E%E6%9E%9C%E9%93%BE%E6%80%BB%E8%A1%A8%EF%BC%88%E7%B4%A2%E5%BC%95%EF%BC%89)。
 
-## 0G. 律师警署 Playbook：到场、被拒、五动作与离署后义务（2026-10-10 深化）
 
 > 依据主体是本届 LGS3 Part 1（法律探访与警署职责，[^1]），字幕地气补口令级细节（CAP-K2）。律师在侦查端的每一步都同时面向三件事：福利（人）、证据（记录）、出路（保释）。
+
+## 0G. 律师警署 Playbook：到场、被拒、五动作与离署后义务
 
 ### 0G.1 接案与到场：三种渠道与一个文件包
 
@@ -565,19 +567,18 @@ flowchart TD
 * [ ] **暗礁 11（跨）：客户向医护人员随意诉苦**。向医院人员的口诉与向警方的日后口径不一，会**反过来**害自己——往届学生稿的实务提示（仅参考）：医疗赴诊之前先提醒客户仅述伤情与治疗诉求〔OLD-EXLG L1235 "Common that client will make complain to hospital staff – that may work against your client"·往届仅参考〕。
 * [ ] **暗礁 12（跨）：到场证明只有一面**。谈 0G.2 链：问理由→记簿→详记→可作证——只宣讲而不留物证的"坚持"在法院前**没有用**〔CAP-K2 L1795 "So what's the reason why? Second, go to the duty officer and ask for your visit to be noted in the Occurrence Book."〕。
 
-## 0I. 攻防与核对清单：到场前、在场、离署三段核对（2026-11-15 对齐四级蓝图）
-
+## 0I. 攻防与核对清单：到场前、在场、离署三段核对
 > 本节把 0G 的操作密度压成三段核对清单，供出发前与现场逐项打勾；每项的规则与引注回 0C–0G 对应节。攻防双方视角：辩方核对是"我要拿到什么"；警方合规面是"哪些义务会成为辩方攻击点"（其本体与排除机制归 12／13 卡）。
 
-### 0K.1 到场前核对（出发前）
+### 0I.1 到场前核对（出发前）
 
 (1) 文件包：卷宗、R&Ds 副本、纸笔、照相机；(2) 证件：HKID＋Law Society card；大律师另带委托授权函＋Bar 识别证；(3) 接入定性：客户本人／旧客／第三方——第三方指示的"可否接案"问题已备；(4) 着装得体；(5) 是否先致电警署的取舍已有判断〔CR3 L120 "One of the crucial skills needed for conducting a good interview is preparation and planning"；CR3 L124 "Lawyers should make sure they have their HKID card and Law Society card"；CR3 L116 "Can you accept instructions from a third party?"〕。
 
-### 0K.2 在场核对（见到客户前后）
+### 0I.2 在场核对（见到客户前后）
 
 (1) 找 DO 求见并出示证件；(2) 被拒即问理由原文、要求记入 Occurrence Book、必要时升级 ADVC；(3) 与 OC Case 对接五问（证据／口供／认人组与采样／已控何罪／保释立场）；(4) 会见五动作按序走（Confirming→Obtaining→Advising→Reassuring→Securing），Obtaining 含伤势拍照与录像副本索取；(5) 沉默权与律师在场建议到位、不代编；(6) 保释必问且不许诺结果；(7) 福利先行（伤病／饮水／休息／未成年在场）。规则回 0G.1–0G.4、0C–0F。
 
-### 0K.3 离署前与离署后核对
+### 0I.3 离署前与离署后核对
 
 (1) 投诉向 DO 报告并记 Occurrence Book；(2) 医疗：DO 安排送政府医院；(3) 客户不答问的决定知会 OC Case／讯问警员／DO；(4) attendance note 五件套当日完成；(5) Rule 5D 聘用确认函 7 日内发出；(6) 担保人即联络、大律师指示与 brief 安排；(7) 下次会见地点预设（裁判法院羁仓会见室）。规则回 0G.5。**警方端合规要点**（辩方攻击点清单）：Christie 告知、forthwith 交 DO、Pol 153 实际交付签收、R2 即时警诫、同步记录、录供五金、D8 会见理由具实——逐项对应 0J 总表行 1–12。
 
@@ -585,7 +586,7 @@ flowchart TD
 
 ## 0J. 环节 × 不做或侵害 × 依据 后果链总表（索引）
 
-> 四槽口径：**【自动后果】**＝无需任何一方动作即产生的结果；**【主张负担】**＝想主张此侵害者须拿出什么（时序、原话、记录、主证）；**【救济门槛】**＝走哪机制、何处申请/启动；**【制度上限】**＝该侵害**不必然**带来什么（不得说成自动）。依据只引库内可核行；"库内无明文"如实标出并进 open 块。**正文点题回链**：0A 尾、0C.3、0D.4、0E.5、0F.5、0G 各节、0B.4、0K.1 均已挂"总表索引"。
+> 四槽口径：**【自动后果】**指无需任何一方动作即产生的结果；**【主张负担】**指想主张此侵害者须拿出什么（时序、原话、记录、主证）；**【救济门槛】**指走哪机制、何处申请/启动；**【制度上限】**指该侵害**不必然**带来什么（不得说成自动）。依据只引库内可核行；"库内无明文"如实标出并进 open 块。**正文点题回链**：0A 尾、0C.3、0D.4、0E.5、0F.5、0G 各节、0B.4、0K.1 均已挂"总表索引"。
 | # | 程序环节 | 不做／侵害的状态 | 后果链 | 规则与材料依据 |
 |---|---|---|---|---|
 | 1 | 告知真实拘捕原因（逮捕时） | 不告知／告知不实／按下藏起 | 【自动后果】拘捕违法→警员负**非法拘禁**（Christie (ii)）；通常另致供词因**不公平**面临排除。【主张负担】当事人与律师的口头证据面（警员当时说了什么、何时补说）——不用 charge sheet 后来的记载倒推当场告知。【救济门槛】民事（false imprisonment／assault）＋供词争㉚＋CAPO＋纪律。【制度上限】违法**不等于自动无罪**（法院仍有管辖；除非罪行要素含"依法执行职务"——*Yeung May-Wan* 攧案），且警署补告知**可治愈**（*Kulynycz*） | 〔CR2 L321 "(i) Where arresting without a warrant, an officer must ordinarily inform the arrested person of the true ground of arrest. An officer cannot keep"；CR2 L220 "Note in Yeung May-Wan, since the Defendants were unlawfully arrested, the police officers could not be “acting in due execution of their duties” and"；SG01AN L275 "补充（09-28 复审，据 09-27 附录"〕 |
@@ -609,9 +610,8 @@ flowchart TD
 
 **"库内无明文"与待核项归集**：PGO 49-12（Pol 42 表格本身）官方文本不在库（open O-T1）；Pol 153 逐项原文与 D8 脚料（第三方代聘／信件／书面材料／冻结规则）官方 R&Ds 原文未逐字核——以往届学生稿转述作占位（open O-T3）；首堂声明的法律后果历史脉络归 13 卡深展（open 既有条目）。不臆造。
 
-## 0K. SG 应用：SG01 Brief A/B 锚点（2026-10-10 深化；2026-11-15 重编，材料矩阵移审计留痕）
-
-> SG01（Criminal Procedure，Investigation Stage）已于 **2026-09-23** 上完（课表［工作表4!D13:D33］，见 frontmatter）；Brief A（Fergus Fan 截查拘捕案 Q1–Q6）与 Brief B（Tom Tang 14 岁在羁留权利被侵害案 Q1–Q5）＋ Questions C/D 的完整课堂答案在库：SG01AN 答案文件。**本卡当前用途＝查考补全（Brief 各题原理面）＋期末先例面（Brief 事实→判例坐标系）**，不再承担课堂即席职能。
+## 0K. SG 应用：SG01 Brief A/B 锚点
+> SG01（Criminal Procedure，Investigation Stage）已于 **2026-09-23** 上完（课表［工作表4!D13:D33］，见 frontmatter）；Brief A（Fergus Fan 截查拘捕案 Q1–Q6）与 Brief B（Tom Tang 14 岁在羁留权利被侵害案 Q1–Q5）＋ Questions C/D 的完整课堂答案在库：SG01AN 答案文件。**本卡当前用途在于查考补全（Brief 各题原理面）＋期末先例面（Brief 事实→判例坐标系）**，不再承担课堂即席职能。
 ### 0K.1 SG01 Brief A/B 逐题映射（已过，作为先例面）
 
 | 题 | 问什么（题面意谓） | 答案锚点 | 本卡相关关卡 | 该题主述卡 |
@@ -696,8 +696,8 @@ flowchart TD
 
 **本届规则补充与操作边界注（2026-10-10 实质化补强）**：
 1. **48 小时三说不裁决**——拘捕起算（CR2 讲义）／落案起算（CR1 讲义；同页另行 SNSO 国安至 14 天）／条文 "as soon as practicable"（CR3）并存；官方解析位在 05 卡 Gate 1 与 12 卡 §3.1，本卡按 open O-T2 登记不重复裁决〔CR2 L347 "(11) Then within 48 hours of his arrest (or 72 hours for deportation cases), the arrested person must be brought before a Magistrate. (12)"；CR1 L234 "Once a Defendant has been charged, then in Hong Kong, there is a rule that he shall be brought before a Magistrate within 48"；CR3 L102 "The final decision will concern whether the detainee is kept in custody or granted bail. Bail may be granted by the police if the"〕。
-2. **R&Ds 违规≠ 口供失效**——官方 PDF "may render ... liable to be excluded" 与本届讲义"重大且实质违规可致排除"一致；**后果＝自愿性／公平性裁量**，不是自动失效〔CR2 L383 "The R&Ds do not have force of law (except for principle (e)) but are guidelines for law enforcement officers to follow. However, the consequence"〕。
-3. **侦查／审讯边界**——*Nancy Kissel* 的命题属于审讯端（保释聆讯陈词可被审讯采用）〔CR2 L833 "Be very careful what you say as Defence Counsel in a bail hearing; it can be used against you later at trial: HKSAR v."〕；12 手在前端＝顾全**保释陈词会被固定**的事实，不是审讯规范本身。
+2. **R&Ds 违规≠ 口供失效**——官方 PDF "may render ... liable to be excluded" 与本届讲义"重大且实质违规可致排除"一致；**后果属于自愿性／公平性裁量**，不是自动失效〔CR2 L383 "The R&Ds do not have force of law (except for principle (e)) but are guidelines for law enforcement officers to follow. However, the consequence"〕。
+3. **侦查／审讯边界**——*Nancy Kissel* 的命题属于审讯端（保释聆讯陈词可被审讯采用）〔CR2 L833 "Be very careful what you say as Defence Counsel in a bail hearing; it can be used against you later at trial: HKSAR v."〕；12 手在前端意在顾全**保释陈词会被固定**的事实，不是审讯规范本身。
 4. **保释机制边界**——警方／法庭保释的推定、理由、条件、复核全部归 05 卡；保释增补见 [05 卡]（原 16 卡已并入，2026-10-10）；本卡只承侦查端准备位与"未提堂前 s.9D/9G 不适用"边界〔CR3 L102 "The final decision will concern whether the detainee is kept in custody or granted bail. Bail may be granted by the police if the"〕。
 5. **库内无明文的诚实登记**——PGO 49-12（Pol 42）、Pol 153 逐项原文、D8 脚料官方原文均挂 open（O-T1、O-T3），不按"有规则"引用。
 
@@ -714,11 +714,11 @@ flowchart TD
 
 | 核对项 | 当事人如何核对 | 发现缺口后的行动 |
 |---|---|---|
-| T＝时点台账（拘捕时、抵署时、何时产生合理怀疑、落案时、48h 边界） | 抵署与拘捕有时差；该警诫未警；近 48h 未带堂——此刻处在哪一阶段：R1/R2/R3？ | 用 PRCS 的"谁说／谁记／何时确认"三存档固化时序；迟警诫／不 forthwith／超 48h 违规 → 口供争议（自愿性/公平性）＋投诉＋民事 |
-| F＝福利状态（伤病／口渴／休息／药物／未成年在场） | 投诉头痛／口渴／未成年独自讯问——先福利还是先取供指示？永远先福利（0A.6 顺序） | 要求 DO 安排并记入 Occurrence Book；必要时送政府医院；D4/D1(b)／Pol 153 7/8／D5 违反 → 0J 行 7/8＋公平性主张 |
-| I＝告知与指示（客户理解了吗、指示是什么） | 客户决定答问／陈述／沉默；第三方指示待确认——是否代编事实让防线完整？否——必死点 | 只解释不代编；签字确认指示；须 lawyer-present 时一同参与问讯；把修正空间留到讯问结构内（R3 例外不算后门） |
-| V＝侵害与记录（被拒、被拖、被拖欠） | 律师被拒见／Pol 153 未发／录像副本不给——问理由？记簿？立即走什么渠道？ | 问理由→要理由原文→入 Occurrence Book→回所详记；拒绝理由不足（"we are busy" 不构成）→ ADVC 升格＋律师可作证〔CR3 L146 "Access is usually not denied indefinitely (What is the ultimate remedy if refused entry to client?) but any delay can be crucial, especially where"〕 |
-| D＝供词与文件（PRCS、ROI、录像、Pol 153 件、charge sheet） | 文件看不懂／未宣读／未译本／未签名——这份文件是书面陈述还是 ROI（R4/R5 双制）？ | 索取录像副本与所有获发文件；瑕疵即时记录；五金失守（行 11）／签名无证据价值 → 排除主张（不自愿／*Sang* 剩余裁量）与版本攻击 |
+| T 指时点台账（拘捕时、抵署时、何时产生合理怀疑、落案时、48h 边界） | 抵署与拘捕有时差；该警诫未警；近 48h 未带堂——此刻处在哪一阶段：R1/R2/R3？ | 用 PRCS 的"谁说／谁记／何时确认"三存档固化时序；迟警诫／不 forthwith／超 48h 违规 → 口供争议（自愿性/公平性）＋投诉＋民事 |
+| F 指福利状态（伤病／口渴／休息／药物／未成年在场） | 投诉头痛／口渴／未成年独自讯问——先福利还是先取供指示？永远先福利（0A.6 顺序） | 要求 DO 安排并记入 Occurrence Book；必要时送政府医院；D4/D1(b)／Pol 153 7/8／D5 违反 → 0J 行 7/8＋公平性主张 |
+| I 指告知与指示（客户理解了吗、指示是什么） | 客户决定答问／陈述／沉默；第三方指示待确认——是否代编事实让防线完整？否——必死点 | 只解释不代编；签字确认指示；须 lawyer-present 时一同参与问讯；把修正空间留到讯问结构内（R3 例外不算后门） |
+| V 指侵害与记录（被拒、被拖、被拖欠） | 律师被拒见／Pol 153 未发／录像副本不给——问理由？记簿？立即走什么渠道？ | 问理由→要理由原文→入 Occurrence Book→回所详记；拒绝理由不足（"we are busy" 不构成）→ ADVC 升格＋律师可作证〔CR3 L146 "Access is usually not denied indefinitely (What is the ultimate remedy if refused entry to client?) but any delay can be crucial, especially where"〕 |
+| D 指供词与文件（PRCS、ROI、录像、Pol 153 件、charge sheet） | 文件看不懂／未宣读／未译本／未签名——这份文件是书面陈述还是 ROI（R4/R5 双制）？ | 索取录像副本与所有获发文件；瑕疵即时记录；五金失守（行 11）／签名无证据价值 → 排除主张（不自愿／*Sang* 剩余裁量）与版本攻击 |
 
 **三类反模式（该闭环专门捕）**：(1) 把"合法拘捕"当了一切后续都合法（断在 T）；(2) 把"先取供后补福利"当省时就（断在 F，伤损永久）；(3) 把"客户出错帮补"当忠诚（断在 I，必挂）〔CAP-K2 L3208 "Never invent facts. Never mislead the court."〕。
 
@@ -745,13 +745,17 @@ flowchart TD
 
 | 客户目标 | 从目标倒推所需材料、工具与代价 |
 |---|---|
-| 避免无意提供不利材料 | 普通案件警察问讯：解释沉默权，不能仅凭合法沉默作不利推断；已作陈述的后果另论。反向风险：OSCO／POBO 等特定强制回答权限另核，不能把特例泛化到本案沉默〔CR2 L349 "no adverse inference can be drawn"；CR3 L224 "no prejudice can be attached to remaining silent"〕。倒推链（B 链）：供词若能排除或受限 → 自愿性/公平性主张 → 知情决定（*Pang Ho Yin*）→ 警诫时点（*Chiu Wing Kai*）→ 警诫前口头陈述独立封存；断环：事后警诫盖不住"知情"已破；"迟警诫必排"误区——*Fung Wing Ching* proviso 只挡无偏见者。交叉 0J 行 2、9–11 |
+| 避免无意提供不利材料 | 普通案件警察问讯：解释沉默权，不能仅凭合法沉默作不利推断；已作陈述的后果另论。反向风险：OSCO／POBO 等特定强制回答权限须另行核对，不能把特例泛化到本案沉默〔CR2 L349 "no adverse inference can be drawn"；CR3 L224 "no prejudice can be attached to remaining silent"〕。倒推链（B 链）：供词若能排除或受限 → 自愿性/公平性主张 → 知情决定（*Pang Ho Yin*）→ 警诫时点（*Chiu Wing Kai*）→ 警诫前口头陈述独立封存；断环：事后警诫盖不住"知情"已破；"迟警诫必排"误区——*Fung Wing Ching* proviso 只挡无偏见者。交叉 0J 行 2、9–11 |
 | 质疑警方搜查 | 识别具体动作、依据及条件。反向风险：反对权力不等于可以阻碍合法执法。倒推链（C 链）：Voir Dire 档案 → 瑕疵清单（不逐字/不宣读/不识字仍令签/无译本/诱导）→ 当时当刻证明 → 律师与 DO 两套记录 → Occurrence Book 与 custody records；断环：只凭记忆——16/17 行不可逆；侵害发生在签署之后仍当致供原因（B3 因果时序）。交叉 0J 行 8、11、14、16、17 |
 | 保存将来争议 | 记录时间、权利请求与口供环境。反向风险：没有当时记录会增加后续事实争议。倒推链（D 链）：政府医院证明与记录后版本 → DO 安排与承诺 → 当场伤病 → 客户口述伤况；断环：只"让客户就医"却没记"何人被知会"；向医院人员诉苦与警方版本不一（0G.6 暗礁 11·往届仅参考）。交叉 0D.4、0J 行 8 |
 | 保住自由（不在警署"自废"） | 首堂获准保 → 48h 内首堂前置包 → 警署阶段保释资料与担保人 → 客户不添新证据 → 不被拖出告知错位。断环 1：警方不保释才想起收资料——0G.4 已要求在先收；断环 2：首堂露底——形式预告只（0F.4）；对策 0G.5.3 的 24 小时预设。交叉 0J 行 13、15、18；0B.4。反向风险：保释必问但不可许诺结果〔CR3 L242 "there is always uncertainty attached to the grant of bail."〕 |
 
 
-## 7. 既有卡片关系和使用方法
+## 审计留痕：材料矩阵、待核事项与历史修订记录
+
+> 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则。
+
+#### 既有卡片关系和使用方法
 
 **本轮新增接口**：刑事证据争议体系 披露 可接纳性与证明力；保释制度体系（原 16 增补并入主卡）。先看相邻体系的边界，再回本卡规则表核查。
 
@@ -764,10 +768,6 @@ flowchart TD
 **证据与写法自检**：把每一句拆成“事实来自哪里／法律条件来自哪里／结论强度多大”。客户说法、模拟训练、自拟建议与法定规则各自标明；不要把本卡策略分析当成讲义原话。
 
 **2026-10-10 边界再核**：单点单承重复查——查口规（1992 R&Ds）细则、自愿性与排除测试在 卡 12 §5/§5.1；保释机制在 05 卡；本卡为侦查端权利触发、记录链与辩护作业的单点主述。
-
-## 审计留痕：材料矩阵、待核事项与历史修订记录
-
-> 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则。
 
 #### 辐射范围与制作时材料状态（原 §0，原样保留）
 #### 0. 辐射范围与制作时的材料状态
@@ -819,7 +819,7 @@ flowchart TD
 #### 未决事项与待核（open 块，机器边界保留）
 <!-- BEGIN:open -->
 ##### ❓ 制作时未齐的材料与待核事项
-- 国家安全及特定严重罪行的强制回答、搜查与保释制度须另核完整专题；本卡不替代。
+- 国家安全及特定严重罪行的强制回答、搜查与保释制度须须另行查阅完整专题；本卡不替代。
 - 个案法律探访是否获私下会面、准确时间和客户实际回答只能来自本届题面或当事人记录。
 - 单词anchor只定位相应段落；引用处若有例外，使用时必须读完整原段。
 - 未来新讲义、修订稿、课堂答疑及本届SG题面到货时，按本卡已登记来源定位补丁；不可用“本届”目录名消解原件内的学年或版本差异。
