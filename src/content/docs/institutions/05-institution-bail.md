@@ -224,7 +224,7 @@ flowchart TD
 |---|---|---|---|
 | (a) 罪行性质与严重性 | nature and seriousness of the alleged offence 及定罪后可能的处理 | 控方以严重性推高弃保诱因（刑期越长越想跑）；辩方把案情放进具体脉络、指出比表面指控轻的量刑区间；法官听的是「严重程度 → 弃保诱因」这一环有没有事实支撑 | 〔LGS2N L797 "(a) the nature and seriousness of the alleged offence and, in the event of conviction, the manner in which the accused person is likely to"；LGS2S L617 "Nature and seriousness of offence; likely sentence if convicted"；WK2 L797 "(a) the nature and seriousness of the alleged"〕 |
 | (b) 行为、举止与态度 | behaviour, demeanour and conduct | 控方指着庭上表现与警署态度说「不悔改」；辩方提醒这类软因素证明力有限，用具体守约行为反驳 | 〔LGS2N L799 "(b) the behaviour, demeanour and conduct of the accused person;"〕 |
-| (c) 背景、联系、职业、社区纽带与财力 | background, associations, employment, occupation, home environment, community ties and financial position | 控方主张「联系弱＝可逃」；辩方用具象事实（本地出生、与家人同住、稳定受雇、按月供养家庭）论证扎根；法官要的是可核验的联系证据而非口号 | 〔LGS2N L801 "(c) the background, associations, employment, occupation, home environment, community ties and financial position of the accused person;"；LGS2S L619 "Background, associations, employment, community ties, financial position of D"〕 |
+| (c) 背景、联系、职业、社区纽带与财力 | background, associations, employment, occupation, home environment, community ties and financial position | 控方主张「联系弱即意味着可逃」；辩方用具象事实（本地出生、与家人同住、稳定受雇、按月供养家庭）论证扎根；法官要的是可核验的联系证据而非口号 | 〔LGS2N L801 "(c) the background, associations, employment, occupation, home environment, community ties and financial position of the accused person;"；LGS2S L619 "Background, associations, employment, community ties, financial position of D"〕 |
 | (d) 健康与年龄 | health, physical and mental condition and age | 控方几乎不用；辩方在未成年、老弱、有医疗需要时主动提出，并连接羁押环境的风险 | 〔LGS2N L803 "(d) the health, physical and mental condition and age of the accused person;"〕 |
 | (e) 既往保释历史 | history of any previous admissions to bail | **KEY FACTOR**：曾弃保、违约、保释期犯案的记录是法官最看重的负面项，控方必然提出；辩方必须准备解释每一段违约的原因，或以「此前多次获保均如期应讯」正面回击 | 〔LGS2S L621 "The history of previous admissions to bail; Has D absconded in past, breached conditions, committed offences while on bail? KEY FACTOR!"；LGS2N L813 "the court will be very concerned with any previous record of the Defendant failing to answer to bail, breaching bail conditions or committing an offence"；LGS2S L621 "history of previous admissions to bail; Has D absconded in past, breached conditions, committed offences while on bail? KEY FACTOR"；LGS2N L813 "the court will be very concerned with any previous record of the Defendant failing to answer to bail"；LGS2N L813 "the court will be very concerned with any previous record of the Defendant failing to answer to bail, breaching bail conditions"〕 |
 | (f) 品格、经历与前科 | character, antecedents and previous convictions | 控方用前科推量刑与风险；辩方按 *ADV-V2* 口径邀请法庭 "place little weight" 于久远、轻微的记录，并强调 "stayed out of trouble for xx years" | 〔LGS2N L807 "(f) the character, antecedents and previous convictions, if any, of the accused person;"；ADV-V2 L920 "Given that his / her previous convictions were committed a long time ago and were of a minor nature I would invite the court to"〕 |
@@ -361,7 +361,7 @@ s.9D(3) CPO 列出保释条件的法定类型；香港实务中无条件保释�
 3. **条件须与实际安排相容**：报到时间、宵禁、住址和禁区须与实际工作／上课／居住安排相符；住所就在拟禁区内的，先取得替代住址指示，不向法庭提交客户当天就无法遵守的方案〔LGS2N L729 "requirement to reside at a specific place (usually imposed in"；LGS2N L839 "Do not ask for bail conditions that are impossible"〕。
 4. **担保不是替客户买保险**：surety 承担促使归押的责任、违约后可能失去现金或担保书；讲义中「通常」「理想上」等措辞是实践描述，不能当法定硬条件引用——准备时区分权力、法定条件与法院通常期待三层（rule of practice 之辨见 0D.1 年龄条）〔LGS2N L765 "There is no legal authority for this – it is a rule of practice!"；LGS2S L586 "Must be 18 years old or older."〕。
 
-> ⛓️ **后果点题**：担保失格仍提出＝保释包当场作废 → 0J 行 9；与担保人订立弥偿协议 → 0J 行 10（s.9F 刑事罪）；未核可行性即提条件 → 0J 行 6–8。
+> ⛓️ **后果点题**：担保资格不足仍提出保释会令整个保释申请当场作废 → 0J 行 9；与担保人订立弥偿协议 → 0J 行 10（s.9F 刑事罪）；未核可行性即提条件 → 0J 行 6–8。
 
 ### 0D.3 违反保释条件 vs 弃保潜逃：两级后果
 
@@ -373,7 +373,7 @@ s.9D(3) CPO 列出保释条件的法定类型；香港实务中无条件保释�
 
 **担保人的 show cause 抗辩**：s.9M 没收是裁量性的（in whole or in part）。依 s.54(1) CPO，担保人获送达通知到庭后，可就为何不应没收所押款项说明理由（show cause）；抗辩的实质是证明自己已采取一切合理步骤确保被告人归押，被告人潜逃属其无法预见与控制的突发行为〔ADV-V2 L309 "Surety given notice to attend court"；ADV-V2 L311 "To show cause why the money pledged should not be forfeited"；ADV-V2 L307 "s. 9M & s. 54(1) Cap. 221"；ADV-V2 L313 "Surety needs to have taken all reasonable steps to ensure that defendant answered his bail"；LGS2S L599 "court can order forfeiture of cash bail in whole or in part or forfeiture of surety's recognisance"〕。弃保记录还会沉淀为 KEY FACTOR：下一次保释申请里，它就是 s.9G(2)(e) 桌面上最重的负面砝码（→ 0B.2）〔LGS2N L813 "any previous record of the Defendant failing to answer to bail, breaching bail conditions"〕。
 
-> ⛓️ **后果点题**：不按时归押＝s.9L 刑事罪＋s.9M 没收＋记录成 KEY FACTOR → 0J 行 13；纯粹违令 → s.9K 手令 → 撤保加苛 → 0J 行 6–8。
+> ⛓️ **后果点题**：不按时归押即构成 s.9L 刑事罪，法庭可依 s.9M 没收担保，且该记录会成为日后法庭拒保考量的 KEY FACTOR → 0J 行 13；纯粹违令 → s.9K 手令 → 撤保加苛 → 0J 行 6–8。
 
 ### 0D.4 开庭未到庭的紧急控场（Stand Down 应急）
 
@@ -425,7 +425,7 @@ flowchart TD
 
 **核心先例**：*HKSAR v Lai Chee Ying* [2021] HKCFA 3；（2021）24 HKCFAR 33（para. 53(b)）确立 42(2) 的门槛地位，且「sufficient grounds」的判断属法庭的评价与判断（the court's evaluation and judgment），**不涉及举证责任的分配**〔ADV-V2 L251 "PARA. 53(B) LAI CHEE YING (2021) 24 HKCFAR 33"；ADV-V2 L650 "Judge should regard the NSL 42(2) “sufficient grounds” question as a matter for the court’s evaluation and judgment. Not involving the application of a burden"〕。门槛与一般制度的关系还有一处法理衔接：42(2) 处理的风险与 s.9G(1)(b)（保释期间犯案）重叠——它针对的正是被告人获保后继续实施危害国家安全行为的可能〔ADV-V2 L231 "ARTICLE 42(2)OVERLAPS WITH S. 9G(1)(B) ABOVE"；ADV-V2 L235 "ART 42(2) DEALS WITH THE RISK OF AN ACCUSED COMMITTING ACTS ENDANGERING NATIONAL SECURITY IF BAIL WERE TO BE GRANTED"〕。警署阶段同样有国安特则：警方可为 NSL 罪行施加更严厉的保释条件（→ 0C.1）〔LGS2N L655 "the police can impose more stringent bail conditions in connection with offences under the NSL"〕。
 
-**往届口径并列**：「依 A. 62 NSL，42(2) 条在保释推定上取代 s. 9D CPO」之说仅见往届 LG09 讲义；本届材料未记 A. 62 的取代关系，正文以上列本届口径为准，往届一句并列备考（→ 审计留痕 待核实区）〔OLD-LG09 L172 "the general rules as to bail still apply in national security cases"·往届仅参考；OLD-LG09 L172 "the provisions of A. 42(2) NSL effectively supersede s. 9D CPO when it comes to the presumption of entitlement to bail"·往届仅参考〕。另：NSL 案裁判官可授权警方在未落案情况下延长羁押至 14 天（SNSO），见 0C.1 48 小时闸门。
+**口径提示**：往届 LG09 讲义曾记「依 A.62 NSL，s.42(2) 条在保释推定上取代 s.9D CPO」之说，本届材料未记该取代关系，故以本届口径为准、往届说法仅作备考（详见审计留痕待核实区）〔OLD-LG09 L172 "the general rules as to bail still apply in national security cases"·往届仅参考；OLD-LG09 L172 "the provisions of A. 42(2) NSL effectively supersede s. 9D CPO when it comes to the presumption of entitlement to bail"·往届仅参考〕。另：NSL 案裁判官可授权警方在未落案情况下延长羁押至 14 天（SNSO），见 0C.1 48 小时闸门。
 
 ### 0E.3 少年犯保释（Juvenile Offenders Ordinance, Cap. 226）
 
@@ -493,7 +493,7 @@ LGS 2 Slide 59, 65 · 往届 SG01 Set 1 L398
 
 还押期通常折抵最终监禁刑期，但**法官宣判时不会主动扣减**——原应判三年依然宣判三年；折抵由惩教署署长（Commissioner for Correctional Services）在计算最早获释日期时作出。两个实务落点：(1) 向客户解释刑期时，讲的是「判刑数字」与「实际获释日」两层，不混淆；(2) 获保希望渺茫、判刑几乎必然监禁的客户，可能理性选择不申请保释以积累折抵（→ 0C.2 放弃 B/U）〔LGS2S L634 "Time spent on remand usually counts to reduce the length of a term of imprisonment"；LGS2N L825 "the Judge in passing sentence will not reduce the sentence of imprisonment to take account of time spent on remand"；LGS2N L825 "this calculation is made by the Commissioner for Correctional Services in calculating a Defendant's release date from custody"；LGS2S L634 "J does not calculate the release date or reduce the sentence to take account of remand time."；OLD-LG02P3O L244 "this calculation is made by the Commissioner for Correctional Services in calculating a Defendant's release date from custody"·往届仅参考；LGS2S L634 "J does not calculate the release date or reduce the sentence to take account of remand time"〕。
 
-## 0H. 申请方式与时限排期汇总
+## 0G. 申请方式与时限排期汇总
 
 各路径的申请方式与时限在前文已按阶段展开，此处只做一张索引表供开庭前速查；引用细节以对应节为准：
 
@@ -540,7 +540,7 @@ LGS 2 Slide 59, 65 · 往届 SG01 Set 1 L398
 | 10 | 担保人金钱纪律（0D.1） | 与担保人订立补偿弥偿协议 | 构成 s.9F 刑事罪（无论协议订立时间在担保前或后） | 〔LGS2N L767 "cannot enter into an agreement to indemnify a surety"；LGS2S L587 "a criminal offence under s.9F CPO"〕 |
 | 11 | 陈词风控（0F.2 地雷三） | 保释陈词过度披露事实／虚构内容 | *Kissel*：日后审讯可被控方采纳用作针对被告人的证据 | 〔LGS2N L833 "it can be used against you later at trial: HKSAR v. Nancy Ann Kissel"；LGS2S L641 "Submissions made in bail application can be used against you later at trial."〕 |
 | 12 | 获保后管理（0F.3） | 不核对命令逐项内容／变更获批前自行改变做法 | 实际违令而不自知 → 触发 s.9K／s.9M 连锁；变更前旧命令仍具约束 | 〔LGS2S L566 "Conditions granted by Magistrate can be varied on application to J in CFI: s. 9J CPO or on next appearance before MC"；LGS2S L599 "court can order forfeiture of cash bail in whole or in part or forfeiture of surety's recognisance"〕（分析口径见 0F.3） |
-| 13 | 不按时归押＝弃保潜逃（0D.3） | 无合理辩解不在指定时日归押 | s.9L 独立刑事罪（简易：6 个月＋7.5 万／公诉：12 个月＋无限额）＋s.9M 全部或部分没收＋记录成为日后拒保考量的 KEY FACTOR | 〔LGS2S L598 "Failing to appear in court without reasonable cause when on bail: is a criminal offence: s. 9L CPO"；LGS2S L599 "court can order forfeiture of cash bail in whole or in part or forfeiture of surety's recognisance"；LGS2N L813 "any previous record of the Defendant failing to answer to bail"〕 |
+| 13 | 不按时归押即构成弃保潜逃（0D.3） | 无合理辩解不在指定时日归押 | s.9L 独立刑事罪（简易：6 个月＋7.5 万／公诉：12 个月＋无限额）＋s.9M 全部或部分没收＋记录成为日后拒保考量的 KEY FACTOR | 〔LGS2S L598 "Failing to appear in court without reasonable cause when on bail: is a criminal offence: s. 9L CPO"；LGS2S L599 "court can order forfeiture of cash bail in whole or in part or forfeiture of surety's recognisance"；LGS2N L813 "any previous record of the Defendant failing to answer to bail"〕 |
 | 14 | 上诉轨道（0C.5） | 14／28 日逾期／向无管辖权法院申请 | 管辖错误即无权批保（DC／CFI 无权、CA 专属）；逾期丧失该轨道；无实质胜算仍不获批（*Lau Man Kin*） | 〔LGS2S L673 "DC / CFI cannot grant bail pending appeal."；LGS2S L675 "Of the 2 criteria, (2) is the most important"〕 |
 
 ## 0K. SG 实务应用与跨科接口
