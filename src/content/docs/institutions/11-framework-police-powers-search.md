@@ -198,7 +198,7 @@ flowchart TD
 
 > 💡 **【实战穿透 · SGS 1 Q A1】**：Fergus Fan 醉酒踉跄案（案情与题问的原件为**往届** SG01 Set 1 学生册，本届课堂件沿用同一题），详见 SG01 Classroom Brief A Question A1（警方截停、查验身份证及搜身的权力）。 〔OLD-SG01S1 L74 "Fergus Fan, aged 19, has been arrested. He was stopped by the police on the street"·往届仅参考；OLD-SG01S1 L78 "Comment on the police's powers to stop Fergus, ask for his ID card and search him"·往届仅参考；OLD-SG01S1 L146 "Fergus was acting suspiciously under s54(1)"·往届仅参考〕
 
-**总表索引（2026-10-10）**：把 s.54(1) 当 s.54(2) 超范围搜查、以及把 s.54 当拘捕／扣押权用的后果链归并 [§7 行 1–2](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：把 s.54(1) 当 s.54(2) 超范围搜查、以及把 s.54 当拘捕／扣押权用的后果链归并 [§7 行 1–2](#7-环节--不做做错的后果--依据速查总表)。
 
 > **Exam / Advocacy Formulation:** "s.54 lets the police stop and search the person — (1) for danger items on suspicious manner, (2) for investigation-value items on reasonable suspicion — but never to arrest, never to seize, and never the premises."（自拟考场口径；底层规则见 §1.1 各行引注）
 
@@ -216,17 +216,17 @@ flowchart TD
 
 > 💡 **【实战穿透 · SGS 1 Q A2】**：搜出大剪刀后依据 s.50(1) PFO 实施拘捕与 s.50(6) 扣押剪刀物证（案卷与解答见**往届** SG01 Set 1 学生册，本届课堂件沿用同一题），详见 SG01 Classroom Brief A Question A2（拘捕与检取剪刀的权力及依据）。 〔OLD-SG01S1 L204 "Fergus was then arrested and cautioned for possession of an offensive weapon"·往届仅参考；OLD-SG01S1 L214 "No power to arrest Fergus and seize the scissors under s54(1)"·往届仅参考；OLD-SG01S1 L218 "PFO s50(6) PFO - Search of a person on lawful arrest without a warrant"·往届仅参考；LGS2N L259 "S. 50(6) also gives an officer the power to seize items found in the search"〕
 
-**总表索引（2026-10-10）**：拘捕缺真实怀疑、只凭上级命令、迷信 s.50(1A) 而免做双层自检的后果链归并 [§7 行 3](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：拘捕缺真实怀疑、只凭上级命令、迷信 s.50(1A) 而免做双层自检的后果链归并 [§7 行 3](#7-环节--不做做错的后果--依据速查总表)。
 
 ### 2.2 公民拘捕权（Citizen's Arrest — s.101 CPO & Common Law）
 1. **两大权力渊源**：
  - **普通法**：发生**破坏社会安宁（Breach of the Peace）**时，任何公民可当场制止并拘捕 (*HKSAR v Chow Nok Hang [2013]*). 〔LGS2N L297 "A citizen has a common law power to arrest for breach of the peace"；LGS2N L297 "that citizen has the right to arrest the offender without a warrant"；LGS2S L246 "Common Law: can arrest for breach of peace"〕
  - **成文法 (s.101 CPO)**：合理怀疑某人犯有**可逮捕罪行（Arrestable Offence，即法定刑期超过 12 个月的罪行，s.3 IGCO）**。 〔LGS2N L299 "A citizen also has a statutory power of arrest under s. 101 CPO to arrest a person whom he reasonably suspects"；LGS2N L299 "The definition of an Arrestable Offence is found in s. 3 Interpretation & General Clauses Ordinance"；LGS2N L299 "for which a person may be sentenced to imprisonment of more than 12 months"〕
-2. **法定限制**：公民拘捕后**必须立即（Forthwith）将捕获人移交给警务人员 (s.101(5) CPO)**；仅可使用**合理武力 (s.101A CPO)**。普通法下公民**绝对没有为调查而强行扣留他人的权力**。 〔LGS2N L301 "the citizen shall deliver the arrestee to a police officer so that he may be brought before a magistrate"；LGS2S L249 "Citizen should deliver the arrestee to a police officer upon arrest"；LGS2N L305 "A person may use such force as is reasonable in the circumstances in the prevention of crime"；LGS2S L253 "no common law power for a citizen to detain another for inquiries"〕 〔库内无明文出处，见审计区待核〕
+2. **法定限制**：公民依 s.101(5) CPO 拘捕后，须把被捕人交给警务人员，以便该人在合理可行的情况下尽快被带到裁判官面前；仅可使用**合理武力 (s.101A CPO)**。普通法下公民**绝对没有为调查而强行扣留他人的权力**。 〔LGS2N L301 "under s.101(5) CPO, the citizen shall deliver the arrestee to a police officer so that he may be brought before a magistrate as soon as he may reasonably be brought"；LGS2N L343 "delivered forthwith to the police officer in charge of the station: s. 51 PFO"；LGS2S L249 "Citizen should deliver the arrestee to a police officer upon arrest"；LGS2N L305 "A person may use such force as is reasonable in the circumstances in the prevention of crime"；LGS2S L253 "no common law power for a citizen to detain another for inquiries"〕 〔库内无明文出处，见审计区待核〕
 
 > 💡 **【实战穿透 · SGS 1 Q B1】**：7-11 店员 Alice 飞扑摔折 14 岁少年鼻骨并绳捆双手案，涉及 s.101(2) 市民拘捕与 s.101A 过量武力认定，详见 SG01 Classroom Brief B Question B1（店员 Alice 市民拘捕及捆绑双手的合法性）。另注意：Christie 五原则同样适用于**公民拘捕**，且原定非法的拘捕可因其后在警署补告原因而获补救（*R v Kulynycz*）。 〔LGS2N L331 "The 5 principles in Christie v Leachinsky also apply where a citizen makes a private arrest"；LGS2N L335 "Where an arrest is originally unlawful, it can be cured by informing the Defendant of the reasons"〕 〔库内无明文出处，见审计区待核〕 〔❓「s.101A 过量武力认定」若读作结论，与本卡所引往届学生册的答案相反：该册认为店员以绳捆手在被告欲离店的案情下「would seem that Alice's use of force was justified」。本卡原文照旧保留，取舍待你定〕
 
-**总表索引（2026-10-10）**：公民拘捕抓后不移交、扣留盘问、超合理武力的后果链归并 [§7 行 5](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：公民拘捕抓后不移交、扣留盘问、超合理武力的后果链归并 [§7 行 5](#7-环节--不做做错的后果--依据速查总表)。
 
 ### 2.3 告知拘捕原因五原则（*Christie v Leachinsky [1947]* 先例）
 > 出处：本届讲义逐条列出五项原则；五项原则**亦适用于公民拘捕**。 〔LGS2N L319 "Christie v Leachinsky establishes 5 principles"；LGS2N L331 "The 5 principles in Christie v Leachinsky also apply where a citizen makes a private arrest"〕
@@ -244,7 +244,7 @@ flowchart TD
 * ***HKSAR v Pang Ho Yin [2010] 3 HKLRD 515*（上诉庭）：** 被告因以为自承较重罪行可换取减轻，就在就较轻罪行的讯问中承认了较重罪行——上诉庭裁定警方**须就较重罪行重新向他作出警诫**，否则他在不知调查真实性质的情况下无法就是否行使沉默权作出知情决定。 〔LGS2N L421 "the Court of Appeal held that where the Defendant, in the course of being questioned for less serious offences"；LGS2N L421 "he cannot make an informed decision about whether to exercise his right of silence"；LGS2S L273 "D should be informed of the true nature of the investigation"〕
 * ⚠️ 旧版在此写"此举将**直接导致**口供被法官排除"：本卡所引讲义 (7) 条与判例两条原文**均未**规定必然排除，只规定违法／须重新警诫；是否排除仍属法官按不公与证据价值行使的**酌情权**（参见卡 12 关于违反 R&Ds 后果的处理）。 〔LGS2N L337 "it is unlawful and unfair to arrest and question only in relation to the less serious offence"；LGS2N L421 "he should be cautioned for the more serious offence"；LGS2N L339 "Failure to comply with these principles would usually lead to confessions being excluded due to unfairness"；LGS2S L274 "Failure to comply with these principles would usually lead to confessions being excluded due to unfairness"；D-CHR-EXCL〕
 
-**总表索引（2026-10-10）**：不告知拘捕原因、给假原因、以轻罪套重罪供述后不再警诫的后果链（含 D-CHR-EXCL”通常排除 vs 酌情“未裁）归并 [§7 行 4](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：不告知拘捕原因、给假原因、以轻罪套重罪供述后不再警诫的后果链（含 D-CHR-EXCL”通常排除 vs 酌情“未裁）归并 [§7 行 4](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -279,7 +279,7 @@ flowchart TD
 
 * **香港无“毒树之果”原则 (*R v Yu Yem Kin [1994]*)**：搜查即使存在程序瑕疵或无令违法，所查获的实物证据**不会自动丧失可采性**，法官有最终自由裁量权平衡证据价值与公共利益。 〔LGS2N L293 "If a search is unlawful, the evidence obtained may or may not be admissible. The court will determine admissibility"；LGS2N L293 "This is commonly understood to mean that there is no “fruit of the poisoned tree” principle in Hong Kong"；LGS2S L241 "If a search is unlawful, the evidence obtained may or may not be admissible"；LGS2N L289 "A search should only be conducted without a warrant where it is reasonably necessary and reasonably impracticable to do so with a warrant"〕 〔❓本栏「法官有最终自由裁量权平衡证据价值与公共利益」：库内三处原文只作「the court will determine admissibility」，未把「公共利益」列为权衡因素。删留待你定〕
 
-**总表索引（2026-10-10）**：借 s.50(3) 做捕前侦查、破门三要素不齐、有令不走 s.50(7) 的后果链归并 [§7 行 6](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：借 s.50(3) 做捕前侦查、破门三要素不齐、有令不走 s.50(7) 的后果链归并 [§7 行 6](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -345,7 +345,7 @@ flowchart TD
 
 > **Exam / Advocacy Formulation:** "Consent to use the phone for the operation is not consent to search it for evidence — and a later warrant cannot cure an earlier unlawful search."（自拟考场口径；底层规则见 §4.1 四条规则）
 
-**总表索引（2026-10-10）**：无令细搜数码内容要件不齐、超有限同意搜查、书面记录副本缺失、逼取密码或以拒供密码计阻差的后果链归并 [§7 行 7–8](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：无令细搜数码内容要件不齐、超有限同意搜查、书面记录副本缺失、逼取密码或以拒供密码计阻差的后果链归并 [§7 行 7–8](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -358,13 +358,13 @@ flowchart TD
 | **非侵入性样本 (Non-intimate)** | s.59C PFO | 须经**高级警官（警司级以上）授权**；**无须被捕人同意**（在羁押中即可采集）。 | 包含头部毛发、口腔内侧拭子 (buccal swab)、唾液等（讲义所举）；旧版另列"指甲污垢"，属 PFO 定义层面，本页未举。被捕人不合作时，依 ss.59C(4)(e) 及 59C(8) **可使用合理武力**取样。 〔LGS2N L363 "non-intimate samples may be taken from a person in custody with or without consent of the arrested person under s. 59C PFO"；LGS2N L363 "These samples include head hair, buccal swabs and saliva but must be authorized by an officer of or above the rank of a superintendent"；LGS2N L363 "then by ss. 59C(4)(e) and 59C(8), reasonable force may be used to extract the sample"；LGS2S L291 "approval of senior officer required but not consent of arrestee"；OLD-EXALL L702 "Reasonable force may be used to extract the sample if the arrested person refuses to consent"·往届仅参考〕 〔❓本栏「旧版另列『指甲污垢』，属 PFO 定义层面，本页未举」：库内四件材料均未举指甲污垢，亦无 PFO 定义条文可对照，属本卡自记。〕 |
 | **侵入性样本 (Intimate samples)** | s.59A PFO | **三项要件须同时成立**（缺一即违法）：<br>① **警司级或以上人员以书面授权**采取该样本；<br>② **被捕人同意**（即其有**拒绝权**）；<br>③ **裁判官批准 (a Magistrate gives approval)**。 | 包含血液、精液、尿液、身体孔洞拭子。严禁强行采取。⚠️ 旧版漏掉"裁判官批准"这一独立要件，并把"书面"错挂在被捕人的同意上（原件的"书面"修饰的是**高级警官的授权**）。 〔LGS2N L361 "an officer of or above the rank of superintendent gives written authorisation for such collection"；LGS2N L361 "the arrested person consents (in other words he has the right to refuse to provide intimate samples) and a Magistrate gives approval"；OLD-LG02P1 L345 "and a Magistrate gives approval"·往届仅参考〕 〔❓本栏「包含血液、精液、尿液、身体孔洞拭子。严禁强行采取」库内无出处：讲义与幻灯都只给 s.59A 的三要件，未列侵入性样本的种类清单，亦无「严禁强行」一语（该清单与禁止近似 PFO 定义层面的内容，库内不含）。〕 〔❓同一条 s.59A，本届幻灯 Slide 30 只列「senior officer 授权＋被捕人同意」两项，未记「裁判官批准」。依「有冲突用本年讲义」本卡采讲义三要件，幻灯缺项在此记明。〕 |
 
-**总表索引（2026-10-10）**：侵入样本按非侵入档取样（缺三要件之一）与非侵入档滥用力量的后果链归并 [§7 行 9](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：侵入样本按非侵入档取样（缺三要件之一）与非侵入档滥用力量的后果链归并 [§7 行 9](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
 ## 6. 全流程核对清单（截查→取证，逐闸自检）
 
-每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [§7 总表](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [§7 总表](#7-环节--不做做错的后果--依据速查总表)。
 
 | # | 闸门 | 自检问题（辩方核查视角） | 未过时的动作 | 深节回点 |
 |---|---|---|---|---|
@@ -413,7 +413,7 @@ flowchart TD
 |---|---|---|---|---|
 | **s.54 截查双轨** | s.54(1) 危险物品 vs s.54(2) 调查价值物品；无扣押权 | Slide 7–11 | LGS 2 Notes（s.54 一节） 〔LGS2S L112 "The reason for stopping the suspect"；LGS2N L158 "if the officer considers it necessary, he can search the person for anything that may present a danger"〕| SG01 Set 1 Q A1 |
 | **s.50 无令拘捕** | *Yeung May-Wan* 真实怀疑+客观基础；上级命令不足 | Slide 12–16 | LGS 2 Notes（s.50 拘捕一节） 〔LGS2N L216 "a mere order from a more senior officer is insufficient"；LGS2N L214 "this genuine suspicion must be formed on objectively reasonable grounds"〕| SG01 Set 1 Q A2 |
-| **公民拘捕权** | s.101 CPO 可逮捕罪行(12m+)；立即移交；合理武力；Christie 五原则同样适用 | Slide 25 | LGS 2 Notes L295–L301, L331 〔LGS2N L299 "A citizen also has a statutory power of arrest under s. 101 CPO to arrest a person whom he reasonably suspects"；LGS2N L331 "The 5 principles in Christie v Leachinsky also apply where a citizen makes a private arrest"〕| SG01 Set 1 Q **B1**（店员 Alice 拘捕） |
+| **公民拘捕权** | s.101 CPO 可逮捕罪行(12m+)；移交警务人员；合理武力；Christie 五原则同样适用 | Slide 25 | LGS 2 Notes L295–L301, L331 〔LGS2N L299 "A citizen also has a statutory power of arrest under s. 101 CPO to arrest a person whom he reasonably suspects"；LGS2N L331 "The 5 principles in Christie v Leachinsky also apply where a citizen makes a private arrest"〕| SG01 Set 1 Q **B1**（店员 Alice 拘捕） |
 | **处所破门搜查** | s.50(3) 抓人；s.50(4) 破门三要素；*Yu Yem Kin* 无毒树之果 | Slide 19–24 | LGS 2 Notes L250–L252, L283–L291 〔LGS2N L253 "(i) they have identified themselves as police officers, (ii) they have demanded entry and stated why and (iii) entry has been refused"；LGS2N L293 "This is commonly understood to mean that there is no “fruit of the poisoned tree” principle in Hong Kong"〕| ⚠️ 往届 SG01 Set 1 **未出**处所搜查题（Q A3 讲的是检控手续）；本题仅在 LGS 2 讲授 |
 | **手机数码搜查** | *Sham Wing Kan* (CA) 普通法附随搜查四要件 (a)–(d)；无"exigent circumstances"原则；不给密码非罪；*Chan Ka Lok* 有限同意 | Slide 21, 22 | LGS 2 Notes L261–L279 〔LGS2N L271 "the scope of the detailed examination of the digital contents of a phone should be limited"；LGS2N L275 "The CA held that there is no doctrine of ‘exigent circumstances’ in Hong Kong"〕| ⚠️ 往届 SG01 Set 1 **未出**手机题；本届 SG01 Classroom 亦无该题（Slide 22 为课堂提问） |
 | **告知原因原则** | *Christie v Leachinsky* 五原则；*Kulynycz* 事后补告可补救；轻罪套供违法 | Slide 26–28 | LGS 2 Notes L317–L337, L421 〔LGS2N L319 "Christie v Leachinsky establishes 5 principles"；LGS2N L335 "Where an arrest is originally unlawful, it can be cured by informing the Defendant of the reasons"〕| SG01 Set 1 Q B1／B2 |
@@ -437,11 +437,11 @@ flowchart TD
 > - §1.1「扣留时间过长将构成非法拘禁」是本卡旧版推论，库内 s.54 摘录只写「扣留合理时间」，未就超时后果立言，正文已就地标注。〔—〕
 > - §1.1 末栏「神色慌张却搜钱包内纸张文件即违法超权」是本卡旧版设例，库内无同一设例的原文，正文已就地标注。〔—〕
 > - §2.1 称 *Yeung May-Wan* 为「终审法院主导先例」，库内只给引证 (2005) 8 HKCFAR 137 而未书法院；本卡 §4.1 自订「库内未注明层级即不自行标注」，两处标准不一，取舍待你定。〔—〕
-> - §2.2「必须立即（Forthwith）移交 (s.101(5) CPO)」的措辞：库内 s.101(5) 原文作「as soon as he may reasonably be brought」，「forthwith」只见于 s.51 PFO 一条，删留待你定。〔—〕
+> - §2.2「必须立即（Forthwith）移交 (s.101(5) CPO)」的措辞：库内 s.101(5) 原文作「as soon as he may reasonably be brought」，「forthwith」只见于 s.51 PFO 一条，已于红队修订按 s.101(5)／s.51 PFO 拆分改正。〔—〕
 > - §2.2 实战穿透 B1 所称「s.101(2) 市民拘捕」库内全无记载（只作 s.101、s.101(5)、s.101A），该册另把移交误书为 s105(5)；已就地标注。〔—〕
 > - 同一行「s.101A 过量武力认定」若读作结论，与本卡所引往届学生册「would seem ... justified」相反；本卡原文照旧保留，取舍待你定。〔—〕
 > - §2.3「三项课堂延伸」与本届讲义 (4)–(8) 五项编号不一（缺 (5) 结论、(8) 通常排除口供两条），是否有意删减待你定；第 (8) 条与本卡末行断语的分歧已登记为上方 D-CHR-EXCL。〔—〕
-> - §3「法官有最终自由裁量权平衡证据价值与公共利益」：库内只作「the court will determine admissibility」，未列「公共利益」为权衡因素，删留待你定。〔—〕
+> - §3「法官有最终自由裁量权平衡证据价值与公共利益」：库内只作「the court will determine admissibility」，未列「公共利益」为权衡因素，已于红队修订按 s.101(5)／s.51 PFO 拆分改正。〔—〕
 > - §4 图末 Slide 22 提醒中「（仍可寻求手令、以法证工具破解等）」是本卡补写：幻灯原件只以课堂提问形式出现（"how do you think the police deal with this in practice?"），未列出这些做法；图内文字依 Manual §8 不作改动，此处记明。〔—〕
 > - 本届讲义 L279 把 *Sham Wing Kan* 误书为 "Sham Wing Kam"（原件笔误），本卡摘录照原件、正文照正确案名。〔—〕
 > - §5「被捕人必须配合」（照片／指纹行）：库内只作 general power／can always be taken，未就拒绝配合的后果立言；已就地标注。〔—〕

@@ -51,7 +51,7 @@ updated: 2026-11-17
 
 ## 速读定位层（30 秒全景：范围 · 术语 · 环节任务）
 
-> 本层为 2026-10-10 深化重构新增的开篇导引；具体各层的规则、条件、例外与引注见下方 0A（既有）与 0B–0K（本轮深化及重编），按本层术语定位后直达。
+> 具体各层的规则、条件、例外与引注见下方 0A–0K，按本层术语定位后直达。
 
 > **白话导引（从头到尾一遍过）**：证据争议的主线是「取得 → 进入 → 半程」三道闸。取得端：控方承担积极、持续、繁重的披露义务（Prosecution Code 12）——拟用证据、unused material 都在范围内，PII 与 LPP 是两类须经法院衡平的例外；辩方反向只有四项披露义务（alibi 10 日、expert、stay 通知、供认反对理由）。进入端：无争议事实用 s.65B／s.65C 一次定型（14 日反对窗、conclusive）；有争议的供认走「自愿性（控方 BRD 举证）→ 剩余裁量（不公平／偏害／实质违反 R&Ds）」两阶，程序上按法院选 voir dire（CFI 陪审团退席）或 Alternative Procedure（MC/DC 同听两类争点），起草 Notice of Objection 按 GD26 三栏。辨认证据几乎总可采，攻防靠 ID parade 程序记录与 Turnbull 方向；弱点证人走 Part 3A 三种特别程序。半程：NCTA 用 Galbraith 两肢滤掉取至最高仍不能定罪的案件，2023 年 ss.81AA–AAJ 给控方上诉通道。每个环节「不做」的后果链收在 0J 总表。
 >
@@ -106,7 +106,7 @@ updated: 2026-11-17
 | 侦查后 → 控方披露 | 防止「伏击式审讯」：辩方在开审前知道控方拟用证据＋可能削弱控方或推进辩方的材料，才能把资源用在真争点上〔CR6 L68 "based on the Defendant’s common law right to a fair trial"〕 | PC para. 12；BL As. 39/87；HKBOR A. 11(2) |
 | unused material 清单 | 控方不用的材料不等于无价值——它们可能是辩方的调查起点（train of enquiry）〔CR6 L136 "may lead the Defendant on a train of enquiry"〕 | Keane；Wun Shu Fai |
 | PII／LPP 声称 | 国家利益、侦查手法与律师保密如何不被披露义务辗过，又防止「一贴敏感标签便无须法院审查」〔CR6 L92 "they must clearly articulate what information they wished"〕 | Nayab Amin |
-| 辩方 alibi／expert 通知 | 审前把两类突袭型辩方证据交给控方核查，换取该证据可进入审讯的资格〔CR6 L240–L246 "there is no formal requirement of an alibi notice"；CR6 L268–L278 "following committal, transfer or an order for re-trial"〕 | s.65D／s.65DA CPO |
+| 辩方 alibi／expert 通知 | 裁判法院没有正式的 alibi 通知要求；区院与原讼庭的 alibi 通知见 0D 节。专家证据方面，交付、移交或重审令之后，任何一方如拟援引量刑以外的专家证据，须在切实可行的情况下尽快向对方提供书面意见〔CR6 L242 "there is no formal requirement of an alibi notice in the Magistrates’ Court"；CR6 L272 "following committal, transfer or an order for re-trial"〕 | s.65D／s.65DA CPO |
 | s.65B／s.65C 承认 | 把无争议证据一次定型：省时省钱、收窄争点，同时锁定「承认即不可反悔」的纪律〔CR6 L384–L390 "Both ss. 65B and 65C Admissions help to"〕 | ss. 65B/65C CPO |
 | 弱点证人许可 | 让儿童、精神上无行为能力、恐惧证人与性罪行事主能开口——否则关键证据根本不存在〔CR6 L442–L444 "Both P and D can apply to use these protections"〕 | CPO Part 3A |
 | Notice of Objection | 把「我反对」变成有结构的通知：反对哪份供认、谁做了什么、导致什么后果——控方才能回应、法庭才能排程序〔CR6 L790 "We will consider how to draft these Grounds of"〕 | GD26；SG06 |
@@ -120,7 +120,7 @@ updated: 2026-11-17
 
 | 倒计时（以 2026-10-10 为基准） | SG 与本卡对应 | 立即要做 |
 |---|---|---|
-| **T-25 日：SG06（2026-11-04 19:00–21:00）** 口供排除 | 角色为 Prosecutor；范围包括披露责任、NCTA、审讯策略（含境外证人）、cautioned statements、voir dires／alternative procedure、**草拟 Notice of Objection**〔CO26 L586 "Role of Prosecutor, duties of disclosure, no case to answer"〕；第三案卷 John Lace 当堂发放 | 0E.6＋0K.3：按 GD26 三栏起草规范预演；往届范本两篇对照（0K.6 行 12–13） |
+| **T-25 日：SG06（2026-11-04 19:00–21:00）** 口供排除 | 角色为 Prosecutor；范围包括披露责任、NCTA、审讯策略（含境外证人）、cautioned statements、voir dires／alternative procedure、**草拟 Notice of Objection**〔CO26 L586 "Role of Prosecutor, duties of disclosure, no case to answer"〕；第三案卷 John Lace 当堂发放 | 0E.6＋0K.3：按 GD26 三栏起草规范预演；往届范本两篇对照见 0K.3 |
 | **T-32 日：SG07（2026-11-11 19:00–21:00）** 挑战证供 | Brief A Mohammed（供认＋PC4300 披露＋dock ID）；Brief B Donald（开案偏见＋SFE 边界）；2 Brief 共 7 问，均须课前备齐完整答案〔S7B L60–L65 "Review your LGS 5 – 9 notes"〕 | 0K.4：七问与本卡章节逐问映射＋已有完整答案入口 |
 
 
@@ -415,7 +415,7 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 | 通知 | 条文与时限 | 不做的后果 | 引注 |
 |---|---|---|---|
-| Alibi notice | 开审前**不少于 10 日**，依s.65D(9)扣除general holidays（非一概十个工作日），附 alibi particulars（s.65D(2)；控方负反驳责任）；条文链：s.90 MO（转 DC）／s.75A DCO／s.65D CPO；MC 无明文要求，但无预告下控方或申请押后并有讼费后果 | 可能不得传召 alibi 证据；法官裁量仍可准；未依法告知时s.65D(3)不得拒绝leave；迟通知可能影响分量；MC 可致押后及讼费 | 〔CR6 L240–L246 "not less than 10 days before start of trial"〕〔CR6 L244 "Late notice of the alibi may also affect the weight"〕 |
+| Alibi notice | 开审前**不少于 10 日**，通知须列明 particulars（s.65D(2)）；条文链：s.90 MO（转 DC）／s.75A DCO／s.65D CPO；MC 无明文要求，但无预告下控方或申请押后并有讼费后果；s.65D(8) 与 s.65D(9) 两说并列登记，不选边 | 不遵守则可能不得传召该 alibi 证据，法官仍可裁量准许；迟通知可能影响分量；MC 可致押后及讼费 | 〔CR6 L240–L246 "not less than 10 days before start of trial"〕〔CR6 L244 "Late notice of the alibi may also affect the weight"〕〔CR6 L242 "there is no formal requirement of an alibi notice in the Magistrates’ Court"〕 |
 | Expert evidence | 交付／转介／重审令后**尽快（as soon as practicable）**：提供书面专家 finding/opinion 陈述，对方书面要求时另供观测／测试／计算记录或检验机会（s.65DA(1)）；可书面弃权改口头（s.65DA(2)）；有合理理由恐证人受恐吓者可书面通知扣起并述理由（s.65DA(3)-(4)） | 未经许可不得援引该专家证据（s.65DA(5)）；可致押后及 wasted costs；*Lai Chee Ying*（占中案子审）：首天才提出群众心理专家 → 既非尽快亦非相关，**拒给许可** | 〔CR6 L272 "as soon as practicable, he must: —(a) furnish the other party"；CR6 L278 "the expert evidence cannot be adduced at the trial without leave"；CR6 L280 "the expert evidence was inadmissible as it was irrelevant"〕 |
 
 **连锁反应**：alibi 被准迟到使用 → 法官须就「说谎」作完整 Lucas 方向（*Chan Chun Tak*；*Yuen Kwai Choi* CFA；*Mo Shiu Shing*）——见 Specimen Jury Direction 52（alibi）与 56（lies）〔CR6 L248–L254 "the trial Judge must give a full direction on lies"；CR6 L256–L264 "lists 4 situations in which a lies direction"〕。
@@ -704,7 +704,7 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 | 1 | 控方披露相关材料的持续义务 | 未披露应披露材料（used＋unused） | 【制裁暴露·审中】押后让辩方研究，伴随讼费后果；严重案件可致永久搁置检控。【自动后果·审后】构成 material irregularity 或令定罪 unsafe and unsatisfactory → 可撤销定罪（*Chong Ho Yin*／*Wong Tin Lung*／*Gao Heija*／*Wong Yuk Lam* 同线）。【救济门槛】上诉中未披露材料可被采纳为新证据：s.83V CPO／s.118(1)(b) MO；*Ng Chun To Raymond*：须达「若已披露，陪审团合理可能有不同裁决的真实可能性」（往届应考整理，往届仅参考） | 〔CR6 L170–L176 "may be a material irregularity or render the conviction unsafe"；CR6 L172 "fresh evidence of the undisclosed material may be admitted"；CR6S L145–L155 "Permanent stay of proceedings"〕 |
 | 2 | 不及时辨识并请求具体材料 | 不点名、不及时请求（如 CCTV） | 【自动后果】证据随时间流失——义务在控方但灭失在案外；良好实务是及时点名请求以保全。【举证负担】事后想追：只能回头争「本应披露而未披露」→ 回到行 1 的不公测试 | 〔CR6 L72 "it is good practice to make such requests on a timely basis to preserve"；CR6 L180–L188 "be proactive in making a request for disclosure"〕 |
 | 3 | 不查阅 unused material | 只看控方拟用证据 | 【自动后果】失去「train of enquiry」的起点——unused／不可采材料可能引向新争点或可采证据；【举证负担】庭上才知存在时，要重新论证延误与不公 | 〔CR6 L136 "may lead the Defendant on a train of enquiry"；CR6 L184 "ensure you view ALL unused material"〕 |
-| 4 | 不交 alibi 通知（10 日前） | 开审前 10 日内才首次披露 alibi | 【制裁暴露】可以**完全不得传召**该 alibi 证据；纵法官裁量准许，迟通知**削弱分量**；MC 无明文但控方可求押后＋讼费后果。【举证负担】求法官裁量放行的一方须解释迟误；【救济门槛】法官剩余裁量（无条文硬阻） | 〔CR6 L242 "the Prosecution may request an adjournment if they have not been given notice"；CR6 L244–L246 "Failing to comply with the statutory provisions may mean the alibi cannot be called"；CR6S L190 "Cannot call evidence at trial."〕 |
+| 4 | 不交 alibi 通知（10 日前） | 开审前 10 日内才首次披露 alibi | 【制裁暴露】两侧并列不选边：讲义正文为不遵守 may mean the alibi cannot be called、法官仍可裁量准许、迟通知可能影响分量；投影片为 "Cannot call evidence at trial."、"May be permitted to still call evidence but with likely adjournment and costs consequences."【举证负担】求法官裁量放行的一方须解释迟误；【救济门槛】法官剩余裁量 | 〔CR6 L242 "the Prosecution may request an adjournment if they have not been given notice"；CR6 L244 "may mean the alibi cannot be called at trial. However, the Judge may still permit the alibi to be called in the exercise of his discretion"；CR6S L189 "Cannot call evidence at trial."；CR6S L190 "May be permitted to still call evidence but with likely adjournment and costs consequences."〕 |
 | 5 | 不按 s.65DA 交换专家证据 | 未尽快提供专家陈述／记录 | 【自动后果】未经许可不得援引该专家证据（s.65DA(5)）。【制裁暴露】押后＋wasted costs；*Lai Chee Ying*：首天才交 → 既非「尽快」又不相关，许可被拒绝。【举证负担】求许可者须证「尽快」与相关性 | 〔CR6 L278 "cannot be adduced at the trial without leave of the court"；CR6 L280 "on this basis, leave was denied"〕 |
 | 6 | 14 日内不反对 s.65B 陈述 | 收到 s.65B 通知后沉睡 | 【自动后果】陈述**自动进入证据**，等同口头作证；盘问权缩水至 s.65B(4)(a)(b)（呈交方获许可补充／任何一方或法庭主动传召）。【举证负担】想再盘问须说服法庭行使 s.65B(4) 留下的许可空间。【⚠️ 并行口径】PD 9.3 §5.3.7(2) 作 21 日——冲突登记于 Deadlines 卡，本表不裁决 | 〔CR6 L310 "they must object within 14 days of service"；CR6 L314 "Section 65B(4) provides that, with leave of the court"；CR7 L298 "Failure to object within the time limit means the statement is admitted"〕 |
 | 7 | Notice of Objection 写空泛／迟来／泄露防线 | 无日期时间言词的概括反对；内部矛盾；把全部抗辩写进通知 | 【制裁暴露】控方无从回应 → 反对在法庭前被弱化；具体争点是控方主问越界的界线（*Wong Tak-ming*：EIC 只能一般性问失当，细节不得触及——Notice 写得越虚，控方主问空间越大）。【自动后果】起草不符 GD26 三栏（CONTENT 具体基础／STRUCTURE 时序＋所求／PRESENTATION tramlines 标示对象）即职业形式失分。【库内无明文】「迟交 Notice 即失 challenge 权」无明文 → open O-13.4 | 〔GD26 L14 "Grounds should be specific – give dates, times, location, identity"；CR6 L820 "The Prosecutor can ask general questions regarding misconduct"〕 |

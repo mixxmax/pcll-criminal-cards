@@ -55,7 +55,7 @@ SG课表安排:
 2. **双人决策结构**：控罪由检控决定、审路由检控决定（A.63 BL＋ss.10 & 14(1) CPO＋Chiang Lily＋Prosecution Code para 8.4 十因素），被告无一般陪审团审讯权、无选院权（Tong Ying Kit）（详见 0C.3）〔CR3 L298 "The Prosecution decides on the venue of a criminal trial"；CR3 L302 "A Defendant in Hong Kong has no general right to trial by jury or to choose the venue of the trial."〕；
 3. **起草控罪单元**：Charge Sheet／Indictment 的栏目、功能（通知、答辩准备、量刑基址、autrefois）、一罪一charge/count 的 duplicity 红线、joinder 条件（R.7 IR、s.18 CPO、s.24B CPO）、severance 攻防（Ludlow／Christou／Hui Rafael）与修改补救（s.23 CPO、s.27 MO、Tse So So、R.3(3) IR）（详见 0D）〔CR3 L370 "the word “charge” is used in the MC and DC. “Count” is used on an indictment in the CFI."〕；
 4. **MC 首堂与答辩地点**：首次提堂通常不取答辩（三理由＋约 6 周局面），取答辩即锁定 MC 审路；不取答辩 → transfer（DC）／committal（CFI）／撤控三选（详见 0E.1）〔CR3 L492 "Usually on his first appearance, plea is not taken."；CR3 L496 "transfer the case to the DC, commit it to the CFI or they may withdraw the charges"〕；
-5. **MC→DC transfer（s.88–s.90 MO）**：裁判官对可公诉罪**无拒绝权**、对随行简易罪**有拒绝裁量**（s.88(1)(a)/(b)）；Part III 第二附表黑名单与双重例外；s.89 MO 停留、答辩改在 DC；s.90 四动作（表、日期、还押/保释、alibi warning）；Plea Day 非真答辩（Ngo Van Nam）；s.77 DCO 新 Charge Sheet 逾 14 日 → s.75(4) 无罪级 release；ss.77A/77B 转回 MC/转上 CFI；s.65F CPO 另一转入（详见 0E.2–0E.4）〔CR3 L500 "A Magistrate has no power to refuse a transfer request"；CR3 L520 "This amounts to an acquittal."〕；
+5. **MC→DC transfer（s.88–s.90 MO）**：裁判官对可公诉罪**无拒绝权**、对随行简易罪**有拒绝裁量**（s.88(1)(a)/(b)）；Part III 第二附表黑名单与双重例外；s.89 MO 停留、答辩改在 DC；s.90 四动作（表、日期、还押/保释、alibi warning）；Plea Day 非真答辩（Ngo Van Nam）；s.77 DCO 另备新 Charge Sheet＋s.75(3) 14 日期限，逾期可依 s.75(4) discharge（效果等同无罪）；ss.77A/77B 转回 MC/转上 CFI；s.65F CPO 另一转入（详见 0E.2–0E.4）〔CR3 L500 "A Magistrate has no power to refuse a transfer request"；CR3 L520 "This amounts to an acquittal."〕；
 6. **MC→CFI committal（MO Part III）**：术语分界（"transferred"至 DC／"committed"至 CFI）；return day 10–42 日（双方同意或合理理由可破窗）；首次指定时五项告知；return day 前 ≥7 净日送达 Committal Bundle（s.80B）否则押后；两路分支——Paper committal（s.80C(4)，无 prima facie 审查）与 Preliminary Inquiry（ss.81–85，可盘问但暴露策略，discharge≠无罪）（详见 0F.1–0F.3）〔CR3 L528 "cases are “transferred” to the DC from the MC but “committed”"；CR3 L554 "not less than 10 days nor more than 42 days ahead"〕；
 7. **交付程序的两层保障**（用户简称「交付保证 NOICC」，全库检索零命中、按实质登记 O-C1）：第一层是 PI 选择权与交付前的 s.82 法定告诫链；第二层是 paper committal 后**一次性**的 s.16 CPO discharge 申请（起诉书提交后、提讯前提出；Cap. 221G 附表格式、签署、全理由、≥14 日送达、r.12 非故意豁免；等同无罪但受 s.81E 控方上诉制约；Galbraith 纸面标准——*SJ v Wong Wing Yi*）；特别通道 s.79F（弱势证人、可载简易罪、无 PI 选、辩方可 s.79G）（详见 0F.4–0F.5）〔CR3 L612 "he has the right to apply once to a CFI Judge for discharge"；CR3 L614 "such a discharge operates as an acquittal subject to s.81E CPO"〕；
 8. **时间闸网**：6 个月 s.26 MO 时效、8 日还押 s.79 MO、7 净日 bundle、PI 证人出庭 ≥7 日通知、alibi particulars 开庭前 ≥10 日、交付后 7 日内 prefer indictment、新 Charge Sheet 14 日、s.16 的 21 日 institute 侧门与 14 日通知（详见 0G.1）〔CR2 L523 "a complaint or information must be laid within 6 months"；CR3 L634 "The Indictment is filed within 7 days of a paper committal"〕；
@@ -119,7 +119,7 @@ flowchart TD
  WD["撤控"]:::init
  TR{"移交条件核查<br> (1) 非 Part III 第二附表黑名单<br>(2) 随行 summary 可被拒（s.88(1)(b)）"}:::check
  TRC["Transfer 令（s.88 MO）<br>停留 MC 程序、不得上诉（s.89）<br>答辩改在 DC；s.90 四动作（日期/还押或保释/效果/alibi 警示）"]:::action
- PLD["Plea Day（非真答辩，只给 indication）<br>新 Charge Sheet s.77 DCO ≤14 日（s.75(3)）<br>逾期 → s.75(4) discharge 属无罪级"]:::warn
+ PLD["Plea Day（非真答辩，只给 indication）<br>新 Charge Sheet 依 s.77 DCO 另备、s.75(3) 14 日期限<br>逾期 → 可依 s.75(4) discharge（无罪级）"]:::warn
  RD["指定 return day（10–42 日；双方同意或合理理由可破窗）<br>首次指定时五项告知（法援/≥7 净日收 bundle/PI 权/PI 及全罪/不选即交付）"]:::clock
  BUNDLE{"bundle ≥7 净日送达？<br>（s.80B(1)）"}:::check
  ADJ["押后（被告同意除外）"]:::warn
@@ -236,7 +236,7 @@ flowchart TD
 
 **第三步：双轨类的控方形态选择。** "dual offence" 指控方**选择**按简易或可公诉起诉、各带不同法定最高刑（例：s.4 DDO——公诉 $5M＋终身；简易 $50 万＋3 年）；"triable either way" 是可公诉罪落在 MC 简易审讯，二者不混〔CR1 L260 "Strictly speaking a “dual offence” is one which can be charged either as an indictable offence or as a summary offence"；CR1 L260 "an offence which is “triable either way” is an offence which is indictable but can be tried in the summary jurisdiction of the MC."〕（往届讲义例示，仅参考）〔OLD-CR3 L402 "if convicted on indictment, a Defendant is liable to a fine of $5 million and imprisonment for life, whereas if convicted summarily, the Defendant is liable to a fine of $500,000 and imprisonment for 3 years by s. 4(3) DDO."·往届仅参考〕。可公诉罪要走 MC 简易，须**控方同意**（s.94A MO；同意书主述在 12 卡 §1.3）〔CR2 L515 "For indictable offences which will be tried summarily in the Magistrates’ Court, the consent"〕。
 
-**总表索引**：三轨误判的后果链（程序失当→终局上诉面）见 [0J 后果链总表](#0G.%20审路时间闸梯度（2026-10-10%20深化）) 行 1、行 2；“summary 6 个月时效”同表行 1 一并挂此。
+**总表索引**：三轨误判的后果链（程序失当→终局上诉面）见 [0J 后果链总表](#0j-程序失误与逾期的后果链总表) 行 1、行 2；“summary 6 个月时效”同表行 1 一并挂此。
 
 ### 0C.2 三层法院权限与量刑上限对照（含特别条例例外）
 
@@ -248,7 +248,7 @@ flowchart TD
 | DC | Part IV MO 移交的可公诉罪（除 Part III）；附带移送的 summary（裁判官**可以拒绝**）〔CR1 L364 "- indictable offences except offences under Part III of Second Schedule MO;"〕〔CR1 L366 "summary offences that are transferred to the DC along with an indictable offence under s. 88(1)(b) MO."〕 | 7 年（s.82 DCO）；多罪同限（s.82(2)(a)）〔CR1 L368 "The maximum sentence the DC can impose is 7 years imprisonment: s. 82 DCO."〕 | 起点可超 7 年、折后净刑不超（*Li Yan*，须给有意义折扣）〔CR1 L368 "HKSAR v. Li Yan [1998] 4 HKC 12"〕；对随行 summary 量刑以**该 summary 罪**法定上限为限（s.88(1)(b) MO）〔CR3 L330 "her sentencing powers are limited to the statutory maximum for the summary offence."〕；murder/manslaughter/rape 不在 DC〔CR1 L372 "(except murder, manslaughter and rape – these must be tried in the CFI.)"〕 |
 | CFI | 只审可公诉罪（s.79F 例外除外）；murder/manslaughter/rape 一定在这一层〔CR1 L390 "The CFI hears indictable offences but has no jurisdiction to hear summary offences"〕 | 法定上限，最高终身（最高为创设罪行的法定最高刑）〔CR1 L390 "The maximum sentence that can be passed in the CFI is life imprisonment."〕 | 必须陪审（非 NSL 案，s.41(2) CPO）〔CR1 L392 "Criminal trials in the CFI for criminal offences other than those under the NSL are always heard before a Jury: s. 41(2) CPO."〕 |
 
-**为什么"地点"重要**：刑上限不同、有无陪审不同、程序规则不同〔CR3 L330 "The various courts have different maximum sentencing powers."；CR3 L332 "There is no jury trial in MC/DC."；CR3 L334 "There are different rules and procedures in the three levels of trial court."〕。**总表索引**：地点误判（如以"有法病理上限"代管辖判定、或向 Part III 罪求移交）的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 2、行 12；本表"量刑上限"与 10 框架卡 互参，别抄离配对版本。
+**为什么"地点"重要**：刑上限不同、有无陪审不同、程序规则不同〔CR3 L330 "The various courts have different maximum sentencing powers."；CR3 L332 "There is no jury trial in MC/DC."；CR3 L334 "There are different rules and procedures in the three levels of trial court."〕。**总表索引**：地点误判（如以"有法病理上限"代管辖判定、或向 Part III 罪求移交）的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 2、行 12；本表"量刑上限"与 10 框架卡 互参，别抄离配对版本。
 
 ### 0C.3 审路的双人决策结构：控方定路线，被告选对答
 
@@ -291,7 +291,7 @@ Charge Sheet／Indictment 同时承担四个功能：①**通知**被告要接�
 - **不自动作废**：duplicitous 文书不请天然 nullity——审讯中修改可治愈；实务上控方 verdict 前任何时候可申请修改，裁判官/法官也可主动修改（辩方可主张偏见/不公）〔CR3 L448 "Amending the charge at trial can cure the defect."；CR3 L448 "the Prosecution can actually amend the charge at any time prior to verdict"；CR2 L555 "The Prosecution can apply to amend the charge any time up until verdict is delivered!!"〕。
 - **实体伤害何在**（为什么仍要挑）：陪审团须对**每一项**罪分别适用超越合理疑点标准——一项起诉混合多项行为，多个可疑事实混纂会令陪审团贴不准罪（学生稿）〔OLD-EXLG L1826 "An accused person may be subjected to unfairness and embarrassment if he is called upon to meet a charge of one offence based upon evidence of the omission of multiple offences"·往届仅参考〕；*Chim Hon Man*（学生稿转引）〔OLD-EXLG L1824 "Chim Hon Man v HKSAR [1999] 1 HKLRD 764:"·往届仅参考〕。
 - **辩方出手面**：审前/PTR/CMH 早举（0D.5 severance 同闸）；或循 R.3(3) IR 取 further particulars〔CR3 L422 "order further particulars of an offence stated in an indictment to be delivered"〕；或主张不公拒修改（0D.6；详例线见 12 卡 §4.2 *Lui Tsun Sum*）。
-- **总表索引**：duplicity 被击/不挑的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 4。
+- **总表索引**：duplicity 被击/不挑的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 4。
 
 ### 0D.4 Joinder：并控的条件与"经济面"
 
@@ -310,14 +310,14 @@ Charge Sheet／Indictment 同时承担四个功能：①**通知**被告要接�
 | 官方清单 | 一罪证据对另一罪不可采、prejudicial≫probative、过长过复杂〔CR3 L488 "where the evidence on one charge is inadmissible on another, or where the prejudicial effect outweighs the probative value"〕 | LGS 3 |
 | 上限提醒 | 纵有明显 nexus，法院仍须保被告利益不被长度/复杂度偏害、陪审团可恰遵指示〔CR3 L486 "HKSAR v. Hui Rafael Junior [2015] HKEC 21 at para. 15"〕 | *Hui Rafael* |
 
-**论证结构（分析框架）**：画证据网 → 标"可用 A 不可用 B"的污点 → 陪审团混用证据的现实风险 → 指示不足以切断 → 分拆对证人/受害人/公众代价。课堂旁注另有一例：防共同被告"copy-paste"辩护成偏害〔OLD-CR3 L578 "E.g., the Def does not want other Defs to copy and paste the defence which is prejudicial"·往届仅参考〕。**总表索引**：并控不分拆的偏害与分拆被度被驳回的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 5。
+**论证结构（分析框架）**：画证据网 → 标"可用 A 不可用 B"的污点 → 陪审团混用证据的现实风险 → 指示不足以切断 → 分拆对证人/受害人/公众代价。课堂旁注另有一例：防共同被告"copy-paste"辩护成偏害〔OLD-CR3 L578 "E.g., the Def does not want other Defs to copy and paste the defence which is prejudicial"·往届仅参考〕。**总表索引**：并控不分拆的偏害与分拆被度被驳回的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 5。
 
 ### 0D.6 修改补救：s.23 CPO 与 s.27 MO（路线视角）
 
 修改权的主述在 12 卡 §4.2（含 *Tse So So*、*Lui Tsun Sum*、*Ng Siu Chau* 判例线与"verdict 前任何时可改"）；本卡收**要走程序的人**要知道的点：
 1. **DC/CFI**：s.23 CPO——有公正即可改〔CR3 L420 "S. 23 CPO gives a DC or CFI Judge the power to amend the Indictment"；CR3 L420 "cannot be made without injustice."〕
 2. **MC**：s.27 MO 全套保障——读回解释、可传/重召证人、合理必要押后、可定不逾 $5,000 费用、改后按改后罪名就实质裁判；**控方结案后**修改，控方除反驳证据外不得再添证；**amend 定义含换罪**〔CR3 L426 "the adjudicating magistrate"；CR3 L428 "would be cured by an order as to costs, an adjournment or leave to recall and further examine witnesses or call other witnesses"；CR3 L430 "not exceeding $5,000, as may be occasioned by the amendment"；CR3 L430 "no further evidence may be called by the complainant"；CR3 L432 "amend includes the substitution of another offence"〕。任何主审裁判官也可行使（非特指审理裁判官）；s.27 非授权条款〔CR3 L434 "The power to amend a charge is not restricted to the trial Magistrate and can be exercised by any presiding Magistrate"；CR3 L434 "Section 27 is not a power-conferring section."〕
-3. **辩方的取法**：盯"不公不可改"＋"保足准备机会"两个闸（休庭/重召/费用），不是"现在不能改"四字〔CR3 L428 "an adjournment"；CR3 L430 "read and explain the amended complaint, information or summons to the defendant"〕；**总表索引**：修改争议的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 4 与 12 卡 §4.2。
+3. **辩方的取法**：盯"不公不可改"＋"保足准备机会"两个闸（休庭/重召/费用），不是"现在不能改"四字〔CR3 L428 "an adjournment"；CR3 L430 "read and explain the amended complaint, information or summons to the defendant"〕；**总表索引**：修改争议的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 4 与 12 卡 §4.2。
 
 ### 0D.7 控罪文书必须载明的内容与栏目核对
 
@@ -358,7 +358,7 @@ Duplicity或其他瑕疵可能通过修改处理，并非任何错误都使程�
 - **不取答辩**：三条出路——transfer DC／committal CFI／撤控〔CR3 L496 "transfer the case to the DC, commit it to the CFI or they may withdraw the charges"〕
 - **给客户的话**（分析框架）：别催"快答了它"——答辩地点一旦被 MC 锁住就回不去；协商窗口（ONE/改罪）与期间抽查 duplicity、时效、证据转移价值都在这段未完成。
 
-**总表索引**：首堂传召成本与"过早取答辩锁路线"的风险记入 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 3。
+**总表索引**：首堂传召成本与"过早取答辩锁路线"的风险记入 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 3。
 
 ### 0E.2 Transfer 谁决定、查哪两道闸（s.88 MO）
 
@@ -386,7 +386,7 @@ Duplicity或其他瑕疵可能通过修改处理，并非任何错误都使程�
 - **14 日死线**：移交令后律政司须按 DCO 附表 1 格式重起草 Charge Sheet 并提交；逾期的后果是**被告人可获 discharge、等同无罪（acquittal）**——这是辩方面前唯一一枚"负向无罪"闸〔CR3 L520 "Even though a Charge Sheet and Brief Facts were prepared for the Defendant’s first appearance in the MC, by s. 77 DCO"；CR3 L520 "must be filed within 14 days after the transfer order from the MC: s. 75(3) DCO (or such other period as the Judge allows.)"；CR3 L520 "Failure to file the Charge Sheet within this time may lead to the Defendant being discharged under s. 75(4) DCO. This amounts to an acquittal."〕
 - **转出**：Charge Sheet 送达后、控方陈词前，SJ 可申请转回 MC 或转上 CFI（ss.77A/77B DCO）〔CR3 L524 "the Secretary for Justice can apply to the DC Judge for an order of transfer back to the MC or up to the CFI."〕；往届学生笔记续记程序细节：申请以 motion＋affidavit 提出、整个 DC 程序暂止、通知与誓章 ≥21 日前送被告人、移转令盖章本 21 日内送高院 Registrar／裁判署书记、SJ 自移转令 21 日内须起诉否则被告人可申请 s.16 解除〔OLD-EXLG L1964 "the entire proceedings before DC are stayed until the application is disposed of, unless the judge orders otherwise"·往届仅参考；OLD-EXLG L1968 "must be served on the accused at least 21 days prior to the date named for the hearing of the motion"·往届仅参考；OLD-EXLG L1970 "a sealed copy of an order for transfer must be delivered to the Registrar of High Court with 21 days"·往届仅参考；OLD-EXLG L1972 "if no proceedings instituted within the period, the accused may apply for a s. 16 discharge"·往届仅参考〕。
 
-**总表索引**：s.75(3) 逾期的"负向无罪"、ss.77A/77B 转出被略过的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 6、行 12。
+**总表索引**：s.75(3) 逾期的"负向无罪"、ss.77A/77B 转出被略过的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 6、行 12。
 
 ### 0E.5 MC→DC transfer：不是先做一场 PI
 
@@ -406,7 +406,7 @@ Transfer令使MC程序停止，答辩在DC进行；裁判官安排到DC日期、
 - **首次指定时五项告知**（裁判官必须）：(i) 可申请法援；(ii) return day 前 ≥7 净日将收到告发/控罪、证人陈述、书证；(iii) return day 有权要求 PI 并自传证人；(iv) 多罪下求一罪 PI 即全罪 PI，PI 结束前不能认任何一罪；(v) 不要求 PI → 交付审讯；认罪 → 交付判刑〔CR3 L558 "On first appointing the return day the Magistrate has to inform the Defendant"；CR3 L558 "(i) of his right to apply for legal aid"；CR3 L558 "the Inquiry will be on all charges and only at the end of the Inquiry will he have the opportunity to plead guilty to any of the charges"；CR3 L558 "if he does not require any Inquiry, he will be committed to the CFI for trial unless he pleads guilty in which case he will be committed to the CFI for sentence."〕
 - **bundle 与 return day**：≥7 净日前送达（sic，告知措辞为 "not less than 7 clear days"；s.80B(1) 的正文与 01DL 时限卡行均有登记）；送达件称 **Committal Bundle**；return day 当场文件合规（s.80B(1)）→ obstructed 原件入卷、告知寻求交付、不选 PI 即不经 PI 交付；**不合规 → 必须押后，除非被告同意**〔CR3 L560 "Not less than 7 days prior to the return day, the Prosecution will serve the copies of the documents as stated in s. 80B (1) and a list of exhibits. These documents are called the “Committal Bundle.”"；CR3 L562 "On the return day, provided that the requirements of s. 80B (1) are complied with"；CR3 L562 "If the requirements of s. 80B (1) are not met, the Magistrate must adjourn the hearing (unless the Defendant consents.)"〕
 
-**总表索引**：bundle 不合规被押后的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 7。
+**总表索引**：bundle 不合规被押后的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 7。
 
 ### 0F.2 Paper committal（s.80C(4)）：默认通道的三件事
 
@@ -427,7 +427,7 @@ Transfer令使MC程序停止，答辩在DC进行；裁判官安排到DC日期、
 
 **PI discharge ≠ acquittal**：因为尚未交付审讯，autrefois acquit 不适用；控方可就同一事实再提告发〔CR3 L598 "However, a discharge by the Magistrate following a Preliminary Inquiry pursuant to s. 85(1) of the MO does not amount to an acquittal"；CR3 L598 "but such discharge shall not be a bar to any subsequent complaint or information in respect of the same facts.”"；CR3 L550 "If the Defendant is discharged following a Preliminary Inquiry, it is no bar to the Prosecution charging him again for the same offence"〕 **（R5 补正巧相反的那一面在 0F.4 第一项：paper committal 后的 s.16 discharge 是终局的，除非控方 s.81E 上诉）。**
 
-**总表索引**：选/不选 PI、PI 被放却仍被再控的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 8。
+**总表索引**：选/不选 PI、PI 被放却仍被再控的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 8。
 
 ### 0F.4 交付程序的两层保障（用户简称「交付保证 NOICC」的实质落点）
 
@@ -444,7 +444,7 @@ Transfer令使MC程序停止，答辩在DC进行；裁判官安排到DC日期、
 7. **侧门**：由 DC 转上 CFI 后，s.16(1)(a)——SJ 自移转令 21 日内未起诉，被告人随后可申请解除；s.16(2)(a) 法官可自行或应申请要求 SJ 限期内提呈起诉书〔OLD-EXLG L2164 "S. 16(1)(a): If the SJ does not institute proceedings within 21 days after the transfer, after the expiration of that period"·往届仅参考；OLD-EXLG L2166 "the judge may, of his own motion or on the application of the accused, require the Secretary for Justice to file indictment within such time"·往届仅参考〕。
 8. **课堂旁注**：PI——"可能获 discharge，但不阻再控"；paper——"可由高院看证（s.16 CPO）解除、直至控方上诉"〔OLD-CR3 L692 "Preliminary inquiry: might well be discharged, but does not stop the P charging him again"·往届仅参考；OLD-CR3 L694 "Paper: can seek to have the HC consider the evidence (s 16, CPO) and to discharge him until P appeals it"·往届仅参考〕。
 
-**总表索引**：s.16 窗口、通知与规则的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 9、行 10、行 11；alibi 警示不入的后果链同行 12。
+**总表索引**：s.16 窗口、通知与规则的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 9、行 10、行 11；alibi 警示不入的后果链同行 12。
 
 ### 0F.5 进入 CFI 的特别通道（VBI／CCCO／77A(6)／83E／79F）
 
@@ -463,7 +463,7 @@ Transfer令使MC程序停止，答辩在DC进行；裁判官安排到DC日期、
 - **最后一次换位**：起诉书已呈、未提讯前，SJ 可向 CFI 法官申请转回 DC/MC——ss.65F/65G CPO；另 CFI→DC 的 s.65F 亦见 0E.3〔CR3 L636 "After an Indictment has been preferred and before arraignment in the CFI, the Secretary for Justice can apply to a Judge in the CFI for an order to transfer the proceedings out of the CFI back to the DC/MC: ss. 65F & 65G CPO."〕（课堂旁注）〔OLD-CR3 L642 "went to CFI then the judge thinks the case is more appropriate to be tried in DC"·往届仅参考〕
 - **闸再确认**：s.16 只在**提讯前**；提讯一刻起，paper 路线者的一次性机会已成往事（0J 行 10）。alibi particulars 的 ≥10 日闸（0F.4 第 1 项）在 prefer 后的审前格继续作战。
 
-**总表索引**：prefer 延误、65F/65G 走漏、提讯错过窗的后果链见 [0J 总表](#0J.%20程序失误与逾期的后果链总表（2026-10-10%20深化；2026-11-15%20重编）) 行 10、行 12。
+**总表索引**：prefer 延误、65F/65G 走漏、提讯错过窗的后果链见 [0J 总表](#0j-程序失误与逾期的后果链总表) 行 10、行 12。
 
 ### 0F.7 MC→CFI committal：程序选择有真实代价
 
@@ -546,7 +546,7 @@ s.16窗口在indictment提交后、arraignment前；申请聆讯前不少于14�
 | 3 | MC 首堂 | 未评估因素便催取答辩 | 【自动后果】答辩读出意味着 M 关卡落定 MC（控方决定的体现），其后改道只能凭控方转轨；协商窗口（ONE/改罪/文件待齐/1⁄3 折扣程序价值）随即收口。【救济门槛】事前争取押后（实务压至约 6 周）；事后没有"申请换回 MC/DC"的一般权（0C.3） | 〔CR3 L494 "if the trial will be in the MC, then the Prosecution asks for “plea to be taken.”"；CR3 L492 "to preserve the Defendant’s 1/3 discount on a plea of guilty"；CR3 L494 "This can take up to 6 weeks in practice."〕 |
 | 4 | duplicity／单元错误 | 不挑、挑错层级、或以为"一挑即作废" | 【自动后果】文书不自动作废；modification 可在 verdict 前任何时候治（除非不公）。【制裁暴露】不挑：审讯中陪审团对多项可疑事实混聚（Chim Hon Man 式偏害），要件与量刑基数一起混。【举证负担】辩方须言明具体丧失的准备机会与偏害，争取 R.3(3) further particulars 或拒不公修改。【救济门槛】s.27 MO 改后须读回/可重召证人/合理押后/≤$5,000 费用——用足配套才不输实利 | 〔CR3 L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity."；CR2 L555 "any time up until verdict is delivered"；OLD-EXLG L1826 "unfairness and embarrassment if he is called upon to meet a charge of one offence based upon evidence of the omission of multiple offences"·往届仅参考；CR3 L430 "not exceeding $5,000, as may be occasioned by the amendment"〕 |
 | 5 | joinder／severance | 放过审前举证窗、或分拆失败便放弃 | 【制裁暴露】证据污染（一罪证据对另一罪不可采、prejudicial≫probative）；s.23(5) 散陪审团——两败；法官指示不足会成为日后上诉面。【举证负担】Ludlow 下"特殊弊面＋司法利益"由申请者证；Christou 下**指示能否保安**是核心。【救济门槛】s.23(3) 任何阶段可再申（PTR/CMH 后再出现弊面亦同） | 〔CR3 L456 "the court may order a separate trial of any count or counts of such indictment."；CR3 L458 "may lead to the discharge of the jury if a trial in the CFI has commenced."；CR3 L480 "no duty to direct separate trials unless in his opinion there is some special feature of the case"；CR3 L486 "whether any directions which the Judge can give to the jury will suffice"〕 |
-| 6 | 新 Charge Sheet（DC） | 控方逾 14 日不办 | 【自动后果（辩方收益）】s.75(4) DCO discharge，**等同无罪（acquittal）**——程序错方自食的终局果，库内审路面仅此一档"负向无罪"。【举证负担】辩方证：移交令日与呈卷日。【救济门槛】控方只可求法官另准期间（s.75(3) 括注） | 〔CR3 L520 "must be filed within 14 days after the transfer order from the MC: s. 75(3) DCO (or such other period as the Judge allows.)"；CR3 L520 "This amounts to an acquittal."〕 |
+| 6 | 新 Charge Sheet（DC） | 控方逾 14 日不办 | 【后果（辩方收益）】逾期可依 s.75(4) DCO discharge，**效果等同无罪（acquittal）**——程序错方自食的终局果，库内审路面仅此一档"负向无罪"。【举证负担】辩方证：移交令日与呈卷日。【救济门槛】控方只可求法官另准期间（s.75(3) 括注） | 〔CR3 L520 "must be filed within 14 days after the transfer order from the MC: s. 75(3) DCO (or such other period as the Judge allows.)"；CR3 L520 "This amounts to an acquittal."〕 |
 | 7 | Committal Bundle | 未 ≥7 净日送达 | 【自动后果】return day 必须押后，程序空转（除非被告同意不押）。【举证负担】送达时点对照；【救济门槛】被告可同意——但为何送？（分析口径：不急着交付、或协商近成时可考虑；别为客户"省事"自动同意） | 〔CR3 L562 "If the requirements of s. 80B (1) are not met, the Magistrate must adjourn the hearing (unless the Defendant consents.)"；CR3 L560 "These documents are called the “Committal Bundle.”"〕 |
 | 8 | PI 选择与证人通知 | 硬案仍选 PI／漏 ≥7 日证人通知 | 【自动后果】漏通知会使证人不传、书面陈述径收录——PI 拒证功能作废一半。【制裁暴露】暴露审讯策略与攻击线；多数硬案照被交付（prima facie）。【举证负担】达不成 prima facie 的论证要能在纸面上成立——否则 PI 是纯曝光。【救济门槛】discharge 并非终局：可再被控（s.85(1)） | 〔CR3 L566 "unless he notifies the Magistrate and Prosecutor not less than 7 days before the Inquiry"；CR3 L548 "This reveals his trial strategy which may be disadvantageous at trial"；CR3 L550 "it is no bar to the Prosecution charging him again for the same offence"〕 |
 | 9 | paper 后不申请 s.16 | 放着一次性纸面无罪机会不用 | 【自动后果】机会作废（只能提讯前用一次），只剩审讯中段 no case to answer 再做（另受 Galbraith 口头审讯版检验）。【举证负担】论证交付文件＋将来证据都不足以成立 prima facie case——门槛不等同审讯判决书。【救济门槛】无——时日不设宽延的库内明文 | 〔CR3 L612 "he has the right to apply once to a CFI Judge for discharge."；CR3 L618 "the Judge is making this decision based on the papers alone without hearing any oral evidence."〕 |
@@ -627,7 +627,7 @@ s.16窗口在indictment提交后、arraignment前；申请聆讯前不少于14�
 3. **量刑上限表**以最严格的"法院权限×该罪法定上限×特别条例"三者同取（0C.2）；DC 对随行 summary 另受限（s.88(1)(b) MO）〔CR3 L330 "her sentencing powers are limited"〕。
 4. **审路双人决策**：控方依 ss.10 & 14(1) CPO＋PC 8.4 定 venue；被告无选院与陪审权（*Tong Ying Kit*）；国安 A.46 证书另起三法官模式（0C.3；O-C3）〔CR3 L298 "ss. 10 & 14(1) (a) & (b) CPO"；CR3 L302 "no general right to trial by jury or to choose the venue"〕。
 5. **答辩地点锁定逻辑**：取答辩即 MC 案定；不取答辩→transfer/committal/撤控实务窗口约 6 周（0E.1）〔CR3 L494 "if the trial will be in the MC, then the Prosecution asks for “plea to be taken.”"；CR3 L496 "then the Prosecution may transfer the case to the DC, commit it to the CFI or they may withdraw the charges against the Defendant."〕。
-6. **文书换代即再审**：s.77 DCO 新 Charge Sheet 14 日死线＋s.75(4) 无罪级后果；prefer indictment 7 日（paper）〔CR3 L520 "must be filed within 14 days after the transfer order from the MC"；CR3 L634 "The Indictment is filed within 7 days of a paper committal"〕。
+6. **文书换代即再审**：s.77 DCO 另备 Charge Sheet＋s.75(3) 14 日期限＋s.75(4) 可 discharge（无罪级）；prefer indictment 7 日（paper）〔CR3 L520 "must be filed within 14 days after the transfer order from the MC"；CR3 L634 "The Indictment is filed within 7 days of a paper committal"〕。
 7. **交付时表（0G.1）**：return day 10–42（可破窗）、bundle ≥7 净日、PI 证人 ≥7 日、alibi ≥10 日、s.16 通知 ≥14 日、77A/77B 通知与差章 ≥21 日。
 8. **库内无明文员诚实登记**：alibi 警示已给但开庭前未提 particulars 的恢复规则、VBI 上诉面、s.79G 程序细节——已读材料无明文，进 open 块 O-C5；不赝造。
 

@@ -200,7 +200,7 @@ flowchart TD
 | **上诉法庭 (CA)** | "My Lord / My Lady" — | 审理原讼法庭与区域法院之定罪上诉（ss.82, 83 CPO）与判刑上诉（ss.83G–I CPO）；法官保留的法律问题（s.81(1)）、律政司刑期复核（s.81A(1)）、律政司就法律问题转呈（s.81D）、国安案三法官无罪后之案件呈述（s.81DA） 〔LGS1S L301 "D’s appeal against conviction in CFI and DC"；LGS1S L302 "D’s appeal against sentence in CFI / DC: ss. 83G,H,I CPO"；LGS1S L303 "Reservations of questions of law by CFI J"；LGS1S L304 "Applications by SJ for a review of sentence: s. 81A(1) CPO"；LGS1S L306 "Appeals by way of case stated on questions of law following an acquittal by a panel of 3 Js"〕 〔❓上诉法庭内的庭内称呼（本格旧作 My Lord / My Lady）在本库材料中查无出处，本届 LGS 1 只给出原讼法庭的称呼，幻灯与讲义均未另立上诉法庭一节〕 | 3 位上诉法官合议，**仅判刑上诉可由 2 位审理**（s.34 HCO）；是否给予上诉许可可由单官决定（s.34A HCO）。★ **陪审团无罪裁决绝对终局**：律政司依 s.81D 只能就法律问题作出「转呈」，不能推翻无罪结果 〔LGS1S L313 "Appeals heard by 3 Justices of Appeal unless appeal is on sentence only in which case, 2 Justices sit"；LGS1V L424 "Criminal appeals are usually heard by 3 Justices of Appeal"；LGS1S L305 "only a “reference” not an appeal"；LGS1S L316 "JURY ACQUITTALS ARE FINAL IN ALL CRIMINAL CASES"〕 | 上诉法庭可给予向终审法院上诉的许可；其判决对下级法院有约束力，原则上亦约束自身（*per incuriam* 例外） 〔LGS1S L315 "The CA can grant leave to appeal to the CFA"；LGS1V L448 "decisions of the CA are binding upon all lower courts"〕 |
 | **终审法院 (CFA)** | "Chief Justice / Mr/Madam Justice" — | 终审管辖：上诉法庭之最终裁决，以及原讼法庭非陪审团裁断、且不能向上诉法庭上诉之最终裁决（如裁判法院上诉）直上终院（s.31 HKCFAO）。★ **保释之批予或拒绝不属最终裁决**，故不能循 s.31(b) 直诉终院 〔LGS1V L438 "appeals from a final decision of the CA"；LGS1V L440 "appeals from final decisions of the CFI (not being a verdict or finding of a Jury) from which no appeal lies to the CA"；LGS1S L329 "a decision to grant or refuse bail by a CFI Judge is not a final decision"；LGS1S L329 "cannot be appealed under s. 31(b) HKCFAO"〕 〔❓终院内的庭内称呼（本格旧作 Chief Justice / Mr/Madam Justice）库内无出处，讲义只给出合议庭组成（首席法官＋3 位常任法官＋1 位其他普通法适用地区非常任法官）〕 | 5 位法官合议。须取得上诉许可，且须证明该裁决涉及**重大广泛重要之法律问题**，或已造成**实质及严重不公**（s.32 HKCFAO）；终院不是第二个上诉法庭，其上诉范围与权力更为有限 〔LGS1V L434 "The CFA sits as a panel of 5 Judges"；LGS1S L324 "Sits as a panel of 5 Judges"；LGS1V L442 "it must be certified that a point of law of great and general importance is involved in the decision"；LGS1V L442 "substantial and grave injustice has been done: s. 32 HKCFAO"；LGS1S L325 "The CFA is not a second CA. Its scope and power on appeals is more limited"〕 | ⚠️ *HKSAR v. Lai Chee Ying* 之中性引证两说并列：本届 LGS 1 幻灯作 [2020] HKCFA 45，跨课 8051 手册作 (2021) 24 HKCFAR 33，往届 LG09 讲义作 [2021] HKCFA 3；两侧同出本届 ⇒ 按 §2.5 并列不裁决 〔LGS1S L329 "HKSAR v. Lai Chee Ying [2020] HKCFA 45"；ADV-V2 L251 "LAI CHEE YING (2021) 24 HKCFAR 33"；OLD-LG09 L166 "HKSAR v. Lai Chee Ying [2021] HKCFA 3, (2021) 24 HKCFAR 33 at para. 53(b)"·往届仅参考；D-LCY-CITE〕 |
 
-**总表索引（2026-10-10）**：本节各院"管错法院（罪种×法院错配）"的后果链归并 [§7 行 2](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)；"越权量刑（MC 上限／DC 终值／条文号两说）"归并行 3；"上诉路径误投与无罪终局误攻"归并行 6–7。
+**总表索引（2026-10-10）**：本节各院"管错法院（罪种×法院错配）"的后果链归并 [§7 行 2](#7-环节--不做做错的后果--依据速查总表)；"越权量刑（MC 上限／DC 终值／条文号两说）"归并行 3；"上诉路径误投与无罪终局误攻"归并行 6–7。
 
 > **Exam / Advocacy Formulation:** "Match the offence to the court first — a Magistrate's powers extend only by statute, the DC caps the final term at seven years even where *Li Yan* lifts the starting point, and only the CFI sits with a jury."（自拟考场口径；底层规则见 §1.1 各行引注）
 
@@ -231,7 +231,7 @@ flowchart TD
 
 > 💡 **【实战穿透 · SGS 1 Q B5】**：Tom Tang 14 岁少年便利店案，若不认罪应在哪个法院审理，答案要**先看控罪审讯方式**：该罪若只可简易审理，除 s.3C(2) JOO 的合犯等例外情形外由**少年法庭专属管辖**；若属可公诉审讯的罪行，则 JC 仅与区域法院／原讼法庭**并行管辖**，须按审讯法院分流决定 〔LGS1V L330 "the JC has exclusive jurisdiction unless s. 3C(2) JOO applies"；LGS1V L330 "on indictment (for which the JC only has concurrent jurisdiction as the District Court and Court of First Instance"；LGS1S L228 "concurrent jurisdiction for indictable offences (DC & CFI can also try indictable offences"〕。s.3A(3) JOO 的原始内容是"JC 可审理儿童及少年人**除凶杀外**的控罪"，不是"专属管辖"的授权条文 〔LGS1V L340 "The JC hears cases against children or young people other than homicide: s.3A(3) JOO"；LGS1V L340 "S.3C(2) JOO also lists some situations in which other courts of summary jurisdiction (e.g. the MC) will hear cases against juveniles"；LGS1S L227 "Cannot hear offences of homicide: s. 3A(3) JOO"〕。详见 SG01 Classroom Brief B Question B5（若 Tom 不认罪，应在哪个法院审理）。
 
-**总表索引（2026-10-10）**：少年案件分流误判（简易当公诉办／公诉当专属办）与 s.3F 漏移送、羁押未分隔的后果链归并 [§7 行 4](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：少年案件分流误判（简易当公诉办／公诉当专属办）与 s.3F 漏移送、羁押未分隔的后果链归并 [§7 行 4](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -245,7 +245,7 @@ flowchart TD
 | **区域法院 (DC)** | **在 DC 答辩（MC 绝不答辩）** | 控方申请移交区院后，MC 不取答辩；首次在 DC 出庭时仅**“指示答辩（Indicate a plea）”**；若指示认罪，再排期至 "Plea and Sentencing Hearing" 正式答辩宣判。 | 〔LGS1S L185 "plea is not taken in the MC but in the DC following transfer"；LGS1S L193 "If P decides to transfer the case to the DC, plea is not taken in the MC, only in the DC"；LGS1S L193 "D is only asked to “indicate a plea”"；LGS1S L193 "then the matter can be set down for a “plea and sentencing hearing” at which plea will be formally taken from D"〕 |
 | **原讼法庭 (CFI)** | **在 MC 交付程序中答辩 + 在 CFI 正式答辩** | 若被告人选择认罪，可在 MC 交付程序中认罪并直接交付 CFI 判刑；若选择初级侦讯（PI），答辩在初审程序中进行；案件送达 CFI 后，在原讼庭再次正式答辩。 | 〔LGS1S L194 "plea may be taken in the MC and D committed to the CFI for sentencing"；LGS1S L194 "If P have decided to commit the case to the CFI and D elects for a preliminary inquiry"；LGS1S L194 "then plea is taken from D as part of that process"；LGS1S L185 "plea may be taken in the MC during the committal process but is taken again in the CFI"〕 |
 
-**总表索引（2026-10-10）**：答辩地点误投（该在 DC 指示却在 MC 取答、CFI 案只备一次答辩）的后果链归并 [§7 行 1](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：答辩地点误投（该在 DC 指示却在 MC 取答、CFI 案只备一次答辩）的后果链归并 [§7 行 1](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -280,7 +280,7 @@ flowchart LR
 >
 > 📌 章号更正：旧版把《法律援助条例》写作 "Cap. 9"，其来源正是本届 Slide 15 原件的笔误 〔LGS1S L157 "See the Legal Aid Ordinance, Cap. 9"〕；本届讲义正文则作 **Cap. 91《法律援助条例》(Legal Aid Ordinance)**，本卡一律以 Cap. 91 为准 〔LGS1V L204 "The availability of Legal Aid is governed by the Legal Aid Ordinance, Cap. 91"〕。
 
-**总表索引（2026-10-10）**：代表权误配（DLS 接三不办事项／MC 非交付阶段求法援／DC 以上只安排 DLS）的后果链归并 [§7 行 5](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：代表权误配（DLS 接三不办事项／MC 非交付阶段求法援／DC 以上只安排 DLS）的后果链归并 [§7 行 5](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -293,13 +293,13 @@ flowchart LR
  * **上诉管辖时 (HCMA 审理裁判法院上诉)**：其判决**对裁判法院 (MC) 具有绝对约束力**，且自身受同级上诉判决约束。 〔LGS1S L343 "Bound by its own decisions when acting in an appellate role (i.e. when hearing appeals from the MC"；LGS1V L448 "It is bound by its own appellate decisions though"；LGS1V L448 "Both the DC and MC are bound by decisions of the CFI"〕
 * **区域法院 (DC) 与裁判法院 (MC)**：必须遵守所有上级法院判决，但**不受自身或同级其他法官判决的约束**。 〔LGS1V L448 "Both the DC and MC are bound by decisions of the CFI, CA and CFA but not by their own decisions"；LGS1S L344 "DC & MC: bound by decisions of all the higher courts but not their own"〕
 
-**总表索引（2026-10-10）**：先例层级误用（把同级／自身／CFI 原讼判决当拘束先例）的后果链归并 [§7 行 8](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：先例层级误用（把同级／自身／CFI 原讼判决当拘束先例）的后果链归并 [§7 行 8](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
 ## 6. 全流程核对清单（接案→定审，逐闸自检）
 
-每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [§7 总表](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [§7 总表](#7-环节--不做做错的后果--依据速查总表)。
 
 | # | 闸门 | 自检问题 | 未过时的动作 | 深节回点 |
 |---|---|---|---|---|
@@ -422,7 +422,7 @@ flowchart LR
 
 本轮在以下主题稿的0A节新增具体规则、条件、证据、程序选择、后果和演练示例。此页原有正文及引注保留；同一细节从下列入口阅读，避免另复制一份。
 
-- 0A. 控罪内容、合并与最终审讯路线
+- 0D 起草控罪与并拆
 
 **留痕**：2026-10-06新增本入口；未将导航页/清单改造成另一份重复主题稿。
 

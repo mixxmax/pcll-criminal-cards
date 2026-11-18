@@ -18,12 +18,12 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | 首次提堂 → 05/06 | 落案起诉后的保释申请 | 实务上起诉后 **24 小时**内向裁判官提出（即被捕后 48 小时内） | 自落案起诉时起算 | 错过窗口被告继续羁押 | 辩方即日备妥保释陈词 → 05 卡 |
 | 还押管理 → 05/10 | 在押被告的定期带堂 | 每次还押不超过 **8 整天**（s.79 MO；讲义写 8 days，条文为 8 clear days） | 每次还押届满时重算 | 逾期还押违法，须释放或重新申请 | 控辩双方可协商放弃 B/U 权利 → 05 卡 |
 | 保释复核 → 05 | 律政司申请复核保释 | 须在 **48 小时**内聆讯（CPO s.9H/9I） | 自律政司提出复核申请时起算 | 复核不及时被告可能已被还押过久 | 被告方准备反对陈词 → 05 卡 |
-| 交付程序 → 08/12 | 移交区域法院后提交新控罪书 | 移交令后 **14 日**内（或法官准许期间） | 自移交令发出时起算（DCO s.77） | 逾期被告可被撤销控罪，效果等同无罪（s.75(4) DCO） | 控方必须按时提交 → 08 卡 |
+| 交付程序 → 08/12 | 移交区域法院后提交新控罪书 | 移交令后 **14 日**内（或法官准许期间） | 自移交令发出时起算（期限 s.75(3) DCO；另备控罪书格式 s.77 DCO） | 逾期被告可被撤销控罪，效果等同无罪（s.75(4) DCO） | 控方必须按时提交 → 08 卡 |
 | 交付程序 → 08/12 | 交付文件册（Committal Bundle）送达 | return day 前**不少于 7 日**送达控方证据文件 | 自 return day 倒推 | 证据未及时送达影响 PI 申请 | 辩方核查文件完整性 → 14 卡 |
 | 交付程序 → 08/12 | 回复日（return day）区间 | 一般 **10–42 日**；经双方同意或裁判官裁定可超出 | 自交付程序开始时起算（MO s.80A(3)） | 超出需双方同意或裁判官批准 | 双方协商排期 → 08 卡 |
 | 交付程序 → 08/12 | 初级侦讯（PI）传证人通知 | 须于 PI 前**不少于 7 日**通知裁判官及控方 | 自 PI 日期倒推 | 未通知则证人不能在 PI 作证 | 辩方评估 PI 必要性 → 08 卡 |
-| 审前披露 → 14 | 不在场证明（alibi）通知——区院 | 开审前 **10 clear days**（DCO s.75A） | 自开审日倒推 10 个完整日（不含开审日） | 逾期提出 alibi 可能被排除 | 辩方须在时限内发出 Alibi Notice → 14 卡 |
-| 审前披露 → 14 | 不在场证明通知——原讼庭 | 交付后 **10 days**（CPO s.65DA） | 自交付文件册送达时起算 | 逾期 alibi 可能不被接纳 | 同上 → 14 卡 |
+| 审前披露 → 14 | 不在场证明（alibi）通知——区院 | 开审前 **不少于 10 日**（DCO s.75A） | 自开审日起算（讲义仅写 not less than 10 days） | 逾期提出 alibi 可能被排除 | 辩方须在时限内发出 Alibi Notice → 14 卡 |
+| 审前披露 → 14 | 不在场证明通知——原讼庭 | 开审前 **不少于 10 日**（CPO s.65D(2)） | 自开审日起算（讲义仅写 not less than 10 days） | 逾期 alibi 可能不被接纳 | 同上 → 14 卡 |
 | 审前披露 → 14 | 控方分页交付文件册 | 公诉书提交后 **14 日**内（PD 9.3 §4.1.1） | 自公诉书提交时起算 | 未按时提交影响审讯排期 | 控方义务，辩方监控 → 14 卡 |
 | 审前披露 → 14 | 辩方案件管理问卷（CMQ） | 提交文件册后 **42 日**内（Fixture List）/ CMH 前 7 日（Expedited List） | 自文件册提交时起算 | 未按时提交可能被列入速审 | 辩方按表格递交 → 14 卡 |
 | 审前披露 → 14 | 备审证明书（Certificate of Readiness） | 完成全部适用程序步骤后 **7 日**内 | 自最后程序步骤完成时起算 | 未提交可能被强制排期 | 双方核对程序完成度 → 14 卡 |
@@ -31,11 +31,11 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | 审前披露 → 14 | voir dire 反对理由 | 开审前**不少于 14 日**提交（PD 9.3） | 自开审日倒推 | 逾期反对可能不被考虑 | 辩方预备好法定依据 → 13 卡 |
 | 量刑报告 → 15 | 定罪后戒毒所（DATC）报告还押 | **3 星期**内（DDO s.54A） | 自定罪时起算 | 逾期还押违法，须释放或改判其他刑罚 | 法庭必须在时限内取报告 → 15 卡 |
 | 量刑报告 → 15 | 其他判刑前报告（感化/社服/青少年设施） | 押后期间被告可申请保释；部分报告法定必须羁押（TC/DATC） | 自法庭决定取报告时起算 | 押后过久影响被告心理与案件进度 | 辩方论证报告必要性 → 15 卡 |
-| 判后救济 → 15 | 裁判法院复核（s.104 MO） | **14 日**内 | 自判刑/定罪时起算 | 逾期失去复核权 | 被告或律政司提出 → 15 卡 |
-| 判后救济 → 15 | 裁判法院案件呈述（s.105 MO） | **14 日**内 | 同上 | 逾期失去呈述权；且选此路即失 s.113 上诉权 | 须评估与 s.113 的互斥 → 15 卡 |
-| 判后救济 → 15 | 裁判法院原讼庭上诉（s.113 MO） | **14 日**内，Form 101/102 | 同上 | 逾期失去上诉权 | 被告提出 → 15 卡 |
+| 判后救济 → 15 | 裁判法院复核（s.104 MO） | **14 clear days**内（裁定当日不计入第 1 日） | 自裁判官决定作出日的次日起算；裁判官无权延长 | 逾期失去复核权 | 被告或律政司提出 → 15 卡 |
+| 判后救济 → 15 | 裁判法院案件呈述（s.105 MO） | **14 clear days**内（次日起算） | 自决定作出日的次日起算；裁判官无权延长 | 逾期失去呈述权；与 s.113 不能同时进行，须选一条 | 须评估与 s.113 的互斥 → 15 卡 |
+| 判后救济 → 15 | 裁判法院原讼庭上诉（s.113 MO） | **14 日**内（非 clear days，当日计入起算），Form 101/102 | 自定罪/命令/裁定当日起算（通知期限 s.114 MO） | 逾期失去上诉权 | 被告提出 → 15 卡 |
 | 判后救济 → 15 | 律政司申请复核刑期（s.81A CPO） | **21 日**内书面提出 | 自判决时起算 | 逾期失去复核权 | 律政司内部程序 → 15 卡 |
-| 判后救济 → 15 | 区院/原讼庭上诉许可（s.83Q CPO） | **28 日**内 | 自判刑时起算（判刑迟于定罪逾 7 日者自判刑日起算） | 逾期失去上诉权；可申请延长但不得包装成 renew | 辩方须在判刑理由中找可上诉错误 → 15 卡 |
+| 判后救济 → 15 | 区院/原讼庭上诉许可（s.83Q CPO） | **28 日**内 | 针对定罪、裁决、裁断或命令自该日起算、针对刑罚自判刑日起算；判刑迟于定罪逾 7 日者，针对定罪或判刑者可自判刑日起算（延长权 s.83Q(3)） | 逾期失去上诉权；可申请延长但不得包装成 renew | 辩方须在判刑理由中找可上诉错误 → 15 卡 |
 | 判后救济 → 15 | 单一法官拒批后重提合议庭（s.83Y CPO） | **14 日**内 | 自单一法官拒批时起算 | 逾期失去 renew 权；执意 renew 可遭追加 loss of time | 辩方评估是否值得冒险 → 15 卡 |
 | 判后救济 → 15 | 终审法院上诉（s.33 HKCFAO） | **28 日**内 | 自判决时起算 | 逾期失去终审上诉权 | 须先获上诉庭许可 → 15 卡 |
 | 记录面 → 15 | 已失时效定罪（spent conviction） | 定罪满 **3 年**且无再犯、刑罚 ≤3 月或罚款 ≤$1 万 | 自定罪时起算（RHOO s.2） | 未满 3 年或刑罚超标则不构成 spent | 量刑时可主张考虑 → 15 卡 |
@@ -49,7 +49,8 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | Part 1A (ss.9D–9P) | 保释全家桶：推定保释、拒保例外、条件、担保、复核 | s.9D（推定）、s.9G（拒保）、s.9H/9I（律政司复核）、s.9J（被告高院复核） |
 | s.51 | 控罪合并与分拆 | 控方可申请合并，被告可申请分拆 |
 | ss.65B–65C | 书面供词与同意事实 | s.65B 陈述书、s.65C 承认事实 |
-| s.65DA | 原讼庭 10 日 Alibi 警告 | 交付后 10 days 内发出 |
+| s.65D | 不在场证明通知（alibi） | 开审前不少于 10 日，须载明 particulars |
+| s.65DA | 专家证据书面意见 | 交付／移交／重审命令后 as soon as practicable 向各方提供 |
 | ss.81–83Z | 上诉庭上诉与律政司复核 | s.81A（律政司刑期复核）、s.83Q（28 日上诉）、s.83W（loss of time）、s.83Y（单一法官）、s.83Z（上诉保释） |
 | ss.102–104 | 充公令 | 对涉案实物/工具 |
 | s.107 | 定罪后签保守行为 | Conditional Discharge 下亦可 |
@@ -65,16 +66,16 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | s.79 | 每次还押不超 8 日（B/U） | 在押被告每 8 日带堂 |
 | ss.80A–86 | 交付原讼庭（Committal & PI） | PI 初级侦讯、return day 10–42 日 |
 | ss.88–90 | 移交区域法院（Transfer） | 控方申请，裁判官无权拒绝 |
-| s.104 | 裁判官 14 日复核 | 自判刑/定罪起算 |
-| s.105 | 案件呈述 | 与 s.111 互斥锁 |
-| s.113 | 原讼庭 14 日一般上诉 | Form 101/102 |
+| s.104 | 裁判官复核（14 clear days） | 自裁定作出次日起算 |
+| s.105 | 案件呈述（14 clear days） | 与 s.113 须选一条；s.111 是裁判官可拒呈述琐屑申请 |
+| s.113 | 原讼庭一般上诉（期限 s.114：14 日） | Form 101/102 |
 | ss.119/122 | 裁判法院上诉保释 | 上诉期间保释申请 |
 
 ### 2.3 《区域法院条例》（DCO, Cap. 336）与专项法例解码
 
 | 条文 | 管什么 |
 |---|---|
-| s.75A DCO | 区院开审前 10 clear days Alibi 通知 |
+| s.75A DCO | 区院开审前不少于 10 日 Alibi 通知（须载明 particulars） |
 | s.81 DCO | 区院 T.I.C. 法定权源 |
 | s.82 DCO | 区院最高判监 7 年天花板（s.82(5) 使 DC 同权 MO s.36） |
 | s.84 DCO | 控方就无罪裁决案件呈述上诉 |
@@ -91,7 +92,7 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | *Nancy Ann Kissel* | 奶昔杀夫保释陈词成呈堂铁证 | 保释陈词中作出的陈述可能在后续审讯中被用作不利证据；律师须谨慎措辞 | 保释申请后被告在审讯中被追问保释陈词内容 |
 | *R v Ashley* | 违反保释条件非犯罪亦非藐视 | 违反保释条件本身不构成刑事罪行或藐视法庭，但可触发保释撤销程序 | 被告违反保释条件后控方申请撤销保释 |
 | *HKSAR v Lau Man Kin* | 上诉保释实质胜算为首要前提 | 上诉期间保释的首要考虑是上诉是否有实质胜算（merits），而非仅看案件严重性 | 被告定罪后申请上诉保释 |
-| *HKSAR v Lai Chee Ying* | 国安保释双层门槛 | 国安案件保释须同时符合《香港国安法》s.5 的双重条件：法庭信纳有充分理由信纳被告不会继续实施国安罪行，且不违反国家安全利益 | 国安案件保释申请 |
+| *HKSAR v Lai Chee Ying* | 国安案件保释门槛 | 先适用《香港国安法》A.42(2)：非法官有充分理由相信该人不会继续实施危害国家安全行为，否则不准保释；其后才考虑 CPO s.9D、s.9G | 国安案件保释申请 | 〔LGS9 L164 "No bail shall be granted … unless the judge has sufficient grounds for believing that the criminal suspect or defendant will not continue to commit acts endangering national security"〕
 | *HKSAR v Lee Ming Tee* | 控方未用材料披露边界 | 控方披露义务不及于所有未用材料，但须披露可能影响公平审讯的材料；边界由法庭按案件具体情况裁定 | 控方未披露某些侦查材料 |
 | *R v Galbraith* | 中段无须答辩两肢测试 | 控方完结举证后，法官须按两肢测试裁定是否有案可答：第一肢证据连 prima facie case 都构不成；第二肢证据虽构成案件但内在矛盾或极度薄弱 | 辩方申请 no case to answer |
 | *R v Turnbull* | 视觉辨认质量指引 | 目击者辨认证据的质量须足够高，辨认程序须公正；质量不足时法庭须作警示或排除 | 控方依赖眼认证据定罪 |
@@ -102,7 +103,7 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | *Tsang Chiu Hung* | 警署行使缄默权不失讼费 | 被告在警署行使法定的保持缄默权、留到正审才提实体抗辩并脱罪的，绝不因此丧失讼费；唯独手握与缄默权无关的程序技术绝杀理由、本可及早发信指出却故意拖到正审突袭的，法庭才可拒判讼费 | 无罪后申请讼费被控方反对 |
 | *Lam Chiu Fong (No 2) / Chan Hok Pan* | 控方中途撤控算讼费不开小型庭审 | 控方中途撤控时，因案件未经正审盘问，法院为避免仅因算讼费而另开证据聆讯堵塞排期，会仅凭现有书面材料评估被告有否自招嫌疑 | 控方撤回部分或全部控罪 |
 | *Wong Chun Yin & Muhammad Shehbaz* | 无律师自行滥诉照罚白坐牢 4 周 | 即便上诉人没有律师代表而自行上诉，上诉庭仍因其上诉毫无理据，下令将其候审羁押中的 4 周时间不计入服刑期（loss of time） | 上诉全无胜算仍强行上诉 |
-| *Ladd v Marshall* | 上诉呈堂新证据三要件 | 上诉呈堂新证据须同时满足：证据在原审时不可得、具决定性、且整体证据不安全定罪 | 上诉时提交新证据 |
+| 新证据测试（s.83V CPO） | 上诉庭接纳新证据的门槛 | 上诉法庭认为为司法公正有必要或适宜时可接纳；新证据不会提供任何上诉理由的不得接纳；看来 likely to be credible、原审本可采纳、未在原审提出但有 reasonable explanation 的应当接纳；裁判法院上诉至原讼庭适用同一套（s.118(1)(b) MO） | 上诉时提交新证据 | 〔CR10 L687；CR10 L201；OLD-EX3AP L1637〕
 | *R v Jones (No.2)* | 被告潜逃大律师因专业尴尬撤出代理 | 被告潜逃后大律师因专业尴尬或利益冲突申请撤出代理，法院可批准但须考虑被告利益 | 被告缺席审讯且大律师申请撤出 |
 | *Yau Kwok Yin* | 判后协助当局减刑 | 被告在判刑后提供协助当局的资料，可作为 significant alteration in circumstances 申请减刑 | 判后提供新协助资料 |
 | *Seabrook* | 判罚后指引下调受惠 | 判刑后若上诉庭指引下调，被告可依 significant alteration in circumstances 申请减刑 | 判后指引发生变化 |
@@ -369,7 +370,7 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | 上述期限与送达要求 | 双方可协议豁免（s.65B(2) 但书） | LG06 / LGS 6 2026 〔LGS6N L310 "parties can agree to dispense with service requirement and time limits"；LGS6N L310 "see the proviso to s. 65B(2)"〕 |
 | 逾期未反对的后果 | 讲义：该陈述即获接纳为证据（"Failure to object within the time limit means the statement is admitted into evidence"）；陈述人仍可经许可或法院主动传召作证（s.65B(4)） | LGS 6 2026 / LGS 7 2026 〔LGS6N L310 "Failure to object within the time limit means the statement is admitted into evidence"；LGS6N L314 "with leave of the court, the party tendering the statement may be permitted to call the witness"；LGS6N L314 "or on the application of any party or on the court’s own motion, the witness may be called to testify"〕 |
 | 承认事实通知（notice to admit facts）：辩方须取得指示并回应 | 通知送达后 **21 日** 内 | LG05；PD 9.3 §5.3.6(2)；LGS 7 PP Slide 15 〔PD93 L318 "within 21 days after the notice to admit facts is served or such time as may be allowed by the court"；PD93 L318 "The legal representative acting for the defendant shall forthwith obtain instructions in relation to the matter"；LGS7PP L89 "the defence have 21 days to reply"；❓行出处里的 LG05 标签在库内 LGS 5 2026 讲义与往届 LG05 Part Three 都查不到对应原文，21 日只见于 PD 9.3 §5.3.6(2) 与 LGS 7 PP Slide 15〕 |
-| 不在场证据通知（alibi notice） | 开审前 **不少于 10 日**；s.65D(9)扣除general holidays，不等于十个工作日 | LG06 / LGS 6 2026, s.65D(2) CPO 〔LGS6N L246 "A Defendant must give an alibi notice not less than 10 days before start of trial"；LGS6N L246 "The alibi notice must give particulars of the alibi: s.65D(2)"〕 |
+| 不在场证据通知（alibi notice） | 开审前 **不少于 10 日**，通知须列明 particulars（s.65D(2)）；是否扣除 general holidays 两说并列（s.65D(8)／s.65D(9)），不选边 | LG06 / LGS 6 2026, s.65D(2) CPO 〔LGS6N L246 "A Defendant must give an alibi notice not less than 10 days before start of trial"；LGS6N L246 "The alibi notice must give particulars of the alibi: s.65D(2)"〕 |
 | 控方拟用 PD 保护措施（屏障、专用通道、支援人员）须通知被告（原讼庭） | 案件管理听审前 **不迟于 10 日** | LG06 / LGS 6 2026, PD 9.3 第 9 部 〔LGS6N L404 "unless the Criminal Listing Judge, Expedited List Judge or the trial Judge agrees otherwise"；LGS6N L404 "the Prosecution must notify the Accused not later than 10 days before the Case Management Hearing"；PD93 L446 "the prosecution shall notify the defendant of the following information not later than 10 days before the Case Management Hearing"〕 |
 | 区院（PD 9.4）及裁判法院（PD 9.10）使用上述保护措施，律政司司长须通知 | PTR 或提及聆讯前 **不迟于 10 日**；若无此等聆讯，开审前 **21 日** | LG06 / LGS 6 2026 〔LGS6N L406 "PDs 9.4 (District Court) and 9.10 (use of screens in the Magistrate Courts) contain similar provisions"；LGS6N L406 "the Secretary for Justice shall notify the Defendant not later than 10 days before the PTR or mention hearing"；LGS6N L406 "or 21 days before the commencement of the trial"；PD94 L46 "the Secretary for Justice shall notify the accused of the following information not later than 10 days before the pre-trial review"；PD94 L46 "or 21 days before the commencement of the trial"；❓库内无 PD 9.10 文件（全库文件名查 9.10 无命中），裁判法院部分只有 LGS 6 2026 讲义 L406 的转述〕 |
 | 被告收到上述通知后反对 | **7 日** 内通知控方 | LG06 / LGS 6 2026 〔LGS6N L404 "The Accused then has 7 days to notify the Prosecution if he objects to the use of any of the measures"；PD93 L458 "the defence shall inform the prosecution within 7 days after the receipt of the above information"；PD94 L58 "the accused shall inform the Secretary of Justice within 7 days from receipt of the above information"〕 |
@@ -565,4 +566,4 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 
 #### 2026-10-21 SG04时限补核
 
-〔LAW21 L30 "Alibi timing: s.65D(8)通常要求在开审前不少于十日"〕〔LAW21 L42 "Counsel change: (b)发生重大变更（条文以Counse"〕〔LAW21 L44 "Backsheet timing: (e)须尽快、相关聆讯前且委任后不"〕
+LAW21 三则摘录（L30 alibi／L42 counsel change／L44 backsheet timing）在原记录中即截断于句中，无法按行号重录完整句，暂不作为时限陈述；待原文件核对后补录。

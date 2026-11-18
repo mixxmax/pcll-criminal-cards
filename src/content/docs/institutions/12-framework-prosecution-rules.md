@@ -173,9 +173,9 @@ LGS 1 讲义／幻灯（码 LGS1V／LGS1S）供检控守则与受害人宪章部
 1. **宪制独立地位**：《基本法》第 63 条明确规定律政司主管刑事检察工作，**不受任何干涉**。 〔LGS1V L146 "A.63 of the Basic Law (“BL”) provides that the DOJ shall control criminal prosecutions free of any interference"；LGS1S L107 "A. 63 BL: DOJ controls criminal prosecutions free of any interference"；LGS2N L489 "The decision whether or not to prosecute is made by the Secretary for Justice or by counsel in the Prosecutions Division"〕
 2. **检控双重测试（Two-Stage Prosecutorial Test — para 5 PC）**： 〔LGS2N L491 "In deciding whether to prosecute, 2 considerations are relevant"；LGS2N L497 "See para 5 of the Prosecution Code"；📄PROSCODE p.17 "the decision to prosecute includes two … likely to prove the offence"〕
  - **第一步：证据充分性测试（Sufficiency of Evidence）** 
- $\rightarrow$ 是否存在**合理定罪机会（Reasonable prospect of conviction）**？ 〔LGS2N L499 "does the evidence demonstrate a reasonable prospect of conviction"；LGS2S L353 "Sufficiency of Evidence – test: is there a reasonable prospect of conviction"；📄PROSCODE p.17 "The test is whether the evidence demonstrates a reasonable prospect of conviction"〕
+ → 是否存在**合理定罪机会（Reasonable prospect of conviction）**？ 〔LGS2N L499 "does the evidence demonstrate a reasonable prospect of conviction"；LGS2S L353 "Sufficiency of Evidence – test: is there a reasonable prospect of conviction"；📄PROSCODE p.17 "The test is whether the evidence demonstrates a reasonable prospect of conviction"〕
  - **第二步：公众利益考量（Public Interest — para 5.9 PC）** 
- $\rightarrow$ 即使证据充分，检控官仍须权衡：罪行严重性、嫌疑人背景与前科、替代方案（如警司警诫、签保守行为）、检控延误等。**检控官职责并非不惜一切代价定罪**。 〔LGS2N L501 "There is no exhaustive list of the factors the Prosecutor should consider"；LGS2S L354 "nature and circumstances of the offence, the seriousness of the offence, the criminal history of the suspect"；LGS2S L354 "the availability of other alternatives to prosecution such as cautions or warnings, delay in prosecution"；📄PROSCODE p.18 "There can be no exhaustive list of the considerations to be addressed"；📄PROSCODE p.19 "the availability and efficacy of alternatives to … acceptable form of diversion"；LGS1V L148 "It is not the role of the Prosecutor to obtain a conviction at all costs"；LGS1S L110 "Not the role of a Prosecutor to obtain a conviction at all costs"〕 〔❓本栏「替代方案（如警司警诫、签保守行为）」中的「签保守行为」在本库材料里无出处：库内两处原文只作 cautions or warnings 与 caution, warning or other acceptable form of diversion，均未举 bind over 为检控替代方案。已就地标注，删留待你定〕
+ → 即使证据充分，检控官仍须权衡：罪行严重性、嫌疑人背景与前科、其他替代检控的做法（讲义原文为 cautions or warnings，或 caution, warning or other acceptable form of diversion）、检控延误等。**检控官职责并非不惜一切代价定罪**。 〔LGS2N L501 "There is no exhaustive list of the factors the Prosecutor should consider"；LGS2S L354 "nature and circumstances of the offence, the seriousness of the offence, the criminal history of the suspect"；LGS2S L354 "the availability of other alternatives to prosecution such as cautions or warnings, delay in prosecution"；📄PROSCODE p.18 "There can be no exhaustive list of the considerations to be addressed"；📄PROSCODE p.19 "the availability and efficacy of alternatives to … acceptable form of diversion"；LGS1V L148 "It is not the role of the Prosecutor to obtain a conviction at all costs"；LGS1S L110 "Not the role of a Prosecutor to obtain a conviction at all costs"〕 〔❓本栏「其他替代检控的做法（讲义原文为 cautions or warnings，或 caution, warning or other acceptable form of diversion）」中的「签保守行为」在本库材料里无出处：库内两处原文只作 cautions or warnings 与 caution, warning or other acceptable form of diversion，均未举 bind over 为检控替代方案。已就地标注，删留待你定〕
 3. **检控同意书制度（Consent to Prosecute）**： 〔LGS2N L505 "For some offences, the Secretary for Justice must give her consent to prosecution"；LGS2S L359 "Not required for all offences."〕
  - **须律政司司长同意的罪行**（para 6.1 PC）：① 《公安条例》s.33(5)（公众地方管有攻击性武器）；② 《防止贿赂条例》第 2 部（s.31 POBO，如索取／接受利益、贿赂公职人员）；③ 《刑事罪行条例》s.55(3)（无合法目的而制造或管有爆炸品）。**国安法罪行须律政司长书面同意**（A.41(2) NSL；但该条不适用于逮捕或保释申请）。 〔LGS2N L505 "see para. 6.1 PC. For examples see"；LGS2N L507 "s. 33(5) P.O.O: Possession of an offensive weapon in a public place"；LGS2N L509 "Part II of POBO (e.g. soliciting or accepting an advantage, bribery of a public servant)"；LGS2N L511 "making or possessing an explosive substance without a lawful object"；LGS2S L360 "Example: s. 33(5) P.O.O – possession of an offensive weapon"；LGS2S L363 "A. 41(2) – need SJ’s written consent (does not apply to arrests or applications for bail.)"〕
  - **须控方（Prosecutor）同意**：公诉罪行在裁判法院简易审理须控方同意（s.94A MO）；**简易罪行在裁判法院审理无须控方同意**。 〔LGS2N L515 "the consent of the Prosecutor must be obtained: s. 94A MO"；LGS2N L515 "no consent is needed for summary offences to be tried in the MC"；LGS2S L361 "Indictable offences triable summarily in MC: need consent of Prosecutor: s. 94A MO"；LGS2S L362 "Do not need Prosecutor’s consent for a summary offence to be tried in MC."〕
@@ -184,7 +184,7 @@ LGS 1 讲义／幻灯（码 LGS1V／LGS1S）供检控守则与受害人宪章部
 > 💡 **【实战穿透 · SGS 1 Q A3 & Q D】**：检控同意书瑕疵救济与检控官“司法秉行者”角色（Minister of Justice / 证据充足与公众利益测试），Q A3 与 Q D 的题问原文见本库**本届** SG01 学生册（01 SG 场景层，码 SG01S1），详见 SG01 课堂 Brief A Q A3（启动检控的手续及未合规的后果） 及同页 Q D（律政司与检控官的角色及全盘起诉探讨）。 〔SG01S1 L92 "what procedural formalities must be complied with by both the police and the Prosecution"；SG01S1 L92 "What would be the effect of failing to comply with these formalities"；SG01S1 L162 "The role of the Department of Justice and a Prosecutor is to protect the citizens of Hong Kong"；SG01S1 L162 "they should prosecute it to the full extent of the law"〕
 > ⚠️ **锚点说明（交由 T4 处理）**：SG01 课堂笔记的提问标题为 `### Question A3: … (5 mins)` 格式，标题自带括号时长附注，Obsidian 无法生成可跳转锚点，故此处只链接到文件本身（参见附录 J M6）。
 
-**总表索引（2026-10-10）**：漏取律政司司长书面同意或控方同意（含"何时要、漏了如何救"）的程序代价归并 [§7 行 1](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：漏取律政司司长书面同意或控方同意（含"何时要、漏了如何救"）的程序代价归并 [§7 行 1](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -223,7 +223,7 @@ flowchart TD
 * **律政司介入**：s.14(1) MO 允许**任何阶段**介入；终止方式含依 s.15 MO 提出 nolle prosequi、撤回控罪或不提证供（Slide 47）。是否接管须权衡检控守则 para 7(4) 所列因素（公共利益与司法、罪行严重性、相关方意见、公平审讯前景，Slide 49）；若无合理定罪机会或公众利益不容许继续，律政司可终止私人检控（*Ng Chi Keung v Secretary for Justice* [2016] 2 HKLRD 1330 (CFI)）。 〔LGS2N L599 "the Secretary for Justice can intervene and assume conduct of the proceedings"；LGS2S L457 "SJ can intervene by terminating proceedings (e.g. entering nolle prosequi under s. 15 MO"；LGS2N L601 "The factors the Secretary for Justice should have in mind in deciding whether to take over a private prosecution are listed in para. 7(4)"；LGS2S L481 "Factors include: interests of public justice, seriousness of offence, views of any interested party, the prospects of fair trial"；LGS2N L601 "The Secretary for Justice can also discontinue a private prosecution where there is no reasonable prospect of conviction"〕
 * **拒绝签发传票后的唯一挑战途径是司法复核**：*Kwok Tak Ying* 中 s.104、s.105、s.113 MO 三条上诉路径**全被否定**——理由：签发传票属 ex parte 申请，潜在被告并无诉讼地位（locus standi），不属裁判官「以简易程序裁断事项」，故不落入上述条文涵盖范围（本届幻灯 Slide 48 与本届讲义同段逐条列明）。 〔LGS2N L611 "the issuance of a summons is an ex parte application in which the prospective D has no locus standi"；LGS2N L613 "s. 105 MO cannot be used to appeal a refusal to issue a private summons"；LGS2N L615 "There must be an inter partes hearing over which the M has exercised his summary jurisdiction"；LGS2N L619 "Judicial review is the only avenue of challenge available against M"〕
 
-**总表索引（2026-10-10）**：拒发传票后误投 s.104／105／113 MO 上诉的后果归并 [§7 行 10](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：拒发传票后误投 s.104／105／113 MO 上诉的后果归并 [§7 行 10](#7-环节--不做做错的后果--依据速查总表)。
 
 > **Exam / Advocacy Formulation:** "A refusal to issue a private summons is challenged by judicial review alone — s.104, s.105 and s.113 MO are all dead ends; and the SJ may take over the prosecution at any stage."（自拟考场口径；底层规则见 §2.1 各条引注）
 
@@ -241,7 +241,7 @@ flowchart TD
 4. **定额罚款通知书（Fixed Penalty Notice）**：适用于交通、乱丢垃圾等轻微罪行；缴付定额罚款后**依法不留刑事案底**（Cap. 297《刑事定罪（累犯者）条例》s.2(3)）。**若被告人争议法律责任，则提出告发并发出传票**（Slide 46）。 〔LGS2S L444 "Minor criminal offences e.g. road traffic, littering"；LGS2S L445 "D does not receive a criminal conviction provided the"；LGS2S L445 "s. 2(3) Rehabilitation of Offenders Ordinance, Cap. 297"；LGS2S L446 "If D disputes liability then an information is laid and a summons issued"〕
 5. **私人检控（Private Prosecution — s.14 MO）**：详见 §2 及 §2.1。 〔LGS2N L597 "By s. 14 MO, criminal proceedings may be begun by persons other than the Secretary for Justice"；LGS2S L453 "S. 14 MO: possible for individuals/bodies to bring a private prosecution"〕
 
-**总表索引（2026-10-10）**：48 小时带堂迟延（起算点三说 D-48H）与启动路径选错（NIP 超限／定额罚款争议仍索罚）的后果归并 [§7 行 3–4](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：48 小时带堂迟延（起算点三说 D-48H）与启动路径选错（NIP 超限／定额罚款争议仍索罚）的后果归并 [§7 行 3–4](#7-环节--不做做错的后果--依据速查总表)。
 
 ### 3.2 重叠控罪禁止原则（Rule Against Duplicity — Slide 44, 45）
 > **§3.2 本节取材**：规则表述取本届讲义 Key Point 段，错误与正确范例取本届幻灯 Slide 44–45；「重叠控罪不作废」的更正取本届 LGS 3 修订讲义。 〔LGS2N L565 "The requirement that a separate complaint / information is required for each offence is called THE RULE AGAINST DUPLICITY"；LGS2N L565 "The Prosecution cannot allege two or more offences in the same charge"；LGS2S L417 "Separate complaint / information is required for each offence"〕
@@ -254,7 +254,7 @@ flowchart TD
  > ✅ Second Count: Statement of Offence — Common assault contrary to section 40 of the Offences against the Person Ordinance, Cap. 212 + Particulars of Offence. 〔LGS2S L432 "Common assault contrary to section 40 of the Offences against the Person Ordinance, Cap.212"〕
 * ⚠️ **重叠控罪并不使控罪「作废」**：本届 LGS 3 修订讲义明确重叠控罪并非无效、审讯中修改即可治愈；实务上控方**可在裁决前任何时候**修改，裁判官／法官亦可主动修改，但须听取辩方关于偏见与不公的抗辩。故旧版本卡语「违法作废」为过度表述，已改正；辩方抗辩应循 §4.2 的偏见／不公标准，或依《起诉书规则》R.3(3) 要求交付进一步详情。 〔LGS3R L448 "A duplicitous Charge Sheet/Indictment does not render the charges/counts a nullity"；LGS3R L448 "Amending the charge at trial can cure the defect"；LGS3R L448 "the Prosecution can actually amend the charge at any time prior to verdict"；LGS3R L422 "Such a general power is consistent with R. 3(3) of the Indictment Rules"〕
 
-**总表索引（2026-10-10）**：一券两罪（duplicity 中弹）与辩方应对的后果链归并 [§7 行 5](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：一券两罪（duplicity 中弹）与辩方应对的后果链归并 [§7 行 5](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -270,7 +270,7 @@ flowchart TD
 * **公诉程序罪行（Indictable Offences）**：原则上**无时效限制**；但存在极度迟延（excessive delay）时，辩方可申请**永久终止程序（Permanent Stay of Proceedings）**，参见《刑事诉讼程序指引》PD 9.7（本届讲义同段与本届幻灯 Slide 40）。 〔LGS2N L527 "where there is excessive delay, the Defence may make an application for a permanent stay of proceedings"；LGS2S L383 "Excessive delay: application for a permanent stay? PD 9.7"〕
 * **国安法罪行**：库内材料未载 NSL 罪行的时效规定，惟依 A.41(3) 一律**以公诉程序审讯**（本届讲义同段与本届幻灯 Slide 40）。 〔LGS2N L529 "no limitation periods are mentioned for any of the offences created by the NSL"；LGS2N L529 "by A. 41(3), they shall be tried on indictment"；LGS2S L384 "NSL: appears no limitation period for indictable offences"〕
 
-**总表索引（2026-10-10）**：简易罪 6 个月时效漏算与公诉案"过度迟延"应对的后果链归并 [§7 行 2](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：简易罪 6 个月时效漏算与公诉案"过度迟延"应对的后果链归并 [§7 行 2](#7-环节--不做做错的后果--依据速查总表)。
 
 ### 4.2 控罪修改与重大偏见防线（*HKSAR v Lui Tsun Sum [2020]*）
 
@@ -282,7 +282,7 @@ flowchart TD
 
 > 💡 **【实战穿透 · SGS 1 Q A6】**：Fergus 案控罪修改主体（控方 vs 裁判官职权 s.27 MO）、修改阶段与休庭救济（Adjournment），详见 SG01 课堂 Brief A Q A6（控罪修订的权力、阶段与检验标准）。**s.27 MO 与 *Tse So So* 的规范依据在本节上文，而非独立小节**；SG01 旧锚点 `#5-控罪修改制度…s27-mo` 指向的标题在本卡从未存在，交由 T4 改写。 〔SG01S1 L112 "whether there is any possibility his charge can be amended and if so by who and at what stage"；SG01S1 L112 "any test that must be satisfied for the court to allow an amendment"〕
 
-**总表索引（2026-10-10）**：过晚修改、换罪且无休庭等程序保障（*Lui Tsun Sum* 实质偏见）的后果链归并 [§7 行 6](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：过晚修改、换罪且无休庭等程序保障（*Lui Tsun Sum* 实质偏见）的后果链归并 [§7 行 6](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
@@ -335,13 +335,13 @@ flowchart TD
 
 > **Exam / Advocacy Formulation:** "Breach of the R&Ds does not automatically exclude the confession — it raises the exclusion question, weighed by the seriousness and number of breaches, on voluntariness or the residual discretion."（自拟考场口径；底层规则见 §5.1 第 1–2 条引注）
 
-**总表索引（2026-10-10）**：迟延警诫（R2）、落案后违规讯问（R3）与取供方式瑕疵（R4/5、D5、D6、D8、R6）的证据后果归并 [§7 行 7–9](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+**总表索引（2026-10-10）**：迟延警诫（R2）、落案后违规讯问（R3）与取供方式瑕疵（R4/5、D5、D6、D8、R6）的证据后果归并 [§7 行 7–9](#7-环节--不做做错的后果--依据速查总表)。
 
 ---
 
 ## 6. 全流程核对清单（检控启动→口供，逐闸自检）
 
-每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [§7 总表](#7.%20环节%20×%20不做/做错的后果%20×%20依据速查总表（2026-10-10）)。
+每个闸门给出一道自检问题与未过时的动作；做错的具体后果与依据统一收口 [§7 总表](#7-环节--不做做错的后果--依据速查总表)。
 
 | # | 闸门 | 自检问题（辩方核查视角） | 未过时的动作 | 深节回点 |
 |---|---|---|---|---|
@@ -426,7 +426,7 @@ flowchart TD
 >
 > #### ❓ 待核实
 >
-> - §1 第 2 项「替代方案（如警司警诫、签保守行为）」中的「签保守行为」库内无出处：本届幻灯与检控守则 5.9(n) 只举 caution／warning／diversion，未举 bind over；已就地标注。〔—〕
+> - §1 第 2 项「其他替代检控的做法（讲义原文为 cautions or warnings，或 caution, warning or other acceptable form of diversion）」中的「签保守行为」库内无出处：本届幻灯与检控守则 5.9(n) 只举 caution／warning／diversion，未举 bind over；已就地标注。〔—〕
 > - §1 第 3 项「并非自动、必然成立的推翻定罪理由，上诉庭仍须按个案裁断」是本卡 2026-09-27 补入的推论，库内无对应原文；已就地标注。〔—〕
 > - §1 第 3 项两说之别已编号 D-CONSENT-GGA，正文与本块双向对应，取舍待你定。〔—〕
 > - 图例码 SG01S1 指向 `01 SG` 场景层内的本届 SG01 学生册（与卡片同层的课堂件，非 04／05／06 底层库），故不在 baseline.py 的快照保护范围内；同名 .docx 原件受保护。改造期间如你正在编辑该册，引注行号可能移动。〔—〕
@@ -472,7 +472,7 @@ flowchart TD
  2. 私人检控公诉罪行告发条文：Slide 43／讲义 L559 作 **s.75 MO**，Slide 47 作 **s.72 MO**（讲义 L561 则把 s.72 MO 用作签票依据），已以 ⚠️ 并列。 〔LGS2S L410 "S. 75 MO – laying of complaint / information for indictable offences"；LGS2S L454 "in accordance with s. 10 MO (summary offences) or s. 72 MO (indictable offences)"；D-MO75V72〕
  3. *Lui Tsun Sum* 案情审级：Slide 42 记建议来自「M（裁判官）」，Set 3 学生笔记 L1561 记作「DC court」，已并列并标注 Tier 差异。 〔—〕
 * **与附录 J 的分歧**：附录 J L13 称 Direction 5 违规「写得过于绝对」一点，经核对后**部分采纳**——讲义 L417 与 Slide 33 均明确《书面》口供因违反 D5 被排除，故本卡保留「书面口供被排除」的结论，只把「直接导致」改为个案衡量式表述；另附录 J 建议补「Rules IV、V、VII 与原则 (a)(b)(d)」，其中原则 (a)、(b) 在本届讲义正文并不存在，只能引官方 PDF NOTE 段，已按此处理并标明出处层级。 〔—〕
-* **观察到但未修（超出本包范围）**：§1 第 2 项正文使用 `$\rightarrow$` 数学语法表示箭头（Obsidian 可渲染，但非纯文本），建议后续统一为「→」；本卡 §5 流程图节点内的括号附注仍保留半形括号于节点文字中（连线标签内无半形括号，符合 §5.7 规则）。 〔—〕
+* **观察到但未修（超出本包范围）**：§1 第 2 项正文使用 `→` 数学语法表示箭头（Obsidian 可渲染，但非纯文本），建议后续统一为「→」；本卡 §5 流程图节点内的括号附注仍保留半形括号于节点文字中（连线标签内无半形括号，符合 §5.7 规则）。 〔—〕
 * **引注改造（2026-09-30，本卡五批 b1–b5）**：全文改为本包行内引注格式（码＋该文件库内行号＋原文摘录），卡首旧「底层材料溯源表」换成本届／往届两层文件图例，frontmatter 只记 cohort。 〔—〕
  * 五批分工：b1 建 frontmatter、§0 图例与取材顺序、§1 三项与实战 A3／QD（含 📄 检控守则页码）、open 块首条 D-CONSENT-GGA；b2 改造 §2 图外出处段与 §2.1 五条、§3.1 五路径（含 D-MO75V72、D-48H 就地指针）、§3.2 重叠控罪四条；b3 改造 §4.1 时效五行与 §4.2 控罪修改五条、实战 A6、§5 围栏图图外出处段与 §5.1 取材行（含 📄 1992／2012 规则页码）、open 块 D-LTS-FORUM 与 D-CONV-VERDICT；b4 逐行改造 §5.1 十二条与实战 B2／B3、§6 总表十六行、版本登记与本记录，并补 D-KTY-CITE 与 §5.1 遗留 ❓；b5（本批）为「复审修订记录」的 11 行历史账目补挂已审哨兵，并订正本记录的批次数与 b4 造成的一处双空格。 〔—〕
  * 口径：§2、§5 两处围栏图（本卡仅有的两个 mermaid 围栏）内不写引注（Manual §8 禁止改图内文字并写行号），节点出处改由图外段落承载；§0 十码全部在正文用到；官方 PDF 三份（PROSCODE／RD1992／RD2012）以 📄＋PDF 物理页引注，印刷页换算式写在 §0 引注格式说明；1992 年 PDF 文本层在 officer 一词含连字断行，故摘录一律避开该词。 〔—〕
@@ -491,9 +491,9 @@ flowchart TD
 
 本轮在以下主题稿的0A节新增具体规则、条件、证据、程序选择、后果和演练示例。此页原有正文及引注保留；同一细节从下列入口阅读，避免另复制一份。
 
-- 0A. 从截查到警署探访：逐个权力与证据节点
-- 0A. 控罪内容、合并与最终审讯路线
-- 0A. 披露、供认争议与半程裁决的实质路径
+- 0B 侦查阶段总框架
+- 0D 起草控罪与并拆
+- 0A 披露供认与半程裁决路径
 
 **留痕**：2026-10-06新增本入口；未将导航页/清单改造成另一份重复主题稿。
 

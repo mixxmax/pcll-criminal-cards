@@ -10,7 +10,7 @@ description: "PCLL8050 刑事诉讼全科总纲：全流程白话导引、三维
 
 ## 模块 1：全流程一段话白话总导引
 
-> 香港刑事诉讼从被捕那一刻起就被时钟追着跑：警方拘捕被告后必须立即将其带到警署主管处，最迟在 48 小时内（递解案件 72 小时，依《警方通告》（PFO）s.52）带他到裁判官面前；在此之前，被告可以申请警署保释（由警署主管决定）或法庭保释（依《刑事诉讼程序条例》（CPO）s.9D 推定保释、s.9G 才可拒保），保释附带的条件与担保安排直接决定他能否继续工作与准备答辩。检控时效方面，简易程序罪行须在 6 个月内提出（《裁判官条例》（MO）s.26），可公诉罪行则无一般时效；案件随后按罪行性质分流——裁判法院（MC）简易审讯、移交区域法院（DC，依 MO ss.88–90）或交付原讼法庭（CFI）由陪审团审讯，交付程序中控方须提交分页交付文件册（Paginated Committal Bundle）、辩方可申请初级侦讯（PI）筛选证据。首次提堂时被告不须答辩（plea），辩方此时的核心工作是评估证据强弱、决定答辩策略：证据薄弱可争取不提证供起诉签保守行为（O.N.E. Bind Over，定罪前无案底脱身），证据确凿则可考虑认较轻罪名要约（plea offer）。进入审前阶段后，控方须依 PD 9.3 完成披露，被告若要提出不在场证明（alibi）须按 s.75A DCO 或 s.65DA CPO 的时限发出警告；正审中若招认（confession）的自愿性受挑战，陪审团须先退庭进行案中案（voir dire）裁定可采性，中段控方证据不足时辩方可申请无须答辩陈词（no case to answer，依 *R v Galbraith* 两肢测试）。定罪后，法官先开 Newton Hearing 查明有争议的量刑事实，再按“定起点→加减→认罪折扣→并串→totality→选刑种”六步量刑，被告可在 12 类刑罚（罚款、感化令、社服令、戒毒所、缓刑、监禁、青少年设施等）中争取最轻处置。判刑后还有判后救济双轨：裁判法院案件可依 MO s.104/105/113 在 14 日内复核或上诉，区域法院与原讼法庭案件须在 28 日内（CPO s.83Q）向上诉庭申请上诉许可，律政司另有 21 日的刑期复核权（s.81A CPO）——每一步踏错时限或程序，后果都可能是终审定局。
+> 香港刑事诉讼从被捕那一刻起就被时钟追着跑：警方拘捕被告后必须立即将其带到警署主管处，最迟在 48 小时内（递解案件 72 小时，依《警队条例》（Police Force Ordinance, Cap. 232）s.52(1)）带他到裁判官面前；在此之前，被告可以申请警署保释（由警署主管决定）或法庭保释（依《刑事诉讼程序条例》（CPO）s.9D 推定保释、s.9G 才可拒保），保释附带的条件与担保安排直接决定他能否继续工作与准备答辩。检控时效方面，简易程序罪行须在 6 个月内提出（《裁判官条例》（MO）s.26），可公诉罪行则无一般时效；案件随后按罪行性质分流——裁判法院（MC）简易审讯、移交区域法院（DC，依 MO ss.88–90）或交付原讼法庭（CFI）由陪审团审讯，交付程序中控方须提交分页交付文件册（Paginated Committal Bundle）、辩方可申请初级侦讯（PI）筛选证据。首次提堂时被告不须答辩（plea），辩方此时的核心工作是评估证据强弱、决定答辩策略：证据薄弱可争取不提证供起诉签保守行为（O.N.E. Bind Over，定罪前无案底脱身），证据确凿则可考虑认较轻罪名要约（plea offer）。进入审前阶段后，控方须依 PD 9.3 完成披露，被告若要提出不在场证明（alibi）须按 s.90 MO／s.75A DCO／s.65D CPO 的时限发出警告；正审中若招认（confession）的自愿性受挑战，陪审团须先退庭进行案中案（voir dire）裁定可采性，中段控方证据不足时辩方可申请无须答辩陈词（no case to answer，依 *R v Galbraith* 两肢测试）。定罪后，法官先开 Newton Hearing 查明有争议的量刑事实，再按“定起点→加减→认罪折扣→并串→totality→选刑种”六步量刑，被告可在 12 类刑罚（罚款、感化令、社服令、戒毒所、缓刑、监禁、青少年设施等）中争取最轻处置。判刑后还有判后救济双轨：裁判法院案件可依 MO s.104/105/113 在 14 日内复核或上诉，区域法院与原讼法庭案件须在 28 日内（CPO s.83Q）向上诉庭申请上诉许可，律政司另有 21 日的刑期复核权（s.81A CPO）——每一步踏错时限或程序，后果都可能是终审定局。
 
 ## 模块 2：刑诉全科卡片“三维生态位”总表
 
@@ -20,21 +20,21 @@ description: "PCLL8050 刑事诉讼全科总纲：全流程白话导引、三维
 
 | 阶段 | 覆盖卡片 | 该阶段解决的核心问题 | 关键法条与入口 |
 |---|---|---|---|
-| ① 侦查、拘捕与警署程序 | 07 调查取证与辩方权利 · 11 警权行使与搜查 | 被捕后 48 小时内能做什么、供词如何取得、搜查与截查的边界 | PFO ss.51–52（48 小时提堂）；PFO s.54 录影采访；1992 Rules（供词排除） |
-| ② 保释制度全周期 | 05 保释制度体系 | 警署保释与法庭保释的门槛、条件设计、8 日上限与违令后果 | CPO ss.9D–9P（保释推定与例外）；MO s.79（每次还押 ≤8 日） |
-| ③ 检控启动、首次提堂、移交与交付 | 12 检控与程序启动 · 08 控罪与审讯管辖 · 10 法院层级与辩护代理 | 罪行分流到哪一级法院、交付程序怎么走、法律援助如何取得 | MO s.26（6 个月时效）；MO ss.80A–86（交付）；MO ss.88–90（移交 DC）；DCO ss.75/77/82 |
-| ④ 审前披露与控罪/被告合并分拆 | 14 备审准备与 s.65B/65C | 控方披露义务、被告合并分拆（severance）、证据定型 | PD 9.3（披露与排期）；CPO s.51（控罪修订）；CPO ss.65B–65C |
-| ⑤ 正审程序、案中案与证据攻防 | 13 刑事证据争议 | 招认自愿性案中案、辨认证据、不在场证明、剩余酌情权 | *R v Turnbull*；*R v Galbraith*；CPO s.83（证据）；MO s.79F（易受伤害证人） |
-| ⑥ 定罪后量刑与判后救济 | 15 量刑体系 | 起点法、认罪折扣、协助执法、刑罚选择、讼费与上诉 | CPO ss.81–83Z；CCCO Cap. 492；MO ss.104/105/113 |
+| ① 侦查、拘捕与警署程序 | [07 调查取证与辩方权利](../01 Institutions/07 Institution - Investigation Rights and Defence.md) · [11 警权行使与搜查](../01 Institutions/11 Framework - Police Powers & Search Rules.md) | 被捕后 48 小时内能做什么、供词如何取得、搜查与截查的边界 | PFO ss.51–52（48 小时提堂）；PFO s.54 录影采访；1992 Rules（供词排除） |
+| ② 保释制度全周期 | [05 保释制度体系](../01 Institutions/05 Institution - Bail.md) | 警署保释与法庭保释的门槛、条件设计、8 日上限与违令后果 | CPO ss.9D–9P（保释推定与例外）；MO s.79（每次还押 ≤8 日） |
+| ③ 检控启动、首次提堂、移交与交付 | [12 检控与程序启动](../01 Institutions/12 Framework - Prosecution, Commencement & 1992 R&Ds.md) · [08 控罪与审讯管辖](../01 Institutions/08 Institution - Charges and Trial Route.md) · [10 法院层级与辩护代理](../01 Institutions/10 Framework - Criminal Courts, Jurisdiction & Legal Representation.md) | 罪行分流到哪一级法院、交付程序怎么走、法律援助如何取得 | MO s.26（6 个月时效）；MO ss.80A–86（交付）；MO ss.88–90（移交 DC）；DCO ss.75/77/82 |
+| ④ 审前披露与控罪/被告合并分拆 | [14 备审准备与 s.65B/65C](../01 Institutions/14 Institution - Trial Preparation and Documents.md) | 控方披露义务、被告合并分拆（severance）、证据定型 | PD 9.3（披露与排期）；CPO s.51（控罪修订）；CPO ss.65B–65C |
+| ⑤ 正审程序、案中案与证据攻防 | [13 刑事证据争议](../01 Institutions/13 Institution - Criminal Evidence Disputes.md) | 招认自愿性案中案、辨认证据、不在场证明、剩余酌情权 | *R v Turnbull*；*R v Galbraith*；CPO s.83（证据）；MO s.79F（易受伤害证人） |
+| ⑥ 定罪后量刑与判后救济 | [15 量刑体系](../01 Institutions/15 Institution - Sentencing System.md) | 起点法、认罪折扣、协助执法、刑罚选择、讼费与上诉 | CPO ss.81–83Z；CCCO Cap. 492；MO ss.104/105/113 |
 
 ### 第二维：横向插队终止/拦截手段（4 大拦截手段）
 
 | 拦截手段 | 触发时机 | 实质效果 | 对应卡片 |
 |---|---|---|---|
-| O.N.E. Bind Over | 首次提堂、答辩前，控方不提证供 | 定罪前脱身、不留定罪案底；代价是须认同控方案情 | 06 答辩与 O.N.E. |
-| Permanent Stay of Proceedings | 审前或审中，程序严重滥用致无法公平审讯 | 整个检控永久中止，等同无罪终结 | 14 备审准备 |
-| No Case to Answer | 控方完结举证后、辩方答辩前 | 法官依 *R v Galbraith* 两肢测试裁定控方证据不足，当庭撤控 | 13 证据争议 |
-| 高院保释复核 | 保释被拒或条件过苛后 | 被告依 CPO s.9J 申请高院复核翻盘；律政司依 s.9H/9I 在 48 小时内复核即时还押 | 05 保释 |
+| O.N.E. Bind Over | 首次提堂、答辩前，控方不提证供 | 定罪前脱身、不留定罪案底；代价是须认同控方案情 | [06 答辩与 O.N.E.](../01 Institutions/06 Institution - Plea Advice and ONE Bind Over.md) |
+| Permanent Stay of Proceedings | 审前或审中，程序严重滥用致无法公平审讯 | 整个检控永久中止，等同无罪终结 | [14 备审准备](../01 Institutions/14 Institution - Trial Preparation and Documents.md) |
+| No Case to Answer | 控方完结举证后、辩方答辩前 | 法官依 *R v Galbraith* 两肢测试裁定控方证据不足，当庭撤控 | [13 证据争议](../01 Institutions/13 Institution - Criminal Evidence Disputes.md) |
+| 高院保释复核 | 保释被拒或条件过苛后 | 被告依 CPO s.9J 申请高院复核翻盘；律政司依 s.9H/9I 在 48 小时内复核即时还押 | [05 保释](../01 Institutions/05 Institution - Bail.md) |
 
 ### 第三维：跨阶段通用底座
 
@@ -56,7 +56,7 @@ flowchart TD
  C --> E{"罪行分流"}
  E -->|"简易罪行"| F["MC 简易审讯<br/>6 个月时效 MO s.26"]
  E -->|"可公诉罪行"| G["交付原讼法庭 CFI<br/>MO ss.80A–86；或移交 DC MO ss.88–90"]
- G --> H["审前程序：分页交付文件册 14 日<br/>PD 9.3；Alibi Notice s.75A DCO / s.65DA CPO"]
+ G --> H["审前程序：分页交付文件册 14 日<br/>PD 9.3；Alibi Notice s.75A DCO / s.65D CPO"]
  H --> I{"答辩决策"}
  I -->|"证据薄弱"| J["O.N.E. Bind Over<br/>定罪前无案底脱身"]
  I -->|"证据确凿"| K["答辩（plea）或认罪要约<br/>plea offer to lesser offence"]
@@ -83,7 +83,7 @@ flowchart TD
  H -->|"定罪"| J["Newton Hearing（如有量刑事实争议）<br/>→ 量刑六步：起点→加减→认罪折扣→并串→totality→选刑种"]
  J --> K["判刑：12 类刑罚选择<br/>附加命令：充公/没收/赔偿/CBO"]
  K --> L{"判后救济"}
- L -->|"MC 案件"| M["14 日三轨：s.104 裁判官复核 / s.105 案件呈述 / s.113 原讼庭上诉"]
+ L -->|"MC 案件"| M["MC 三轨：s.104 复核 / s.105 案件呈述（均 14 clear days）／s.113 权利+s.114 通知（14 日）"]
  L -->|"DC/CFI 案件"| N["28 日上诉庭许可 s.83Q<br/>单一法官 s.83Y → 合议庭 renew（14 日）"]
  L -->|"律政司"| O["21 日刑期复核 s.81A CPO"]
  N -.->|"无 merit"| P["loss of time s.83W：上诉期羁押不计入刑期"]
@@ -140,9 +140,9 @@ flowchart TD
 
 | 轨道 | 适用法院 | 时限 | 法条 | 关键特点 |
 |---|---|---|---|---|
-| 裁判官复核 | MC | 14 日 | MO s.104 | 裁判官可自我复核定罪或刑罚，门槛较低 |
-| 原讼庭一般上诉 | MC | 14 日 | MO s.113 | 向原讼法庭上诉，须 Form 101/102；选此路即失 s.105 案件呈述权 |
-| 案件呈述 | MC | 14 日 | MO s.105 | 向高等法院呈述，门槛更高但可上诉法律问题；与 s.113 互斥 |
+| 裁判官复核 | MC | 14 clear days（裁定当日不计入第 1 日） | MO s.104(1)(2) | 裁判官可自我复核定罪或刑罚；裁判官无权延长 |
+| 原讼庭一般上诉 | MC | 14 日（定罪当日计入起算） | MO s.113（通知期限 s.114） | 向原讼法庭上诉，须 Form 101/102；与 s.105 不能同时进行，须选一条 |
+| 案件呈述 | MC | 14 clear days（次日起算） | MO s.105 | 向高等法院呈述，门槛更高但可上诉法律问题；与 s.113 不能同时进行，须选一条 |
 | 上诉庭上诉 | DC/CFI | 28 日 | CPO s.83Q | 须先获单一法官许可（s.83Y），被拒可 14 日内向合议庭 renew；无 merit 可遭 loss of time（s.83W） |
 | 律政司刑期复核 | DC/CFI | 21 日 | CPO s.81A | 律政司司长申请，门槛高（wrong in principle / manifestly excessive 等）；被告已上诉者不得复核 |
 
@@ -150,14 +150,14 @@ flowchart TD
 
 | 要做的事 | 跳转 |
 |---|---|
-| 30 秒弄清范围/术语/每环任务 | 速读定位层见各专题卡开头 |
-| 给客户估刑 | 15 量刑体系 0C/0D |
-| 保释条件设计与违令后果 | 05 保释 |
-| 侦查阶段权利与供词攻击 | 07 调查取证 · 13 证据争议 |
-| 控罪分流与交付程序 | 08 控罪与审讯管辖 · 12 检控与程序启动 |
-| 审前披露与文书 | 14 备审准备 |
-| 定罪后量刑与上诉 | 15 量刑体系 |
-| 考前扫高频失误 | 时限与判例矩阵 · 考场路由器 |
+| 30 秒弄清范围/术语/每环任务 | [速读定位层见各专题卡开头](../01 Institutions/15 Institution - Sentencing System.md) |
+| 给客户估刑 | [15 量刑体系](../01 Institutions/15 Institution - Sentencing System.md) 0C/0D |
+| 保释条件设计与违令后果 | [05 保释](../01 Institutions/05 Institution - Bail.md) |
+| 侦查阶段权利与供词攻击 | [07 调查取证](../01 Institutions/07 Institution - Investigation Rights and Defence.md) · [13 证据争议](../01 Institutions/13 Institution - Criminal Evidence Disputes.md) |
+| 控罪分流与交付程序 | [08 控罪与审讯管辖](../01 Institutions/08 Institution - Charges and Trial Route.md) · [12 检控与程序启动](../01 Institutions/12 Framework - Prosecution, Commencement & 1992 R&Ds.md) |
+| 审前披露与文书 | [14 备审准备](../01 Institutions/14 Institution - Trial Preparation and Documents.md) |
+| 定罪后量刑与上诉 | [15 量刑体系](../01 Institutions/15 Institution - Sentencing System.md) |
+| 考前扫高频失误 | [时限与判例矩阵](./CR00 Deadlines & Case Matrix.md) · [考场路由器](./CR00 Exam & SG Router.md) |
 
 
 ---
@@ -870,7 +870,7 @@ s.104 MO 的复核值得单独记：它是向**原裁判官**申请，14 clear d
 
 #### 相关
 
-- 时限逐条查阅 → 01 Deadlines and Time Limits
+- 时限逐条查阅 → CR00 Deadlines & Case Matrix（本目录）
 - 历年考点分布 → 03 Past Paper Matrix and Analysis
 - 三人笔记对比 → 04 Cross-Set Comparison and SG Progression
 - 原始讲义 → 04 Base Lectures（本届 `00 This Year Moodle 2026-27/`；往届 `[LG01]–[LG99]`）
