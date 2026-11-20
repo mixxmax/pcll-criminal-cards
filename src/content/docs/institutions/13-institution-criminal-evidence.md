@@ -297,7 +297,7 @@ NCTA成功则无罪；失败只表示须回应，不是预判有罪。最终仍�
 
 ### 0A.9 从异议到文书的可用输出
 
-**本卡自拟异议表**：证据编号→想排除的具体内容→自愿性/公平性/其他依据→支持事实及来源→所求程序→若失败还可怎样争weight。把需要的录像、羁押记录、医疗资料和证人列成有目的请求；不预设每种程序瑕疵必然带来终止检控。〔CR6 L68–L92 "The Prosecution’s duty of disclosure is based on the Defendant’s"〕〔CR6 L576–L606 "Admissibility is a question of law. This means that it"〕〔CR6 L754–L758 "Whether the Defendant in fact made the confession, whether it"〕
+**实务推演异议表**：证据编号→想排除的具体内容→自愿性/公平性/其他依据→支持事实及来源→所求程序→若失败还可怎样争weight。把需要的录像、羁押记录、医疗资料和证人列成有目的请求；不预设每种程序瑕疵必然带来终止检控。〔CR6 L68–L92 "The Prosecution’s duty of disclosure is based on the Defendant’s"〕〔CR6 L576–L606 "Admissibility is a question of law. This means that it"〕〔CR6 L754–L758 "Whether the Defendant in fact made the confession, whether it"〕
 
 
 

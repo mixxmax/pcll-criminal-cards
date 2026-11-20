@@ -225,7 +225,7 @@ flowchart LR
 
 一条是**程序线**：逮捕、提堂、答辩、移交/交付、保释、排期及已作命令；另一条是**证据线**：每个控罪要件由哪份证言/物证支持、客户如何回应、主要矛盾在哪。将两条线分开，大律师才看得出“已发生什么”和“现在要决定什么”。〔CR7 L164–L180 "Once the solicitor has thoroughly read and analysed the prosecution"〕〔CR7 L210–L220 "Introduction Include a list of enclosures (e.g. defendant’s proof of"〕
 
-**本卡自拟证据表**：要件→控证位置→辩方指示→争议/承认状态→需进一步资料→拟庭上处理。保留证人各自版本，不把不一致拼成一个没人说过的“综合事实”。该表为读卷工具，并不自动成为应提交法庭的材料。〔CR7 L166–L176 "the charge and the evidence adduced by the prosecution on"〕
+**实务推演证据表**：要件→控证位置→辩方指示→争议/承认状态→需进一步资料→拟庭上处理。保留证人各自版本，不把不一致拼成一个没人说过的“综合事实”。该表为读卷工具，并不自动成为应提交法庭的材料。〔CR7 L166–L176 "the charge and the evidence adduced by the prosecution on"〕
 
 ### 0A.3 Brief的完整结构与每节用途
 
@@ -273,7 +273,7 @@ Rule5D(e)要求刑事案件委任后7日内送交载明事务律师姓名及本�
 
 s.65B法定形式、14日反对及可同意豁免服务/期限等安排见原讲义；它不使陈述中的本来不可采传闻自动变为可采。s.65C亦不能把不相关或不当内容借协议送入法庭。〔CR7 L292–L324 "This type of admission occurs when the Prosecution and Defence"〕
 
-**实际例子（自拟）**：若争执毒品证物是否同一份，不能一边承认完整保管链，一边准备盘问该链中断；若只不争某照片的拍摄和真确性，可精确承认该部分，不顺带承认照片证明控罪全部要件。〔CR7 L332–L368 "photographs and plans that are uncontentious;"〕〔CR7 L386–L402 "Practical Tips when agreeing to s. 65B Witness Statements:"〕
+**实际例子（实务推演）**：若争执毒品证物是否同一份，不能一边承认完整保管链，一边准备盘问该链中断；若只不争某照片的拍摄和真确性，可精确承认该部分，不顺带承认照片证明控罪全部要件。〔CR7 L332–L368 "photographs and plans that are uncontentious;"〕〔CR7 L386–L402 "Practical Tips when agreeing to s. 65B Witness Statements:"〕
 
 客户曾有前科而控方误说清白，律师不一定须主动提供不利资料，但不能签“clear record”的Admitted Facts或积极误导法院。正面虚假承认与不主动披露有根本区别。〔CR7 L352–L358 "Defence Counsel should ensure the Defendant’s clear record is included."〕
 

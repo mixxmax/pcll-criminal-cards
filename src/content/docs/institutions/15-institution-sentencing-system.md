@@ -223,7 +223,7 @@ flowchart TD
 | 层 | 规则 | 依据 |
 |---|---|---|
 | 最高刑制（一般） | 大多数罪名由法例以 “shall be liable…” 定最高刑；最高刑保留给该类案件中最坏者（*Yau Wai Hang*）；但 *Chang Yau Hung Alexander*：不臆想最坏，而看已到法院的最坏类型层，本案是否落入该宽带 | 〔CR8 L100 "should be reserved for the very worst kind of case"〕 |
-| 最高刑＝法定×法院权限 | 可判上限同时受罪名法定最高刑与审理法院量刑权限限制（幻灯回扣 LGS1：MC 2 年／DC 7 年一般权限，特定罪名可经如 s.20(2) F&AO、s.4(3)(b) DDO 扩展——但**不等于**法例写了最高刑，MC/DC 就有权判满） | 〔CR8 L100 "depends both on the maximum sentence prescribed"；CR8S L65 "limited sentencing jurisdiction (2 years / 7 years)"〕 |
+| 最高刑＝法定刑×法院权限 | 可判上限同时受罪名法定最高刑与审理法院量刑权限限制（幻灯回扣 LGS1：MC 2 年／DC 7 年一般权限，特定罪名可经如 s.20(2) F&AO、s.4(3)(b) DDO 扩展——但**不等于**法例写了最高刑，MC/DC 就有权判满） | 〔CR8 L100 "depends both on the maximum sentence prescribed"；CR8S L65 "limited sentencing jurisdiction (2 years / 7 years)"〕 |
 | 固定刑 | 成年谋杀“shall be imprisoned for life”（s.2 OAPO），无裁量、不可上诉；酌情终身监禁须定最短服刑期（s.67B CPO）；长期监禁复核委员会覆核不定期刑／10 年或以上／定罪时未满 21 岁者——“Life does not mean life” | 〔CR8 L102 "shall be imprisoned for life."〕 |
 | 定额罚款 | Fixed Penalty (Criminal Proceedings) Ordinance, Cap. 240 等定额罚款类 | 〔CR8 L104 "Fixed Penalty (Criminal Proceedings) Ordinance, Cap. 240"〕 |
 | 强制刑 | s.33 POO（公众地方管有攻击性武器）按年龄段列举唯一选项：17–25 岁只有 ≤3 年监禁／教导所／更生中心三选一（幻灯附全文：14–17 多 TC；≥25 只有 ≤3 年监禁） | 〔CR8 L106 "the only options are imprisonment for not more than 3 years"；CR8S L88 "if he is not less than 17 years of age"〕 |
@@ -357,7 +357,7 @@ flowchart TD
 - **罚款亦有折扣**：*Tai Hing Worldwide*——罚款通常亦给认罪折扣；*Paul Y* 曾给足 1/3，但数学上不一定足 1/3〔CR8 L988 "For fines, a discount for a guilty plea will usually be applied"〕。
 - **适用范围**：折扣只就监禁刑期计算；PO/CSO/DTC/TC/RC 等非监禁或设施刑罚不适用 1/3 数学口径（往届学生稿提醒，往届仅参考）〔OLD-EXS L50 "The discounts in Ngo Van Nam only apply to terms of imprisonment"·往届仅参考〕。
 
-**算术示例（自拟）**：起点 36 个月，首次可得机会认罪扣 1/3 → 24 个月；其后求情月数（如良好品格、赔偿、家庭负担）在 24 个月基础上再酌情减免——认罪折扣与其他求情是先后两步，不是把各项百分比相加重复扣减。 〔CR8 L972–L988 "The Defendant’s plea of Guilty can be treated as an"〕 〔CR8 L978–L986 "a 1/3 discount on any term of imprisonment will only"〕
+**算术示例（实务推演）**：起点 36 个月，首次可得机会认罪扣 1/3 → 24 个月；其后求情月数（如良好品格、赔偿、家庭负担）在 24 个月基础上再酌情减免——认罪折扣与其他求情是先后两步，不是把各项百分比相加重复扣减。 〔CR8 L972–L988 "The Defendant’s plea of Guilty can be treated as an"〕 〔CR8 L978–L986 "a 1/3 discount on any term of imprisonment will only"〕
 
 ### 0D.2 Lam Kai Man 四项指引（较轻罪／替代罪要约）
 
@@ -486,7 +486,7 @@ flowchart TD
 
 先定各罪正确刑罚，**再**因总额减总和——确保不因同一罪行重复受罚、总刑期不致“crushing”；*Ngai Yiu-ching*：“the importance of the totality principle cannot be overstated”〔CR8 L176–L184 "should reflect the ‘totality’ of the Defendant’s criminality"〕。**已在服刑**：为不相关罪行服刑中者，新罪判刑同样适用 totality（*Lin Chi Man* [2024] 3 HKLRD 83）〔CR8 L184 "already serving a sentence of imprisonment for an unrelated offence"〕。未决案件（outstanding cases）可先向控方查明，必要时押后同场处理以保一致性与 totality 适用〔CR8 L138 "cases before other courts which are currently pending"〕。
 
-**算术示例（自拟）**：被告两罪分别经起点与折扣后应判 2 年——若法院认为两罪事实关联但各自独立增加罪责，可采用 `partially concurrent`（部分并期）：两罪各判 2 年，命其中 1 年与另罪并期执行、另 1 年分期执行，实际执行合共 3 年而非 4 年（全分期 4 年过重、全并期 2 年过轻，法官不压低单项起点而调执行方式）；若两罪属同一交易且罪责轻微，则可全部并立、实际只服较长的 2 年。总额检验的落点永远是"实际执行年限"而非"判词上的年数相加"——这正是求情时必须正面计算并陈述的数字。 〔CR8 L174–L184 "The Totality principle ensures the Defendant is not punished twice"〕
+**算术示例（实务推演）**：被告两罪分别经起点与折扣后应判 2 年——若法院认为两罪事实关联但各自独立增加罪责，可采用 `partially concurrent`（部分并期）：两罪各判 2 年，命其中 1 年与另罪并期执行、另 1 年分期执行，实际执行合共 3 年而非 4 年（全分期 4 年过重、全并期 2 年过轻，法官不压低单项起点而调执行方式）；若两罪属同一交易且罪责轻微，则可全部并立、实际只服较长的 2 年。总额检验的落点永远是"实际执行年限"而非"判词上的年数相加"——这正是求情时必须正面计算并陈述的数字。 〔CR8 L174–L184 "The Totality principle ensures the Defendant is not punished twice"〕
 
 ### 0G.3 T.I.C.（一并考虑）
 
@@ -564,7 +564,7 @@ flowchart TD
 
 ⚠️ **章号库内分歧**：DATCO 章号——本届大纲作 **Cap. 244**〔CR8 L438 "Drug Addiction Treatment Centres Ordinance, Cap. 244"〕，本届幻灯作 **Cap. 274**〔CR8S L353 "See Drug Addiction Treatment Centres Ordinance, Cap. 274"〕。两说并存不裁决；引用时以讲义正文为准、并列登记（入 open 块）。
 
-**实务论证方式（自拟）**：不只说“愿意做服务”，要用指示说明居住、工作时间、健康、交通及可完成工作安排，再请求报告以供法院评估；没有报告时不能称“已被评估适合”。〔CR8 L390–L408 "Before making a CSO, the Court must first call for"〕 〔CR8 L350–L398 "A Probation Order (“PO”) can be ordered by the Court"〕 〔CR8 L350–L374 "A Probation Order (“PO”) can be ordered by the Court"〕 〔CR8 L386–L408 "This is another form of rehabilitative sentence in which a"〕 〔CR8 L406 "Like a PO, the fact that a CSO has been"〕 〔CR8 L390 "Before making a CSO, the Court must first call for"〕 〔CR8 L446–L468 "Before imposing a DATC Order, the court must first call"〕 〔CR8 L446–L454 "Before imposing a DATC Order, the court must first call"〕
+**实务论证方式（实务推演）**：不只说“愿意做服务”，要用指示说明居住、工作时间、健康、交通及可完成工作安排，再请求报告以供法院评估；没有报告时不能称“已被评估适合”。〔CR8 L390–L408 "Before making a CSO, the Court must first call for"〕 〔CR8 L350–L398 "A Probation Order (“PO”) can be ordered by the Court"〕 〔CR8 L350–L374 "A Probation Order (“PO”) can be ordered by the Court"〕 〔CR8 L386–L408 "This is another form of rehabilitative sentence in which a"〕 〔CR8 L406 "Like a PO, the fact that a CSO has been"〕 〔CR8 L390 "Before making a CSO, the Court must first call for"〕 〔CR8 L446–L468 "Before imposing a DATC Order, the court must first call"〕 〔CR8 L446–L454 "Before imposing a DATC Order, the court must first call"〕
 
 ### 0H.5 缓刑（s.109B–109G CPO）
 
@@ -587,7 +587,7 @@ flowchart TD
 | 前科门 | 曾服刑或曾入 DTC/TC/DATC 者不可 | 曾判监禁或曾入 TC 者不可（s.4(3)） | （讲义未列同类前科门） |
 | 报告/保释 | 适合报告≥2 周；s.4(3) “may” 有酌情，实务羁押 | 同左（s.4(5)） | s.4 “shall”——**必须羁押，无保释** |
 | 释后 | 12 个月监督（s.6）；违反可 recall；法庭可不定罪而转 recall | 12 个月监督（s.5）；违反是罪行；可 recall（s.6，“may”实务多 recall）；与 RCO 不同：**无**不准定罪而交 recall 的选项 | 监督 ≤3 年（s.5）；里外合计可达 **6 年**；违反可 recall 服满 |
-| 实务提示 | 较轻罪常见；须身心医药适合 | 非酒店：重体力劳动、须健康（糖尿／哮喘／心肺眼不宜） | 客户常宁愿选监禁（期长＋监督长）；习惯同取 DTC＋TC＋（可加 RC）报告 |
+| 实务提示 | 较轻罪常见；须身心医药适合 | 非酒店：重体力劳动、须健康（糖尿／哮喘／心肺眼不宜） | 客户常宁愿选监禁（期长＋监督长）；习惯同取 DTC＋TC＋（可以加 RC）报告 |
 
 **分流逻辑（为什么是三条路线而非一个"青年监狱"）**：按案情轻重与体格分流——三秒分流标尺：案情较轻、体格不耐高强度操练的选 **RC 更生中心**（3–9 个月，院舍＋宿舍分段）；初犯且体格强健、适合短期军训式震慑（*short, sharp shock*）的选 **DTC 教导所**（≤12 个月，重体力劳动训练）；罪行较重、需 6 个月至 3 年长期改造与职业培训的选 **TC 训练中心**——`TC` 与 `DATC` 戒毒所因条文以 "shall" 要求羁押候报告而不可保释，`RC`/`DTC` 条文以 "may" 容许酌情。保释差异的法源就在条文措辞：TC 与 DATC 取报告期间条文用 "shall" 羁押（故候报告必押、实务不应申请保释），RC／DTC 条文用 "may" 容许酌情——但实务上 RC／DTC 候报告亦多羁押评估适合性。
 
@@ -668,7 +668,7 @@ flowchart TD
 | 命令 | 触发与条件 | 关键规则 | 依据 |
 |---|---|---|---|
 | 住院令（Hospital Order） | 精神错乱罪犯：s.45 MHO（Cap. 136）；2 名注册医生医疗证据；信纳精神紊乱足以入院及住院为最合适方法 | 可确定或不确定期限；有建议时通常跟医生意见（幻灯点名 Castle Peak、Siu Lam） | 〔CR8 L312 "A Hospital Order can be for a fixed term or indeterminate term"；CR8S L242–L249 "need medical evidence from 2 registered medical practitioners"〕 |
-| 充公令（Forfeiture Order） | 涉罪财物／作案财物：s.102(2)(b)(ii)（不再需作证物时）；预备犯罪财物可检取（s.103）；搜查令取得（s.104）；特别条例：s.33(7) POO（可作命令，实务通常作）、Cap. 586 濒危物种 Part 7 | 幻灯设问：用**自己**财物犯案能否取回？ | 〔CR8 L314 "Such property can be forfeited by the court"；CR8S L254 "What if D has used his own property to commit a crime?"〕 |
+| 充公令（Forfeiture Order） | 涉罪财物／作案财物：s.102(2)(b)(ii)（不再需作证物时）；预备犯罪财物可检取（s.103）；搜查令取得（s.104）；特别条例：s.33(7) POO（属可作出的命令，实务上通常作出）、Cap. 586 濒危物种 Part 7 | 幻灯设问：用**自己**财物犯案能否取回？ | 〔CR8 L314 "Such property can be forfeited by the court"；CR8S L254 "What if D has used his own property to commit a crime?"〕 |
 | 没收令（Confiscation Order）·s.8 OSCO | **律政司司长申请**（DC/CFI，**MC 无**）；指明罪行；先判刑→定阴谋得益≥HK$100,000→酌定全付或部分 | 负担标准：**相对可能**（balance of probabilities）；欠缴可按 s.13 监禁（s.13(2) 附表）；可与罚款并存（非罚款性质） | 〔CR8 L320–L332 "the Secretary for Justice can make an application"〕 |
 | 没收令·s.3 DTRPO | 控方申请（DC/CFI，**MC 无**）；**未申请法庭无权主动**；须信纳贩毒得益并评估 | 同属追赃体系 | 〔CR8 L334 "if no such application is made, then the court has no power to order confiscation"〕 |
 | 取消资格（Disqualification） | 如 s.36 RTO（危险驾驶致死：首犯 ≥5 年、再犯 ≥10 年，特殊理由可减或不作）；公司董事取消资格（Companies Ordinance Cap. 622 s.480 未解除破产；Cap. 32 ss.168D–168H 欺诈或不诚实可公诉罪） | 幻灯点明 s.36 RTO“shall order”及 special reasons 的课堂讨论 | 〔CR8 L336 "disqualification of company directors under the Companies Ordinance"；CR8S L268–L272 "S. 36 RTO provides for an ‘enhanced sentence’ on a second conviction"〕 |
@@ -676,7 +676,7 @@ flowchart TD
 | 赔偿令（Compensation Order） | 定罪后：s.73 CPO（DC/CFI，附加任何刑罚；合理金额；属判定债务可民事执行；可令从保释金或缴存法庭款项支付）；s.98 MO（MC，≤$100,000） | 须先核被告财力（*Chan Nai Keung*）；可分期；**被告自愿赔偿是求情因素，与此命令分开**；幻灯：自愿赔偿经警方／控方转交、勿私下接触事主；赔偿不得造成受害人“financial windfall” | 〔CR8 L288–L304 "is ordered in such amount as is reasonable"；CR8S L230–L231 "do not offer directly to the victim, offer it through the police"〕 |
 | 归还令（Restitution Order） | 可公诉罪定罪：s.84 CPO（DC/CFI） | MC：s.36／s.93／s.93A（转回案件） | 〔CR8 L306–L308 "to return property to the person entitled to it"〕 |
 
-**辩方核对顺序（本卡自拟）**：罪名与法院 → 哪项命令可被申请／自动跟上 → 控方是否已申请（没收令非申请即无权） → 被告财力（fine、赔偿令） → 与刑罚本体及彼此的组合（CBO×赔偿令互斥） → 上诉影响（CBO 单独不可上诉）。
+**辩方核对顺序（实务推演）**：罪名与法院 → 哪项命令可被申请／自动跟上 → 控方是否已申请（没收令非申请即无权） → 被告财力（fine、赔偿令） → 与刑罚本体及彼此的组合（CBO×赔偿令互斥） → 上诉影响（CBO 单独不可上诉）。
 
 **总表索引**：附加命令环节“不做／做错”的后果链，见 0N 行 7（控方程序用足而你没回应）；自愿赔偿路径选择见暗礁 12。
 
@@ -814,10 +814,10 @@ flowchart TD
 
 | # | 程序环节 | 不做／做错的状态 | 后果链 | 依据 |
 |---|---|---|---|---|
-| 1 | 报告与押后：不查该类报告候期可否保释、不向客户讲清 | 客户以为取报告＝可保释 | 【要素错失】DATC／TC 报告期间法定羁押——白坐 2–3 周且**不应申请**保释；【记录缺失】客户不满与指示冲突 | 〔CR8 L446 "so bail is not possible, nor should a request for bail be made"；CR8 L862 "must be remanded in custody"〕 |
+| 1 | 报告与押后：不查该类报告候期可否保释、不向客户讲清 | 客户以为取报告即可保释 | 【要素错失】DATC／TC 报告期间法定羁押——白坐 2–3 周且**不应申请**保释；【记录缺失】客户不满与指示冲突 | 〔CR8 L446 "so bail is not possible, nor should a request for bail be made"；CR8 L862 "must be remanded in custody"〕 |
 | 2 | 建议刑罚：给客户最高刑当 likely sentence | 误导客户的决定基础 | 【记录缺失】影响答辩与求情选择的指示本身；【制裁暴露】两极期望致上诉后处理被动；讲堂口径：只有两例外讲最高刑 | 〔CR8S L654 "DO NOT ADVISE ON THE MAXIMUM SENTENCE"；CR8 L490 "Your client is much more interested in your advice"〕 |
 | 3 | 定起点：拿 similar-fact 或师兄经验值当真 tariff | 权威层级错用 | 【要素错失】求情被批“criticism in mitigation”；指引表该是首选锚 | 〔CR8 L536 "you open yourself up to criticism in mitigation"〕 |
-| 4 | 加减：同一事实起点内用一次、加重层再用（或认罪与悔意机械双扣） | 双重计算 | 【记录缺失】判词被攻缺口；例外只在 OSCO 层面（Kong Wai-chun）；Lam Kai Man 下要约与抗辩双轨同跑＝满扣无望 | 〔CR8 L1303 "the provisions of OSCO add an additional layer of deterrence"；CR8 L1008 "The Defendant cannot have it both ways"〕 |
+| 4 | 加减：同一事实起点内用一次、加重层再用（或认罪与悔意机械双扣） | 双重计算 | 【记录缺失】判词被攻缺口；例外只在 OSCO 层面（Kong Wai-chun）；Lam Kai Man 下要约与抗辩双轨同跑即满扣无望 | 〔CR8 L1303 "the provisions of OSCO add an additional layer of deterrence"；CR8 L1008 "The Defendant cannot have it both ways"〕 |
 | 5 | 较轻罪要约：只发函试探、不正式入纪录、审讯中跑不一致抗辩；或未评估 Sivan 需求与协助时点 | 折扣证据链不达标 | 【记录缺失】不获满 1/3——Lam Kai Man 只给 25%；承诺协助不计、迟协助只余小折扣；细节公开危及安全 | 〔CR8 L1004–L1014 "the Court must be satisfied that there was a good reason"；CR8 L1044 "the court will not take into account a promise to do so"；CR8 L1062–L1068 "the sooner he does so after arrest"〕 |
 | 6 | 折扣基数：不按六步顺序、对非监禁刑套 1/3、或对罚款想当然 1/3 | 折扣基数错算 | 【要素错失】口头幅度当场被核算戳穿；1/3 只针对监禁刑期；罚款通常有折扣但数学非必足 1/3 | 〔CR8 L620 "consider all mitigating factors simultaneously"；OLD-EXS L50 "only apply to terms of imprisonment"·往届仅参考；CR8 L284 "the full 1/3 discount was applied to the fine"〕 |
 | 7 | 加刑程序：收到 s.27(5) 通知后不反对资料、不回应；或不核没收申请与加刑的得益互斥 | 默认对方程序用足 | 【制裁暴露】法庭可收取资料并加刑（BRD）；s.27(10) 机会不用即失记录；幅度之争起步已输半截 | 〔CR8 L1156–L1178 "pass a sentence on the person for that offence that is more severe"〕 |
@@ -849,7 +849,7 @@ flowchart TD
 | 三罪 4.5×3＝13.5 年 | [0G 并串与 totality] | 二段式；总刑 crushing 面 |
 | 拒绝认罪即付控方讼费 | [0K.3 控方讼费]＋[0L.5] | 宪法性举证权（Chan Kwok-wah）；abuse 线；负担能力（Wai Sau-cheong）；s.19 CCCO 21 日 |
 | 程序：28 日起算（判刑日 2026-11-09） | [0L.1 时限] | s.83Q(2) 起算；(3) 延期 |
-| Brief B Q3 误杀要约求 1/3 | [0D.2 Lam Kai Man] | 无细节 without-prejudice 信＋审讯中跑自然死亡抗辩＝没有清楚提出或贯彻，信件折扣0%；L8 L996–L1012 |
+| Brief B Q3 误杀要约求 1/3 | [0D.2 Lam Kai Man] | 无细节 without-prejudice 信＋审讯中跑自然死亡抗辩即没有清楚提出或贯彻，信件折扣0%；L8 L996–L1012 |
 | 上诉可行性与风险 | [0L.1／0L.4] | Form XI、许可、arguable、s.83W／Form VII |
 
 - **SG07 三槽答题框架（场次分槽）**：
@@ -941,11 +941,11 @@ SG08 围绕判后救济展开，涉及 Jeff Sham（MC→CFI 定罪与刑期上�
 
 | 状态变量 | 触发事实（输入信号） | 决策点 | 行动 | 反馈（制裁／代价） | 补救 |
 |---|---|---|---|---|---|
-| **F＝事实台账**（s.65C 承认事实、CRO、前科、已在服刑、未决案、报告内容） | 判刑事实与承认事实或客观文件冲突；Background Report 出现新记录 | 依哪一面判刑？要不要 Newton／撤回程序？ | 先固定承认事实的效力；报告逐段核；不利处正面处理 | 法官依错误前提加刑──wrong factual premise（SG07 型） | 上诉理由④（0L.1）；判前争取更正记录 |
-| **T＝时点台账**（答辩时点、要约是否入纪录、s.27 通知时点、流行时点、年龄指定日） | 答辩日迫近；控方发出 s.27(5) 通知 | 现在认与以后认差几成？入不入纪录？ | 时点—折扣对表（0D.1）；入纪录（Lam Kai Man） | 拖延＝折扣蒸发（1/3→25%→<20%）；通知后不回应＝资料进门 | 已失时点就争取下一档；上诉只看程序错 |
-| **R＝请求可行**（刑种法定门/同意门/前科门/组合禁止/法院权限） | 拟求 PO/CSO/缓刑/设施 | 该项在本罪本法院可用吗？客户同意吗？会被组合禁止击落吗？ | 过四关（0H）；先取报告再谈请求 | 不可用请求被否＝信用损失；组合错配＝请求崩塌 | 备 plan B（0B.5） |
-| **S＝加刑与制裁面**（OSCO 资料、违法所得、充公/没收/CBO、讼费索求） | 控方供资料申请加刑／索费 | 资料可否采纳？幅度？负担能力？ | 行使反对与回应权（s.27(10)）；费用估算与财力证据 | 不回应＝默认进门；金额按对方口径定 | 上诉／复核（0L） |
-| **A＝判后救济钟**（28 日刑期、21 日讼费、单一法官许可、renew 14 日） | 判词终于到手；客户犹豫上不上 | 理由 arguable 吗？风险（s.83W）容忍吗？ | 先递初步理由保钟（可撤），同步取书面理由 | 钟过不复；无 merit → loss of time | 延期申请（good cause）；尽早 Form VII |
+| **F：事实台账**（s.65C 承认事实、CRO、前科、已在服刑、未决案、报告内容） | 判刑事实与承认事实或客观文件冲突；Background Report 出现新记录 | 依哪一面判刑？要不要 Newton／撤回程序？ | 先固定承认事实的效力；报告逐段核；不利处正面处理 | 法官依错误前提加刑──wrong factual premise（SG07 型） | 上诉理由④（0L.1）；判前争取更正记录 |
+| **T：时点台账**（答辩时点、要约是否入纪录、s.27 通知时点、流行时点、年龄指定日） | 答辩日迫近；控方发出 s.27(5) 通知 | 现在认与以后认差几成？入不入纪录？ | 时点—折扣对表（0D.1）；入纪录（Lam Kai Man） | 拖延即折扣蒸发（1/3→25%→<20%）；通知后不回应即资料进门 | 已失时点就争取下一档；上诉只看程序错 |
+| **R：请求可行**（刑种法定门/同意门/前科门/组合禁止/法院权限） | 拟求 PO/CSO/缓刑/设施 | 该项在本罪本法院可用吗？客户同意吗？会被组合禁止击落吗？ | 过四关（0H）；先取报告再谈请求 | 不可用请求被否即信用损失；组合错配即请求崩塌 | 备 plan B（0B.5） |
+| **S：加刑与制裁面**（OSCO 资料、违法所得、充公/没收/CBO、讼费索求） | 控方供资料申请加刑／索费 | 资料可否采纳？幅度？负担能力？ | 行使反对与回应权（s.27(10)）；费用估算与财力证据 | 不回应即默认进门；金额按对方口径定 | 上诉／复核（0L） |
+| **A：判后救济钟**（28 日刑期、21 日讼费、单一法官许可、renew 14 日） | 判词终于到手；客户犹豫上不上 | 理由 arguable 吗？风险（s.83W）容忍吗？ | 先递初步理由保钟（可撤），同步取书面理由 | 钟过不复；无 merit → loss of time | 延期申请（good cause）；尽早 Form VII |
 
 **四类反模式（该闭环专门捕捉）**：(1) 把算术顺序倒挂——先定想要的刑期再反推起点，会断在事实台账（F）与时点台账（T）；(2) 把程序时点当“形式”——要约不入纪录、s.27 通知后不回应，会断在时点（T）与制裁面（S）；(3) 把“求轻”当请求——对 PO/CSO 只有愿望没有执行面，会断在请求可行（R）；(4) 把判后当结束——不读判刑理由、不核 28 日上诉钟，会断在判后救济钟（A）。
 

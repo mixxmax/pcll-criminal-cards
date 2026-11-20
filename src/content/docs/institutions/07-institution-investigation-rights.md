@@ -314,7 +314,7 @@ s.54(1)围绕在街道、公众地方、船只或交通工具上表现可疑者�
 | 违法拘捕 ≠ 自动无罪 | 法院对实体控罪仍有管辖；但若罪行**要素**含警员依法执行职务（如袭警类），违法则影响该要件（*Yeung May-Wan* 攧案：s.36(b) OAPO 与 s.63 PFO 定罪被攧销） | 〔CR2 L220 "the police officers could not be “acting in due execution of their duties”"；CR2 L341 "(9) If the arrest is unlawful, the courts still have jurisdiction over the charge but an unlawful arrest may create a climate of oppression"〕 |
 | 违法拘捕的交叉后果 | 警员可被追袭击等刑责；D 可诉袭击、侵越等民事索偿；CAPO 投诉；内部纪律；口供可因压迫气候不获采纳〔CR2 L341 "(9) If the arrest is unlawful, the courts still have jurisdiction over the charge but an unlawful arrest may create a climate of oppression"〕；另可个性化按 "if the arrest is unlawful, the courts still have jurisdiction, but there may be other matters which result evidence may be inadmissible"〔CAP-K2 L1303 "So it doesn't. If the arrest is unlawful, the courts still have jurisdiction,"〕 | 〔CR2 L341 "(9) If the arrest is unlawful, the courts still have jurisdiction over the charge but an unlawful arrest may create a climate of oppression"；CAP-K2 L1303 "So it doesn't. If the arrest is unlawful, the courts still have jurisdiction,"〕 |
 
-**执法提示（本卡自拟）**：把"我方警员当场说什么／未说什么／何时补说"的第一手版本与事后 charge sheet 分开建档——"以较轻罪名义套问"（tricked into thinking that you're arresting them for something minor when actually you know that they're guilty of something more serious）一旦被坐实，拘捕即违法并直接连到 false imprisonment〔CAP-K2 L1255 "So you can't trick them into thinking that you're arresting them for something"〕。
+**执法提示（实务推演）**：把"我方警员当场说什么／未说什么／何时补说"的第一手版本与事后 charge sheet 分开建档——"以较轻罪名义套问"（tricked into thinking that you're arresting them for something minor when actually you know that they're guilty of something more serious）一旦被坐实，拘捕即违法并直接连到 false imprisonment〔CAP-K2 L1255 "So you can't trick them into thinking that you're arresting them for something"〕。
 
 ### 0C.3 例外、边界与市民拘捕的同适用
 
@@ -484,7 +484,7 @@ R4/5分别处理陈述取得及记录；客户应有阅读、更正等机会。�
 
 法律代表接触权受不得造成不合理延误/妨碍的限定，但警方必须能解释拒绝接触，不能把限定当成任意延后到问话结束的权力。记下提出要求、回应、等待及探访时间，才能日后分析实际影响。〔CR2 L403 "Principle (c): Right to communicate with a lawyer provided no"〕〔CR3 L140–L146 "The lawyer should insist on seeing the client without delay."〕
 
-**本卡自拟探访顺序**：先问伤病、疲劳、语言及即时需要，再查已说和已签什么；确认警方指控与文件，私下取指示，解释当前选择和后果；最后核对保释及后续安排。详细审讯proof可以后续完成，不能忽略此刻的福利和证据风险。〔CR3 L194–L242 "The client should be interviewed alone, and in private, if"〕
+**实务推演探访顺序**：先问伤病、疲劳、语言及即时需要，再查已说和已签什么；确认警方指控与文件，私下取指示，解释当前选择和后果；最后核对保释及后续安排。详细审讯proof可以后续完成，不能忽略此刻的福利和证据风险。〔CR3 L194–L242 "The client should be interviewed alone, and in private, if"〕
 
 ## 0G. 律师警署 Playbook：到场、被拒、五动作与离署后义务
 
