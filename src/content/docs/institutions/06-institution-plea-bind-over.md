@@ -103,25 +103,25 @@ SG课表安排:
 flowchart TD
  classDef warnnode stroke-dasharray: 4 3;
 
- A(["落案起诉 Charge"]) --> FA["首次提堂 First Appearance"]
- FA --> NP{"协商进行中？"}
- NP -->|"是"| NOPLEA["申请 no plea taken 押后 6–8 周<br/>code words: 'exploring alternative means<br/>of disposing / shortening this matter'"]
- NP -->|"否"| PLEA{"答辩选择 plea"}
- NOPLEA --> PATH{"协商轨道（按指示选定）"}
- PATH -->|"不以定罪收场"| ONE["O.N.E. Bind Over 申请函<br/>大律师致 DPP / Head of Prosecutions Division /<br/>Senior Court Prosecutor · without prejudice<br/> Prosecution Code 10.7(a)–(f) 六标准"]
- PATH -->|"用证据缺口换较轻处置"| LESSER["认较轻替代罪要约<br/>s.51 CPO · 与案情理论一致<br/>按 Lam Kai Man 保全于法庭记录"]
- ONE --> DOJ{"律政司审查 10.7"}
- DOJ -->|"拒绝"| REJECT["协商破裂 → 正式答辩<br/>信中已泄露的防线被控方掌握"]
- DOJ -->|"同意"| MAG{"裁判官最终裁量<br/>s.109I CPO final discretion"}
+ A(["落案起诉 Charge"]) --> FA["首次提堂 First Appearance →0B"]
+ FA --> NP{"协商进行中？ →0B"}
+ NP -->|"是"| NOPLEA["申请 no plea taken 押后 6–8 周 →0B<br/>code words: 'exploring alternative means<br/>of disposing / shortening this matter'"]
+ NP -->|"否"| PLEA{"答辩选择 plea →0B"}
+ NOPLEA --> PATH{"协商轨道（按指示选定）→0C·0D"}
+ PATH -->|"不以定罪收场"| ONE["O.N.E. Bind Over 申请函 →0C<br/>大律师致 DPP / Head of Prosecutions Division /<br/>Senior Court Prosecutor · without prejudice<br/> Prosecution Code 10.7(a)–(f) 六标准"]
+ PATH -->|"用证据缺口换较轻处置"| LESSER["认较轻替代罪要约 →0D<br/>s.51 CPO · 与案情理论一致<br/>按 Lam Kai Man 保全于法庭记录"]
+ ONE --> DOJ{"律政司审查 10.7 →0C"}
+ DOJ -->|"拒绝"| REJECT["协商破裂 → 正式答辩 →0C·0D<br/>信中已泄露的防线被控方掌握"]
+ DOJ -->|"同意"| MAG{"裁判官最终裁量 →0C<br/>s.109I CPO final discretion"}
  MAG -->|"拒绝"| REJECT
- MAG -->|"批准"| LAND["庭审落地：PNG → 同意案情撮要 →<br/>控方 O.N.E. → s.109I 签保令 ≤ 2 年<br/>（keep the peace / good behaviour 按 Lau Wai-wo）"]
- LESSER -->|"控方接受改控"| PG2["认经修订的较轻罪<br/>s.51(4)：原罪视为无罪 acquittal"]
- LESSER -->|"控方拒绝"| TRIAL["审讯原罪<br/>被拒要约 = nullity (Lee Wai Keung)<br/>陪审团通常不知悉，除辩方策略引入<br/>(Wong Chun Man)"]
+ MAG -->|"批准"| LAND["庭审落地 →0C：PNG → 同意案情撮要 →<br/>控方 O.N.E. → s.109I 签保令 ≤ 2 年<br/>（keep the peace / good behaviour 按 Lau Wai-wo）"]
+ LESSER -->|"控方接受改控"| PG2["认经修订的较轻罪 →0D<br/>s.51(4)：原罪视为无罪 acquittal"]
+ LESSER -->|"控方拒绝"| TRIAL["审讯原罪 →0D<br/>被拒要约 = nullity (Lee Wai Keung)<br/>陪审团通常不知悉，除辩方策略引入<br/>(Wong Chun Man)"]
  REJECT --> PLEA
- PLEA -->|"认罪 PG"| FACTS{"案情撮要同意？"}
- LAND -->|"届满无违令"| CLEAN["签保期届满 → CRO 记录移除"]
- FACTS -->|"全部同意"| SENT["Ngo Van Nam 折扣阶梯量刑<br/>1/3 → 25% → 25–20% → 20% → <20%<br/>Cheung Tsz Hong：审讯中认罪实得 10%"]
- FACTS -->|"重大量刑事实争议"| NEWTON["先争取修订案情 → Newton 聆讯<br/>Williams v R：法庭不愿按 D 版本即须举行<br/>失利可影响折扣（Yan Siru）"]
+ PLEA -->|"认罪 PG"| FACTS{"案情撮要同意？ →0E"}
+ LAND -->|"届满无违令"| CLEAN["签保期届满 → CRO 记录移除 →0C"]
+ FACTS -->|"全部同意"| SENT["Ngo Van Nam 折扣阶梯量刑 →0B<br/>1/3 → 25% → 25–20% → 20% → <20%<br/>Cheung Tsz Hong：审讯中认罪实得 10%"]
+ FACTS -->|"重大量刑事实争议"| NEWTON["先争取修订案情 → Newton 聆讯 →0E<br/>Williams v R：法庭不愿按 D 版本即须举行<br/>失利可影响折扣（Yan Siru）"]
  NEWTON --> SENT
  PLEA -->|"不认罪 PNG"| TRIAL2["排期审讯 → 08 卡审讯路径"]
  PLEA -.->|"认罪后反悔"| REV["撤回认罪门槛：equivocal 当庭撤销<br/>(Chan Chi Ho Lincoln)；unequivocal 须<br/>Shum Wan Foon / Ho Ping Fai 程序 → 0E"]
@@ -617,6 +617,8 @@ SG02 的 LoA（Jeff Sham）与 O.N.E. 信（Willy Ma）各 6 分；题令两信�
 ---
 
 ## 审计留痕：材料矩阵、待核事项与历史修订记录
+- **2026-11-21（地图章节标注）**：图 1 本卡地图 17 个节点嵌入对应章节号（→0B–0E），REV/W1–W4 原带 →0E/→0J 指针不动；引注与正文未动。
+
 
 > 本区收纳全部校对史、溯源装置、未决冲突与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则。
 

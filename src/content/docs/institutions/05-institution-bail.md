@@ -104,31 +104,31 @@ SG课表安排:
 flowchart TD
  classDef warnnode stroke-dasharray: 4 3;
 
- A(["被捕 Arrest"]) --> P1["警署阶段 Police Station<br/>未落案 → operational bail s.52(3) PFO<br/>已落案 → police bail s.52(1) PFO<br/>ICAC s.10A ICACO · 入境主任 s.36 IO"]
- P1 -->|"未获保释"| G1{"48 小时强制提堂 s.52(1) PFO<br/>deportation 案 72 小时 · SNSO 未落案可延押 14 天"}
- P1 -->|"获保释"| FA["首次提堂 First Appearance<br/>no plea taken 暂不答辩 · 押后实务可至 6 周"]
+ A(["被捕 Arrest"]) --> P1["警署阶段 Police Station →0C.1<br/>未落案 → operational bail s.52(3) PFO<br/>已落案 → police bail s.52(1) PFO<br/>ICAC s.10A ICACO · 入境主任 s.36 IO"]
+ P1 -->|"未获保释"| G1{"48 小时强制提堂 s.52(1) PFO →0C.1–0C.2<br/>deportation 案 72 小时 · SNSO 未落案可延押 14 天"}
+ P1 -->|"获保释"| FA["首次提堂 First Appearance →0C.2<br/>no plea taken 暂不答辩 · 押后实务可至 6 周"]
  G1 --> FA
- FA --> FORM{"控方立场与申请形态"}
- FORM -->|"不反对·不变更"| BEST["B.E.S.T. 顺延保释<br/>警署现金保释可行政转接法庭"]
- FORM -->|"不反对·需改条件"| VAR["无反对变更申请<br/>变更须经法庭批准 s.9J / 下次提堂"]
- FORM -->|"反对"| CT["争议申请 contested application<br/>s.9D presumption of entitlement to bail<br/>vs s.9G substantial grounds for believing"]
- CT --> DEC{"裁判官权衡 balancing exercise<br/>s.9G(2) 八大因素"}
- DEC -->|"实质风险未被条件排除"| REM["拒保 → 还押 RIPC / RIJC<br/>实务偏好 RIJC（条件较好）"]
- REM --> BU["8 天带堂 brought up (B/U) s.79 MO<br/>s.9G(11)：首拒后可再申一次<br/>第三次须 material change in circumstances"]
+ FA --> FORM{"控方立场与申请形态 →0C.2"}
+ FORM -->|"不反对·不变更"| BEST["B.E.S.T. 顺延保释 →0C.2<br/>警署现金保释可行政转接法庭"]
+ FORM -->|"不反对·需改条件"| VAR["无反对变更申请 →0C.3<br/>变更须经法庭批准 s.9J / 下次提堂"]
+ FORM -->|"反对"| CT["争议申请 contested application →0B.1–0B.2<br/>s.9D presumption of entitlement to bail<br/>vs s.9G substantial grounds for believing"]
+ CT --> DEC{"裁判官权衡 balancing exercise →0B.2<br/>s.9G(2) 八大因素"}
+ DEC -->|"实质风险未被条件排除"| REM["拒保 → 还押 RIPC / RIJC →0C.2<br/>实务偏好 RIJC（条件较好）"]
+ REM --> BU["8 天带堂 brought up (B/U) s.79 MO →0C.2<br/>s.9G(11)：首拒后可再申一次<br/>第三次须 material change in circumstances"]
  BU -->|"新情况成立"| CT
- REM -->|"拒保或条件过苛"| REV["s.9J CPO 复核：CFI 法官<br/>summons supported by affidavit<br/>决定终局 no appeal"]
- DEC -->|"条件足以回应风险"| GRANT["准予保释 → s.9D(3) 条件包<br/>cash bail · surety recognisance · 交全部旅行证件<br/>不离港 · 指定居所 · curfew · 报到 · 禁足 · 不干扰证人"]
- BEST --> TRIAL["审讯与判刑阶段 Trial"]
+ REM -->|"拒保或条件过苛"| REV["s.9J CPO 复核：CFI 法官 →0E.1<br/>summons supported by affidavit<br/>决定终局 no appeal"]
+ DEC -->|"条件足以回应风险"| GRANT["准予保释 → s.9D(3) 条件包 →0B.3<br/>cash bail · surety recognisance · 交全部旅行证件<br/>不离港 · 指定居所 · curfew · 报到 · 禁足 · 不干扰证人"]
+ BEST --> TRIAL["审讯与判刑阶段 Trial →0C.4"]
  VAR --> TRIAL
  GRANT --> TRIAL
  REV --> TRIAL
- TRIAL -->|"定罪"| RPT{"定罪后候判：6 类判刑报告羁押红线"}
- RPT -->|"感化 / CSO：可保释候判<br/>RC s.4(3) RCO · DTC s.4(5) DTCO：有裁量，实务还押"| TRIAL2["量刑 sentencing"]
+ TRIAL -->|"定罪"| RPT{"定罪后候判：6 类判刑报告羁押红线 →0C.4"}
+ RPT -->|"感化 / CSO：可保释候判<br/>RC s.4(3) RCO · DTC s.4(5) DTCO：有裁量，实务还押"| TRIAL2["量刑 sentencing →0C.4"]
  RPT -->|"TC s.4 TCO · DATC s.4(3) DATCO：'shall remand'<br/>法律上不可保释"| TRIAL2
- TRIAL -->|"定罪判监 + 拟上诉"| APP{"上诉待决保释 bail pending appeal<br/>推定消灭 · 必须有 statutory basis"}
- APP -->|"MC 14 日轨"| AP1["Form 101/102（s.114：14 日内）<br/>s.119(1)(a) MO 原审裁判官<br/>被拒 → s.122(2) MO CFI 单一法官"]
- APP -->|"DC/CFI 28 日轨"| AP2["s.83Q CPO 28 日上诉通知<br/>专属 CA ss.83R/83Y CPO 'if it sees fit'<br/>s.83Z 两项标准 · *Lau Man Kin*：substantial merits 为 overriding consideration"]
- APP -->|"MC 案上诉至 CFA"| AP3["CFI 可批向 CFA 上诉之保释<br/>s.34 HKCFAO"]
+ TRIAL -->|"定罪判监 + 拟上诉"| APP{"上诉待决保释 bail pending appeal →0C.5<br/>推定消灭 · 必须有 statutory basis"}
+ APP -->|"MC 14 日轨"| AP1["Form 101/102（s.114：14 日内）→0C.5<br/>s.119(1)(a) MO 原审裁判官<br/>被拒 → s.122(2) MO CFI 单一法官"]
+ APP -->|"DC/CFI 28 日轨"| AP2["s.83Q CPO 28 日上诉通知 →0C.5<br/>专属 CA ss.83R/83Y CPO 'if it sees fit'<br/>s.83Z 两项标准 · *Lau Man Kin*：substantial merits 为 overriding consideration"]
+ APP -->|"MC 案上诉至 CFA"| AP3["CFI 可批向 CFA 上诉之保释 →0C.5<br/>s.34 HKCFAO"]
  P1 -.->|"警方一般法无权扣旅行证件（NSL 例外）"| W1[["逾期提堂 = 非法拘禁 → 0J 行 3"]]
  CT -.->|"不逐项反驳 = 接受该理由成立"| W2[["保释陈词内容日后可在审讯中被用来针对被告人（Kissel）→ 0J 行 11"]]
  GRANT -.->|"条件不可执行／互相冲突"| W3[["违约 → s.9K 手令 → 撤保加苛 → 0J 行 6–8"]]
@@ -637,6 +637,8 @@ SG01 Brief A Q A4 的落点正是本卡 0C.2 与 0E.1 的组合：裁判官拒�
 ---
 
 ## 审计留痕：材料矩阵、待核事项与历史修订记录
+- **2026-11-21（地图章节标注）**：图 1 本卡地图 18 个节点嵌入对应章节号（→0B/0C/0E），W1–W6 原带 →0J 行指针不动；引注与正文未动。
+
 
 > 本区收纳全部校对史、溯源装置、未决冲突与材料边界；内部子标题一律使用四级标题，不入网页 TOC 主树。正文中只保留核准后的现行规则。
 

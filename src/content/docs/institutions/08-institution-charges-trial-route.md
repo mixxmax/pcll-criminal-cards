@@ -112,28 +112,28 @@ SG课表安排:
 > **图 1 审查逻辑总括**：法院体系在本卡制度中依次审查——该罪**能不能**进这家法院（三步分类＋第二附表）；程序**走没走对**（transfer 对象非 Part III、随行 summary 可以拒绝、committal 只收可公诉）；文书**换没换**（DC 新 Charge Sheet 14 日、CFI Indictment 7 日）；保障**给没给**（return day 五项告知、bundle ≥7 净日、PI 选择权、s.85A 五件、s.16 告知）；解除**可不可得**（s.16 仅 paper、一次性、提讯前、Galbraith 纸面）；时间闸**踩没踩**（6 个月时效、8 日还押、alibi ≥10 日）。辩方在每个节点的杠杆是：不催答辩、盯死线、用好三道"负向或纸面"解除闸。
 ```mermaid
 flowchart TD
- ARREST["落案起诉（Charge Sheet 由警方起草<br>须合 s.75 MO 与 IR；Pol.153＋Charge Sheet 早期到手）"]:::init
- MC1["MC 首堂（通常不取答辩）<br> → 撤控／再押（实务可至 6 周）"]:::init
- DECIDE{"下一步由谁/按什么定？"}:::check
- PLEA["MC 取答辩<br>即控方决定 MC 为最适 venue<br>读出控罪＋Brief Facts→认/不认"]:::action
- WD["撤控"]:::init
- TR{"移交条件核查<br> (1) 非 Part III 第二附表黑名单<br>(2) 随行 summary 可被拒（s.88(1)(b)）"}:::check
- TRC["Transfer 令（s.88 MO）<br>停留 MC 程序、不得上诉（s.89）<br>答辩改在 DC；s.90 四动作（日期/还押或保释/效果/alibi 警示）"]:::action
- PLD["Plea Day（非真答辩，只给 indication）<br>新 Charge Sheet 依 s.77 DCO 另备、s.75(3) 14 日期限<br>逾期 → 可依 s.75(4) discharge（无罪级）"]:::warn
- RD["指定 return day（10–42 日；双方同意或合理理由可破窗）<br>首次指定时五项告知（法援/≥7 净日收 bundle/PI 权/PI 及全罪/不选即交付）"]:::clock
- BUNDLE{"bundle ≥7 净日送达？<br>（s.80B(1)）"}:::check
- ADJ["押后（被告同意除外）"]:::warn
- ROUTE{"被告选 PI？"}:::check
- PAPER["Paper committal（s.80C(4)）<br>无 prima facie 审查<br>认罪→交付判刑（s.81B）；不认→交付审讯"]:::action
- PI["Preliminary Inquiry（ss.81–85 MO）<br>可盘问控证、可自选证人<br>暴露策略；8 日还押 s.79"]:::action
- PF{"prima facie？"}:::check
- DISPI["PI discharge（s.85(1)）<br>≠无罪，可再控"]:::warn
- COMMIT["交付审讯（s.85(2)／s.80C(4)）<br>s.85A(1) 五件：还押/保释·法援·alibi 警示（10 日）·（paper 者）s.16 权"]:::init
- PREF["SJ prefer indictment（s.14/24A CPO）<br>paper 后 7 日内／PI 后收卷收；法警送达；PD 9.3"]:::action
- S16{"提讯前？<br>(s.16 仅 paper 路线、一次性)"}:::check
- S16A["s.16 discharge 成功 → 等同无罪<br>受 s.81E(3) 撤销风险"]:::warn
- ARR["提讯（arraignment）→ 审讯"]:::init
- G65["提讯前 SJ 亦可申请<br>65F/65G 转回 DC/MC"]:::warn
+ ARREST["落案起诉（Charge Sheet 由警方起草 →0B·0D<br>须合 s.75 MO 与 IR；Pol.153＋Charge Sheet 早期到手）"]:::init
+ MC1["MC 首堂（通常不取答辩）→0E.1<br> → 撤控／再押（实务可至 6 周）"]:::init
+ DECIDE{"下一步由谁/按什么定？ →0C.3"}:::check
+ PLEA["MC 取答辩 →0E.1<br>即控方决定 MC 为最适 venue<br>读出控罪＋Brief Facts→认/不认"]:::action
+ WD["撤控 →0E.1"]:::init
+ TR{"移交条件核查 →0E.2<br> (1) 非 Part III 第二附表黑名单<br>(2) 随行 summary 可被拒（s.88(1)(b)）"}:::check
+ TRC["Transfer 令（s.88 MO）→0E.3<br>停留 MC 程序、不得上诉（s.89）<br>答辩改在 DC；s.90 四动作（日期/还押或保释/效果/alibi 警示）"]:::action
+ PLD["Plea Day（非真答辩，只给 indication）→0E.4<br>新 Charge Sheet 依 s.77 DCO 另备、s.75(3) 14 日期限<br>逾期 → 可依 s.75(4) discharge（无罪级）"]:::warn
+ RD["指定 return day（10–42 日；双方同意或合理理由可破窗）→0F.1<br>首次指定时五项告知（法援/≥7 净日收 bundle/PI 权/PI 及全罪/不选即交付）"]:::clock
+ BUNDLE{"bundle ≥7 净日送达？ →0F.1<br>（s.80B(1)）"}:::check
+ ADJ["押后（被告同意除外）→0F.1"]:::warn
+ ROUTE{"被告选 PI？ →0F.2–0F.3"}:::check
+ PAPER["Paper committal（s.80C(4)）→0F.2<br>无 prima facie 审查<br>认罪→交付判刑（s.81B）；不认→交付审讯"]:::action
+ PI["Preliminary Inquiry（ss.81–85 MO）→0F.3<br>可盘问控证、可自选证人<br>暴露策略；8 日还押 s.79"]:::action
+ PF{"prima facie？ →0F.3"}:::check
+ DISPI["PI discharge（s.85(1)）→0F.8<br>≠无罪，可再控"]:::warn
+ COMMIT["交付审讯（s.85(2)／s.80C(4)）→0F.4<br>s.85A(1) 五件：还押/保释·法援·alibi 警示（10 日）·（paper 者）s.16 权"]:::init
+ PREF["SJ prefer indictment（s.14/24A CPO）→0F.6<br>paper 后 7 日内／PI 后收卷收；法警送达；PD 9.3"]:::action
+ S16{"提讯前？ →0F.4<br>(s.16 仅 paper 路线、一次性)"}:::check
+ S16A["s.16 discharge 成功 → 等同无罪 →0F.4<br>受 s.81E(3) 撤销风险"]:::warn
+ ARR["提讯（arraignment）→ 审讯 →0F.6"]:::init
+ G65["提讯前 SJ 亦可申请 →0F.6<br>65F/65G 转回 DC/MC"]:::warn
 
  ARREST --> MC1 --> DECIDE
  DECIDE -->|控方决定 MC| PLEA
@@ -681,6 +681,8 @@ s.16窗口在indictment提交后、arraignment前；申请聆讯前不少于14�
 
 
 ## 审计留痕：材料矩阵、待核事项与历史修订记录
+- **2026-11-21（地图章节标注）**：图 1 本卡地图 22 个节点嵌入对应章节号（→0B–0G 各节），引注与正文未动。
+
 
 > 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则。
 

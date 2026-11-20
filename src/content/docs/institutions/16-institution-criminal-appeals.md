@@ -85,40 +85,40 @@ flowchart TD
  START(["一审法庭裁判宣读<br>(裁判法院 MC / 区域法院 DC / 原讼法庭 CFI)"]) --> FORK{"原审审级判决来源？"}
 
  %% 阶段二：裁判法院 14日救济分流（0B 节）
- FORK -- "裁判法院 (MC)" --> MC_ROUTE["裁判法院判后分流 ▸0B<br>(法定死线：14 clear days／14 日)"]
+ FORK -- "裁判法院 (MC)" --> MC_ROUTE["裁判法院判后分流 →0B<br>(法定死线：14 clear days／14 日)"]
  MC_ROUTE --> MC_OPT{"救济目标与争议性质？"}
- MC_OPT -- "原审明显算错/技术笔误/漏看材料" --> MC_104["s.104 MO 裁判官自行复核 ▸0B.1<br>(不出原审法庭 / 迅速低成本纠错)"]
- MC_OPT -- "纯法律观点争议/原审越权管辖" --> MC_105["s.105 MO 案件呈述上诉 ▸0B.3<br>(向 CFI 呈述 / 受原审事实严格约束)"]
- MC_OPT -- "定罪不公/证据瑕疵/刑期过重" --> MC_113["s.113 MO 原讼庭全面一般上诉 ▸0B.2<br>(Form 101/102 / 笔录全面重新聆讯)"]
+ MC_OPT -- "原审明显算错/技术笔误/漏看材料" --> MC_104["s.104 MO 裁判官自行复核 →0B.1<br>(不出原审法庭 / 迅速低成本纠错)"]
+ MC_OPT -- "纯法律观点争议/原审越权管辖" --> MC_105["s.105 MO 案件呈述上诉 →0B.3<br>(向 CFI 呈述 / 受原审事实严格约束)"]
+ MC_OPT -- "定罪不公/证据瑕疵/刑期过重" --> MC_113["s.113 MO 原讼庭全面一般上诉 →0B.2<br>(Form 101/102 / 笔录全面重新聆讯)"]
 
  %% 阶段三：高等法院 28日上诉与许可门槛（0C 节）
- FORK -- "区域法院 (DC) 或原讼法庭 (CFI)" --> HC_ROUTE["高等法院上诉法庭 (CA) 救济 ▸0C.2<br>(法定死线：28 个自然日，依 s.83Q 计算)"]
+ FORK -- "区域法院 (DC) 或原讼法庭 (CFI)" --> HC_ROUTE["高等法院上诉法庭 (CA) 救济 →0C.2<br>(法定死线：28 个自然日，依 s.83Q 计算)"]
  HC_ROUTE --> HC_LEAVE{"上诉理由法律性质？"}
- HC_LEAVE -- "定罪纯法律问题且获原审法官出具证书" --> FORM_VIII["Form VIII 当然上诉 ▸0C.1<br>(无需事先取得许可)"]
- HC_LEAVE -- "刑期上诉 / 涉及事实与证据评估之定罪上诉" --> FORM_XI["Form XI 申请上诉许可 ▸0C.1<br>(必须跨越法定 Argue-ability 门槛)"]
+ HC_LEAVE -- "定罪纯法律问题且获原审法官出具证书" --> FORM_VIII["Form VIII 当然上诉 →0C.1<br>(无需事先取得许可)"]
+ HC_LEAVE -- "刑期上诉 / 涉及事实与证据评估之定罪上诉" --> FORM_XI["Form XI 申请上诉许可 →0C.1<br>(必须跨越法定 Argue-ability 门槛)"]
 
  %% 阶段四：单一法官把关与重提（0C.3–0C.4）
- FORM_XI --> SINGLE_JUDGE["单一法官 (Single Judge) 内庭书面审查 ▸0C.3<br>(依 CPO s.83Y 进行闭门卷宗筛选)"]
+ FORM_XI --> SINGLE_JUDGE["单一法官 (Single Judge) 内庭书面审查 →0C.3<br>(依 CPO s.83Y 进行闭门卷宗筛选)"]
  SINGLE_JUDGE --> SJ_DECISION{"单一法官审查结果？"}
  SJ_DECISION -- "认定具备合理争辩理由" --> GRANT_LEAVE["批出上诉许可<br>(进入 CA 全庭公开聆讯)"]
- SJ_DECISION -- "认定全无胜算予以驳回" --> REFUSE_LEAVE["Form 12 书面驳回许可 ▸0C.3<br>(附带严厉损失时间令警告)"]
+ SJ_DECISION -- "认定全无胜算予以驳回" --> REFUSE_LEAVE["Form 12 书面驳回许可 →0C.3<br>(附带严厉损失时间令警告)"]
 
- REFUSE_LEAVE --> RENEW_DECISION{"上诉人是否申请重提？▸0C.4<br>(收到驳回通知后 14 日死线)"}
- RENEW_DECISION -- "接受驳回 / 递交 Form VII 放弃" --> END_DISMISS(["上诉程序正式终结 ▸0D.4<br>(有效锁定损失时间令风险)"])
+ REFUSE_LEAVE --> RENEW_DECISION{"上诉人是否申请重提？→0C.4<br>(收到驳回通知后 14 日死线)"}
+ RENEW_DECISION -- "接受驳回 / 递交 Form VII 放弃" --> END_DISMISS(["上诉程序正式终结 →0D.4<br>(有效锁定损失时间令风险)"])
  RENEW_DECISION -- "坚持向全庭重提 (Renew, s.83Y(2))" --> FULL_COURT["上诉法庭合议庭 (Full Court)<br>(两至三名法官开庭口头聆讯)"]
 
  %% 阶段五：公开开庭与上诉风险审理（0D–0F 节）
  GRANT_LEAVE --> FULL_COURT
  FORM_VIII --> FULL_COURT
- MC_113 --> CFI_HEARING["原讼法庭单一名法官公开聆讯 ▸0B.2<br>(注意：Proviso 但书在此绝对不适用！)"]
+ MC_113 --> CFI_HEARING["原讼法庭单一名法官公开聆讯 →0B.2<br>(注意：Proviso 但书在此绝对不适用！)"]
 
  FULL_COURT --> MERIT_CHECK{"合议庭审理实体结论？"}
- MERIT_CHECK -- "上诉毫无理据且滥用程序" --> LOSS_TIME["启动不利后果手段库 ▸0D：<br>1. 下达 s.83W 损失时间令<br>2. 依据 s.83I(3) 当庭加刑<br>3. 律师个人承担 Wasted Costs"]
- MERIT_CHECK -- "上诉理由成立且未受但书阻却" --> WIN_APPEAL(["上诉成功 ▸0E–0F：<br>撤销定罪/改判无罪/发回重审/下调刑期"])
- MERIT_CHECK -- "理由成立但全案证据确凿无不公" --> PROVISO_APPLY(["上诉庭援引 s.83(1) Proviso 但书 ▸0E<br>强行维持定罪并驳回上诉"])
+ MERIT_CHECK -- "上诉毫无理据且滥用程序" --> LOSS_TIME["启动不利后果手段库 →0D：<br>1. 下达 s.83W 损失时间令<br>2. 依据 s.83I(3) 当庭加刑<br>3. 律师个人承担 Wasted Costs"]
+ MERIT_CHECK -- "上诉理由成立且未受但书阻却" --> WIN_APPEAL(["上诉成功 →0E–0F：<br>撤销定罪/改判无罪/发回重审/下调刑期"])
+ MERIT_CHECK -- "理由成立但全案证据确凿无不公" --> PROVISO_APPLY(["上诉庭援引 s.83(1) Proviso 但书 →0E<br>强行维持定罪并驳回上诉"])
 
  %% 阶段六：终审法院终审通道（0H 节）
- FULL_COURT --> CFA_ROUTE["终审法院 (CFA) 终审上诉双闸口 ▸0H<br>(判决后 28 日内申请，HKCFAO s.32)"]
+ FULL_COURT --> CFA_ROUTE["终审法院 (CFA) 终审上诉双闸口 →0H<br>(判决后 28 日内申请，HKCFAO s.32)"]
  CFI_HEARING --> CFA_ROUTE
  CFA_ROUTE --> CFA_GATE{"审查通道与许可门槛？"}
  CFA_GATE -- "获得重大广泛法律论点证书" --> CFA_FINAL(["终审法院五人全庭终审判决"])
@@ -126,7 +126,7 @@ flowchart TD
  CFA_GATE -- "纯粹事实争议或未达门槛" --> CFA_REFUSE(["终审法院驳回许可 / 全案彻底确定"])
 
  %% 贯穿始终的候审保释（0H 节）
- START -.-> BAIL_PENDING["申请候上诉保释 (Bail Pending Appeal) ▸0H<br>必须证明存在 Substantial Merits 或刑期极短"]
+ START -.-> BAIL_PENDING["申请候上诉保释 (Bail Pending Appeal) →0H<br>必须证明存在 Substantial Merits 或刑期极短"]
  BAIL_PENDING -.-> FULL_COURT
 ```
 
@@ -927,6 +927,6 @@ flowchart LR
 - **待核-03｜0F.x 讼费复核条款**：「受不利讼费命令影响方依 CCCO 第 18 条及第 19 条向上诉法庭申请复核讼费命令」的条款归属待 HKLII 原文复核——`OLD-LG99C` L517 所载 s.18 为讼费虚耗令（wasted costs）针对执业者个人责任，与「复核讼费命令」表述不完全对应；引注已改指 L517 实际 s.18 条文处。
 
 #### 3. 历史修订记录
-- **2026-11-21（地图章节标注）**：图 1 本卡地图 17 个节点与 6 条阶段注释嵌入对应章节号（▸0B–0H），使「阶段 → 章节」映射在 Obsidian 与网页渲染图中直接可见；引注与正文未动。
+- **2026-11-21（地图章节标注）**：图 1 本卡地图 17 个节点与 6 条阶段注释嵌入对应章节号（→0B–0H），使「阶段 → 章节」映射在 Obsidian 与网页渲染图中直接可见；引注与正文未动。
 - **2026-11-21（逐条引注级终检）**：对全卡无引文行号型引注逐条回查源文件，修正 24 处行号／区间漂移引注（`CR10` L333→L405 等上诉理由段偏移、`CR10` L705→L649 CFA 段偏移、`CR10` L503→L487 Proviso 段偏移、`OLD-EX3AP` L95–L110 缄默段误挂理由段、`OLD-EX3AP` L1410 误挂 disparity、`OLD-LG99C` 讼费段行号修正及该码指向确认为 David Leung Costs 讲义）；移除 2 处无任何源文件支撑的孤引（见待核-01/02）并登记待核；修复审计区标题 `## ##` 双重井号。引注单元数量变化：净减 2（均为无源孤引），其余为行号级修正。
 - **2026-11-17（本次重构）**：根据 PCLL8050 知识体系与考试大纲要求，将原散落于量刑卡与往届笔记的上诉体系全面升格，新建独立的专题主卡《16 刑事上诉与判后复核体系（Criminal Appeals, Review & Case Stated）》，实现定罪上诉、刑期上诉、控方复核、终审双闸口与候上诉保释的全闭环覆盖。
