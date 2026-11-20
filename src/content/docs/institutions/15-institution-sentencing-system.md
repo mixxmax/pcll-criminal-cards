@@ -348,7 +348,7 @@ flowchart LR
 |---|---|---|
 | 首次可得机会（首次听取答辩之日） | 1/3 | 〔CR8 L978 "will only be given if the Defendant pleads guilty at the ‘first available opportunity.’"〕 |
 | 未定审讯日期前 | 25% | 〔CR8 L980 "a 25% reduction if he pleads guilty before trial dates are fixed"〕 |
-| 已定速开审前 | 25%–20% | 〔CR8 L982 "a 25%-20% reduction if he pleads guilty once trial dates have been fixed"〕 |
+| 已定审讯日期后至开审前 | 25%–20% | 〔CR8 L982 "a 25%-20% reduction if he pleads guilty once trial dates have been fixed"〕 |
 | 审讯首日 | 20% | 〔CR8 L984 "a 20% reduction if he pleads guilty on the first day of the trial"〕 |
 | 审讯进行中 | <20% | 〔CR8 L986 "a discount of less than 20% if he pleads guilty in the course of the trial"〕 |
 
