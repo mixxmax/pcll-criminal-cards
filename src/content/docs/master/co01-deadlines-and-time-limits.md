@@ -28,15 +28,15 @@ cohort: "2026-27"
 > | LGS7PP | 本届 LGS 7 课堂幻灯（LGS7 PP.md） | 本届讲义 | 2026-27 |
 > | LGS8V | 本届 LGS 8 讲义（量刑） | 本届讲义 | 2026-27 |
 > | LGS8S | 本届 LGS 8 课堂幻灯 | 本届讲义 | 2026-27 |
-> | PD93 | [PD 9.3 原讼法庭刑事程序全文 md（文件实体在旧库 [LG05] 内）](../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI-20240905/PD%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI.md) | 本届官方 | 2026-27 |
-> | PD93D1 | [PD 9.3 附录 D1 定期审期表时间表（旧库 [LG05] 内）](../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI-20240905/PD9.3_eng_Appendix%20D1_V1%20%283%29.md) | 本届官方 | 2026-27 |
-> | PD93D2 | [PD 9.3 附录 D2 速审表时间表（旧库 [LG05] 内）](../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI-20240905/PD9.3_eng_Appendix%20D2_V1%20%281%29.md) | 本届官方 | 2026-27 |
-> | PD94 | [PD 9.4 区域法院刑事程序 md（旧库 [LG05] 内）](../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.4%20-%20Criminal%20Proceedings%20in%20the%20DC-20240905/PD%209.4%20Criminal%20Proceedings%20in%20DC.md) | 本届官方 | 2026-27 |
+> | PD93 | [PD 9.3 原讼法庭刑事程序全文 md（文件实体在旧库 [LG05] 内）](../../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI-20240905/PD%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI.md) | 本届官方 | 2026-27 |
+> | PD93D1 | [PD 9.3 附录 D1 定期审期表时间表（旧库 [LG05] 内）](../../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI-20240905/PD9.3_eng_Appendix%20D1_V1%20%283%29.md) | 本届官方 | 2026-27 |
+> | PD93D2 | [PD 9.3 附录 D2 速审表时间表（旧库 [LG05] 内）](../../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.3%20-%20Criminal%20Proceedings%20in%20the%20CFI-20240905/PD9.3_eng_Appendix%20D2_V1%20%281%29.md) | 本届官方 | 2026-27 |
+> | PD94 | [PD 9.4 区域法院刑事程序 md（旧库 [LG05] 内）](../../../04%20Base%20Lectures/%5BLG05%5D%20Pre-trial%20Issues%20and%20Aspects%20of%20the%20Trial/Practice%20Direction%209.4%20-%20Criminal%20Proceedings%20in%20the%20DC-20240905/PD%209.4%20Criminal%20Proceedings%20in%20DC.md) | 本届官方 | 2026-27 |
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
-> | OLD-LG01B | [往届 LG01 Part Two 讲义（[EDITED]）](../../04%20Base%20Lectures/%5BLG01%5D%20Criminal%20Courts,%20D's%20Rights,%20Role%20&%20Duties%20of%20Prosecution/%5BEDITED%5D%20crim.pro.LGS.ONE.PART.TWO.2025.md) | 往届官方 | 2025-26 |
+> | OLD-LG01B | [往届 LG01 Part Two 讲义（[EDITED]）](../../../04%20Base%20Lectures/%5BLG01%5D%20Criminal%20Courts%2C%20D%27s%20Rights%2C%20Role%20%26%20Duties%20of%20Prosecution/%5BEDITED%5D%20crim.pro.LGS.ONE.PART.TWO.2025.md) | 往届官方 | 2025-26 |
 > | OLD-LG01BO | 往届 LG01 Part Two 讲义（未编辑原版） | 往届官方 | 2025-26 |
-> | OLD-LG03R | [往届 LG03 讲义（[EDITED] LGS3 Outline）](../../04%20Base%20Lectures/%5BLG03%5D%20Lawyer's%20Duties,%20Classification%20of%20Offences,%20Drafting%20Charges,%20Transfers%20&%20Committals/%5BEDITED%5D%20LGS3%20Outline.md) | 往届官方 | 2025-26 |
+> | OLD-LG03R | [往届 LG03 讲义（[EDITED] LGS3 Outline）](../../../04%20Base%20Lectures/%5BLG03%5D%20Lawyer%27s%20Duties%2C%20Classification%20of%20Offences%2C%20Drafting%20Charges%2C%20Transfers%20%26%20Committals/%5BEDITED%5D%20LGS3%20Outline.md) | 往届官方 | 2025-26 |
 > | OLD-LG05P3 | 往届 LG05 Part Three（PD 9.7 相关内容） | 往届官方 | 2025-26 |
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
