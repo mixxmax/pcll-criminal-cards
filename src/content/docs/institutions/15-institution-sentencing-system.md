@@ -352,6 +352,14 @@ flowchart LR
 | 审讯首日 | 20% | 〔CR8 L984 "a 20% reduction if he pleads guilty on the first day of the trial"〕 |
 | 审讯进行中 | <20% | 〔CR8 L986 "a discount of less than 20% if he pleads guilty in the course of the trial"〕 |
 
+```mermaid
+xychart-beta
+ title "Ngo Van Nam 认罪折扣五档（2016-09-02 起）"
+ x-axis ["首次可得机会 1/3", "未定审期前 25%", "定审后开审前 25–20%", "审讯首日 20%", "审讯进行中 <20%"]
+ y-axis "通常扣减 %" 0 --> 40
+ line [33.3, 25, 22.5, 20, 15]
+```
+
 - **立法理由**：鼓励认罪、节省法庭时间与讼费；先按年数定起点再给折扣〔CR8 L974–L976 "This is to encourage Defendants to plead guilty"〕。
 - **追溯适用**：该指引属程序性量刑裁量规则——犯罪早于新指引、判于其后，仍适用新指引（*Chang Yau Hung*：被告交付时已明知新指引仍先称不认罪，只获 25%）〔CR8 L990 "the revised procedures should apply"〕。
 - **罚款亦有折扣**：*Tai Hing Worldwide*——罚款通常亦给认罪折扣；*Paul Y* 曾给足 1/3，但数学上不一定足 1/3〔CR8 L988 "For fines, a discount for a guilty plea will usually be applied"〕。
