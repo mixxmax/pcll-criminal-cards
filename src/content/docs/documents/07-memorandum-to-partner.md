@@ -51,25 +51,30 @@ description: "教授对判后内部备忘录的全部起草口径：理由评级
 - **Lies direction 拆两层**——(i) 误判说谎；(ii) 未作自我指引；专业法官同须自我指引（*Yuen Kwai Choi* (2003) 6 HKCFAR 113）〔SG8REC L78–182〕。
 - **NCTA 全案证据规则**——*R v Shippey* "cannot pick out the plums and leave the duff"〔SG8REC L186–234〕。
 - **clear record "brought to the forefront"**——credibility＋propensity 两肢都要处理〔SG8REC L186–234〕。
-- **归属判断**：判词中的错误未必是法官的错——如 admitted facts 起草方的失误，责任在原审律师而非法庭（"flagrant incompetence"类归因要先查清谁起草的文件再下笔）〔SG8REC〕。
-- **沉默／不利推论、知识要件、good character 两肢**——逐点用"规则→本案→强弱"处理，不泛泛而谈〔SG8REC〕。
-- **hearsay 路径要先确认走不走得通**——如 PIA 已成立／承认链完整，传闻攻击线可能已死，写进去前先核实〔SG8REC〕。
+- **归属判断**——判词中的错误未必是法官的错：如 admitted facts 把不存在的承认写了进去，教授要求"find out who's to blame"——文件是谁起草的、责任在原审律师而非法庭；但这仍可以是 good ground，只是归责对象要查准〔SG8REC L416–452〕。
+- **沉默的不利推论**——判词以被告行使缄默权作不利推论，可作 decent ground〔SG8REC L476–484〕。
+- **要件认知不足的方向**——如藏械案的 knowledge 要件：可写"法官未就不知情抗辩作出应有指引"，"strong ground if it can be proved"；但别追没有证据支撑的旁线（教授称之为 academic question）〔SG8REC L484–500〕。
+- **clear record 是 "strong line of appeal"**——判词未处理清白记录时：有则必入 admitted facts，无承认事实则第一时间向法庭声明〔SG8REC L504–512〕。
+- **Lies direction 并非自动需要**——只在被告曾自认说谎等情形才需要自我指引；需要而未给才成 ground〔SG8REC L512〕。
+- **hearsay 路径先确认死活**——若 PIA 已成立／承认链完整，传闻线走不通；可改写的 ground 是"法官本应裁定该陈述不可采"〔SG8REC L520–528〕。
+- **法官情绪化／无据措辞的两线打法**——判词断言"此类罪常见"零证据、无受害人报告却称受害深重、按已改轻的更严重罪名量刑、无由拒绝有利感化报告——可同时作事实错误＋偏私表象／wrong in principle 两线〔SG8REC L388–400〕。
 - **proviso 只属上诉法庭**——裁判法院上诉轨道无 proviso；写备忘录时先确认本案走哪条轨再谈门槛〔SG8REC L118〕。
 
 **刑期与求情**
-- **人道因素与刑罚种类匹配要核**——如感化令对该罪名是否可用、最低刑期起点是多少，写进备忘录前先查〔SG8REC〕。
-- **法官情绪化措辞可作 grounds**——判词基于错误事实基础的情绪化评论，可同时作"事实错误＋偏私表象"两线〔SG8REC〕。
+- **刑罚种类匹配要核**——如藏械案最低刑期约三年起，"no way in hell"能拿到感化；以"应判感化"作 ground 是 **weak ground**，诚实写明〔SG8REC L528–552〕。
+- **人道因素的 realistic 写法**——高龄、幼儿、PTSD、军旅背景等强力求情素材存在时，写"同情法官或可酌减"是合理建议；但别说成必胜〔SG8REC L540–560〕。
 
 **表格、死线与操作**
-- **Form XI**——leave to appeal 连同 notice of motion；定罪与刑期上诉死线与讼费上诉死线**分别计算**；**讼费上诉不需要 leave**〔SG8REC〕。
-- **Form 102／Statement of Findings**——存档后向裁判官申请 Findings；**被告须亲自签署**，实务上要去羁留室找客户签〔SG8REC〕。
-- **Bail pending appeal**——上诉法庭轨道走 s.83R＋s.83Z，向 JA 申请；先存档再申请〔SG8REC〕。
+- **Form XI＋notice of motion**——CA 轨用 Form XI 申请 leave 连 notice of motion；**notice of motion 载明 grounds，无论是否 leave 阶段都要递交**〔SG8REC L568–580〕。
+- **两条死线分开算**——定罪＋刑期上诉：**判后 28 日**（自 sentence 起算，非 conviction）；**讼费上诉：21 日、不需 leave、是独立文件**，但可与主上诉同一聆讯审理〔SG8REC L584–600〕。
+- **Form 102（MC 轨对照）**——裁判法院轨用 Form 102、判后 14 日，存档后裁判官有义务准备裁断理由；写备忘录时先确认本案法院层级选对表格〔SG8REC L384〕。
+- **Bail pending appeal**——上诉法庭轨向 JA 申请；**先存档再申请**；胜算不足时如实写"probably not"〔SG8REC L580〕。
 - **leave 机制的存在理由是过滤**——"filter it out"无胜望的上诉；写 leave 申请时理由强度就是一切〔SG8REC L30〕。
-- **讼费**：被裁定承担检方讼费的上诉路径与依据分别处理（*Chan Kwok Wah*、*Wai Sau Cheong* 类判例核查）〔SG8REC〕。
+- **讼费**：被裁定承担检方讼费的上诉路径与依据分别处理（*Chan Kwok Wah*、*Wai Sau Cheong* 类判例核查）〔SG8REC L584–600〕。
 
 **写作纪律**
-- **备忘录是建议不是摘要**——每个争点给结论性判断与建议动作；不确定的写"待查／不确定"，不模糊带过〔SG8REC〕。
-- **与客户信分工**——信给非专业读者讲"值不值、怎么走"；备忘录给专业读者讲"每个争点怎么打、文件怎么办、死线在哪"，不要混写〔SG8REC〕。
+- **备忘录是建议不是摘要**——每个争点给结论性判断与建议动作；不确定的写"待查／不确定"，不模糊带过。（起草纪律，非录音原话）
+- **与客户信分工**——信给非专业读者讲"值不值、怎么走"；备忘录给专业读者讲"每个争点怎么打、文件怎么办、死线在哪"，不要混写。（起草纪律，非录音原话）
 
 ## 参考范例与 precedent
 
@@ -94,5 +99,5 @@ description: "教授对判后内部备忘录的全部起草口径：理由评级
 >
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
-> | SG8REC | SG08 Otter Transcript（2026-11-18）.md) | 本届课堂 | 2026-27 |
+> | SG8REC | SG08 Otter Transcript（2026-11-18） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->

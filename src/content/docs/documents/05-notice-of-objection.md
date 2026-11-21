@@ -84,6 +84,8 @@ description: "教授对供认可采性反对通知书的全部起草口径：结
 - **threat／inducement 界线真正模糊时才写 "threat/inducement"**——明确是威胁的就直接写威胁，不要每处都打斜杠〔SG7REC L38:06〕。
 - **用法律术语**——写 threat／inducement／oppression，不造"psychological pressure"这类词："That's a legal criteria. So put that in."〔SG7REC L44:07–45:00〕。
 - **反对理由类型**：身体虐待或殴打、威胁、欺诈性失实陈述（如谎称同案人已招认）、承诺〔SG7REC L03:35〕。
+- **易感性论证**——被告的个别脆弱点（年龄、同行孩子哭闹、既有焦虑／精神状况）可论证同样的话对他**更易压垮自由意志**（类比 eggshell-skull：行为人须接受对方实际状态）；这些因素先用于自愿性因果分析，再可复用于剩余裁量〔SG7REC L36:34–38:06〕。
+- **非 PIA 的未警诫也要写**——即使说话人不是权势人士，仍可写"他当时应当警诫而未警诫"；分量轻（"minimal weight"）但教授明确 "still put it in"〔SG7REC L46:15–46:27〕。
 
 **法律构件**
 - **PIA 只在身份有争议时展开**——对方是警员就不必细写；有争议时用 *Deokinanan v R* [1969] 1 AC 20 两肢：(i) 该人对被告或检控程序是否有权力或控制；(ii) 被告是否认为他是权势人士〔SG6REC L1:02:09–1:05:09；SG7REC L32:21–32:36〕。
@@ -92,14 +94,14 @@ description: "教授对供认可采性反对通知书的全部起草口径：结
 - **剩余裁量要写，并写明请法庭考虑的因素**——年龄、同行家属处境、焦虑与精神状况等个案因素；衡量证明价值与偏见效果；可参 *SJ v Lam Tat Ming*。往届范本以 "further and/or alternatively" 作备位收尾〔SG6REC L1:14:24；SG7REC L38:06–40:38〕。
 
 **未决问题：通知书正文能否引判例**
-- 录音先后出现 "You can put cases, yes" 与疑似 ASR 误转的 "You can't put cases in"，**矛盾未解**；教授明确的核心是：重在分析为何构成利诱，不写成 "scholaristic document"〔SG6REC L1:16:18–1:17:26〕。
+- 录音先后出现 "You can put cases, yes" 与疑似 ASR 误转的 "You can't put cases in"，**矛盾未解**；但同段教授说清了弹性空间：**测试可以展开写也可以简写**（"you could put the test down if you want"），且这是 "a very subjective document"——**写法风格属起草者裁量，重点是分析为何构成利诱**，不写成 "scholaristic document"〔SG6REC L1:16:18–1:17:26〕。
 - **GD26 本届官方指引写明正文不引判例或条文**——交件以 GD26 为准；判例最多点名、不展开，最稳妥做法是向导师确认一句。
+- 另注意一处转写歧义：原文 "You must not always put that at the end" 针对剩余裁量位置，ASR 歧义未解；往届范本以 "further and/or alternatively" 备位收尾的做法可参照，但不要把"必须放最后"当成教授定论〔SG6REC L1:14:24〕。
 
 ## 参考范例与 precedent
 
 - 本届官方指引：[📄 Notice of Objection Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-notice-objection-2026.docx)（GD26，评分基准）
-- 本届范例：[📄 Practice Draft Notice docx](/pcll-criminal-cards/files/documents/sg06-practice-draft-notice.docx)（＋md 正文）
-- 往届 precedent：[📄 Precedent Notice SGS6 docx](/pcll-criminal-cards/files/documents/prior-precedent-notice-sgs6.docx)、[📄 Sample Objection pdf](/pcll-criminal-cards/files/documents/prior-sample-objection.pdf)、[📄 Revised Guidelines Set 1 docx](/pcll-criminal-cards/files/documents/prior-guidelines-notice-set1.docx)、[📄 Revised Guidelines Set 3 docx](/pcll-criminal-cards/files/documents/prior-guidelines-notice-set3.docx)（往届仅方法参考；往届页数等要求未必适用于本届）
+- 本届范例：[📄 Practice Draft Notice docx](/pcll-criminal-cards/files/documents/sg06-practice-draft-notice.docx)（＋md 正文/00%20Official/Precedent%20Notice%20of%20Objection%20to%20Admissibility%20SGS%206.docx>)、[📄 Sample Objection pdf](/pcll-criminal-cards/files/documents/prior-sample-objection.pdf)、[📄 Revised Guidelines Set 1 docx](/pcll-criminal-cards/files/documents/prior-guidelines-notice-set1.docx)、[📄 Revised Guidelines Set 3 docx](/pcll-criminal-cards/files/documents/prior-guidelines-notice-set3.docx)（往届仅方法参考；往届页数等要求未必适用于本届）
 - 判例：*Deokinanan v R* [1969] 1 AC 20；*Chau Ching Kay* (2002) 5 HKCFAR 540；*SJ v Lam Tat Ming*
 
 ## 起草自检清单
@@ -121,7 +123,7 @@ description: "教授对供认可采性反对通知书的全部起草口径：结
 >
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
-> | SG6REC | SG06 Otter Transcript（2026-11-04）.md) | 本届课堂 | 2026-27 |
-> | SG7REC | SG07 Otter Transcript（2026-11-11）.md) | 本届课堂 | 2026-27 |
+> | SG6REC | SG06 Otter Transcript（2026-11-04） | 本届课堂 | 2026-27 |
+> | SG7REC | SG07 Otter Transcript（2026-11-11） | 本届课堂 | 2026-27 |
 > | GD26 | Guidelines for Drafting a Notice of Objection 2026 | 本届官方 | 2026-27 |
 <!-- END:cite-legend -->

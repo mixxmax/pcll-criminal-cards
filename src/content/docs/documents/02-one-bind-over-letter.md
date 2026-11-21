@@ -49,6 +49,10 @@ description: "教授对 bind over 申请信的全部起草口径：WP 性质、�
 
 **措辞纪律**
 - **pick and choose**——client brief 里的一切不必全写；"select what's in your client's interest"，代入感差、可信度低的理由可能弄巧成拙，写不写是判断题〔SG2CAP L329〕。
+- **道歉与补偿都须有客户指示**——"providing that's your client's instructions"：道歉可以写"no harm"，补偿金额也一样；没有指示不能自作主张出价〔SG2CAP L295〕。
+- **道歉不是必备项**——没有强制要求；教授提示付钱本身可被视为道歉的一种〔SG2CAP L295〕。
+- **客户必须同意案情撮要**——客户不接受 brief facts 就没有 bind over 可谈；小改动（如措辞中性化）可试但须控方同意；**信中承认什么要非常小心**〔SG2CAP L295–305〕。
+- **前科披露纪律**——客户有未披露前科时：无义务主动披露，但**就不能再写 clear record**；可以不写，不能撒谎；香港无美式 sealed/spent record 概念〔SG2CAP L295〕。
 - **clear record 只写一次**——有学生一封信写三次被点名〔SG2CAP L329〕。
 - **事实可弱化不可作假**——无身体伤害、非性部位、单次接触这类事实性降严重度可用；不攻击控方案情〔SG2CAP L329〕。
 - **不写条件式道歉**——"willing to apologize if necessary"被点名"don't sound stupid"：要么道歉要么不道歉；写 regretful 可以〔SG2CAP L329〕。
@@ -58,12 +62,13 @@ description: "教授对 bind over 申请信的全部起草口径：WP 性质、�
 
 **实质要素**
 - **bind over 的价值**：成功即**无定罪、无刑事案底**（ss.36/61 MO 轨）；签保期约 **12–24 个月**〔SG2CAP L284–293〕。
-- **受害人角色**：控方可问受害人意见但**可 override**；受害人点头不是必要件，但常是通关 key〔SG2CAP L293〕。
+- **受害人角色**：控方可问受害人意见但**可 override**；受害人点头不是必要件——"victim is one factor"，公共利益决定权在 DOJ；**别客气，检控守则标准可直接写进信里**〔SG2CAP L293–295〕。
 - **赔偿 sweetener**：经客户授权可提补偿——教授执业例：受害人索赔机票损失数千元，照付过关；目的是说动对方而非法律义务〔SG2CAP L293〕。
+- **典型适配罪名**：common assault、低额金钱纠葛、criminal damage 这类轻微案件是 bind over 的主场；申请前先看罪名对不对路〔SG2CAP L284–287〕。
 
 **批改反馈（教授发还作业时四条红线）**
 - **bind over 不是刑罚**——写 "deterrent effect" 错：它不是 sentence、没有阻吓功能〔SG8REC L322–329〕。
-- **赔偿别吝啬**——"$1,000 有什么用？能出 $5,000 就写 $5,000"；整个目的就是 sweeten 受害人〔SG8REC L329〕。
+- **赔偿别吝啬也别含糊**——出价要给具体数字，"$1,000 有什么用？能出 $5,000 就写 $5,000"；整个目的就是 sweeten 受害人〔SG8REC L329〕。
 - **援专业条例要点名全称**——年轻检控官未必知道缩写；写"可面临纪律处分＋定罪＝双重惩罚"更有说服力〔SG8REC L329〕。
 - **禁写"保护公众"**——说 bind over 能保护公众＝把当事人写成危险人物／惯犯，自毁立场；用词要谨慎〔SG8REC L329〕。
 
@@ -91,5 +96,5 @@ description: "教授对 bind over 申请信的全部起草口径：WP 性质、�
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
 > | SG2CAP | SG02 课堂录音转录与纪要（2026-10-10） | 本届课堂 | 2026-27 |
-> | SG8REC | SG08 Otter Transcript（2026-11-18）.md) | 本届课堂 | 2026-27 |
+> | SG8REC | SG08 Otter Transcript（2026-11-18） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->

@@ -57,8 +57,10 @@ Letter of Advice 的功能是**把知情决定落到纸面**：律师把证据�
 - **改控各情景分别写清**——认原罪／审讯首日认轻罪被接受／只定轻罪／定原罪各得什么结果，逐情景列出（批改中最多人讲不清的点）〔SG8REC L314–322〕。
 
 **程序机制（可写给客户的实务信息）**
-- **提前认罪换庭**：已定审讯又想认罪，写信给 **Court One 的 First Clerk**（排期权在法庭不在控方）；约 **7 日**经验线——约一周前通知一般可移，少于约 7 天大概率留原庭；Court One 是各裁判法院的 head court〔SG2CAP L167〕。
+- **提前认罪换庭**：已定审讯又想认罪，写信给 **Court One 的 First Clerk**（排期权在法庭不在控方）；客户想加快也可在信中提出提前简短提堂并**附几个可早开庭的日期**；约 **7 日**经验线——约一周前通知一般可移，少于约 7 天大概率留原庭；Court One 是各裁判法院的 head court〔SG2CAP L146–167〕。
 - **正式记录**：认罪要约 "put it on record and write to the court"——明确罪名、行为与事实基础〔SG2CAP L104〕。
+- **替代控罪要约的对象是控方**——想认较轻罪不能只对法庭说"我认 common assault"，须先向控方提出；控方不接受才轮到 s.51 当庭路径〔SG2CAP L227 前后〕。
+- **情景表别写串**——教授批改多年最常见的错：把"认轻罪的折扣"和"定原罪后零折扣"混在一起。折扣从**认罪时点**起算，写情景时逐格核对〔SG2CAP L185–221〕。
 
 **批改反馈（教授发还作业时点名）**
 - **赔偿要提**——求情时建议客户向受害人赔偿是降刑素材，应考虑并提出；与 bind over 信中的赔偿 sweetener 是**不同场景**，别混〔SG8REC L314–322〕。
@@ -66,7 +68,7 @@ Letter of Advice 的功能是**把知情决定落到纸面**：律师把证据�
 
 ## 参考范例与 precedent
 
-- 本届范例：[📄 Letter of Advice docx](/pcll-criminal-cards/files/documents/sg02-letter-of-advice.docx)（＋md 正文(ii)%20-%20Letter%20of%20Advice%20-%20Jeff%20Sham.md)）
+- 本届范例：[📄 Letter of Advice docx](/pcll-criminal-cards/files/documents/sg02-letter-of-advice.docx)（＋md 正文%20-%20Letter%20of%20Advice%20-%20Jeff%20Sham.md)）
 - 本届官方指引：[📄 Client Letter Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-client-letter-2026.docx)
 - 往届范例：[📄 Letter of Advice (Set 1) docx](/pcll-criminal-cards/files/documents/prior-loa-set1.docx)（往届仅方法参考）
 - 判例：*R v Hazeltine*、*HKSAR v Lee Y. Kern*（替代控罪折扣）；认罪折扣体系见 15 卡
@@ -89,5 +91,5 @@ Letter of Advice 的功能是**把知情决定落到纸面**：律师把证据�
 > | 码 | 文件 | 层级 | 学年 |
 > |---|---|---|---|
 > | SG2CAP | SG02 课堂录音转录与纪要（2026-10-10） | 本届课堂 | 2026-27 |
-> | SG8REC | SG08 Otter Transcript（2026-11-18）.md) | 本届课堂 | 2026-27 |
+> | SG8REC | SG08 Otter Transcript（2026-11-18） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->

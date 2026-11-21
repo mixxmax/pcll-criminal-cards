@@ -48,11 +48,16 @@ Brief to Counsel 来自香港**分业制度**：事务律师（solicitor）管�
 - **分析是分大头**——"a lot of the points are going to be going towards analysis of the solicitors, what their thoughts about the case are"。不是把案情摘要丢给大状〔ST4 L386〕。
 - **不 rehash 全部证据**——"this is not a chance to rehash all the evidence of the case, you pick and choose what's important"；写与请教意见相关的点〔ST4 L386–398〕。
 - **materiality 测试**——客户版本矛盾只挑影响案件结果的写（"does it make a difference to the outcome of the case"）；无关紧要的出入不写〔ST4 L398〕。
+- **多套叙述同理过滤**——客户给过几个不同版本的故事时，先逐套过 materiality；不 material 的版本差异不必全数喂给 counsel〔ST4 L370–380〕。
+- **请教问题可对证据发问**——"is there anything said by someone you might want counsel to comment on"：就特定证人的具体说法请 counsel 评价，同样要 material〔ST4 L398–410〕。
+- **篇幅参照**——阅卷经验：一般约 **3–5 页含 backsheet**；不是硬性指标（"that's not an indication, it depends"），但明显超出或不足都值得自检〔ST4 L398–410〕。
 - **有初步意见就写、有判例附案号**——给 counsel 可核查的依据；认为另一罪名更适合或值得 plea bargain 也写出，但**只对本案适用**，不写成万能公式〔ST4 L386〕。
 - **让 trial counsel 参与关键取舍**——证人传不传、证据以什么方式呈现、抗辩路线，跑审讯的大状应在环内；先给有理由的初步意见，再问具体问题〔SG5REC L280〕。
 
 **措辞与立场**
 - **不篡夺 counsel 角色**——初步意见用谦逊句式："These are our preliminary views based on… Counsel may have a different view, and if so, please advise and we can discuss."不用命令式〔ST4 L356〕。
+- **初步意见要附理由**——"list out why your views are this"：不是只抛结论，把得出看法的依据列给 counsel 核对〔ST4 L356–370〕。
+- **判断题自己答**——问导师"要不要写某段叙述"得到的答复是 "that's for you to answer, not for me"：取舍是起草者的专业判断〔ST4 L370〕。
 - **brief 是双向对话**——实务中 counsel 会拿其他 counsel 的意见回来问你同不同意〔ST4 L356〕。
 - **开头即标视角**——"the prosecution case is this / the defense case is this"；counsel 第一次读，先知道站在谁立场〔ST4 L386〕。
 - **clear record 先写**——"if your client has clear records, spell it out in the beginning"〔ST4 L356〕。
@@ -91,5 +96,5 @@ Brief to Counsel 来自香港**分业制度**：事务律师（solicitor）管�
 > |---|---|---|---|
 > | ST4 | SG04 课堂录音逐字稿与导师要点（2026-10-21） | 本届课堂 | 2026-27 |
 > | SG5REC | SG05 课堂录音（2026-10-28） | 本届课堂 | 2026-27 |
-> | SG8REC | SG08 Otter Transcript（2026-11-18）.md) | 本届课堂 | 2026-27 |
+> | SG8REC | SG08 Otter Transcript（2026-11-18） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
