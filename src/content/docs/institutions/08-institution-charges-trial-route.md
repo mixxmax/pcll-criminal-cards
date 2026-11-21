@@ -61,6 +61,8 @@ SG课表安排:
 8. **时间闸网**：6 个月 s.26 MO 时效、8 日还押 s.79 MO、7 净日 bundle、PI 证人出庭 ≥7 日通知、alibi particulars 开庭前 ≥10 日、交付后 7 日内 prefer indictment、新 Charge Sheet 14 日、s.16 的 21 日 institute 侧门与 14 日通知（详见 0G.1）〔CR2 L523 "a complaint or information must be laid within 6 months"；CR3 L634 "The Indictment is filed within 7 days of a paper committal"〕；
 9. **时间闸×不做后果×依据总表**（12 行）与**攻防暗礁十条**：duplicity 重叠被击、误判地点的代价、s.75(4) 的负向无罪、PI 选错收益、交付程序逾晚、s.16 窗口睡过、VBI 无交付保障等（详见 0J、0I.1）。
 
+==**【SG03录音补充｜venue 评估与交付细节】** 教授对 SG03 Q3–Q5 的校准：① **venue 评估先做量刑定位**——30g 可卡因出口案参照 *HKSAR v Huang Rui Fung* 关税线、*HKSAR v Abdallah* [2009] 2 HKLRD 437 与 *HKSAR v Yusuph* [2021] 1 HKLRD 290 作毒品量刑坐标，超出 DC 七年上限才谈 CFI；② 术语：**transfer**＝往 DC、**commit**＝往 CFI，不混用；③ 裁判官对可公诉罪移交**无拒绝权**（简易罪另论）；④ 移交实务约 **3–4 周**（经验值非法定）；⑤ 移交后答辩在 DC 才正式取，MC 的 indication 不等于答辩；⑥ 被告**不能 veto CFI 交付**；⑦ PI 在港极罕见、非考试焦点；**paper committal 后 s.16 解除申请**与 PI discharge 是两条路不可混；⑧ 可去东区裁判法院 7 庭观摩交付程序（通常周一，公众假期顺延周二）〔SG3CAP L290–420〕。==
+
 **不覆盖（边界声明，相关主卡承担）**：① 检控决策双重测试、检控同意书（s.94A MO／SJ consent）、私人检控、启动程序五方式（NIP、定额罚款等）与 **duplicity 的基本规则＋幻灯对范例**、控罪修改的完整判例线（*Lui Tsun Sum* 等）——→ 12 框架卡 §1–§4，本卡 0D 只做起草单元**起诉路线视角**的交叉；② 1992 R&Ds 与口供处理——→ 12 卡 §5 与 13 证据争议卡；③ 警署探访操作（Rule 8、Pol.153、访谈结构）——→ 07 调查辩护卡；④ 保释本体——→ 05 保释主卡；⑤ O.N.E. Bind Over、认罪协商、较轻替代罪与 Lam Kai Man——→ 06／09 主卡；⑥ alibi 证据本体、s.65B/C、审讯中 no case to answer——→ LGS 5/6 对应卡与 14 审讯文书卡；⑦ 上诉与量刑——→ 15 量刑卡 与 LGS 9/10 后至材料；⑧ Galbraith / Wong Wing Yi 的审讯面展开——本卡只收 s.16 所需的 s.16CPO 段，LGS6 详案另归。
 
 ### 术语（核心概念与实务运作定义）
@@ -182,6 +184,7 @@ flowchart TD
 > | SG3AA | SG03 Alex程序五问课堂答案 | 凝结层 | 2026-27 |
 
 
+> | SG3CAP | SG03 课堂录音整理稿（2026-10-14 Otter） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
 
 | 你现在要做什么 | 直达章节 |

@@ -182,6 +182,7 @@ flowchart TD
 > | SGS4 | crim.pro.SGS.4.STUDENTS.2026 | 本届官方 | 2026-27 |
 > | SD22 | Specimen_Directions_2025 | 本届官方 | 2026-27 |
 > | SHUM | Shum Man-fai - Official Summary Notes 2026-10-06 | 库外法源 | 2026-27 |
+> | SG2CAP | SG02 课堂录音转录与纪要（2026-10-10 Otter） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
 
 ## 0B. 答辩选择框架：客户自主权、协商对象与认罪利益阶梯
@@ -225,6 +226,8 @@ flowchart TD
 **四个落点判例**：罚款案件的认罪折扣通常同样适用（*HKSAR v Tai Hing Worldwide Development Ltd* [2015] 3 HKLRD 358）；*Ngo Van Nam* 属量刑程序指引，犯罪发生在新指引生效前、被捕在其后且被控人在交付时已知悉新指引的，按新指引计算（*HKSAR v Chang Yau Hung Alexander* [2024] 2 HKLRD 1367——该案仅获 25%）；审讯开始后（控方开案陈词后、PW1 作证期间）认罪的实得折扣可为 **10%**（*HKSAR v Cheung Tsz Hong* [2021] 5 HKLRD 248）；审讯中认罪后反悔不成的阶梯问题见 0E〔L8N L988 "For fines, a discount for a guilty plea will usually be applied"；L8N L990 "the revised procedures should apply"；L8N L1018 "the D was only given a 10% discount"；L8N L1018 "The CA indicated that the discount of 10% was the correct amount."〕。
 
 **时点与最终裁量**：折扣阶梯是通常指引，最终数额属法官裁量（subject to the Judge's overriding discretion）〔L8N L1006 "The amount of the discount depends upon the stage at which it is entered on the Court’s record but remained subject to the Judge’s overriding discretion"〕。
+
+==**【SG02录音补充｜折扣重启与回信口径】** 教授对 SG02 的实务校准：① **折扣重启三场景**——首听答辩已认 not guilty 后，审讯首日改认较轻替代罪只能拿约 20%；打完审讯定罪=零折扣；已选 PNG 再反悔转 PG 极罕见，不能当 Plan B；② **s.51 CPO**——控方拒接替代控罪要约，被告仍可当庭认 lesser plea 并重启折扣时钟；备查 *R v Hazeltine* [1967] 51 Cr App R 351、*HKSAR v Lee Y. Kern* [2011] HKCA 465；③ **回信纪律**——"if your client's going to prison, tell him so, don't sugarcoat"；用 "likely to receive"＋court's discretion，不承诺固定百分比；认罪指示须 unequivocal（罪名＋日期）；④ **Sch.3 CPO 自查**——s.19 类罪名是否 excepted offence 决定 suspended sentence 可用性，写 advice 前必查〔SG2CAP L125–227〕。==
 
 ### 0B.5 缓刑禁区（Schedule 3）与判后义务
 
@@ -335,6 +338,8 @@ O.N.E. Bind Over 是本卡第一条协商轨道，目标是让案件**不以刑�
 > ⛓️ **后果点题**：要约未记入记录／未保留原文 → 0J 行 8；要约与审讯防线矛盾 → 0J 行 8；书面认罪提议与民事／量刑影响混同 → 0J 行 8、行 14。
 
 > **Exam / Advocacy Formulation:** "If the Prosecution do not accept the offer, the earlier plea to the lesser offence is a nullity — Lee Wai Keung. However, following Lam Kai Man, we will place our client's offer and its basis squarely on the record today, so that if the lesser offence is ever proved at trial, the discount question can be properly argued."
+==**【SG02录音补充｜Court One／Court Four 机制】** 提前认罪换庭的实务（无成文依据，教授执业经验）：**Court One 是各裁判法院的 head court**，管判刑／保释／mention 调度，副庭主审审讯；案件已定审讯又想提前认罪，**写信给 Court One 的 First Clerk**（排期权属法庭非控方），请求提前或换庭取答辩；**约 7 日经验线**——开审前约一周通知一般可移，少于约 7 天大概率留原审讯庭；裁判官个人口径有实务差异，选庭本身有战术意义〔SG2CAP L167〕。==
+
 ## 0E. 认罪有效性与认罪后争议：撤回门槛与 Newton 聆讯
 
 案件此刻已经认罪——或者客户刚说「我认罪，但是……」。这一节处理两条防线：第一，认罪本身是否有效（equivocal 与 unequivocal 之分、撤回须过的门槛）；第二，认罪之后案情撮要谈不拢怎么办（Newton 聆讯何时必须开、何时不必开、输了会怎样）。它与求情环节的分界在于：影响刑罚的事实争议走 Newton，而「根本否认犯罪」的争议是有效性问题，绝不能用量刑程序代替审讯。
@@ -389,6 +394,8 @@ O.N.E. Bind Over 是本卡第一条协商轨道，目标是让案件**不以刑�
 本表按讲义的 equivocal／unequivocal、Newton 与撤回认罪区分组织；Newton 失利不等于已证明伪证，折扣影响按实际聆讯由法庭裁量处理〔L5N L330–L344 "There is a distinction between an “unequivocal” guilty plea and"；L5N L398–L410 "A Newton Inquiry is not appropriate where e.g. the Defendant"；L5S L282 "D may lose benefit of 1 /3 discount on GP. Up to"〕。**把 SoF 当证据的代价**：*Cheung Tsz Hong* 中法官以控方开案陈词与 SoF 定罪——该两者并非呈堂证据，counts 1 & 2 因此被撤销；未获同意的实质争议不能只靠控方单方面文本定罪量刑〔L5N L354 "the J relied on the Prosecution’s Opening and Summary of Facts as a basis for conviction and sentence and these were not ‘evidence’ in the case"；L5N L354 "The CA found that trial J should have done what she had earlier suggested when D refused to agree the Summary of Facts and held a Newton Inquiry on the disputed facts."；L5N L354 "The crucial reason why the appeal was allowed in respect of counts 1 &"〕。**提前告知义务**：拟认罪所依据的事实及与控方的实质分歧，须由辩方主动向控方与法庭说明（*Underwood*），避免判刑时突然改变基础〔L5N L390 "Where there is a difference between the Prosecution’s evidence and the factual basis on"〕。
 
 > ⛓️ **后果点题**：equivocal 照走求情 → 0J 行 9；为无关事实贸然 Newton → 0J 行 10；把 SoF 当公认事实 → 0J 行 11；不提前通告分歧 → 0J 行 12。
+
+==**【SG02录音补充｜Bind Over 信与裁量】** 教授对 bind over 申请的十条补充口径：① **DOJ 同意≠法庭会批**——裁判官有独立裁量（教授亲历同案被一庭拒、另庭获准），期望管理要前置；② **受害人可被 override**——控方可问受害人意见但不受其否决约束，愿付赔偿常是 sweetener（Rugby Sevens $7,000 机票补偿实例）；③ **WP 信内不泄抗辩**、不攻击控方案，谦逊求助；④ clear record 只写一次；⑤ 事实可弱化但不作假（no injury／not sexual part）；⑥ **不写条件式道歉**；⑦ pick-and-choose，不必用尽客户陈述；⑧ 可引检控守则＋一个对题判例；⑨ brief facts 措辞可与控方谈中性化微调；⑩ bind over 成功后无定罪记录（ss.36/61 MO 轨），签保期约 12–24 个月〔SG2CAP L274–329、L617〕。==
 
 ## 0F. 六种非起诉处置机制与讼费
 

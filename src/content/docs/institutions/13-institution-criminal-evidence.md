@@ -217,6 +217,7 @@ flowchart LR
 > | SG6REC | SG06课堂录音（Otter 2026-11-04） | 本届讲义 | 2026-27 |
 > | SG7REC | SG07课堂录音（Otter 2026-11-11） | 本届讲义 | 2026-27 |
 > | V6 | SG06法源与来源身份核验 | 库外法源 | 2026-27 |
+> | ST4 | SG04 课堂录音逐字稿与导师要点（Brief to Counsel 阅卷口径） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
 
 
@@ -404,6 +405,8 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 > 主线：**四项义务 → 四项不披露 → 自我入罪特权 → 两个正式通知（alibi／expert）→ s.65B/65C 接口定型**。后果链归并 [0J 总表](#0j-环节--不做后果--依据-总表 行 4–6。
 
 ### 0C.1 辩方只有四项披露义务
+
+==**【SG04录音补充｜alibi 实务流与品格攻防】** 导师对 SG04 程序题的操作补强：① **alibi 通知后控方动作**——主控官实务上即指示警方录取 alibi 证人陈述、查当晚行踪/CCTV、调**出入境 movement records**；少于 10 日须 court leave，"the court usually does"但会问控方要不要押后查核；② **MC 不需 alibi notice**（s.65D 只管 DC/CFI），不出通知不等于不能用 alibi；③ **lose shield 的细线**——说证人"not telling the truth"未必破盾，明指"liar/framed me up"就会；法庭会先警告、陪审团退席后听双方陈词再裁；④ **被告自揭前科的例外**：贩毒案抗辩"自用"时主动提出 possession 前科有利被告；认罪时成瘾记录（DATC）可作求情素材〔ST4 L203、L326〕。==
 
 因被告沉默权（HKBOR A. 11），辩方披露义务远窄于控方，仅有四项：(1) 不在场通知及 particulars（s.65D CPO）；(2) 专家证据（s.65DA CPO）；(3) 永久搁置申请通知（PD 9.7，见 LGS5 Part 3 补充）；(4) 供认可采性的反对理由〔CR6 L192–L200 "Basically only 4 aspects of the defence"〕。
 

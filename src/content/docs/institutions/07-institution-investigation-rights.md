@@ -183,6 +183,7 @@ flowchart TD
 > | SG01AN | 本届 SG01 Brief A Q1–Q6 与 Brief B Q1–Q5 与 Questions C–D 完整答案 | 凝结层 | 2026-27 |
 
 
+> | SG3CAP | SG03 课堂录音整理稿（2026-10-14 Otter） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
 
 | 你现在要做什么 | 直达章节 |
@@ -483,6 +484,8 @@ R4/5分别处理陈述取得及记录；客户应有阅读、更正等机会。�
 一般规则下疑犯不须回答自证其罪问题，不能仅因合法沉默推不利结论；特定强制答复法例另有安排。解释陈述会被使用、现有证据和取指示缺口，不能机械对所有客户规定同一句回答。〔CR2 L349 "(12) The Right to Silence: There is no obligation on"〕〔CR3 L224 "on the right to silence and whether that right is"〕
 
 法律代表接触权受不得造成不合理延误/妨碍的限定，但警方必须能解释拒绝接触，不能把限定当成任意延后到问话结束的权力。记下提出要求、回应、等待及探访时间，才能日后分析实际影响。〔CR2 L403 "Principle (c): Right to communicate with a lawyer provided no"〕〔CR3 L140–L146 "The lawyer should insist on seeing the client without delay."〕
+
+==**【SG03录音补充｜首访操作次序与边界】** 教授对 Q1（受伤／迷茫客户首访）的逐点校准：① **先医后谈**——客户有伤或神智不清先要求医疗评估，取不到有效指示时只做福利与证据保全；② **到场即做 conflict check**（取得身份后）；③ **要求单独私下会见**，警方不得以不合理延误／妨碍拒绝；④ 指示未取到前可**向值日官问指控、证据与事发经过**并记录；⑤ **伤情要双方留痕**——自己记＋要求警方记入 occurrence book；⑥ **供认挑战不急于登记**——先取正式指示，过早把挑战写进记录会失战术突袭（*Chan Chu Leung* 语境见本节上文）；⑦ 签署并留存 retainer/授权书，有需要转介法援及少年服务〔SG3CAP L194–260〕。==
 
 **实务推演探访顺序**：先问伤病、疲劳、语言及即时需要，再查已说和已签什么；确认警方指控与文件，私下取指示，解释当前选择和后果；最后核对保释及后续安排。详细审讯proof可以后续完成，不能忽略此刻的福利和证据风险。〔CR3 L194–L242 "The client should be interviewed alone, and in private, if"〕
 

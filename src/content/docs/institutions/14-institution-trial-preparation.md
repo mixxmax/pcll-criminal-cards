@@ -153,6 +153,7 @@ updated: 2026-11-17
 > | NGWEST | [Ng Chi-ching判词：Westlaw下载，HCMA737/1999／[2000]HKEC170](../../04%20Base%20Lectures/00%20This%20Year%20Moodle%202026-27/Verified%20Judgments%20%282026-10-27%29/Ng%20Chi%20Ching%20-%20HCMA%20737-1999%20-%20Westlaw%202026-10-27.md) | 库外法源 | 2026-27 |
 > | SG5REC | SG05课堂录音全文（2026-10-28） | 本届讲义 | 2026-27 |
 > | V6 | SG06法源与来源身份核验 | 库外法源 | 2026-27 |
+> | ST4 | SG04 课堂录音逐字稿与导师要点（Brief to Counsel 阅卷口径） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
 
 ## 🗺️ 本卡地图（章节位置与阅读顺序）
@@ -540,6 +541,10 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 建议通常先传选择作供的被告，再传其他事实证人，以减少旁听后调整证言的争议。但不能把CPO54(1)(b)写成强制次序：它涉及控方不得评论被告不作供；s55只处理被告是唯一事实证人的情形。
 
 〔V6 L34 "R4. Section 54(1)(b) concerns prosecution comment on silence, not witness sequence."〕 香港DCCC860/2011附录2013-06-14裁定¶52–58允许另一次序，强调可能的权重后果；这是须标识层级及事实的区院裁定，不冒称终审普遍规则。有实际理由拟改变通常安排时，提前向法院提出。对应SG06 Ex2.6。
+
+==**【SG04录音补充｜阅卷人亲口口径】** 导师（本作业阅卷人）对 Brief 的课堂增补：① **开头即标视角**（prosecution case/defense case 分述）；② **不 rehash 全部证据**——pick and choose，阅卷重心在**事务律师自己的分析**；③ **materiality 测试**——客户版本矛盾只写影响案件结果的（"does it make a difference to the outcome"）；④ 有初步意见就写、有判例附案号、认为别的罪名更适合或值得 plea bargain 要写出但只对本案适用；⑤ 谦逊句式："These are our preliminary views…Counsel may have a different view, and if so, please advise"——不篡夺 counsel 角色；⑥ **clear record 开头写明**；⑦ 结尾：具体问题清单＋**回复期限**＋问是否要 conference/补材料；⑧ 技术点：保释状态与案件阶段写开头、附件编号、签署日期、**backsheet 连费**；⑨ 口头确认任务设定：假定前任只做过被拒的 bind over letter、下次 mention 30 June、未提 plea bargain、客户"如 counsel 建议愿认 common assault"、**交件不附附件**〔ST4 L356–410〕。==
+
+==**【SG05录音补充｜分析表与证据评估方法】** 教授对三表作业的方法论：① 三表用途是**找证据缺口、时序与前后不一**，每个差异接回具体争点，不以"发现很多矛盾"代替案情理论；② 只看 **material inconsistencies**（影响感知/记忆/合理性的差异），先问触及核心否、可解释否再评证明力；③ **"控方证人"≠全部内容利控**——未传召 ≠ 免披露；④ 挑战警诫/口供须有**客户指示＋具体自愿性/准确性/记录问题**，不因一句不利就无基础攻击；⑤ 自卫=主观真诚信念＋客观合理用力两肢，辩方只需足量证据使之成为争点，BRD 仍在控方；⑥ self-induced intoxication 作为**研究点**提出而非确认抗辩〔SG5REC L44–204〕。==
 
 ## 0E. 证据定型 I：s.65B 书面证供陈述——合规要点与司法区实务
 

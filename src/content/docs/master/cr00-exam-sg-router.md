@@ -49,10 +49,10 @@ description: "PCLL8050 刑事诉讼考场题眼信号路由表、本届 SG01–S
 | SG 场次 | 案情概要与我方角色 | 核心考察制度与对应专题卡 | 关键文书/口头陈词产出物 | 导师强调的考场必死红线 |
 |---|---|---|---|---|
 | SG01 | 侦查阶段保释与首次出庭 | 保释推定与拒保、48h 提堂、警署会见权 → 05/07 卡 | 保释申请陈词、会见记录 | 勿把保释当权利而非申请；须说明拒保例外 |
-| SG02 | 答辩建议与 O.N.E. Bind Over | 证据评估、答辩时点、O.N.E. 程序 → 06 卡 | Letter of Advice、O.N.E. Bind Over Letter | 勿推荐认罪却无折扣依据；须写明答辩时点 |
-| SG03 | 警署会见、转区域法院/交付 CFI、认罪协商 | 移交/交付程序、PI、认罪协商 → 08/12 卡 | 会见记录、移交申请、认罪协商纪要 | 勿忽视 PI 时限；须说明分流理由 |
-| SG04 | 审讯准备、Brief to Counsel、证据 | 审前披露、证据定型、文书 → 14 卡 | Brief to Counsel、证据清单 | 勿漏披露义务；须标注证据来源 |
-| SG05 | s.65B 陈述书与 s.65C 承认事实 | 书面供词、同意事实、反对程序 → 14 卡 | s.65B 反对通知、Admitted Facts | 勿忽视 14 日/送达时限；须说明反对理由 |
+| SG02 | 答辩建议与 O.N.E. Bind Over | 证据评估、答辩时点、O.N.E. 程序 → 06 卡 | Letter of Advice、O.N.E. Bind Over Letter | 勿推荐认罪却无折扣依据；须写明答辩时点；回信不 sugarcoat、用 likely to receive；Sch.3 查 excepted offence 方可谈缓刑；s.51 被拒仍可认 lesser plea 重启折扣；提前认罪写信给 Court One First Clerk（约 7 日线）；bind over 须告 client DOJ 同意≠法庭批、不写条件式道歉 |
+| SG03 | 警署会见、转区域法院/交付 CFI、认罪协商 | 移交/交付程序、PI、认罪协商 → 08/12 卡 | 会见记录、移交申请、认罪协商纪要 | 勿忽视 PI 时限；须说明分流理由；首访先医后谈＋conflict check＋私下会见＋伤情双留痕；拒给密码≠妨碍司法但 forensic 可破；venue 先量刑定位（Huang Rui Fung/Abdallah/Yusuph）；transfer→DC、commit→CFI 术语勿混；s.16 解除≠PI discharge；协商前先取指示＋查注册后果 |
+| SG04 | 审讯准备、Brief to Counsel、证据 | 审前披露、证据定型、文书 → 14 卡 | Brief to Counsel、证据清单 | 勿漏披露义务；须标注证据来源；Brief 开头标视角＋clear record、不 rehash 全证据、只写 material 矛盾、谦逊句式不篡夺 counsel、结尾要回复期限＋backsheet 连费；MC 无 alibi notice 要求；lose shield 分「不实」与「liar」细线；被告可自揭 possession 前科抗辩 trafficking |
+| SG05 | s.65B 陈述书与 s.65C 承认事实 | 书面供词、同意事实、反对程序 → 14 卡 | s.65B 反对通知、Admitted Facts | 勿忽视 14 日/送达时限；须说明反对理由；三表找缺口/时序/material 矛盾并接回争点；控方证人未传召≠免披露；挑战口供须指示＋具体理由；自卫两肢＋BRD 在控方 |
 | SG06 | Objection to Confession | 招认自愿性、排除程序 → 13 卡 | Notice of Objection、voir dire 申请 | 勿只说“不情愿”；须引诱供/威吓具体事实；threat 与 inducement 分栏；PIA 先过 *Deokinanan* 两肢（保安员非 PIA）；withdraw≠offer no evidence |
 | SG07 | 挑战供词、上诉刑期与讼费 | 供词攻击、量刑上诉、讼费 → 13/15 卡 | 上诉通知书、讼费申请 | 勿混淆上诉理由与新证据；须分开论述；dock ID 先查污染再谈三许可；discharge jury 按 *Ko Po Kun*/*Li Chun Choi* 分档；totality 上诉须点名 *Hall*/*Ngai Yiu Ching* 及未说明分期理由 |
 | SG08 | 审判及审后程序、上诉/复核 | 判后救济双轨、上诉保释、loss of time → 15/16 卡 | Client letter、memo to partner | 勿推荐无 merit 上诉；须评估 loss of time；grounds 先过 reasonable grounds 并评 Strong/Reasonable/Weak；lies/good character 指引对裁判官同适用；讼费上诉 21 日自判刑日起；bind over 非刑罚；s.104 与 s.113 勿并行启动 |

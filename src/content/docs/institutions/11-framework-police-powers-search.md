@@ -152,6 +152,7 @@ flowchart LR
 > | WK2 | PCLL8050 LGS2本届修订讲义 | 本届讲义 | 2026-27 |
 
 
+> | SG3CAP | SG03 课堂录音整理稿（2026-10-14 Otter） | 本届课堂 | 2026-27 |
 <!-- END:cite-legend -->
 **取材顺序**（Manual §2.6）：本届 slides → 本届 notes → 往届官方 → 往届学生稿。本卡的截查、拘捕、处所搜查与数码设备四节以本届 LGS 2 讲义（码 LGS2N）为主线，
 本届课堂幻灯（码 LGS2S）作同期旁证；讲义与幻灯一致时以讲义条文为主，两说不一者一律并列并登记文末，不代用户裁决。
@@ -330,6 +331,8 @@ flowchart TD
 > - 原则二 (a)(b)(c)〔LGS2N L267 "the police first have reasonable suspicion that the person to be arrested has committed an offence (since the search is incidental to a lawful arrest)"；LGS2N L269 "the scope and purpose of the search is truly incidental to the arrest"；LGS2N L269 "The officer must have a reasonable belief that one of the purposes for a valid search will be served"；LGS2N L271 "other than a cursory examination for filtering purpose, the scope of the detailed examination of the digital contents of a phone should be limited"〕
 > - 原则三 (d) 书面记录与副本（含「危及调查」例外）〔LGS2N L273 "a police officer should make an adequate written record of the purpose and scope of the warrantless search as soon as reasonably practicable"；LGS2N L273 "unless doing so would jeopardise the ongoing process of criminal investigation"；LGS2S L219 "Officers must record in writing the purpose and scope of warrantless search as soon as reasonably practicable"〕
 > - 原则四（拒绝提供密码）〔LGS2N L275 "The CA also affirmed that a police officer cannot compel an arrestee to provide their password"；LGS2N L275 "nor does the refusal to provide the password amount to obstruction of justice"；LGS2S L220 "Arrestee cannot be compelled to provide police with password; failure does not amount to obstruction of justice"〕
+==**【SG03录音补充｜密码拒绝后的两条路】** 教授对手机密码问题的补强：① 拒给密码**不构成**妨碍司法公正（与 *Sham Wing Kan* 口径一致）；② 警方实务上会走** forensic 专家破解**——法律上无披露义务与技术上行得通是两回事，给客户的意见要分开说；③ 客户**自愿**解锁手机而不交出密码是可行选项，但须属知情决定、非义务〔SG3CAP L260–280〕。==
+
 > - 图末 Slide 22 的实务提醒〔LGS2S L225 "although under the general criminal law, there may be no obligation on a suspect to provide the password to a locked phone"；LGS2S L226 "QN: how do you think the police deal with this in practice? Do they just give up?"〕
 
 ### 4.1 2026 最新口径：*HKSAR v Chan Ka Lok [2026] 1 HKLRD 1446*（有限同意 ≠ 概括搜查授权）
