@@ -41,9 +41,6 @@ ASSET_MAP = {
 }
 
 MAP = {
-    '00 Master/CR00 Overview & Flowcharts.md': ('master/cr00-overview-flowcharts.md', 'CR00 · 刑事诉讼全科总览、三维架构与程序图谱', 'PCLL8050 刑事诉讼全科总纲：全流程白话导引、三维生态位、审前与审中判后两张纵向状态机图、五大易混制度对比矩阵。'),
-    '00 Master/CR00 Deadlines & Case Matrix.md': ('master/cr00-deadlines-case-matrix.md', 'CR00 · 刑诉法定时限、条例连号解码与核心判例微故事矩阵', 'PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO 条例连号解码、核心判例微故事钩子速查矩阵。'),
-    '00 Master/CR00 Exam & SG Router.md': ('master/cr00-exam-sg-router.md', 'CR00 · 刑诉考场逆向题眼路由器 & SG01–SG08 复合战法拆解', 'PCLL8050 刑事诉讼考场题眼信号路由表、本届 SG01–SG08 任务红线总表与五大跨章复合大题标准答题套路。'),
     '01 Institutions/05 Institution - Bail.md': ('institutions/05-institution-bail.md', '05 · 保释制度体系（Bail）', 'PCLL8050 保释制度全景：s.9D 推定与 s.9G 拒保、警署及法庭保释、8 日上限、担保人、条件设计、违令与五阶段程序联动。'),
     '01 Institutions/06 Institution - Plea Advice and ONE Bind Over.md': ('institutions/06-institution-plea-bind-over.md', '06 · 答辩建议与准守行为制度（Plea & ONE）', 'PCLL8050 答辩意见、较轻替代认罪、O.N.E. bind over、Prosecution Code 10.6/10.7、Ngo Van Nam 与 Lam Kai Man 认罪折扣实务。'),
     '01 Institutions/07 Institution - Investigation Rights and Defence.md': ('institutions/07-institution-investigation-rights.md', '07 · 调查取证、羁押权利与辩方应对', 'PCLL8050 侦查阶段辩方权利：截停搜查、无令拘捕、法律代表、讯问记录、供词、48 小时提堂与警署会见策略。'),

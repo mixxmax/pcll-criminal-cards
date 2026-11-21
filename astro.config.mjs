@@ -360,31 +360,6 @@ export default defineConfig({
 
 							const pathname = window.location.pathname;
 							const CHECKLISTS = {
-								'cr00-overview-flowcharts': {
-									title: '总览与流程图清单', badge: '4项核心',
-									items: [
-										{ label: '全流程白话导引', en: 'Plain-Language Guide', href: '#模块-1全流程一段话白话总导引' },
-										{ label: '三维生态位总表', en: 'Three-Dimension Map', href: '#模块-2刑诉全科卡片三维生态位总表' },
-										{ label: '纵向状态机图', en: 'State Machine Diagrams', href: '#模块-3全流程纵向状态机图' },
-										{ label: '五大易混制度对比', en: 'Comparison Matrix', href: '#模块-4五大高频易混制度横向对比矩阵' },
-									]
-								},
-								'cr00-deadlines-case-matrix': {
-									title: '时限与判例矩阵清单', badge: '3项核心',
-									items: [
-										{ label: '全流程死线联动大表', en: 'Deadline Master Table', href: '#模块-1全流程死线联动大表' },
-										{ label: '条例连号解码', en: 'Ordinance Decoder', href: '#模块-2四大核心条例连号解码' },
-										{ label: '核心判例微故事矩阵', en: 'Case Story Matrix', href: '#模块-3核心判例微故事矩阵' },
-									]
-								},
-								'cr00-exam-sg-router': {
-									title: '考场路由与 SG 清单', badge: '3项核心',
-									items: [
-										{ label: '题眼信号路由器', en: 'Fact-Signal Router', href: '#模块-1考场逆向题眼信号--制度--攻防动作路由器' },
-										{ label: 'SG01–SG08 任务红线', en: 'SG Task Map', href: '#模块-2sg01sg08-任务与红线总表' },
-										{ label: '跨章复合大题套路', en: 'Cross-Chapter Playbooks', href: '#模块-3五大跨章复合大题标准答题套路' },
-									]
-								},
 								'co00-master-overview': {
 									title: '全景总纲核验清单', badge: '6项核心',
 									items: [
@@ -640,9 +615,6 @@ export default defineConfig({
 						{ label: 'CO02 · 核心程序流程图索引', slug: 'master/co02-procedural-flowcharts' },
 						{ label: 'CO03 · 历年试题考点矩阵', slug: 'master/co03-past-paper-matrix' },
 						{ label: 'CO04 · SG 研习进度与跨组对比', slug: 'master/co04-sg-progression' },
-						{ label: 'CR00 · 刑事诉讼全科总览与程序图谱', slug: 'master/cr00-overview-flowcharts' },
-						{ label: 'CR00 · 刑诉法定时限与判例矩阵', slug: 'master/cr00-deadlines-case-matrix' },
-						{ label: 'CR00 · 刑诉考场路由与 SG 战法', slug: 'master/cr00-exam-sg-router' },
 					],
 				},
 				{
