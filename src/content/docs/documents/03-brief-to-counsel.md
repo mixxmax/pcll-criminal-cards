@@ -68,8 +68,9 @@ Brief to Counsel 来自香港**分业制度**：事务律师（solicitor）管�
 
 ## 参考范例与 precedent
 
-- 本届范例：`01 SG/SG04 Aspects of Trial Process & Drafting a Br/04 Litigation Exercise 1 - Model Brief to Counsel.md`（附 docx）
-- 往届官方指引：`05 Base Prior-year SG/[SG04] .../00 Official/crim.pro.guidelines.brief.counsel.2025.md`（SG4GL 评分坐标）
+- 本届范例：[📄 Model Brief docx](/pcll-criminal-cards/files/documents/sg04-model-brief.docx)（＋md 正文；[📄 5-page 实验版 docx](/pcll-criminal-cards/files/documents/sg04-model-brief-5pages.docx)）
+- 本届官方指引：[📄 Brief to Counsel Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-brief-counsel-2026.docx)
+- 往届 precedent：[📄 Precedent Brief A pdf](/pcll-criminal-cards/files/documents/prior-precedent-brief-a.pdf)、[📄 Brief Guidelines 2025 docx](/pcll-criminal-cards/files/documents/prior-guidelines-brief-2025.docx)（往届仅方法参考）
 - 任务书设定（当事人身份、程序阶段、条件性认罪指示等）以当届 Exercise 题面为准
 
 ## 起草自检清单

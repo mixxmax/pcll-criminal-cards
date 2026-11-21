@@ -3,8 +3,42 @@ import os
 import re
 from pathlib import Path
 
-SOURCE_ROOT = Path('/Users/xiezhijie/Desktop/pcll课程/Criminal Litigation (PCLL8050)/03 Condensation')
+COURSE_ROOT = Path('/Users/xiezhijie/Desktop/pcll课程/Criminal Litigation (PCLL8050)')
+SOURCE_ROOT = COURSE_ROOT / '03 Condensation'
 TARGET_ROOT = Path('/Users/xiezhijie/pcll-criminal-starlight/src/content/docs')
+ASSETS_DIR = Path('/Users/xiezhijie/pcll-criminal-starlight/public/files/documents')
+SITE_BASE = '/pcll-criminal-cards'
+
+# Files published for download. Key: path relative to COURSE_ROOT. Value: public filename.
+ASSET_MAP = {
+    '01 SG/SG02 Research, Letter of Advice, O.N.E. Bind/05 Exercise 2(a)(ii) - Letter of Advice - Jeff Sham.docx': 'sg02-letter-of-advice.docx',
+    '01 SG/SG02 Research, Letter of Advice, O.N.E. Bind/06 Exercise 3 - Post-interview ONE Letter - Willy Ma.docx': 'sg02-one-bind-over-letter.docx',
+    '01 SG/SG04 Aspects of Trial Process & Drafting a Br/04 Litigation Exercise 1 - Model Brief to Counsel - Willy Ma.docx': 'sg04-model-brief.docx',
+    '01 SG/SG04 Aspects of Trial Process & Drafting a Br/04 Litigation Exercise 1 - Model Brief to Counsel - Willy Ma - EXPERIMENT 5 Pages.docx': 'sg04-model-brief-5pages.docx',
+    '01 SG/SG05 Case Preparation: s.65B Statements and s/04 Exercise 3 - Revised Admitted Facts and Explanation.docx': 'sg05-revised-admitted-facts.docx',
+    '01 SG/SG05 Case Preparation: s.65B Statements and s/PRECEDENT ADMITTED FACTS s. 65 C.docx': 'precedent-admitted-facts-65c.docx',
+    '01 SG/SG05 Case Preparation: s.65B Statements and s/Prosecution Draft Admitted Facts (1 September 20XX).pdf': 'prosecution-draft-admitted-facts.pdf',
+    '01 SG/SG06 Pre-Trial and Trial Issues (Objection to/05 Exercise 4 - John Lace - Practice Draft Notice.docx': 'sg06-practice-draft-notice.docx',
+    '01 SG/SG08 Appeals: Review Against Conviction & Sen/03 Exercise 2 - Jeff Sham Appeal Letter.docx': 'sg08-appeal-letter.docx',
+    '01 SG/SG08 Appeals: Review Against Conviction & Sen/05 Exercise 4 - John Lace Research Chart.docx': 'sg08-lace-research-chart.docx',
+    '01 SG/SG08 Appeals: Review Against Conviction & Sen/06 Exercise 4 - John Lace Memorandum.docx': 'sg08-memorandum.docx',
+    '05 Base Prior-year SG/[SG02] Research, Letter of Advice, O.N.E. Bind Over/00 Official/8050 SG2 ONEBO Instructions.docx': 'prior-onebo-instructions.docx',
+    '05 Base Prior-year SG/[SG02] Research, Letter of Advice, O.N.E. Bind Over/00 Official/Precedent Bind Over 2.pdf': 'prior-precedent-bind-over-2.pdf',
+    '05 Base Prior-year SG/[SG02] Research, Letter of Advice, O.N.E. Bind Over/Set 1/1_Letter of Advice.docx': 'prior-loa-set1.docx',
+    '05 Base Prior-year SG/[SG02] Research, Letter of Advice, O.N.E. Bind Over/Set 1/2_O.N.E. Bind Over Letter.docx': 'prior-onebo-set1.docx',
+    '05 Base Prior-year SG/[SG04] Aspects of Trial Process & Drafting a Brief to Counsel/00 Official/Precedent Brief to Counsel A.pdf': 'prior-precedent-brief-a.pdf',
+    '05 Base Prior-year SG/[SG04] Aspects of Trial Process & Drafting a Brief to Counsel/00 Official/crim.pro.guidelines.brief.counsel.2025.docx': 'prior-guidelines-brief-2025.docx',
+    '05 Base Prior-year SG/[SG05] Case Preparation: s.65B Statements and s.65C Admitted Facts/00 Official/PRECEDENT ADMITTED FACTS s. 65 C.docx': 'prior-precedent-admitted-facts.docx',
+    '05 Base Prior-year SG/[SG06] Pre-Trial and Trial Issues (Objection to Confession)/00 Official/Precedent Notice of Objection to Admissibility SGS 6.docx': 'prior-precedent-notice-sgs6.docx',
+    '05 Base Prior-year SG/[SG06] Pre-Trial and Trial Issues (Objection to Confession)/00 Official/Guidelines for Drafting a Notice of Objection to the Admissibility of a Confession REVISED (Set 1).docx': 'prior-guidelines-notice-set1.docx',
+    '05 Base Prior-year SG/[SG06] Pre-Trial and Trial Issues (Objection to Confession)/00 Official/Guidelines for Drafting a Notice of Objection to the Admissibility of a Confession REVISED (Set 3).docx': 'prior-guidelines-notice-set3.docx',
+    '05 Base Prior-year SG/[SG06] Pre-Trial and Trial Issues (Objection to Confession)/00 Official/SG6 - Objection to Admissibility (SAMPLE).pdf': 'prior-sample-objection.pdf',
+    '05 Base Prior-year SG/[SG08] Appeals: Review Against Conviction & Sentence/00 Official/UK School of Law on Drafting Grounds of Appeal for SGS 8.pdf': 'prior-uk-grounds-of-appeal.pdf',
+    '06 Base Exam Notes/00 This Year Marksheets 2026/Guidelines for Drafting a Notice of Objection to the Admissibility of a Confession 2026.docx': 'guidelines-notice-objection-2026.docx',
+    '06 Base Exam Notes/00 This Year Marksheets 2026/crim.pro.guidelines.ONE.BO.letter.2026.docx': 'guidelines-one-bo-letter-2026.docx',
+    '06 Base Exam Notes/00 This Year Marksheets 2026/crim.pro.guidelines.brief.counsel.2026.docx': 'guidelines-brief-counsel-2026.docx',
+    '06 Base Exam Notes/00 This Year Marksheets 2026/crim.pro.guidelines.client.letter.2026.docx': 'guidelines-client-letter-2026.docx',
+}
 
 MAP = {
     '00 Master/CR00 Overview & Flowcharts.md': ('master/cr00-overview-flowcharts.md', 'CR00 · 刑事诉讼全科总览、三维架构与程序图谱', 'PCLL8050 刑事诉讼全科总纲：全流程白话导引、三维生态位、审前与审中判后两张纵向状态机图、五大易混制度对比矩阵。'),
@@ -31,9 +65,40 @@ MAP = {
 }
 
 
+def copy_assets() -> None:
+    import shutil
+    ASSETS_DIR.mkdir(parents=True, exist_ok=True)
+    for rel, public_name in ASSET_MAP.items():
+        src = COURSE_ROOT / rel
+        if not src.exists():
+            raise SystemExit(f'Missing asset source: {src}')
+        shutil.copy2(src, ASSETS_DIR / public_name)
+    print(f'copied {len(ASSET_MAP)} asset files -> {ASSETS_DIR}')
+
+
+def rewrite_asset_links(text: str, source_dir: Path) -> str:
+    """Rewrite markdown links that resolve to ASSET_MAP files into site download URLs."""
+    from urllib.parse import unquote
+    def repl(m: 're.Match') -> str:
+        label, target = m.group(1), m.group(2)
+        raw = target.strip()
+        if raw.startswith('<') and raw.endswith('>'):
+            raw = raw[1:-1]
+        resolved = (source_dir / unquote(raw)).resolve()
+        try:
+            rel = resolved.relative_to(COURSE_ROOT)
+        except ValueError:
+            return m.group(0)
+        if str(rel) in ASSET_MAP:
+            return f'[{label}]({SITE_BASE}/files/documents/{ASSET_MAP[str(rel)]})'
+        return m.group(0)
+    return re.sub(r'\[([^\]]+)\]\((<[^>]+>|[^)\s]+)\)', repl, text)
+
+
 def clean_obsidian_uri(text: str) -> str:
     text = re.sub(r'\[([^\]]*)\]\((?:obsidian|file)://[^)]*\)', lambda m: m.group(1), text)
-    text = re.sub(r'\[([^\]]*)\]\((?!https?://|mailto:)([^)#\s]+)(#[^)\s]+)?\)', lambda m: m.group(1), text)
+    # Keep http(s), mailto and root-relative site links (e.g. /pcll-criminal-cards/files/...).
+    text = re.sub(r'\[([^\]]*)\]\((?!https?://|mailto:|/)(<[^>]+>|[^)#\s]+)(#[^)\s]+)?\)', lambda m: m.group(1), text)
     text = re.sub(r'obsidian://[^\s)\]]+', '', text)
     text = re.sub(r'[ \t]+', ' ', text)
     return text
@@ -60,6 +125,7 @@ def clean_frontmatter(frontmatter: str) -> str:
 
 
 def main() -> None:
+    copy_assets()
     missing = []
     for source_rel, (target_rel, title, description) in MAP.items():
         source = SOURCE_ROOT / source_rel
@@ -77,6 +143,7 @@ def main() -> None:
         else:
             frontmatter, body = '', raw
         frontmatter = clean_frontmatter(frontmatter)
+        body = rewrite_asset_links(body, source.parent)
         body = clean_obsidian_uri(body)
         fm = f'title: "{title}"\ndescription: "{description}"'
         if frontmatter:

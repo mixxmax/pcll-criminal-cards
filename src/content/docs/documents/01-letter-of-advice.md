@@ -66,8 +66,9 @@ Letter of Advice 的功能是**把知情决定落到纸面**：律师把证据�
 
 ## 参考范例与 precedent
 
-- 本届范例：`01 SG/SG02 Research, Letter of Advice, O.N.E. Bind/05 Exercise 2(a)(ii) - Letter of Advice.md`（附 docx）
-- 往届任务与指示：`05 Base Prior-year SG/[SG02] Research, Letter of Advice, O.N.E. Bind Over/00 Official/`（往届仅方法参考）
+- 本届范例：[📄 Letter of Advice docx](/pcll-criminal-cards/files/documents/sg02-letter-of-advice.docx)（＋md 正文(ii)%20-%20Letter%20of%20Advice%20-%20Jeff%20Sham.md)）
+- 本届官方指引：[📄 Client Letter Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-client-letter-2026.docx)
+- 往届范例：[📄 Letter of Advice (Set 1) docx](/pcll-criminal-cards/files/documents/prior-loa-set1.docx)（往届仅方法参考）
 - 判例：*R v Hazeltine*、*HKSAR v Lee Y. Kern*（替代控罪折扣）；认罪折扣体系见 15 卡
 
 ## 起草自检清单

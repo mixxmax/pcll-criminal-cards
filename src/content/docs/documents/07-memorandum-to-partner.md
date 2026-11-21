@@ -73,9 +73,9 @@ description: "教授对判后内部备忘录的全部起草口径：理由评级
 
 ## 参考范例与 precedent
 
-- 本届范例：`01 SG/SG08 Appeals: Review Against Conviction & Sen/06 Exercise 4 - John Lace Memorandum.md`（附 docx）
-- 配套：`05 Exercise 4 - John Lace Research Chart.md`（争点研究表）
-- 往届：`05 Base Prior-year SG/[SG08] .../00 Official/SG 8.md`（往届仅方法参考）
+- 本届范例：[📄 Memorandum docx](/pcll-criminal-cards/files/documents/sg08-memorandum.docx)（＋md 正文）
+- 配套：[📄 John Lace Research Chart docx](/pcll-criminal-cards/files/documents/sg08-lace-research-chart.docx)（争点研究表）
+- 往届：[📄 UK Drafting Grounds of Appeal pdf](/pcll-criminal-cards/files/documents/prior-uk-grounds-of-appeal.pdf)（往届仅方法参考）
 - 判例：*Yuen Kwai Choi*、*R v Shippey*、*Chan Kwok Wah*、*Wai Sau Cheong*
 
 ## 起草自检清单

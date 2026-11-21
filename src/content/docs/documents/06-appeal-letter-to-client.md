@@ -69,8 +69,9 @@ description: "教授对判后客户上诉建议信的全部起草口径：reason
 
 ## 参考范例与 precedent
 
-- 本届范例：`01 SG/SG08 Appeals: Review Against Conviction & Sen/03 Exercise 2 - Jeff Sham Appeal Letter.md`（附 docx）
-- 往届：`05 Base Prior-year SG/[SG08] .../00 Official/SG 8.md`、`Template Appeal Analysis Chart 2024.md`（往届仅方法参考）
+- 本届范例：[📄 Appeal Letter docx](/pcll-criminal-cards/files/documents/sg08-appeal-letter.docx)（＋md 正文）
+- 本届官方指引：[📄 Client Letter Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-client-letter-2026.docx)
+- 往届：[📄 UK Drafting Grounds of Appeal pdf](/pcll-criminal-cards/files/documents/prior-uk-grounds-of-appeal.pdf)（往届仅方法参考）
 - 判例：*Yuen Man Tung*、*Poon Hoi Wing*、*Yuen Kwai Choi*、*R v Shippey*
 
 ## 起草自检清单

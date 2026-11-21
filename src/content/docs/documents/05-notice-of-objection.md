@@ -97,9 +97,9 @@ description: "教授对供认可采性反对通知书的全部起草口径：结
 
 ## 参考范例与 precedent
 
-- 本届指引：`06 Base Exam Notes/00 This Year Marksheets 2026/Guidelines for Drafting a Notice of Objection to the Admissibility of a Confession 2026.md`（GD26，评分基准）
-- 本届范例：`01 SG/SG06 Pre-Trial and Trial Issues (Objection to/05 Exercise 4 - Notice of Objection to Confession.md`（附 practice draft docx）
-- 往届 precedent：`05 Base Prior-year SG/[SG06] .../00 Official/Precedent Notice of Objection to Admissibility SGS 6.md`、`SG 6.md`（往届仅方法参考；注意往届页数等要求未必适用于本届）
+- 本届官方指引：[📄 Notice of Objection Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-notice-objection-2026.docx)（GD26，评分基准）
+- 本届范例：[📄 Practice Draft Notice docx](/pcll-criminal-cards/files/documents/sg06-practice-draft-notice.docx)（＋md 正文）
+- 往届 precedent：[📄 Precedent Notice SGS6 docx](/pcll-criminal-cards/files/documents/prior-precedent-notice-sgs6.docx)、[📄 Sample Objection pdf](/pcll-criminal-cards/files/documents/prior-sample-objection.pdf)、[📄 Revised Guidelines Set 1 docx](/pcll-criminal-cards/files/documents/prior-guidelines-notice-set1.docx)、[📄 Revised Guidelines Set 3 docx](/pcll-criminal-cards/files/documents/prior-guidelines-notice-set3.docx)（往届仅方法参考；往届页数等要求未必适用于本届）
 - 判例：*Deokinanan v R* [1969] 1 AC 20；*Chau Ching Kay* (2002) 5 HKCFAR 540；*SJ v Lam Tat Ming*
 
 ## 起草自检清单

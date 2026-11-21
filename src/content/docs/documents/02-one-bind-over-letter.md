@@ -69,9 +69,10 @@ description: "教授对 bind over 申请信的全部起草口径：WP 性质、�
 
 ## 参考范例与 precedent
 
-- 本届范例：`01 SG/SG02 Research, Letter of Advice, O.N.E. Bind/06 Exercise 3 - Post-interview ONE Letter.md`（附 docx）
-- 往届 precedent：`05 Base Prior-year SG/[SG02] .../00 Official/Precedent Bind Over Letter 1.md`、`Precedent Bind Over 2.md`、`8050 SG2 ONEBO Instructions.md`（往届仅方法参考）
-- 依据：MO ss.36/61；Prosecution Code 10.6–10.7
+- 本届范例：[📄 O.N.E. Bind Over Letter docx](/pcll-criminal-cards/files/documents/sg02-one-bind-over-letter.docx)（＋md 正文）
+- 本届官方指引：[📄 ONE B/O Letter Guidelines 2026 docx](/pcll-criminal-cards/files/documents/guidelines-one-bo-letter-2026.docx)
+- 往届 precedent：[📄 Precedent Bind Over 2 pdf](/pcll-criminal-cards/files/documents/prior-precedent-bind-over-2.pdf)、[📄 ONEBO Instructions docx](/pcll-criminal-cards/files/documents/prior-onebo-instructions.docx)、[📄 ONE Letter (Set 1) docx](/pcll-criminal-cards/files/documents/prior-onebo-set1.docx)（往届仅方法参考）
+- 依据：s.109I CPO／MO s.61／普通法；Prosecution Code 10.6–10.7
 
 ## 起草自检清单
 

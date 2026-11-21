@@ -68,9 +68,9 @@ description: "教授对 s.65C 承认事实修订稿的全部起草口径：逐�
 
 ## 参考范例与 precedent
 
-- 本届范例：`01 SG/SG05 Case Preparation: s.65B Statements and s/04 Exercise 3 - Revised Admitted Facts and Explanation.md`（附 docx）
-- Precedent：`01 SG/SG05 .../PRECEDENT ADMITTED FACTS s. 65 C.md`（附 docx）；控方草稿：`Prosecution Draft Admitted Facts (1 September 20XX).md`
-- 往届：`05 Base Prior-year SG/[SG05] .../00 Official/PRECEDENT ADMITTED FACTS s. 65 C.md`（往届仅方法参考）
+- 本届范例：[📄 Revised Admitted Facts docx](/pcll-criminal-cards/files/documents/sg05-revised-admitted-facts.docx)（＋md 正文）
+- 本届 precedent：[📄 PRECEDENT ADMITTED FACTS s.65C docx](/pcll-criminal-cards/files/documents/precedent-admitted-facts-65c.docx)；控方草稿原件：[📄 Prosecution Draft Admitted Facts pdf](/pcll-criminal-cards/files/documents/prosecution-draft-admitted-facts.pdf)
+- 往届：[📄 Prior Precedent Admitted Facts docx](/pcll-criminal-cards/files/documents/prior-precedent-admitted-facts.docx)（往届仅方法参考）
 
 ## 起草自检清单
 
