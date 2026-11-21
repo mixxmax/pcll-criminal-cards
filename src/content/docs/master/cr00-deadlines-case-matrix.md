@@ -148,6 +148,25 @@ description: "PCLL8050 刑事诉讼全流程法定死线联动表、CPO/MO/DCO �
 | *Lau Wai-wo* | Bind Over 两种命令范围 | “keep the peace”必须涉及人身或财产暴力、暴力威胁或可合理忧虑；“be of good behaviour”必须涉及犯罪行为、威胁或可合理忧虑；两种可并用但惯例式并用不再继续 | 定罪后 bind over |
 | *Ngai King Ying* | PO 条件不得是 keep peace | PO 条件不得是“keep peace + good behaviour”，否则与 bind over 混淆 | PO 条件设计 |
 | *Chan Man-yum* | 杀婴母患两极障碍 CA 维持感化 | 重罪一般不必取报告（浪费），但例外真例外——杀婴母患两极障碍，CA 维持感化 | PO 适用性 |
+| *DPP v Ping Lin* [1976] AC 574 | 自愿性判例起点 | 供认非自愿（压迫、威胁、利诱、欺诈致失自由意志）即不可采；控方 BRD 证明自愿 | 挑战警诫供词第一步 |
+| *Deokinanan v R* [1969] 1 AC 20 | 权势人士两肢测试 | PIA 须对检控程序有实权或被告合理相信其有——商场保安、普通安检员不是 | Notice of Objection 先过 PIA 关 |
+| *Chau Ching Kay v HKSAR* (2002) 5 HKCFAR 540 | 自愿性两段式＋自生利诱 | 先问有否失当行为、再问是否致非自愿；被告主动提换好处而警方未回应＝自生利诱亦可成立 | 供认挑战事实分析 |
+| *Thongjai v R* [1997] HKLRD 678 | "我没说但他们逼我"双重抗辩 | 否认作供＋指称不当取得（double-barrelled）= 必须开 voir dire；单纯否认只是他的词对警员的词，不开 | 决定是否须 voir dire／AP |
+| *HKSAR v Pun Kit Fai* [2000] HKCFI 337 | 求情语不是供认 | 向警员讨价还价"给次机会"是 plea for mercy 而非 admission——先定陈述性质再选攻击轨 | 街头陈述可采性争议 |
+| *Fung Wing Ching* [1998] 2 HKLRD 736 | 实质羁留即须警诫 | 执行中的限制自由达到 de facto 羁留即触发警诫义务，不等到正式拘捕 | 警诫时点攻击 |
+| *R v Leung Kit-ling* [1987] HKLY 285 | 压迫的消散（dissipation） | 前份受压供认的污染看时距／同一警员／被告特质而可消散，后份可单独可采 | 多份供词逐份攻击 |
+| *R v Mushtaq* | 进了门仍可争重量 | 供认裁定可采后，法官须指示陪审团若认为可能受压取得致不可靠应置之不理 | voir dire 后陪审团指引 |
+| *HKSAR v Lam Chun Man* [2017] HKCA 368 | 证人备召≠随传随到 | 控方披露"证人可传召"义务随审级与程序形态而异——CFI 公诉书背面名单即承诺 | 披露与证人可用性 |
+| *R v Ko Po Kun* [1989] 2 HKLR | 开案泄露"调查中"须散陪审团 | 开案陈词透露被告是警方调查对象等不可采事实、偏见救不回→应解散陪审团 | 开案反对与救济选择 |
+| *R v Li Chun Choi* [1990] 1 HKLR 665 | 轻微偏溢纠正指引即可 | 开案偏溢若可用 direction 消掉，不须解散——与 Ko Po Kun 构成两档分界 | 同上 |
+| *DPP v Boardman*＋*Zabed Ali* | SFE 证明力对偏见总框架 | 类似事实证据准入=特定争点上的证明力是否压过坏品格偏见；*Noor Mohamed*（排除）对 *Lau Pui*（准入）作两向例 | 类似事实证据攻防 |
+| *R v Shippey* | 不得只挑甜枣 | 裁断者必须看控方案情整体，不得"pick out the plums and leave the duff" | NCTA 与定罪上诉 ground |
+| *HKSAR v Yuen Kwai Choi* (2003) 6 HKCFAR 113 | 说谎指引对裁判官同样适用 | 指控被告说谎而未给标准 lies direction 是可攻的错误；指引非陪审团专属 | 定罪上诉 ground |
+| *Yuen Man Tung*＋*Poon Hoi Wing* | 混合陈述拆读即错 | mixed statement 整份入证，裁断者只计入罪部分、丢开免责解释属法律错误 | 定罪上诉 ground |
+| *HKSAR v Chan Kau Tai* (2006) 1 HKLRD 400 | 动摇证人六问 | 能实质动摇控方证人可靠性的材料必须披露——披露的活测试 | 披露范围争议 |
+| *R v Keane* | 披露是持续义务 | 控方披露义务持续至审讯终结，新获材料须滚动评估 | 审中才发现的未披露 |
+| *HKSAR v Junaid Ahmed* [2018] HKCA 159 | Form 8 加刑锚点 | 贩毒等 Form 8 认罪减刑机制中 20 个月档位参照 | 量刑上诉计算 |
+| *Re SJ's Reference (2022) 5 HKLRD 886* | s.81AA 控方上诉 NCTA 裁定 | 2023 起控方可就 CFI 的 NCTA 终止裁定上诉（ss.81AA–AAJ CPO） | NCTA 战术下游评估 |
 | *Lacroix* | 不居港/将离港不宜 PO | 不居港或将离港者不宜判 PO | PO 适用性 |
 | *Yick Bing* | 绝症不宜 PO | 绝症患者不宜判 PO | PO 适用性 |
 | *Starie* | CSO 与缓刑原则上不并 | CSO 可代替或附加，但与缓刑原则上不并 | CSO 组合 |

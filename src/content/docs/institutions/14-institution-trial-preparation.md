@@ -505,6 +505,8 @@ proof 反映客户若出庭会说什么、以客户自己的语言书写（免�
 | 串供警觉 | 证人可能与客户串供——要考虑对证供的影响；并问"他为什么愿意帮忙"〔CR7PP L59 "Be aware there may be collusion with the client- consider the impact"〕 | CR7PP L59–L60 |
 | 不披露原则与例外 | 辩方取得的证人陈述不披露——**唯二例外**：alibi 证据与专家报告〔CR7 L280 "The only exceptions to this rule of defence disclosure is in respect of alibi evidence and the report of an expert."〕 | 见 0D.3 |
 
+==**【SG06录音补充｜2026-11-04】** 教授在 Brian Yip 取证题点出的《事务律师操守指引》三条直接禁令（本届 Professional Practice 还会再教，但取证时就要守）：**10.02** 荣誉代理客户职责、**10.03** 不得明知而误导法庭、**10.12** 不得篡改证人证据或唆使证人改供——"你要不要采纳他那个说法"式的提示即踩线。配套取证规程：① proof 必须在**被告不在场**时单独录取（Jeff 在场即被告方可被控方指控 coaching；两证人在场会互相迁就版本）；② 关键词是 **independent**——查证人与客户事后有否接触及频率；③ 取完 proof 先做损益清单（Brian 的 10 年前不诚实前科＋"something in his hands"含糊处）再定传召；④ 证人先后次序：被告原则上先作供，例外只到专家证人一档〔SG6REC L134–182 "principles 10.02…10.03…10.12 should not tamper with the evidence"、L190 "defendants always call first…expert witnesses"〕。
+
 ### 0D.3 辩方仅有的两项法定披露：alibi 通知与 s.65DA 专家证据
 
 **设置**：辩方一般无披露义务〔CR7 L280 "The only exceptions to this rule of defence disclosure is in respect of alibi evidence and the report of an expert."〕；若证人会提供 alibi 证据，须符合 alibi 通知的正式要求〔CR7 L282 "the formal requirements of an alibi notice need to be complied with"〕。

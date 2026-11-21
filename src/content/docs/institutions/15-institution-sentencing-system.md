@@ -134,6 +134,8 @@ SG课表安排:
 > | SG7A | SG07 Brief A Mohammed Q1–Q4 课堂答案 | 凝结层 | 2026-27 |
 > | SG7B | SG07 Brief B Donald Q1–Q3 课堂答案 | 凝结层 | 2026-27 |
 > | SG8C | SG08 Classroom（材料到货状态与大纲范围登记） | 凝结层 | 2026-27 |
+> | SG7REC | SG07课堂录音（Otter 2026-11-11，Brief A/B 教授讲授） | 本届讲义 | 2026-27 |
+> | SG8REC | SG08课堂录音（Otter 2026-11-18，上诉/复核教授讲授） | 本届讲义 | 2026-27 |
 > | OLD-LG8 | 往届（2025-26）LGS8 量刑讲义（1363 行；与本届大纲基本同构，差异见材料矩阵） | 往届官方 | 2025-26 |
 > | OLD-LG99 | 往届（2025-26）David Leung SC 嘉宾讲稿 Costs in Criminal Cases（645 行幻灯伴生 md；讼费规则库内唯一系统来源） | 往届官方 | 2025-26 |
 > | OLD-EXS | 往届学生稿·Set 2「Crim Lit - Sentencing」（55 行表格式应试笔记·非官方） | 往届学生稿 | 2025-26 |
@@ -263,6 +265,8 @@ flowchart LR
 | 通用结构 | 先处理报告 → 背景与案情 → 减轻因素 → 承认加重（如适当） → 提出可执行的刑罚请求（常备 plan B） | 引用判例非必须——除非是指引／tariff 罪（→0C）；未核记录别开口 | 〔CR8 L1331–L1341 "Deal with pre-sentencing reports at outset"〕 |
 
 **两条 TIP（讲堂口径）**：① 必核控方提供的刑事记录——**不要凭客户记忆**（客户常忘、常少报），并核他是否在 PO／CSO／缓刑的 operational period 内犯本案（→0H 违反处理）；② 核定罪对执业的影响（医生、护士、教师、保安等——查明相关条例对继续执业的影响）〔CR8 L1343 "clients frequently forget or underestimate"；CR8 L1345 "will he be prevented from continuing his employment"〕。
+
+==**【SG07录音补充｜2026-11-11】** 教授在 Mansari 量刑上诉题点破的"in HK"细节：s.65C 承认事实的锁定效力以**香港**为界——承认书写"no previous conviction in Hong Kong"不等于承认全球无前科；客户惯于夸大境外前科换取求情空间，辩方职责是**要求控方以刑事记录证明书核实**，境外记录无法证明时不写入承认事实。配套红线：已签的 s.65C 事实在上诉中**不得重开**（conclusive），所以签前必须逐字核——上诉时"当时事实签错了"救不回来〔SG7REC L562 "depends if it says a clear record in Hong Kong or not"〕。
 
 **认罪与 `Brief Facts` 的衔接（Newton Hearing 接口）**：被告当庭认罪仅代表承认控罪的法定构成要件；随后控方宣读《简短案情（`Brief Facts`）》要求被告确认。若被告承认罪名，但拒绝承认 `Brief Facts` 中直接影响量刑起点的关键加重情节（且控辩无法协商删改），法官为查明量刑事实基础，才须召开不设陪审团的 `Newton Hearing` 听取证人作供——程序本体见 13 卡，本卡只收其对量刑前提的影响。
 
@@ -495,6 +499,8 @@ xychart-beta
 先定各罪正确刑罚，**再**因总额减总和——确保不因同一罪行重复受罚、总刑期不致“crushing”；*Ngai Yiu-ching*：“the importance of the totality principle cannot be overstated”〔CR8 L176–L184 "should reflect the ‘totality’ of the Defendant’s criminality"〕。**已在服刑**：为不相关罪行服刑中者，新罪判刑同样适用 totality（*Lin Chi Man* [2024] 3 HKLRD 83）〔CR8 L184 "already serving a sentence of imprisonment for an unrelated offence"〕。未决案件（outstanding cases）可先向控方查明，必要时押后同场处理以保一致性与 totality 适用〔CR8 L138 "cases before other courts which are currently pending"〕。
 
 **算术示例（实务推演）**：被告两罪分别经起点与折扣后应判 2 年——若法院认为两罪事实关联但各自独立增加罪责，可采用 `partially concurrent`（部分并期）：两罪各判 2 年，命其中 1 年与另罪并期执行、另 1 年分期执行，实际执行合共 3 年而非 4 年（全分期 4 年过重、全并期 2 年过轻，法官不压低单项起点而调执行方式）；若两罪属同一交易且罪责轻微，则可全部并立、实际只服较长的 2 年。总额检验的落点永远是"实际执行年限"而非"判词上的年数相加"——这正是求情时必须正面计算并陈述的数字。 〔CR8 L174–L184 "The Totality principle ensures the Defendant is not punished twice"〕
+
+==**【SG07录音补充｜2026-11-11】** 教授把 totality 上诉点拆成两步写：① **先引权威定原则**——*HKSAR v Brian Alfred Hall* [2013] 5 HKC 202（同一交易原则：属一宗连续事件的罪行并期执行是默认起点，分期须交代理由）与 *HKSAR v Ngai Yiu Ching* [2011] 5 HKLRD 619（"cannot be overstated"）；② **再落到本案数字**——指出法官未合并计算、未说明分期理由即构成可上诉的原则错误，别只写"刑期过重"。Form 8 加刑锚点顺带登记：*HKSAR v Junaid Ahmed* [2018] HKCA 159 的 20 个月档位〔SG7REC L534–542 "totality needs to be taken into account…failed to consider"、L562〕。==
 
 ### 0G.3 T.I.C.（一并考虑）
 
@@ -994,7 +1000,9 @@ SG08 围绕判后救济展开，涉及 Jeff Sham（MC→CFI 定罪与刑期上�
 | **C 抗住加刑与总刑** | 判后总刑不过界 → 并串主张 → totality → s.27 程序点 | 断环：求情不处理并串（0G）＋OSCO 不回应（0F.5）。对策：求情稿内置三行：one transaction 面／crushing 面／加幅比例面 | 0G、0F、0N 行 7/9 |
 | **D 判后救济** | 减刑或撤费 → arguable 理由 → 时限 → 记录 | 断环：判词无破绽却求“再评一次”——无 merit 风险。s.83W／讼费风险。对策：不达标用 Form VII 尽早放弃，量力而行 | 0L、0N 行 13/14 |
 
-## 审计留痕：材料矩阵、待核事项与历史修订记录
+## 审计留痕
+
+> 2026-11-21：SG07 录音（SG7REC）s.65C「in HK」境外前科口径熔合至 0B.5；totality 上诉两步写法（*Hall*／*Ngai Yiu Ching*＋*Junaid* Form 8 锚）熔合至 0G.2；图例补 SG7REC／SG8REC。：材料矩阵、待核事项与历史修订记录
 
 > 本区收纳全部校对史、溯源装置、未决事项与材料边界；内部子标题一律四级标题，不入 TOC 主树。正文只保留核准后的现行规则。
 

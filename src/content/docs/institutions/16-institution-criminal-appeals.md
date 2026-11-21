@@ -161,6 +161,7 @@ flowchart TD
 > | SG08 | 本届 SG08 官方题面与课堂讨论（00 Classroom.md / 02 Classroom Discussion.md） | 本届官方研讨 | 2026-27 |
 > | SG08-CH | 本届 SG08 Willy Ma 上诉分析表（04 Exercise 3 - Willy Ma Appeal Analysis Chart.md） | 本届官方研讨 | 2026-27 |
 > | SG08-RES | 本届 SG08 法律研究与法源核查（07 Shared Research and Source Check.md） | 本届官方研讨 | 2026-27 |
+> | SG8REC | SG08课堂录音（Otter 2026-11-18，grounds 评级/程序/保释/讼费教授口径） | 本届讲义 | 2026-27 |
 <!-- END:cite-legend -->
 
 ---
@@ -181,6 +182,8 @@ flowchart TD
 1. **上诉与复核的排他性规则（MO s.104(9)）**：依据《裁判官条例》第 104(9) 条明文规定，若上诉人已经针对该裁判官的决定向高等法院原讼法庭正式提交了上诉通知书，原审裁判官即被剥夺进行复核的法定管辖权，除非上诉人先正式向法庭撤回已递交的上诉通知书〔CR10 L239；OLD-EX3AP L1705〕。因此，辩方律师若评估同时存在复核与上诉的必要，**必须采取“先走 s.104 复核，复核不成再走 s.113 上诉”的严谨先后顺序**；
 2. **定罪与刑期的可分性（*HKSAR v Chan Pak Hoe Pablo* [2012] 4 HKC 536）**：在 *Chan Pak Hoe Pablo* 案中，上诉法庭明确确立：定罪与判刑属于两个独立的司法裁决。如果被告人仅仅针对“定罪”向高等法院提出了上诉，并不会剥夺裁判官依据 s.104 对其“刑期”主动行使自行复核的权力〔CR10 L249；OLD-EX3AP L1711–L1713〕；
 3. **拒绝复核不得直接上诉（MO s.104(10)）**：若裁判官在收到申请后行使裁量权拒绝进行复核，或者在复核后维持原判，当事人依据第 104(10) 条**绝对不得将“裁判官拒绝复核”这一行为本身作为上诉对象**。当事人唯一可行的救济，是直接针对裁判官最初作出的“原判决或原刑罚”依据 s.113 提出上诉，提出上诉的 14 日时限自裁判官正式作出复核决定或明确拒绝复核之日起重新起算〔CR10 L241–L245；OLD-EX3AP L1717–L1719〕。
+
+==**【SG08录音补充｜2026-11-18】** 教授实务口径：申请 s.104 复核的**同时**就应着手准备 s.113 上诉通知书——复核与上诉共用同一份案情评估，等复核被拒再起草等于白烧 14 日窗口；且复核是**同一位裁判官自审**，对"推翻自己"先天保守，实务预期值要低，真正的争点战场在 s.113〔SG8REC L290（"already preparing a notice…"）〕。==
 
 ---
 
@@ -488,6 +491,8 @@ flowchart TD
 
 ---
 
+==**【SG08录音补充｜2026-11-18】** 教授对 Jeff Sham 八条 grounds 的评级口径与起草纪律：① **先过 reasonable grounds 门槛**——"想上诉"不等于"有可争论理由"，memo 里每条必须评 Strong/Reasonable/Weak 并给理由；② **证据可采性攻击要全案看**——裁判官挑着信、漏看控方案情整体即 *R v Shippey* 错误（"pick out the plums and leave the duff"），不能只引片段失衡；③ **mixed statement 被拆读**（只算入罪部分不算自卫解释）是独立法律错误，对应 *Yuen Man Tung*／*Poon Hoi Wing* 线；④ **lies direction 缺失**——被告被指控说谎时未按 *HKSAR v Yuen Kwai Choi* (2003) 6 HKCFAR 113 给标准指引即可攻，且该指引**对裁判官同样适用**（不止陪审团）；⑤ **clear record／good character 应主动端上台面**——一审不提等于放弃一个求情与可信性素材；⑥ **bias ground 改写**——不要写"法官有偏见"，写成"法官的干预／裁断方式产生了偏见的外观（appearance of bias）"，客观化才站得住〔SG8REC L30、L98–110、L118–186、L234〕。
+
 ### 0E.5 控方的最终抗辩与辩方破解：CPO s.83(1) Proviso 但书条款
 
 #### (1) 现实场景与制度动机（Why & Scenario）
@@ -688,11 +693,15 @@ flowchart TD
 
 ---
 
+==**【SG08录音补充｜2026-11-18】** 教授的候审保释操作次序：**先看胜算再谈保释**—— merits 不过线，刑期再短也不开口；次序上先把上诉通知书递了再向书记查询保释排期（MC 轨被拒后走 CFI 单一法官，实务约 5 个工作日可上）；给客户写 advice 时用"extremely rare / truly exceptional"措辞，不写"一定能放"〔SG8REC L274 "the first thing you look at…merits"、L290〕。
+
 ### 0H.3 上诉阶段的诉讼费用裁决（Costs in Appeals）
 
 依据《刑事案件讼费条例》（CCCO, Cap. 492）第 13、14、15、16 条及第 19 条：
 1. **上诉成功者的辩方讼费原则**：上诉人若在上诉庭或原讼庭成功撤销定罪或下调刑期，依据 CCCO s.13 或 s.14，原则上有权获得法庭判给其二审全额诉讼费用（Costs of the appeal），除非控方能证明上诉人在上诉阶段存在恶意拖延或严重不当诉讼行为；
 2. **上诉失败者的控方讼费负担**：若上诉人的上诉申请被法庭认定显属滥诉、或在单一法官驳回后执意无理 Renew，上诉法庭依据 CCCO s.16 享有全权下令该上诉人向律政司支付惩罚性检控诉讼费用；若大律师或事务律师违规代理，直接承担个人 Wasted Costs Order〔OLD-LG99C L389；OLD-EXA L112〕。
+
+==**【SG07＋SG08录音补充｜2026-11-11／11-18】** 教授补的讼费细节：① **21 日死线**——对讼费命令上诉自**判刑日**起算 21 日（不是定罪日），文件是 Form XI＋notice of motion（两份分开的文件，notice of motion 载 grounds）；② **控方只能收回成本不能盈利**——*HKSAR v Chan Kwok Wah* [1999] 1 HKC 697 定上限为合理实际支出；③ **无罪被告不当然获讼费**——*HKSAR v Wai Sau Cheong* [2003] HKCFI 96：法庭可因被告自招嫌疑而拒给；④ **leave 机制的存在理由**是挡掉无胜算申请、节省法庭时间，Form XI 后还须主动推进排期〔SG7REC L570–578；SG8REC L562–594〕。==
 
 > **Exam / Advocacy / Drafting Formulation:**
 > "Application for Bail Pending Appeal under s.83R CPO / s.119 MO: Counsel submits that this is one of those truly exceptional cases where bail pending appeal should be granted under the principles laid down by the CFA in *Kissel v HKSAR*. Firstly, the appeal possesses substantial merits and a high probability of success, as demonstrated by the fundamental misdirection of law committed by the trial magistrate in reversing the statutory burden of proof. Secondly, there is an imminent and substantial risk that, given the short sentence of 5 weeks' imprisonment, the Appellant will have served the entirety of his sentence before the appeal can be listed for hearing before the CFI. In the absence of bail, any ultimate success on appeal would be rendered completely nugatory and illusory. Stringent conditions, including substantial cash surety and surrender of travel documents, are offered to eliminate any flight risk."
@@ -782,7 +791,8 @@ flowchart TD
 1. **严禁在不具备事实依据时凭空许诺保释**：导师明确强调，候上诉保释在普通法下极其罕见。在给客户写信时，绝不能轻率声称“你一定能获得保释”，必须向客户强调 *Kissel* 案确立的 Substantial merits 严苛门槛；
 2. **死线计算绝不能算错**：在考场上，若将裁判法院 14 日与区院 28 日混淆，或者遗漏了 CPO s.83Q(2) 判刑迟于定罪 7 日的顺延规则，文书将被直接扣除关键分数；
 3. **认罪案不可轻率上诉定罪**：针对认罪案件，除非证明存在 *Wong Chi Yuk* 六大无效情形，否则必须坚决劝阻客户上诉定罪，集中兵力攻打刑期；
-4. **文书语言必须中肯且客观**：在向合伙人汇报的 Memorandum 中，严禁使用煽情或夸大其词的辩护修辞，必须以客观、严谨、审慎的职业口吻对上诉理由评定为 Strong、Reasonable 或 Weak，展现专业大律师的法律判断力。
+4. **文书语言必须中肯且客观**：在向合伙人汇报的 Memorandum 中，严禁使用煽情或夸大其词的辩护修辞，必须以客观、严谨、审慎的职业口吻对上诉理由评定为 Strong、Reasonable 或 Weak，展现专业大律师的法律判断力；
+5. **录音新增口径（SG8REC 2026-11-18）**：① "5–6 周判监却不上诉"本身可疑——教授提示要反问当事人不上诉的真实原因；② bind over 不是刑罚，memo 写"判 bind over 以保护公众"等于把客户写成惯犯；③ Lace 案 flagrant incompetence 归属辩方大律师而非当事人，上诉时不能把策略失误写成客户责任；④ 陪审团用的 direction（lies／good character）对裁判官同样适用。**录音入库**：SG8REC 已按题分发至 02 Classroom Discussion 各 Exercise 节，教授口径熔合至本卡 0B.1／0E.4／0H.2／0H.3。
 
 ---
 

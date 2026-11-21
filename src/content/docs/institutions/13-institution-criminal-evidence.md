@@ -214,6 +214,8 @@ flowchart LR
 
 > | LAW21 | Criminal Litigation SG04 - Authorities Verification - 2026-10-21 | 库外法源 | 2026-27 |
 > | SG5REC | SG05课堂录音全文（2026-10-28） | 本届讲义 | 2026-27 |
+> | SG6REC | SG06课堂录音（Otter 2026-11-04） | 本届讲义 | 2026-27 |
+> | SG7REC | SG07课堂录音（Otter 2026-11-11） | 本届讲义 | 2026-27 |
 > | V6 | SG06法源与来源身份核验 | 库外法源 | 2026-27 |
 <!-- END:cite-legend -->
 
@@ -383,6 +385,8 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 **实务提示清单**（辩方自查）：看原件不看副本、查实体证物不只看清单、看完全部 unused material、主动及时提出披露请求、按案发时间实地视察〔CR6 L180–L188 "always examine the originals"〕。
 
+==**【SG06录音补充｜2026-11-04】** 教授补三条讲义没写死的口径：① **撤回控罪（withdraw）≠ 不提供证据（offer no evidence）**——前者是检控决定终止该罪，后者是到庭不传证据任由无罪裁决，程序后果与可否重启不同，写控方对策时须分开表述；② **持续检讨义务**：关键证人拒不出庭（PW1 赴日）这类事态发展要求控方重新评估证据强度，明知不稳仍强推可构成浪费公帑乃至 abuse of process，严重操纵证据者可踩 perverting the course of justice，并有专业纪律后果；③ **六点评价动摇证人**：*Chan Kau Tai* (2006) 1 HKLRD 400 给了"动摇证人可靠性的材料"清单式判断口径——披露材料能否使辩方在盘问中实质动摇证人，是 disclosure 义务的活测试，不是抽象可能〔SG6REC L78（withdraw 语境）、L102–118（penal/disciplinary 与 Keane 持续义务）〕。==
+
 ### 0B.9 不传召的警员：披露与传召
 
 **先分两条路。** 披露问材料是否影响实际争点；传召问何方可让证人到庭，以及可如何发问。未列名不让相关材料变得无关。确认处分性质，优先取得案中笔记、既往陈述、与诚信或取证相关的认定；无指向的整份人事档案不当然可取。敏感材料由法院审查。〔CR6 L128 "material which undermines the Prosecution’s case"〕；[检控守则 ch.12](https://www.doj.gov.hk/en/publications/prosecution_ch12.html)。
@@ -429,6 +433,8 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 **起草纪律**（LGS7 与讲义一致）：承认事实须全面如口头作证（照片：谁拍、何时、何地、拍什么）；客户书面同意并签名副本；双方大律师签署并注日期；可引 bundle 页码与已同意证物；PD 9.3／9.4 亦须遵〔CR6 L368–L378 "you must ensure that they are comprehensive"；CR7 L290–L330 "must comply with the formalities in s. 65B(2)"〕。**为何还承认**：省时省费收窄争点＋主动案件管理；拒绝承认一项其后不争之点，可被判处不利讼费后果〔CR6 L384–L390 "may suffer adverse costs consequences"〕。SG05 的 Exercise 2/3（Jeff Sham 案）是本条最直接的本届应用——**见 0K.2**；⚠️ 14 日反对期另有 PD 9.3 §5.3.7(2) 的 21 日说，冲突登记于 Deadlines 卡 F 节，本卡并列不裁决（SG05 Classroom 已注）。
 
+==**【SG06录音补充｜2026-11-04】** 教授在 Dennis Au 题点破 s.65B 的实务短板：它只解决"证据以书面入证"，**不解决证人可盘问**——辩方通常宁要证人亲身作供，故同意前要评估 s.65B(4) 仍可由任何一方或法庭传召该陈述人出庭；证人离港拒归（PW1 赴日）时 s.65B 对控方也不是万灵丹，因为陈述人不出庭仍有变数。远端出庭要分清两套制度：**TV link（s.79I CPO）是法定的海外证人视像作供通道**，须逐案申请且门槛高；疫情式 remote hearing（CRHO）则明文不涵盖刑事审讯（s.6(2)）——"远程出庭"在刑事端只剩 TV link 一途，不能混引〔SG6REC L70–78（传票与"撤回控罪"语境）〕。==
+
 
 ## 0D. 供认可采性的实体挑战
 
@@ -461,6 +467,8 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 
 **消散与因果**：先一份受压迫，后一份须在压迫已消散时才可采（*Leung Kit-ling*）；消散因素：相隔时间、是否同一批警员、被告年龄与特质（老弱者更易受影响）〔CR6 L688–L692 "consider (i) the length of time in between the oppression"〕。因果链三问：行为在供认前或当时？时距是否过长致影响消散？反正都会招（无因果）？〔CR6 L756–L758 "You must consider whether the “chain of causation” has been broken!"〕。出示同案被告的入罪陈述而不告知不可用来指证被告，本身不构成压迫（*Cheung Kwok Chung*）〔CR6 L694 "did not in itself amount to oppressive conduct"〕。催眠下的陈述非自愿不可采（*R v. Booher*，加拿大）〔CR6 L696 "a statement made under hypnosis is not admissible"〕。
 
+==**【SG07录音补充｜2026-11-11】** 教授补两个讲义表格没覆盖的边界判例：① **求情语不是供认**——Mansari 街头"给次机会我开局放贷簿记"这类向警员讨价还价的话，*HKSAR v Pun Kit Fai* [2000] HKCFI 337 定性为求情（plea for mercy）而非认罪承认，挑战时先问"这话的法律性质是 admission 还是 plea"，性质不同走不同攻击轨；② **不给食物饮水**属 Pol 153 r.7 及 PFO s.51 的基本待遇违反，可作非自愿/不公平素材，教授课堂明确确认（转写"no food or drink. No."即对提问的否定确认）；③ **警诫时点**——*Fung Wing Ching* [1998] 2 HKLRD 736：执行中的限制自由达到"实质羁留"即须警诫，不是等到正式拘捕；④ **消散（dissipation）**——*R v Leung Kit-ling* (unrep.) [1987] HKLY 285：第一份受压供认的污染不一定延续到第二份，看时距、同一警员与否、被告特质，第二份可单独可采〔SG7REC L82、L130、L262、L270〕。==
+
 ### 0D.4 剩余裁量三类
 
 两问顺序固定：(1) 自愿吗？不自愿 → 不可采；(2) 自愿但应否以剩余裁量排除？**不谈裁量，除非先裁定自愿**〔CR6 L708 "We do not talk about residual discretion unless the confession"〕。
@@ -483,6 +491,8 @@ PC para. 12.7：控方无义务披露**只与**辩方证人或被告可信性相
 ==**【SG05录音补充｜2026-10-28 44:28】** Jeff承认打人而解释自卫，应把混合陈述完整处理。可采mixed statement整份可证明其内容，免责部分权重仍须评价；“庭外自卫不能替代作供准备”不等于免责内容永远不能证明真确。 〔SG5REC L272 "a lot of it is hearsay"〕〔CR6 L612 "The whole of a mixed statement is admissible"〕==
 
 ==**【SG05录音补充｜2026-10-28 1:00:48】** “Jeff应作供”是结合本案主观恐惧、两次用力及证人表现的战术判断；先看全部材料是否已使自卫成为争点，最终选择可待控方案情结束及NCTA后作出，不把法律责任转给被告。 〔SG5REC L308 "after the close of the prosecution case"〕==
+
+==**【SG06录音补充｜2026-11-04】** 教授区分三个常被写混的层次：① **caution（警诫）≠ cautioned statement（警诫下陈述）**——警诫是程序告知，陈述才是证据；② **口头供认与"no comment"记录都可采**——"我无可奉告"被逐字记下同样呈堂，且沉默本身在特定情境可被评论（入罪力弱但要预案）；③ **入罪、免责、混合陈述三种**——inculpatory 纯入罪走供认例外入门，exculpatory 纯免责只能作佐证而非自证其真，**mixed statement 整份可采但免责部分权重打折**（*Poon Hoi Wing*；*Li Defan*：法官把混合陈述拆读只计入罪部分是错）〔SG6REC L198 "technically it is all hearsay…exceptions"、L206 "Lee Defan"〕。==
 
 ### 0D.6 司法伦理线
 
@@ -548,6 +558,8 @@ MC/DC 通常用 AP 而少见 voir dire（例外：供认是唯一证据时，或
 | PRESENTATION | 语法拼写正确；有标题、页码、格式工整；简明精确；用「alleged confession」等措辞；组织良好；签署大律师、注明日期、案名案号、**以 tramlines 标示反对对象**（区分 oral／PRCS／ROI／VRI／全部） | 〔GD26 L17 "what is being objected to in tramlines"〕 |
 
 **往届范本对照（往届仅参考，不是本届题面）**：往届 REVISED 指引与本届 GD26 三栏同构，并另加一行提示逐条指明可能违反的 R&D〔OLD-SG6G1 L19 "Specify with R&D which might have been breached"·往届仅参考〕。归档官方范本 *Lee Ka Ho*（ESCC 118/2018）——否认 para.6 一句＋押后至 11:53pm 断粮断水造 climate of oppression＋威胁拘捕其母与女友＋利诱「只是小事只罚款」＋违反 Direction 4（comfort）／principle (c)＋Direction 8（拒其致电律师）／Rules 4(d)＆5(a)（记录不实）〔OLD-SG6PRE L44–L72 "the ROI was obtained involuntarily and / or in breach"·往届仅参考〕；同页导师批注：「只写被指行为与结果，不写被告感受——感受须客观证成」〔OLD-SG6PRE L38–L42 "Only need to state what is the alleged act and the outcome"·往届仅参考〕。Set 3 应考稿 *Vu Thi Hoa*（DCCC 498/2024）示范**多对象反对**（口头供认＋ROI 一份 Notice）＋语言与食物／休息／Pol 153 迟发／96 分钟 8 问不合比例等「climate of oppression」累积写法，并把每项异议锚定到规则（Rule 2 迟警诫／Direction 6(a) 母语／Rules 4(e)(f)＆5(c) 读回与签署）〔OLD-SET3NO L22–L88 "they should be excluded in the exercise of the Judge’s residual discretion"·往届仅参考〕。**两份范本均带同一收尾备位制式**：primary 主张非自愿不可采，further and/or alternatively 请求以剩余裁量排除〔OLD-SG6PRE L72 "Further and / or alternatively the ROI should be ruled inadmissible in the exercise"·往届仅参考〕。
+
+==**【SG06＋SG07录音补充｜2026-11-04／11-11】** 教授对 Notice of Objection 的措辞纪律：① **threat 与 inducement 不可互替**——Lace 案"死在狱中"属威胁，"警告后放你回家"属利诱，各归各栏，写错栏扣分；② **写法律术语不要口语转述**——notice 里就该出现 "oppression""inducement""person in authority"，让法庭一眼看到法律构件；③ **不泄露实体抗辩**——通知书写供认可采性争议，不写自卫等案情防御（那是审讯内容）；④ **PIA 门槛先过**——Simon Chan 是商场保安不是 PIA（*Deokinanan* 两肢：对检控有控制权/被告合理相信其能左右程序），所以 Lace 段的失当行为攻击点落在安检员的**官方授权外观＋PTSD 利用**，而不是硬套 PIA；⑤ **R&Ds 不约束私人**——Rule 2/4 对象是警务人员，对保安员的盘问措辞要改走压迫/不公平轨道〔SG6REC L314–330（PIA 测试）、L338–358（inducement BRD）；SG7REC 前段 Lace 补课〕。
 
 ### 0E.7 程序状态机
 
@@ -621,6 +633,8 @@ stateDiagram-v2
 
 证人忘记在行列中认出谁：OC Parade 可证明当日行列中被告被指认（*Osbourne & Virtue*；*Tang Chi-Keung*）——其性质是证人记得认过人只忘记认谁，属 original evidence 非传闻后门；证人**完全不记得有指认**时能否引入，CA 有「最严重怀疑」（*Lam Wai Ming*，往届投影片注）〔CR6 L1024 "was admissible as it was evidence of identification other than identification in court"；OLD-LG6S L753 "expressing the “gravest of doubts” that Osbourne applied"·往届仅参考〕。今日行列多已录像，可避免此问题〔CR6 L1028 "such issues could also be resolved with the introduction of the video recording"〕。**庭上不得**要求被告按要求动作或展示身体部位以助比对（*SJ v. Wong Chi Wing*：露齿比对 CCTV → 定罪撤销；侦查阶段可要求配合，审讯中被告角色完全被动）〔CR6 L1030 "D’s role at trial is entirely passive"〕。
 
+==**【SG07录音补充｜2026-11-11】** Mansari 案的 dock ID 教训：证人案发现场只见**戴头套（balaclava）**劫匪、其后又在警方单独接触中被提示——两个污染叠加，dock ID 几乎没有证明力。教授口径：dock ID 是**最后手段**，控方应先穷尽 ID parade／group／confrontation／photo 各形态；已合理拒绝列队或找不到相似演员才有回旋空间，而"证人受污染"本身独立构成反对理由（与三许可并列的第零问）〔SG7REC L590 段前（dock ID／balaclava 讨论）〕。==
+
 ### 0F.6 易受伤害证人：四型 × 三程序＋CRHO
 
 Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序（控辩均可申请，对方可反对）：儿童（性虐案 <17；其他指明罪行 <14；s.79C 录像各加 1 岁；争龄时点——以**访谈时**与**作证时**为准，不以案发时：*Chim Hon Man* CFA）、精神上无行为能力人士（MHO 定义，可以包括被告）、恐惧证人（*Wong Kwai Nam* 三问：证据是否直接连结被告与罪行→恐惧是否合理；曾受或恐受威胁；被告会否因获准而受损——*See Wah Lun* 扩展：不必实际危险，害怕面对加害者即可）、指明性罪行事主（CO s.117(1)：强奸、非自愿肛交、猥亵侵犯及其未遂／助唆／煽惑；s.79B(4A) 2018 年加入）〔CR6 L440–L464 "Both the age of the child when the interview is conducted"〕。
@@ -645,7 +659,9 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 | 强度对偏见 | 分项看观察事实、专家报告、警方意见，并在陪审团退庭时裁定 | 死因不明的报告不能补出谋杀；警方怀疑不证明死亡原因，极易诱发坏品格推论 |
 | 出口 | 证明力足够才准入，并限制陪审团用途；否则回到本案独立证据 | 本题排除；可留 Phoebe 相关的现场、回收枕头证据 |
 
-[Zabed Ali（CFA 原判）](https://babelcite.com/case/25694)；〔CR5 L750 "what was the matter in issue"〕。B2 · R11 类似事实与验尸报告。
+[Zabed Ali（CFA 原判）](https://babelcite.com/case/25694)；〔CR5 L750 "what was the matter in issue"〕。
+
+==**【SG07录音补充｜2026-11-11】** 教授的 SFE 总纲：**先 *DPP v Boardman*＋*HKSAR v Zabed Ali* 定框架（证明力 vs 偏见之衡），再举两向判例**——*Noor Mohamed v R*（剔除：相似性不足以排斥巧合）对 *R v Lau Pui* [1966] HKLR 201（准入：相似点构成特定争点上的实质关联）；准入后陪审团只能按 SJD 31 号标准指引的限定用途使用。Donald Fan 题的答案形态即此结构：先写争点、再分向举两案、最后落本题结论〔SG7REC L590 段、L614 "a question of degree whether the evidence is of sufficient probative value"〕。==B2 · R11 类似事实与验尸报告。
 
 ## 0G. NCTA 与半程裁决
 
@@ -675,6 +691,8 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
 ### 0G.4 战术抉择清单
 
 提出前先问：是否有**要件性缺口**（如辨认成争却无辨认证据、无化验师证书证粉末）？XXN 是否已把控方证人打成「inherently weak／tenuous／riddled with inconsistencies」？**等待结案陈词是否更好**（届时控方须 BRD，门槛高得多）？陈词被驳回后结案陈词重提是否会被淡化？法官有无从提问透露的信号？客户与律师行的看法？**用判例 own words 造句**〔CR6 L1086–L1102 "Use the words and phrases from the case law to persuasive effect"〕。往届应考注：法官只拣有利证人片段而不看整体即误用测试（*R v Shippey*「pick out the plums and leave the duff」，往届仅参考）〔OLD-SET2EX L254 "The Trial J failed to apply the Galbraith test properly"·往届仅参考〕。另条提醒：结案阶段间接证据须是「only reasonable／irresistible」推论——比 NCTA 的「合理可能」高得多，两段门槛不要混〔CR6S L825 "if another reasonable inference can be drawn in D’s favour"〕。
+
+==**【SG06录音补充｜2026-11-04】** 教授的 NCTA 实战规则：**过半（>50%）把握才提**——提了就亮出辩方攻击地图，控方可能借结案陈词补漏（plug gaps）；被驳回不代表没价值，论点可在结案陈词重打（届时控方 BRD 门槛更高）；CFI 轨被驳回后控方还可经 s.81AA CPO 上诉终止裁定（2023 新机制，SJ Reference (2022) 5 HKLRD 886 定位），DC 轨另有 s.84 DCO 案件呈述通道——提之前把三条下游都算进胜率〔SG6REC L214、L230–234（Galbraith）、L306（s.84 部分）〕。==
 
 
 
@@ -750,13 +768,15 @@ Part 3A CPO（ss. 79A–79G）为四类证人提供经**许可**的特别程序�
  2. **轨二（Exercise 4）· John Lace 随堂实战文书**：
  - 越战老兵机场涉枪案（Cap. 238 s.13）；安检员作为权势人士（PIA）之压迫（利用 PTSD 与幼童哭泣恐吓“死在狱中”）与利诱（虚假承诺警务处警告后放行回家）；
  - **严格按照 2026 最新官方《Guidelines for Drafting a Notice of Objection》标准全额起草文书**（无案例法条引用、无实体抗辩泄露、三栏规范呈现）及法庭口头辩论词。现成成果：SG06 Ex 4 文书与口头辩论。
+- **录音入库（2026-11-21）**：SG06 课堂录音（SG6REC）已按题分发至四个 Exercise 文件的 `==` 高亮块，教授口径同步熔合至本卡 0C.5／0B.8／0D.5／0E.6／0G.4。
 - **工作层入口总览**：见 SG06 Classroom 与 SG06 Desk。
 
 ### 0K.4 SG07（11-11）【弹】：挑战证供——两 Brief 七问映射
 
 A1.1 · A1.2 · A1.3 · A2 · A3 · A4.1 · B1 · B2 · B3
 
-SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思与 ROI；A3 已拒列队，但现场的蒙面辨认／单人提示仍弱。B2 只用新增假设。
+- **录音入库（2026-11-21）**：SG07 课堂录音（SG7REC，前段实为 SG06 Lace 补课）已按题分发至 Brief A／B 各问，教授口径熔合至本卡 0D.3／0F.5／0F.8／0E.6 及陪审团解散块；B3（manslaughter plea credit）录音转写止于 1:29:56 无对应内容。
+- SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思与 ROI；A3 已拒列队，但现场的蒙面辨认／单人提示仍弱。B2 只用新增假设。
 
 
 ## 1. 第一性原理
@@ -883,6 +903,8 @@ SG07 全部题目与凝结层逐段映射。A1 分开威胁时序、两句意思
 **在容器内检出枪械。** Cap.238 s.24(1) 是由容器控制推定管有，(2) 是物件性质知识。*Royster* 及 *Mohammed Khan Shamim* 两项均是提证责任。反面证据够提出争议时，控方须排除合理怀疑。若争的是知道物件在包里，先承认或证明物件属性并不能解决知情。R4 Lace 枪械知识与推定。 ^sg08-knowledge
 
 SG08 对应口答
+
+==**【SG07录音补充｜2026-11-11】** 开案陈词偏见→解散陪审团的救济线（Brief B 对题）：控方开案把不可采事实讲给陪审团（Donald Fan 案透露"正被调查"），标准动作是**即时反对→请法官考虑 discharge jury**。两案定界：*R v Ko Po Kun* [1989] 2 HKLR（开案泄露被告是调查对象→应解散）与 *R v Li Chun Choi* [1990] 1 HKLR 665（轻微可补救的偏溢→纠正指引即可）——分界在"偏见能否被 direction 消掉"；请求前先算代价：解散=重审成本+控方已听完你的反对策略，short adjournment＋强指引常是更划算的中间档。开案边界本身见 Bar Code 10.50（只讲预期能证的证据）〔SG7REC L590 "discharge the jury…Kopoku…Lee Chun Choi…10 point 50 of the bar code"〕。
 
 ## 审计留痕：材料矩阵、待核事项与历史修订记录
 

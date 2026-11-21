@@ -53,9 +53,9 @@ description: "PCLL8050 刑事诉讼考场题眼信号路由表、本届 SG01–S
 | SG03 | 警署会见、转区域法院/交付 CFI、认罪协商 | 移交/交付程序、PI、认罪协商 → 08/12 卡 | 会见记录、移交申请、认罪协商纪要 | 勿忽视 PI 时限；须说明分流理由 |
 | SG04 | 审讯准备、Brief to Counsel、证据 | 审前披露、证据定型、文书 → 14 卡 | Brief to Counsel、证据清单 | 勿漏披露义务；须标注证据来源 |
 | SG05 | s.65B 陈述书与 s.65C 承认事实 | 书面供词、同意事实、反对程序 → 14 卡 | s.65B 反对通知、Admitted Facts | 勿忽视 14 日/送达时限；须说明反对理由 |
-| SG06 | Objection to Confession | 招认自愿性、排除程序 → 13 卡 | Notice of Objection、voir dire 申请 | 勿只说“不情愿”；须引诱供/威吓具体事实 |
-| SG07 | 挑战供词、上诉刑期与讼费 | 供词攻击、量刑上诉、讼费 → 13/15 卡 | 上诉通知书、讼费申请 | 勿混淆上诉理由与新证据；须分开论述 |
-| SG08 | 审判及审后程序、上诉/复核 | 判后救济双轨、上诉保释、loss of time → 15 卡 | Client letter、memo to partner | 勿推荐无 merit 上诉；须评估 loss of time 风险 |
+| SG06 | Objection to Confession | 招认自愿性、排除程序 → 13 卡 | Notice of Objection、voir dire 申请 | 勿只说“不情愿”；须引诱供/威吓具体事实；threat 与 inducement 分栏；PIA 先过 *Deokinanan* 两肢（保安员非 PIA）；withdraw≠offer no evidence |
+| SG07 | 挑战供词、上诉刑期与讼费 | 供词攻击、量刑上诉、讼费 → 13/15 卡 | 上诉通知书、讼费申请 | 勿混淆上诉理由与新证据；须分开论述；dock ID 先查污染再谈三许可；discharge jury 按 *Ko Po Kun*/*Li Chun Choi* 分档；totality 上诉须点名 *Hall*/*Ngai Yiu Ching* 及未说明分期理由 |
+| SG08 | 审判及审后程序、上诉/复核 | 判后救济双轨、上诉保释、loss of time → 15/16 卡 | Client letter、memo to partner | 勿推荐无 merit 上诉；须评估 loss of time；grounds 先过 reasonable grounds 并评 Strong/Reasonable/Weak；lies/good character 指引对裁判官同适用；讼费上诉 21 日自判刑日起；bind over 非刑罚；s.104 与 s.113 勿并行启动 |
 
 ## 模块 3：五大跨章复合大题标准答题套路
 
