@@ -661,6 +661,18 @@ export default defineConfig({
 						{ label: '16 · 刑事上诉与判后复核体系', slug: 'institutions/16-institution-criminal-appeals' },
 					],
 				},
+				{
+					label: '📄 文书起草层 (Documents)',
+					items: [
+						{ label: 'D01 · Letter of Advice 答辩建议信', slug: 'documents/01-letter-of-advice' },
+						{ label: 'D02 · O.N.E. Bind Over 申请信', slug: 'documents/02-one-bind-over-letter' },
+						{ label: 'D03 · Brief to Counsel 指示大律师书', slug: 'documents/03-brief-to-counsel' },
+						{ label: 'D04 · Revised Admitted Facts 承认事实', slug: 'documents/04-revised-admitted-facts' },
+						{ label: 'D05 · Notice of Objection 供认反对', slug: 'documents/05-notice-of-objection' },
+						{ label: 'D06 · Appeal Letter 上诉前景信', slug: 'documents/06-appeal-letter-to-client' },
+						{ label: 'D07 · Memorandum to Partner 备忘录', slug: 'documents/07-memorandum-to-partner' },
+					],
+				},
 			],
 		}),
 	],

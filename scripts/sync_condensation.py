@@ -21,6 +21,13 @@ MAP = {
     '01 Institutions/14 Institution - Trial Preparation and Documents.md': ('institutions/14-institution-trial-preparation.md', '14 · 备审准备、s.65B陈述书与审讯卷宗', 'PCLL8050 审讯准备与文书：案卷分析、Brief to Counsel、proof of evidence、s.65B/s.65C、披露、PTR/CMH 与审讯文件。'),
     '01 Institutions/15 Institution - Sentencing System.md': ('institutions/15-institution-sentencing-system.md', '15 · 量刑体系、求情指引与刑罚种类', 'PCLL8050 量刑体系：刑罚目的、起点法、认罪折扣、协助执法、s.27 OSCO、s.56A DDO、并串刑、附加命令、讼费与上诉互动。'),
     '01 Institutions/16 Institution - Criminal Appeals, Review & Case Stated.md': ('institutions/16-institution-criminal-appeals.md', '16 · 刑事上诉与判后复核体系', 'PCLL8050 刑事上诉与判后复核：裁判法院三轨救济、区院/原讼庭上诉庭许可、律政司刑期复核、案件呈述与终审法院上诉。'),
+    '02 Documents/01 Document - Letter of Advice.md': ('documents/01-letter-of-advice.md', 'D01 · Letter of Advice 答辩建议信', '教授对答辩建议信的全部起草口径：语气四戒、Sch.3 自查、折扣阶梯、s.51 替代控罪与批改反馈。'),
+    '02 Documents/02 Document - ONE Bind Over Letter.md': ('documents/02-one-bind-over-letter.md', 'D02 · O.N.E. Bind Over 申请信', '教授对 bind over 申请信的全部起草口径：WP 性质、措辞红线、赔偿 sweetener 与四条批改红线。'),
+    '02 Documents/03 Document - Brief to Counsel.md': ('documents/03-brief-to-counsel.md', 'D03 · Brief to Counsel 指示大律师书', '教授（阅卷人）对 Brief 的全部起草口径：事务律师自分析、materiality 测试、谦逊句式与形式细节。'),
+    '02 Documents/04 Document - Revised Admitted Facts.md': ('documents/04-revised-admitted-facts.md', 'D04 · Revised Admitted Facts 承认事实反建议稿', '教授对 s.65C 承认事实修订稿的全部起草口径：逐字核对、措辞陷阱、净稿操作与主动纳入。'),
+    '02 Documents/05 Document - Notice of Objection to Confession.md': ('documents/05-notice-of-objection.md', 'D05 · Notice of Objection 供认反对通知书', '教授对供认可采性反对通知书的全部起草口径：结论先行、逐句定性、PIA/自愿性/剩余裁量构件。'),
+    '02 Documents/06 Document - Appeal Letter to Client.md': ('documents/06-appeal-letter-to-client.md', 'D06 · Appeal Letter to Client 上诉前景信', '教授对判后客户上诉建议信的全部起草口径：reasonable grounds 门槛、强弱评级、刑期现实与保释操作。'),
+    '02 Documents/07 Document - Memorandum to Partner.md': ('documents/07-memorandum-to-partner.md', 'D07 · Memorandum to Partner 内部上诉备忘录', '教授对判后内部备忘录的全部起草口径：理由评级、表格死线、归属判断与建议纪律。'),
 }
 
 
