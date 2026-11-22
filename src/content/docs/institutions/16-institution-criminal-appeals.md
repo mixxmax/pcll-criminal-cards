@@ -162,6 +162,9 @@ flowchart TD
 > | SG08-CH | 本届 SG08 Willy Ma 上诉分析表（04 Exercise 3 - Willy Ma Appeal Analysis Chart.md） | 本届官方研讨 | 2026-27 |
 > | SG08-RES | 本届 SG08 法律研究与法源核查（07 Shared Research and Source Check.md） | 本届官方研讨 | 2026-27 |
 > | SG8REC | SG08课堂录音（Otter 2026-11-18，grounds 评级/程序/保释/讼费教授口径） | 本届讲义 | 2026-27 |
+> | R21 | LGS14 2021 主考讲评（文字伴生） | 本届官方 | 2026-27 |
+> | R22 | LGS14 2022 主考讲评（文字伴生） | 本届官方 | 2026-27 |
+> | L12N | LGS 12 Notes 2026 | 本届讲义 | 2026-27 |
 <!-- END:cite-legend -->
 
 ---
@@ -472,6 +475,7 @@ flowchart TD
  - **遗漏谎言指引（*Lucas* Direction）**：当被告人在审讯中被证明曾经说谎，法官未能依 *R v Lucas* [1981] QB 720 警告陪审团“嫌犯说谎可能有诸多原因（恐慌、保护他人、蒙羞），说谎并不自动等同于实施了犯罪”；
  - **遗漏良好品格指引（*Vye* Direction）**：对于无前科的良好品格被告人，法官未能依 *R v Vye* [1993] 1 WLR 471 指引其良好品格对可信度（Credibility）与不易犯罪倾向（Propensity）的双重支持作用〔CR10 L415–L440；OLD-EX3AP L1095–L1110〕；
 4. **辩护大律师严重不称职（Flagrant Incompetence of Counsel）**：
+ - **对账补充（EX01 C 组）**：门槛以 *HKSAR v Ho Chung Wah* 为准，单纯判断失误或事后看来可另作选择的战术决定都不够〔R21 L174 "Not just a mere error of judgment or a tactical decision"〕；往届各卷的定级与写法见 EX01 §3。
  - **权威判例：*R v Ensor* [1989] 1 WLR 497, *Sankar v State of Trinidad and Tobago* [1995] 1 WLR 194, *R v Clinton* [1993] 1 WLR 1181**：上诉人若以原审代理大律师表现拙劣为由上诉，面临极高的证明门槛。普通法严格推定大律师的诉讼决策属于专业裁量权。
  然而，若辩方大律师在审讯中的作为或不作为达到了**“公然严重不称职（Flagrant incompetence）”**的程度——即任何具有合理执业技能的大律师在相同情况下均绝对不可能做出的荒谬失误（例如完全不与被告人核实指示、遗漏最关键的致命不在场证人、或者强迫被告人放弃出庭作证），且该失误直接导致被告人丧失了本可成立的抗辩机会，上诉法庭将判定构成重大程序不公并撤销定罪〔OLD-EX3AP L1256–L1265〕。
 
@@ -702,6 +706,7 @@ flowchart TD
 2. **上诉失败者的控方讼费负担**：若上诉人的上诉申请被法庭认定显属滥诉、或在单一法官驳回后执意无理 Renew，上诉法庭依据 CCCO s.16 享有全权下令该上诉人向律政司支付惩罚性检控诉讼费用；若大律师或事务律师违规代理，直接承担个人 Wasted Costs Order〔OLD-LG99C L389；OLD-EXA L112〕。
 
 ==**【SG07＋SG08录音补充｜2026-11-11／11-18】** 教授补的讼费细节：① **21 日死线**——对讼费命令上诉自**判刑日**起算 21 日（不是定罪日），文件是 Form XI＋notice of motion（两份分开的文件，notice of motion 载 grounds）；② **控方只能收回成本不能盈利**——*HKSAR v Chan Kwok Wah* [1999] 1 HKC 697 定上限为合理实际支出；③ **无罪被告不当然获讼费**——*HKSAR v Wai Sau Cheong* [2003] HKCFI 96：法庭可因被告自招嫌疑而拒给；④ **leave 机制的存在理由**是挡掉无胜算申请、节省法庭时间，Form XI 后还须主动推进排期〔SG7REC L570–578；SG8REC L562–594〕。==
+- **对账（与 EX01 H 组）**：*Wai Sau Cheong* 在本届讲评中还用于"判讼费前须考虑被告的支付能力"〔L12N L116 "the TJ should have considered whether the defendant had the financial means"〕；被定罪被告的讼费只在例外情况下才判〔R22 L169 "Costs should only be awarded against a convicted D under s. 12 CCCO, in exceptional circumstances."〕。两项命题并存，按所论之点引用。
 
 > **Exam / Advocacy / Drafting Formulation:**
 > "Application for Bail Pending Appeal under s.83R CPO / s.119 MO: Counsel submits that this is one of those truly exceptional cases where bail pending appeal should be granted under the principles laid down by the CFA in *Kissel v HKSAR*. Firstly, the appeal possesses substantial merits and a high probability of success, as demonstrated by the fundamental misdirection of law committed by the trial magistrate in reversing the statutory burden of proof. Secondly, there is an imminent and substantial risk that, given the short sentence of 5 weeks' imprisonment, the Appellant will have served the entirety of his sentence before the appeal can be listed for hearing before the CFI. In the absence of bail, any ultimate success on appeal would be rendered completely nugatory and illusory. Stringent conditions, including substantial cash surety and surrender of travel documents, are offered to eliminate any flight risk."

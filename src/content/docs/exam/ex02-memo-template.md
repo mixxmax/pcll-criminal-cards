@@ -14,7 +14,7 @@ updated: "2026-11-22"
 
 # EX02 考试文书模板：致监督合伙人的上诉意见备忘录（Memo to Supervising Partner）
 
-> **本卡承担什么**：Q2 备忘录的结构、每条理由的段落模式、定级措辞、Part 2 必写清单、教授与讲评的写作口径、自检清单，以及一份英文骨架。理由从哪里找、属于哪一格见 EX01 上诉理由穷举矩阵。
+> **本卡承担什么**：Q2 备忘录的结构、每条理由的段落模式、定级措辞、Part 2 必写清单、教授与讲评的写作口径、自检清单，以及一份带插口的可插拔模板（§0G）。理由从哪里找、属于哪一格见 EX01 上诉理由穷举矩阵。
 > **与 D07 的关系**：D07 Memorandum to Partner 是既有的文书卡；本卡专门服务考试作答，依据限于本届讲评与讲义。两卡内容如有冲突，以本卡所引的本届讲评为准，并在 open 块登记。
 
 
@@ -144,7 +144,7 @@ flowchart LR
 
 > 〔L12 L104 "The TJ has misapplied the doctrine of recent possession."〕原文：*"The TJ has misapplied the doctrine of recent possession. Whilst the doctrine allows the judge to reject the implausible evidence of a defendant found in possession of stolen goods it does not shift the burden onto the defendant to prove his innocence: Chan Ying Kit v. R CACC 121/1980. In her reasons for verdict the TJ stated that as the client could not prove he was returning the stolen goods to the police the doctrine of recent possession alone was enough to convict him. This is a strong ground of appeal."*
 
-拆解：第一句点出错误；第二句原则＋判例；第三句引裁决理由原话作适用；第四句定级。
+拆解：第一句点出错误；第二句原则＋判例；第三句引裁决理由原话作适用；第四句定级。这与 EX01 §1 前的通用 IRAC 插槽（I 点出错误 → R 规则 → A 事实与影响 → C 归类与定级）及本卡 §0G 插口规格是同一顺序。
 
 ## 0D. 定级措辞与依据
 
@@ -170,8 +170,8 @@ flowchart LR
 | 法院与条文 | 区院／原讼庭 → CA：ss.82、83、83G、83I CPO；裁判法院 → CFI：s.113 MO | 〔📄R24D Slide 17〕〔R21 L235 "D should appeal against his convictions and sentences under s. 113 MO to the CFI"〕 |
 | 是否需要许可 | 混合事实与法律、量刑：需要 | 〔📄R24S Slide 12〕 |
 | 表格 | Form XI；裁判法院 Forms 101／102 | 〔R22 L176 "He needs leave to appeal, must file Form XI"〕 |
-| 期限与计算 | 28 日（s.83Q）或 14 日；翌日为第 1 日；写出具体日期；遇公众假期顺延 | 〔📄R24S Slide 12〕〔R22 L176 "Time starts to run on the next day."〕 |
-| 讼费上诉 | s.19 CCCO，Notice of Motion，21 日 | 〔📄R24D Slide 17〕 |
+| 期限与计算 | 上诉庭 28 日（s.83Q）翌日起算；裁判法院 14 日（s.114 MO）定罪当日起算；写出具体日期；遇公众假期顺延 | 〔📄R24S Slide 12〕〔R22 L176 "Time starts to run on the next day."〕〔R21 L235 "Time starts to run on December 10th so the deadline is December 23rd."〕 |
+| 讼费上诉 | s.19 CCCO，Form XI 加 notice of motion（载理由），21 日，自判刑翌日起算 | 〔📄R24D Slide 17〕〔SG8T L566 "the assessment of the notice of motion and form 11 application for leave of appeal."〕 |
 | 保释等候上诉 | 向哪个法院、条文、Lau Man Kin 测试 | 〔📄R24D Slide 17〕〔R21S L143 "D should apply for bail pending appeal"〕 |
 | 新证据 | s.83V CPO／s.118(1)(b) MO | 〔R21 L236 "D may also wish to apply to admit fresh evidence on appeal"〕 |
 | 誊本、客户指示 | 偏见、干预类理由要取誊本；先确认客户指示 | 〔📄R24D Slide 9〕〔📄R1419 Slide 13〕 |
@@ -288,11 +288,13 @@ PART 2
 because the grounds involve mixed questions of law and fact; the
 application is made on Form XI / No leave is required; Forms 101 and
 102.] The notice must be filed within [28 / 14] days of [conviction /
-sentence] under [s. 83Q CPO / s. 113 MO]; time runs from the following
-day, so the last day is [date] [extended to [date] because [date] is a
+sentence] under [s. 83Q CPO / s. 114 MO]. [Court of Appeal: time runs
+from the day after conviction / sentence. Magistracy appeal: time runs
+from the date of conviction itself.] The last day is therefore [date] [extended to [date] because [date] is a
 public holiday]. The costs order should be appealed under s. 19 CCCO
-by Notice of Motion to the Court of Appeal within 21 days, i.e. by
-[date]. Any application for bail pending appeal should be made to [the
+by Form XI together with a notice of motion setting out the grounds,
+within 21 days of sentence (time running from the following day),
+i.e. by [date]. Any application for bail pending appeal should be made to [the
 Court of Appeal under ss. 83R and 83Z CPO / the Magistrate or the CFI
 Judge].
 
@@ -356,4 +358,5 @@ Judge].
 | R21、R21S、R22 | 全部幻灯片 | 评分、技巧、口径 |
 | R24D、R24S、R20、R23、R1419 | 笔试部分 | 评分、定级、程序 |
 | SG8T | 检索相关段落 | 教授口径 |
+| T1419、T21、T23、T24D（讲评录音转写） | 笔试部分全文 | §0I 录音补充口径 |
 | P21、P21S、P22、P23、MEL | 题面任务句 | 文书类型 |

@@ -144,6 +144,10 @@ SG课表安排:
 
 
 > | CR10 | LGS10 Notes（本届） | 本届讲义 | 2026-27 |
+> | R20 | 2020 RPE and Written Exam Slides.pptx | 本届官方 | 2026-27 |
+> | R22 | LGS14 2022 主考讲评（文字伴生） | 本届官方 | 2026-27 |
+> | L8N | crim.pro.LGS.EIGHT.2026（本届量刑讲义 md） | 本届讲义 | 2026-27 |
+> | L12N | LGS 12 Notes 2026 | 本届讲义 | 2026-27 |
 <!-- END:cite-legend -->
 
 ## 🗺️ 本卡地图（章节位置与阅读顺序，2026-10-10）
@@ -707,6 +711,7 @@ flowchart TD
 - **CFA**：CCCO 不及 CFA；CFA 讼费由 s.43 HKCFAO 管，但 CCCO 一般原则仍适用（*Egan*）〔OLD-LG99 L31–L33 "CCCO does not apply to the Court of Final Appeal"·往届仅参考〕。
 - **流产审讯**：陪审团解散的 aborted trial 不属“is not tried for the offence”（s.4）——该阶段无讼费管辖（*Chen Keen*，CA 撤销、CFA 维持）〔OLD-LG99 L39–L42 "An aborted trial (jury discharge) does not fall within"·往届仅参考〕。
 - **s.15 总原则**：讼费随事件结果（无罪释放被告得费）；非惩罚而属补偿（indemnity principle）；须在支付能力之内〔OLD-LG99 L47–L50 "Costs follow the event (costs to D on acquittal)"·往届仅参考〕。
+- **⚠️ 对账（与 EX01 H 组）**：上句"讼费随事件结果"指无罪被告可获讼费；被定罪被告的讼费**不随结果**，只在例外情况下才判（招致怀疑、拖延程序、完全无理的辩护），应为补偿而非惩罚，并须考虑支付能力〔R22 L169 "Costs should only be awarded against a convicted D under s. 12 CCCO, in exceptional circumstances."〕〔R22 L171 "Costs under the CCCO should not be punitive but compensatory in nature"〕〔L12N L116 "the TJ should have considered whether the defendant had the financial means"〕。
 
 ### 0K.2 辩方讼费（无罪／部分无罪）
 
@@ -927,6 +932,8 @@ SG08 围绕判后救济展开，涉及 Jeff Sham（MC→CFI 定罪与刑期上�
 | 青年监禁 | s109A对适用的年轻被告要求检查有无合适替代处置，不是绝对不可监禁。 | 〔CR8 L766 "- S. 109A basically provides that no young person should be sent to prison"〕 |
 | positive good character | 积极良好品格与仅无前科不同，不相关善行的减轻价值须具体分析。 | 〔CR8 L946 "- ‘Positive’ Good Character – this is where the Defendant has a clear record"〕 |
 | clear record | 讲义把单纯clear record通常作为中性因素，不能保证额外减刑。 | 〔CR8 L1072 "- A Clear Record is not a mitigating factor: it is merely neutral: HKSAR"〕 |
+| youth | 年龄一般不是减轻因素，除非极年轻或极年老；20 岁左右的被告应改在 s.109A 下论证（对账补充，见 EX01 G1、G6） | 〔L8N L1079 "Youth / old age unless exceptionally young / old"〕〔📄R20 Slide 17〕 |
+| 爆窃起点 | 住宅爆窃通常判即时监禁，起点约 3 年；商业爆窃约 2.5 年（对账补充，见 EX01 G4） | 〔📄R20 Slide 11〕〔L12N L112 "The usual tariff for commercial burglary is 2.5 years imprisonment."〕 |
 | 认罪通常减幅 | 首个可用机会认罪通常获1/3减幅，是通常高位而非量刑starting point；其后按程序阶段递减，仍有司法裁量 | 〔CR8 L978 "a 1/3 discount on any term of imprisonment"；CR8 L620 "high watermark"〕 |
 | 时间节点 | Ngo Van Nam原则强调认罪时间及程序进展，不能只看首次出庭日期。 | 〔CR8 L978–L990 "- a 1/3 discount on any term of imprisonment will only be given if"〕 |
 | 重犯 | 既往处罚未阻止再犯可影响起点，但须具体说明关联，不把任何旧定罪一概同等处理。 | 〔CR8 L1116 "- Persistent re-offending in the same or similar offences – an offender should not"〕 |
