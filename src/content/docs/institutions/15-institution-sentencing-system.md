@@ -270,7 +270,7 @@ flowchart LR
 
 **两条 TIP（讲堂口径）**：① 必核控方提供的刑事记录——**不要凭客户记忆**（客户常忘、常少报），并核他是否在 PO／CSO／缓刑的 operational period 内犯本案（→0H 违反处理）；② 核定罪对执业的影响（医生、护士、教师、保安等——查明相关条例对继续执业的影响）〔CR8 L1343 "clients frequently forget or underestimate"；CR8 L1345 "will he be prevented from continuing his employment"〕。
 
-==**【SG07录音补充｜2026-11-11】** 教授在 Mansari 量刑上诉题点破的"in HK"细节：s.65C 承认事实的锁定效力以**香港**为界——承认书写"no previous conviction in Hong Kong"不等于承认全球无前科；客户惯于夸大境外前科换取求情空间，辩方职责是**要求控方以刑事记录证明书核实**，境外记录无法证明时不写入承认事实。配套红线：已签的 s.65C 事实在上诉中**不得重开**（conclusive），所以签前必须逐字核——上诉时"当时事实签错了"救不回来〔SG7REC L562 "depends if it says a clear record in Hong Kong or not"〕。
+==**【SG07录音补充｜2026-11-11】** 教授在 Mansari 量刑上诉题点破的"in HK"细节：s.65C 承认事实的锁定效力以**香港**为界——承认书写"no previous conviction in Hong Kong"不等于承认全球无前科；客户惯于夸大境外前科换取求情空间，辩方职责是**要求控方以刑事记录证明书核实**，境外记录无法证明时不写入承认事实。配套红线：已签的 s.65C 事实在上诉中**不得重开**（conclusive），所以签前必须逐字核——上诉时"当时事实签错了"救不回来〔SG7REC L562 "depends if it says if it's a clear record in Hong Kong or not"〕。
 
 **认罪与 `Brief Facts` 的衔接（Newton Hearing 接口）**：被告当庭认罪仅代表承认控罪的法定构成要件；随后控方宣读《简短案情（`Brief Facts`）》要求被告确认。若被告承认罪名，但拒绝承认 `Brief Facts` 中直接影响量刑起点的关键加重情节（且控辩无法协商删改），法官为查明量刑事实基础，才须召开不设陪审团的 `Newton Hearing` 听取证人作供——程序本体见 13 卡，本卡只收其对量刑前提的影响。
 
