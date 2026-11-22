@@ -645,6 +645,14 @@ export default defineConfig({
 						{ label: 'D07 · Memorandum to Partner 备忘录', slug: 'documents/07-memorandum-to-partner' },
 					],
 				},
+				{
+					label: '🎯 考试答题引擎 (Exam Q2)',
+					items: [
+						{ label: 'EX · 考试答题引擎层总览', slug: 'exam' },
+						{ label: 'EX01 · 上诉理由穷举矩阵', slug: 'exam/ex01-appeal-grounds-matrix' },
+						{ label: 'EX02 · 备忘录考试模板', slug: 'exam/ex02-memo-template' },
+					],
+				},
 			],
 		}),
 	],

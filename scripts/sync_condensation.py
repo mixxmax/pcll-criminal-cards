@@ -59,6 +59,9 @@ MAP = {
     '02 Documents/05 Document - Notice of Objection to Confession.md': ('documents/05-notice-of-objection.md', 'D05 · Notice of Objection 供认反对通知书', '教授对供认可采性反对通知书的全部起草口径：结论先行、逐句定性、PIA/自愿性/剩余裁量构件。'),
     '02 Documents/06 Document - Appeal Letter to Client.md': ('documents/06-appeal-letter-to-client.md', 'D06 · Appeal Letter to Client 上诉前景信', '教授对判后客户上诉建议信的全部起草口径：reasonable grounds 门槛、强弱评级、刑期现实与保释操作。'),
     '02 Documents/07 Document - Memorandum to Partner.md': ('documents/07-memorandum-to-partner.md', 'D07 · Memorandum to Partner 内部上诉备忘录', '教授对判后内部备忘录的全部起草口径：理由评级、表格死线、归属判断与建议纪律。'),
+    '03 Question2/README.md': ('exam/index.md', 'EX · 考试答题引擎层总览', '按考试题型组织的答题引擎层：EX01 上诉理由穷举矩阵与 EX02 备忘录模板的定位、分工与上下游。'),
+    '03 Question2/EX01 Appeal Grounds - Exhaustive Matrix.md': ('exam/ex01-appeal-grounds-matrix.md', 'EX01 · 上诉理由穷举矩阵', 'Q2 上诉理由的三层穷举：环节→事实类型→错误方式，每格附往届实例与定级、保护行动、程序步骤与逐卷覆盖表。'),
+    '03 Question2/EX02 Exam Document - Memo to Supervising Partner.md': ('exam/ex02-memo-template.md', 'EX02 · 致监督合伙人备忘录模板', 'Q2 备忘录考试模板：结构、段落模式、定级措辞、Part 2 清单、应当与不应当、英文骨架与自检清单。'),
 }
 
 
